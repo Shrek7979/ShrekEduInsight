@@ -108,7 +108,6 @@ function Thumbnail({ item, title, eager }: { item: FeedItem; title: string; eage
             className="relative h-full w-full object-contain"
             // 첫 화면의 그림은 바로, 나머지는 넘겨 볼 때 불러옴
             loading={eager ? 'eager' : 'lazy'}
-            fetchPriority={eager ? 'high' : 'auto'}
             referrerPolicy="no-referrer"
             onError={() => setIndex((i) => i + 1)}
             // 아이콘만 한 작은 그림은 크게 늘리면 뭉개짐 → 다음 후보로
