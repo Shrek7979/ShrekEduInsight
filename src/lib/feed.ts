@@ -20,6 +20,9 @@ export type FeedItem = {
   thumb?: string | null
   titleKo?: string
   summaryKo?: string
+  // 과목 사이트가 이 사이트용으로 따로 모아 두는 긴 설명 (2~3줄, 최대 140자). 없으면 한 줄 설명을 씀
+  detail?: string
+  detailKo?: string
   translator?: 'claude' | 'google' | 'mymemory'
   // 날짜가 의미 없는 고정 카드 (인스타·페이스북 바로가기 등)
   evergreen?: boolean
