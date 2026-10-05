@@ -55,7 +55,7 @@ export type DayStat = { day: string; label: string; visitors: number; views: num
 export type Stats = { totalVisitors: number; totalViews: number; days: DayStat[] }
 
 // 최근 며칠 치
-export async function readStats(dayCount = 14): Promise<Stats> {
+export async function readStats(dayCount = 7): Promise<Stats> {
   const now = Date.now()
   const days = Array.from({ length: dayCount }, (_, i) => kstDay(now - (dayCount - 1 - i) * 86400_000))
   const [totalVisitors, totalViews, ...counts] = await getAll([

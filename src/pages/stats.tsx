@@ -15,7 +15,7 @@ function Tile({ label, value }: { label: string; value: number | null }) {
   )
 }
 
-// 최근 14일 방문자: 막대 하나에 하루. 막대에 손가락·마우스를 대면 그날 숫자가 뜸
+// 최근 7일 방문자: 막대 하나에 하루. 막대에 손가락·마우스를 대면 그날 숫자가 뜸
 function VisitorChart({ days }: { days: Stats['days'] }) {
   const [hover, setHover] = useState<number | null>(null)
   const max = Math.max(1, ...days.map((d) => d.visitors))
@@ -23,7 +23,7 @@ function VisitorChart({ days }: { days: Stats['days'] }) {
   return (
     <figure className="rounded-2xl bg-white/[0.05] p-4">
       <figcaption className="flex items-baseline justify-between">
-        <span className="text-[15px] font-bold">최근 14일 방문자</span>
+        <span className="text-[15px] font-bold">최근 7일 방문자</span>
         <span className="text-[13px] text-white/60">
           {days[shown].label} · <b className="text-white">{days[shown].visitors.toLocaleString('ko-KR')}명</b>
         </span>
