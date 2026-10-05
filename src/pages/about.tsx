@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import Link from 'next/link'
 import SiteMeta from '@/components/SiteMeta'
-import { CONTACT, SITE_NAME, SUBJECTS, TAGLINE, editionLabel, timeAgo } from '@/lib/feed'
+import { CONTACT, GOATCOUNTER, SITE_NAME, SUBJECTS, TAGLINE, editionLabel, timeAgo } from '@/lib/feed'
 import { SubjectStatus, fetchStatus, siteUrl } from '@/lib/sources'
 
 // 과목 사이트가 이 시간보다 오래 업데이트되지 않았으면 '지연'으로 표시
@@ -109,7 +109,14 @@ export default function AboutPage() {
           <Section id="privacy" title="개인정보">
             <ul className="list-disc space-y-2 pl-5">
               <li>회원가입·로그인이 없고, 이름이나 연락처 같은 개인정보를 받지 않습니다.</li>
-              <li>방문 기록을 추적하는 쿠키나 광고·통계 도구를 쓰지 않습니다.</li>
+              {GOATCOUNTER ? (
+                <li>
+                  방문자 수를 세기 위해 쿠키를 쓰지 않는 통계 도구(GoatCounter)로 어떤 페이지를 몇 번 열었는지만 셉니다. IP 주소 등 개인을
+                  알아볼 수 있는 정보는 저장하지 않으며, 광고·추적 도구는 쓰지 않습니다.
+                </li>
+              ) : (
+                <li>방문 기록을 추적하는 쿠키나 광고·통계 도구를 쓰지 않습니다.</li>
+              )}
               <li>저장한 카드, 읽은 카드, 마지막으로 고른 보기는 이 기기의 브라우저에만 저장되며 어디에도 전송되지 않습니다.</li>
               <li>섬네일 그림은 원래 사이트에서 직접 불러오므로, 그 사이트에 일반적인 접속 기록이 남을 수 있습니다.</li>
             </ul>
