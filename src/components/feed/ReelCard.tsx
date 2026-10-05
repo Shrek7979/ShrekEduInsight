@@ -88,7 +88,7 @@ function TitleThumb({ item, title }: { item: FeedItem; title: string }) {
 
 // 섬네일: 카드 위쪽 42% 를 차지
 // 과목 사이트의 섬네일 → 원문 기사 이미지 → 제목 글자 섬네일 순서로 대체
-function Thumbnail({ item, title }: { item: FeedItem; title: string }) {
+function Thumbnail({ item, title, eager }: { item: FeedItem; title: string; eager?: boolean }) {
   const sources = [item.thumb, item.image].filter(Boolean) as string[]
   const [index, setIndex] = useState(0)
   const hasImage = index < sources.length
@@ -99,14 +99,16 @@ function Thumbnail({ item, title }: { item: FeedItem; title: string }) {
       {hasImage ? (
         <>
           {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src={sources[index]} alt="" aria-hidden className="absolute inset-0 h-full w-full scale-125 object-cover opacity-40 blur-2xl" referrerPolicy="no-referrer" loading="lazy" />
+          <img src={sources[index]} alt="" aria-hidden className="absolute inset-0 h-full w-full scale-125 object-cover opacity-40 blur-2xl" referrerPolicy="no-referrer" loading={eager ? 'eager' : 'lazy'} />
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
             key={sources[index]}
             src={sources[index]}
             alt=""
             className="relative h-full w-full object-contain"
-            loading="lazy"
+            // 첫 화면의 그림은 바로, 나머지는 넘겨 볼 때 불러옴
+            loading={eager ? 'eager' : 'lazy'}
+            fetchPriority={eager ? 'high' : 'auto'}
             referrerPolicy="no-referrer"
             onError={() => setIndex((i) => i + 1)}
             // 아이콘만 한 작은 그림은 크게 늘리면 뭉개짐 → 다음 후보로
@@ -134,9 +136,10 @@ type NewsCardProps = {
   saved: boolean
   onSave: () => void
   onShare: () => void
+  eager?: boolean
 }
 
-export function NewsCard({ item, isNew, saved, onSave, onShare }: NewsCardProps) {
+export function NewsCard({ item, isNew, saved, onSave, onShare, eager }: NewsCardProps) {
   const isVideo = item.kind === 'video'
   const translated = item.lang === 'en' && item.titleKo
   const title = translated ? item.titleKo! : item.title
@@ -152,7 +155,7 @@ export function NewsCard({ item, isNew, saved, onSave, onShare }: NewsCardProps)
 
   return (
     <CardShell>
-      <Thumbnail item={item} title={title} />
+      <Thumbnail item={item} title={title} eager={eager} />
 
       <div className="flex min-h-0 flex-1 flex-col px-5 pb-4 pt-3">
         <MetaLine subject={item.subject} details={details} isNew={isNew} />

@@ -596,10 +596,11 @@ export default function ReelsPage({ initial, dayIndex }: Props) {
                 onScroll={onScroll}
                 className="no-scrollbar min-h-0 flex-1 snap-y snap-mandatory overflow-y-auto overscroll-contain"
               >
-                {cards.map((card) =>
+                {cards.map((card, i) =>
                   card.item ? (
                     <NewsCard
                       key={card.key}
+                      eager={i < 2}
                       item={card.item}
                       isNew={isNew(card.item)}
                       saved={saved.ids.has(card.key)}
