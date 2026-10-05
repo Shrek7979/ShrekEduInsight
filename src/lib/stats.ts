@@ -8,13 +8,30 @@ const kstDay = (time: number) => new Date(time + 9 * 3600_000).toISOString().sli
 
 const hit = (key: string) => fetch(`${API}/hit/${NS}/${key}`).catch(() => {})
 
+const sleep = (ms: number) => new Promise((resolve) => setTimeout(resolve, ms))
+
+// 카운터 서버는 10초에 30번까지만 받음 → 넘치면(429) 잠시 기다렸다 다시
 async function get(key: string): Promise<number> {
-  try {
-    const res = await fetch(`${API}/get/${NS}/${key}`, { cache: 'no-store' })
-    return res.ok ? (await res.json()).value ?? 0 : 0 // 아직 한 번도 안 센 날은 404 → 0
-  } catch {
-    return 0
+  for (let attempt = 0; attempt < 4; attempt++) {
+    try {
+      const res = await fetch(`${API}/get/${NS}/${key}`, { cache: 'no-store' })
+      if (res.status === 429) {
+        await sleep(3000)
+        continue
+      }
+      return res.ok ? (await res.json()).value ?? 0 : 0 // 아직 한 번도 안 센 날은 404 → 0
+    } catch {
+      await sleep(1000)
+    }
   }
+  throw new Error('통계를 불러오지 못했어요')
+}
+
+// 한꺼번에 보내지 않고 몇 개씩 나눠서
+async function getAll(keys: string[], batch = 6) {
+  const values: number[] = []
+  for (let i = 0; i < keys.length; i += batch) values.push(...(await Promise.all(keys.slice(i, i + batch).map(get))))
+  return values
 }
 
 export function recordVisit() {
@@ -37,14 +54,14 @@ export function recordVisit() {
 export type DayStat = { day: string; label: string; visitors: number; views: number }
 export type Stats = { totalVisitors: number; totalViews: number; days: DayStat[] }
 
-// 최근 며칠 치 (카운터 서버는 10초에 30번까지만 받으므로 14일이면 30번 이내)
+// 최근 며칠 치
 export async function readStats(dayCount = 14): Promise<Stats> {
   const now = Date.now()
   const days = Array.from({ length: dayCount }, (_, i) => kstDay(now - (dayCount - 1 - i) * 86400_000))
-  const [totalVisitors, totalViews, ...counts] = await Promise.all([
-    get('visitors-total'),
-    get('views-total'),
-    ...days.flatMap((day) => [get(`visitors-${day}`), get(`views-${day}`)]),
+  const [totalVisitors, totalViews, ...counts] = await getAll([
+    'visitors-total',
+    'views-total',
+    ...days.flatMap((day) => [`visitors-${day}`, `views-${day}`]),
   ])
   return {
     totalVisitors,
