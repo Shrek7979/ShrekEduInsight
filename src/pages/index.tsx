@@ -10,6 +10,7 @@ import {
   FeedItem,
   LEVELS,
   SITE_NAME,
+  SUBJECT,
   SUBJECTS,
   SubjectKey,
   TAGLINE,
@@ -22,6 +23,7 @@ import {
   useStoredSet,
 } from '@/lib/feed'
 import { Combined, combine, fetchAll } from '@/lib/sources'
+import { ArrowIcon, MenuIcon, PauseIcon, PlayIcon, SearchIcon } from '@/components/icons'
 
 type Props = { initial: Combined; dayIndex: number }
 type Card = { key: string; item?: FeedItem; topic?: Topic }
@@ -345,6 +347,22 @@ export default function ReelsPage({ initial, dayIndex }: Props) {
   }
 
   const fullscreen = immersive && view === 'reels'
+
+  // 고른 칩이 화면 밖에 있으면 가운데로 끌어옴 (PC 왼쪽 패널에서 과목을 골랐을 때 등)
+  const chipsRef = useRef<HTMLElement>(null)
+  useEffect(() => {
+    const nav = chipsRef.current
+    const chip = nav?.querySelector<HTMLElement>('[data-on]')
+    if (nav && chip) nav.scrollTo({ left: chip.offsetLeft - nav.clientWidth / 2 + chip.clientWidth / 2 })
+  }, [category])
+  const activeCard = cards[active]
+  const glowSubject = view === 'reels' ? activeCard?.item?.subject ?? activeCard?.topic?.subject : subjectFilter
+  const recentCounts = useMemo(() => {
+    const counts = { math: 0, phys: 0, chem: 0, bio: 0 } as Record<SubjectKey, number>
+    if (!now) return counts
+    for (const item of feed.items) if (now - new Date(item.collectedAt).getTime() < 24 * 3600_000) counts[item.subject]++
+    return counts
+  }, [feed.items, now])
   const unreadCount = feed.items.filter((item) => !read.ids.has(item.id)).length
   const edition = feed.updatedAt ? editionLabel(feed.updatedAt) : '아직 수집 전'
 
@@ -352,21 +370,38 @@ export default function ReelsPage({ initial, dayIndex }: Props) {
     <>
       <SiteMeta />
 
-      <div className="fixed inset-0 flex flex-col bg-neutral-950 text-white [padding-top:env(safe-area-inset-top)]">
-        <header className={`mx-auto w-full max-w-2xl shrink-0 px-4 pt-2 ${fullscreen ? 'hidden' : ''}`}>
+      <div className="fixed inset-0 flex flex-col overflow-hidden bg-[#08090b] text-white [padding-top:env(safe-area-inset-top)]">
+        {/* 배경: 지금 보는 카드의 과목 색이 은은하게 번짐 */}
+        {SUBJECTS.map((s) => (
+          <div
+            key={s.key}
+            aria-hidden
+            className="pointer-events-none absolute inset-0 transition-opacity duration-700"
+            style={{
+              opacity: glowSubject === s.key ? 1 : 0,
+              background: `radial-gradient(60% 40% at 50% 0%, ${s.color}24, transparent 70%), radial-gradient(45% 35% at 50% 100%, ${s.color}14, transparent 70%)`,
+            }}
+          />
+        ))}
+
+        <header className={`relative z-10 mx-auto w-full max-w-2xl shrink-0 px-4 pt-2.5 ${fullscreen ? 'hidden' : ''}`}>
           <div className="flex items-center gap-2">
-            <h1 className="min-w-0 flex-1 truncate text-[17px] font-extrabold leading-tight">
-              <button onClick={goHome} aria-label="처음 화면으로" className="max-w-full truncate text-left">
-                <span className="text-emerald-400">Shrek</span> Edu <span className="text-amber-300">Insight</span>
+            <h1 className="min-w-0 flex-1">
+              <button onClick={goHome} aria-label="처음 화면으로" className="flex max-w-full items-center gap-2 text-left">
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img src={`${router.basePath}/icon-180.png`} alt="" className="h-8 w-8 shrink-0 rounded-full object-cover ring-1 ring-white/20" />
+                <span className="truncate text-[16.5px] font-extrabold tracking-[-0.02em]">
+                  <span className="text-emerald-400">Shrek</span> Edu <span className="text-amber-300">Insight</span>
+                </span>
               </button>
             </h1>
-            <div className="flex rounded-full bg-white/10 p-0.5 text-[13px] font-bold">
+            <div className="flex rounded-full border border-white/10 bg-white/[0.05] p-0.5 text-[13px] font-bold">
               {(['reels', 'briefing'] as const).map((v) => (
                 <button
                   key={v}
                   onClick={() => switchView(v)}
-                  className={`min-h-[36px] rounded-full px-3 transition ${
-                    view === v ? 'bg-white text-neutral-900' : 'text-white/70'
+                  className={`min-h-[34px] rounded-full px-3 transition ${
+                    view === v ? 'bg-white text-neutral-900 shadow-sm' : 'text-white/60 hover:text-white'
                   }`}
                 >
                   {v === 'reels' ? '릴스' : '한눈에'}
@@ -377,38 +412,44 @@ export default function ReelsPage({ initial, dayIndex }: Props) {
               onClick={() => setSearchOpen((open) => !open)}
               aria-label="검색·학교급"
               aria-pressed={searchOpen}
-              className={`min-h-[36px] rounded-full px-3 text-[13px] font-bold ${
-                searchOpen || keyword || level ? 'bg-white text-neutral-900' : 'bg-white/10 hover:bg-white/20'
+              title="검색·학교급"
+              className={`flex h-[38px] w-[38px] shrink-0 items-center justify-center rounded-full border transition ${
+                searchOpen || keyword || level
+                  ? 'border-white bg-white text-neutral-900'
+                  : 'border-white/10 bg-white/[0.05] text-white/80 hover:bg-white/[0.12]'
               }`}
             >
-              검색
+              <SearchIcon className="h-[18px] w-[18px]" />
             </button>
           </div>
-          <div className="mt-0.5 flex items-center gap-2">
-            <button onClick={goHome} className="min-w-0 flex-1 truncate text-left text-[14px] font-bold text-white/85">
+          <div className="mt-1.5 flex items-center gap-2">
+            <button onClick={goHome} className="min-w-0 flex-1 truncate text-left text-[14px] font-bold tracking-[-0.01em] text-white/80">
               {TAGLINE}
             </button>
-            <Link href="/about/" className="shrink-0 text-[12px] font-bold text-white/50 underline-offset-2 hover:text-white hover:underline">
+            <Link href="/about/" className="shrink-0 text-[12px] font-semibold text-white/45 underline-offset-4 hover:text-white hover:underline">
               소개
             </Link>
           </div>
 
           {searchOpen && (
             <div className="mt-2 flex items-center gap-1.5">
-              <input
-                value={query}
-                onChange={(e) => setQuery(e.target.value)}
-                placeholder="제목·출처 검색"
-                aria-label="검색어"
-                className="min-h-[36px] min-w-0 flex-1 rounded-full bg-white/10 px-4 text-[14px] text-white placeholder-white/40 outline-none focus:bg-white/15"
-              />
+              <label className="flex min-h-[38px] min-w-0 flex-1 items-center gap-2 rounded-full border border-white/10 bg-white/[0.05] px-3.5 focus-within:border-white/25">
+                <SearchIcon className="h-4 w-4 shrink-0 text-white/45" />
+                <input
+                  value={query}
+                  onChange={(e) => setQuery(e.target.value)}
+                  placeholder="제목·출처 검색"
+                  aria-label="검색어"
+                  className="min-w-0 flex-1 bg-transparent text-[14px] text-white placeholder-white/35 outline-none"
+                />
+              </label>
               {['', ...LEVELS].map((l) => (
                 <button
                   key={l}
                   onClick={() => selectLevel(l)}
                   aria-pressed={level === l}
-                  className={`min-h-[36px] shrink-0 rounded-full px-2.5 text-[13px] font-bold ${
-                    level === l ? 'bg-white text-neutral-900' : 'bg-white/10 text-white/70 hover:bg-white/20'
+                  className={`min-h-[38px] shrink-0 rounded-full border px-2.5 text-[13px] font-bold transition ${
+                    level === l ? 'border-white bg-white text-neutral-900' : 'border-white/10 bg-white/[0.04] text-white/65 hover:bg-white/[0.1]'
                   }`}
                 >
                   {l || '모두'}
@@ -417,22 +458,75 @@ export default function ReelsPage({ initial, dayIndex }: Props) {
             </div>
           )}
 
-          <nav className="no-scrollbar -mx-4 mt-2 flex gap-1.5 overflow-x-auto px-4 pb-2">
-            {categories.map((c) => (
-              <button
-                key={c}
-                onClick={() => selectCategory(c)}
-                className={`min-h-[34px] shrink-0 rounded-full px-3.5 text-[13px] font-bold transition ${
-                  category === c && !keyword ? 'bg-white text-neutral-900' : 'bg-white/10 text-white/80 hover:bg-white/20'
-                }`}
-              >
-                {c}
-              </button>
-            ))}
+          <nav ref={chipsRef} className="no-scrollbar -mx-4 mt-2.5 flex gap-1.5 overflow-x-auto scroll-smooth px-4 pb-2.5">
+            {categories.map((c) => {
+              const dot = SUBJECT_BY_NAME[c] && SUBJECT[SUBJECT_BY_NAME[c]].color
+              const on = category === c && !keyword
+              return (
+                <button
+                  key={c}
+                  onClick={() => selectCategory(c)}
+                  data-on={on || undefined}
+                  className={`flex min-h-[34px] shrink-0 items-center gap-1.5 rounded-full border px-3.5 text-[13px] font-bold transition ${
+                    on ? 'border-white bg-white text-neutral-900' : 'border-white/10 bg-white/[0.04] text-white/70 hover:border-white/20 hover:text-white'
+                  }`}
+                >
+                  {dot && <span className="h-1.5 w-1.5 rounded-full" style={{ background: dot }} />}
+                  {c}
+                </button>
+              )
+            })}
           </nav>
         </header>
 
-        <main className="relative min-h-0 flex-1">
+        <main className="relative z-0 min-h-0 flex-1">
+          {/* 넓은 PC 화면: 왼쪽 빈자리에 과목별 소식 수 · 오늘의 주제 · 링크 */}
+          {view === 'reels' && (
+            <aside className="absolute bottom-6 left-[max(1.5rem,calc(50%-560px))] top-2 hidden w-[260px] flex-col gap-3 overflow-y-auto xl:flex">
+              <div className="rounded-3xl border border-white/[0.07] bg-white/[0.03] p-5">
+                <p className="text-[12px] font-bold uppercase tracking-[0.18em] text-white/40">Today</p>
+                <p className="mt-1 text-[15px] font-bold">최근 24시간 새 소식</p>
+                <ul className="mt-3 space-y-1">
+                  {SUBJECTS.map((s) => (
+                    <li key={s.key}>
+                      <button
+                        onClick={() => selectCategory(s.name)}
+                        className={`flex w-full items-center gap-2.5 rounded-xl px-2.5 py-2 text-left transition hover:bg-white/[0.06] ${
+                          category === s.name ? 'bg-white/[0.08]' : ''
+                        }`}
+                      >
+                        <span className="h-2 w-2 rounded-full" style={{ background: s.color, boxShadow: `0 0 10px ${s.color}` }} />
+                        <span className="flex-1 text-[14px] font-semibold text-white/85">{s.name}</span>
+                        <span className="text-[14px] font-bold tabular-nums">{recentCounts[s.key]}</span>
+                      </button>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+              {mixedTopics[0] && (
+                <button onClick={openTopic} className="rounded-3xl border border-white/[0.07] bg-white/[0.03] p-5 text-left transition hover:bg-white/[0.06]">
+                  <p className="text-[12px] font-bold uppercase tracking-[0.18em] text-white/40">Topic of the day</p>
+                  <p className={`mt-2 text-[12.5px] font-bold ${SUBJECT[mixedTopics[0].subject].accent}`}>
+                    {SUBJECT[mixedTopics[0].subject].name} · {mixedTopics[0].tag}
+                  </p>
+                  <p className="mt-1 break-keep text-[15px] font-bold leading-snug">{mixedTopics[0].title}</p>
+                </button>
+              )}
+              <p className="px-2 text-[12px] leading-relaxed text-white/40">
+                {edition}
+                <br />
+                <Link href="/about/" className="underline-offset-4 hover:text-white hover:underline">
+                  소개
+                </Link>
+                {' · '}
+                <Link href="/stats/" className="underline-offset-4 hover:text-white hover:underline">
+                  방문 통계
+                </Link>
+                {' · '}↑↓ 키로 넘기기
+              </p>
+            </aside>
+          )}
+
           {view === 'briefing' ? (
             <Briefing
               items={visibleItems}
@@ -460,29 +554,32 @@ export default function ReelsPage({ initial, dayIndex }: Props) {
                   <button
                     onClick={() => setImmersive(false)}
                     aria-label="메뉴 보기"
-                    className="absolute right-3 top-3 z-10 flex h-10 w-10 items-center justify-center rounded-full bg-black/45 text-lg font-bold backdrop-blur"
+                    className="absolute right-3 top-3 z-10 flex h-10 w-10 items-center justify-center rounded-full border border-white/15 bg-black/45 backdrop-blur-md"
                   >
-                    ☰
+                    <MenuIcon className="h-[18px] w-[18px]" />
                   </button>
                 </>
               )}
               {/* 진행 표시: 카드 위치 + 자동 넘김 타이머 */}
               <div className={`shrink-0 px-3 sm:px-5 ${fullscreen ? 'hidden' : ''}`}>
-                <div className="flex items-center justify-between pb-1 text-[11px] font-bold text-white/70">
-                  <span className="truncate">
-                    {Math.min(active + 1, cards.length)} / {cards.length} · {edition}
+                <div className="flex items-center justify-between gap-2 pb-1.5 text-[11.5px] font-semibold text-white/45">
+                  <span className="truncate tabular-nums">
+                    <b className="font-bold text-white">{Math.min(active + 1, cards.length)}</b> / {cards.length}
+                    <span className="mx-1.5 text-white/20">|</span>
+                    {edition}
                   </span>
                   <button
                     onClick={() => setAuto((on) => !on)}
                     title="자동 넘김 (스페이스)"
-                    className={`min-h-[28px] rounded-full px-2.5 ${
-                      auto ? 'bg-white text-neutral-900' : 'bg-white/10 text-white hover:bg-white/20'
+                    className={`flex min-h-[28px] shrink-0 items-center gap-1 rounded-full border px-2.5 font-bold transition ${
+                      auto ? 'border-white bg-white text-neutral-900' : 'border-white/10 bg-white/[0.05] text-white/80 hover:bg-white/[0.12]'
                     }`}
                   >
-                    {auto ? '❚❚ 자동 넘김 중' : '▶ 자동 넘김'}
+                    {auto ? <PauseIcon className="h-3 w-3" /> : <PlayIcon className="h-3 w-3" />}
+                    {auto ? '자동 넘김 중' : '자동 넘김'}
                   </button>
                 </div>
-                <div className="h-1 overflow-hidden rounded-full bg-white/20">
+                <div className="h-[3px] overflow-hidden rounded-full bg-white/10">
                   {auto ? (
                     <div key={active} className="reel-timer h-full bg-white" style={{ animationDuration: `${AUTO_SECONDS}s` }} />
                   ) : (
@@ -532,11 +629,11 @@ export default function ReelsPage({ initial, dayIndex }: Props) {
 
               {/* 넓은 화면용 이동 버튼 */}
               <div className="absolute -right-16 bottom-6 hidden flex-col gap-2 md:flex">
-                <button onClick={() => goTo(active - 1)} title="이전 (↑)" className="h-12 w-12 rounded-full bg-white/10 text-lg hover:bg-white/20">
-                  ↑
+                <button onClick={() => goTo(active - 1)} title="이전 (↑)" aria-label="이전 카드" className="flex h-12 w-12 items-center justify-center rounded-full border border-white/10 bg-white/[0.05] transition hover:bg-white/[0.12]">
+                  <ArrowIcon dir="up" />
                 </button>
-                <button onClick={() => goTo(active + 1)} title="다음 (↓)" className="h-12 w-12 rounded-full bg-white/10 text-lg hover:bg-white/20">
-                  ↓
+                <button onClick={() => goTo(active + 1)} title="다음 (↓)" aria-label="다음 카드" className="flex h-12 w-12 items-center justify-center rounded-full border border-white/10 bg-white/[0.05] transition hover:bg-white/[0.12]">
+                  <ArrowIcon dir="down" />
                 </button>
               </div>
             </div>
@@ -545,14 +642,14 @@ export default function ReelsPage({ initial, dayIndex }: Props) {
           {pending && pendingCount > 0 && (
             <button
               onClick={applyPending}
-              className="absolute left-1/2 top-3 z-20 -translate-x-1/2 whitespace-nowrap rounded-full bg-yellow-300 px-4 py-2 text-sm font-bold text-neutral-900 shadow-lg"
+              className="absolute left-1/2 top-3 z-20 flex -translate-x-1/2 items-center gap-1.5 whitespace-nowrap rounded-full bg-amber-300 px-4 py-2 text-sm font-bold text-neutral-900 shadow-[0_10px_30px_-8px_rgba(252,211,77,0.6)]"
             >
-              ↑ 새 소식 {pendingCount}건 보기
+              <ArrowIcon dir="up" className="h-4 w-4" />새 소식 {pendingCount}건 보기
             </button>
           )}
 
           {toast && (
-            <p className="absolute bottom-24 left-1/2 z-20 -translate-x-1/2 whitespace-nowrap rounded-full bg-white px-4 py-2 text-sm font-bold text-neutral-900 shadow-lg">
+            <p className="absolute bottom-24 left-1/2 z-20 -translate-x-1/2 whitespace-nowrap rounded-full border border-white/15 bg-neutral-800/90 px-4 py-2.5 text-sm font-semibold text-white shadow-2xl backdrop-blur-md">
               {toast}
             </p>
           )}

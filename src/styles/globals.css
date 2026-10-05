@@ -2,20 +2,22 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
+/* 사이트 전체: 아주 어두운 바탕 + 한글 웹 글꼴(Pretendard) */
+html,
+body {
+  background: #08090b;
+  color: #fff;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-feature-settings: 'ss05', 'tnum' 0;
 }
 
-body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+/* 카드 면: 위가 살짝 밝은 어두운 면 + 아주 옅은 테두리와 그림자 */
+.card-surface {
+  background: linear-gradient(180deg, #16171b 0%, #111215 55%);
+  box-shadow:
+    inset 0 0 0 1px rgba(255, 255, 255, 0.06),
+    0 24px 60px -24px rgba(0, 0, 0, 0.8);
 }
 
 @layer utilities {

@@ -6,7 +6,7 @@ const WIDTH = 1080
 const HEIGHT = 1350
 const VISUAL_HEIGHT = 648 // 그림은 400×240 비율 그대로 확대
 const PADDING = 72
-const FONT = '"Malgun Gothic", "Apple SD Gothic Neo", "Noto Sans KR", sans-serif'
+const FONT = '"Pretendard Variable", "Malgun Gothic", "Apple SD Gothic Neo", "Noto Sans KR", sans-serif'
 
 // SVG 를 그 순간의 모습 그대로 이미지로 바꿈
 function svgToImage(svg: SVGSVGElement): Promise<HTMLImageElement> {

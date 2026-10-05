@@ -28,7 +28,7 @@ export default function AboutPage() {
   return (
     <>
       <SiteMeta title="소개" path="/about/" />
-      <div className="min-h-screen bg-neutral-950 text-white [padding-top:env(safe-area-inset-top)]">
+      <div className="min-h-screen bg-[#08090b] text-white [padding-top:env(safe-area-inset-top)]">
         <div className="mx-auto max-w-2xl px-4 pb-16 pt-3">
           <Link href="/" className="inline-flex min-h-[44px] items-center text-[15px] font-bold text-white/70 hover:text-white">
             ← 피드로 돌아가기
