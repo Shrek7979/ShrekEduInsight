@@ -295,8 +295,9 @@ export default function ReelsPage({ initial, dayIndex }: Props) {
   const feedRef = useRef(feed)
   feedRef.current = feed
   useEffect(() => {
-    const check = async () => {
-      if (document.visibilityState !== 'visible' || Date.now() - lastCheck.current < 60_000) return
+    // 처음 열 때는 화면이 가려져 있어도(뒤쪽 탭) 바로 확인, 그 뒤로는 보고 있을 때만
+    const check = async (first = false) => {
+      if (!first && (document.visibilityState !== 'visible' || Date.now() - lastCheck.current < 60_000)) return
       lastCheck.current = Date.now()
       const data = await fetchAll()
       // 한 과목이라도 못 가져왔으면 지금 화면을 그대로 둠 (카드가 통째로 사라지지 않게)
@@ -312,12 +313,13 @@ export default function ReelsPage({ initial, dayIndex }: Props) {
         setPending(null)
       } else setPending(fresh)
     }
-    check()
-    const timer = setInterval(check, CHECK_MINUTES * 60_000)
-    document.addEventListener('visibilitychange', check)
+    const later = () => check()
+    check(true)
+    const timer = setInterval(later, CHECK_MINUTES * 60_000)
+    document.addEventListener('visibilitychange', later)
     return () => {
       clearInterval(timer)
-      document.removeEventListener('visibilitychange', check)
+      document.removeEventListener('visibilitychange', later)
     }
   }, [])
 
