@@ -1,4 +1,5 @@
 import React, { useRef, useState } from 'react'
+import Link from 'next/link'
 import { FeedItem, SUBJECT, SubjectKey, Topic, formatDate, formatViews } from '@/lib/feed'
 import { saveTopicImage } from '@/lib/topicImage'
 import TopicVisual, { hasTopicVisual } from './TopicVisual'
@@ -244,6 +245,9 @@ export function EndCard({ onRestart, empty }: { onRestart: () => void; empty: bo
             처음부터 다시 보기
           </button>
         )}
+        <Link href="/about/" className="mt-2 text-[14px] font-bold text-white/50 underline hover:text-white">
+          사이트 소개 · 출처와 저작권
+        </Link>
       </div>
     </section>
   )

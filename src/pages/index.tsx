@@ -1,12 +1,12 @@
 import React, { useCallback, useEffect, useLayoutEffect, useMemo, useRef, useState } from 'react'
 import type { GetStaticProps } from 'next'
-import Head from 'next/head'
+import Link from 'next/link'
 import { useRouter } from 'next/router'
+import SiteMeta from '@/components/SiteMeta'
 import Briefing from '@/components/feed/Briefing'
 import { EndCard, NewsCard, TopicCard } from '@/components/feed/ReelCard'
 import {
   CATEGORY_ORDER,
-  DESCRIPTION,
   FeedItem,
   LEVELS,
   SITE_NAME,
@@ -33,8 +33,6 @@ const TOPIC_EVERY = 5
 const AUTO_SECONDS = 8
 // 페이지를 연 뒤에도 이 간격으로 과목 사이트의 새 데이터를 확인
 const CHECK_MINUTES = 10
-// 공유 미리보기 이미지는 절대 주소여야 함. 배포 워크플로가 NEXT_PUBLIC_SITE_URL 을 넣어 줌
-const SITE_URL = (process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3040').replace(/\/$/, '')
 const SUBJECT_BY_NAME = Object.fromEntries(SUBJECTS.map((s) => [s.name, s.key])) as Record<string, SubjectKey>
 
 // 빌드(배포) 시점에 네 과목 사이트의 데이터를 받아 첫 화면을 만듦. 브라우저에서 연 뒤에는 최신 데이터로 다시 바꿈
@@ -300,7 +298,10 @@ export default function ReelsPage({ initial, dayIndex }: Props) {
       lastCheck.current = Date.now()
       const data = await fetchAll()
       // 한 과목이라도 못 가져왔으면 지금 화면을 그대로 둠 (카드가 통째로 사라지지 않게)
-      if (data.length < SUBJECTS.length) return
+      if (data.length < SUBJECTS.length) {
+        if (data.length === 0) showToast(navigator.onLine ? '최신 소식을 불러오지 못해 저장된 소식을 보여 줘요' : '인터넷 연결이 없어 저장된 소식을 보여 줘요')
+        return
+      }
       const fresh = combine(data)
       if (signature(fresh) === signature(feedRef.current)) return setPending(null)
       // 맨 첫 카드에 있으면 바로 바꾸고, 넘겨 보는 중이면 버튼으로 알림
@@ -349,34 +350,7 @@ export default function ReelsPage({ initial, dayIndex }: Props) {
 
   return (
     <>
-      <Head>
-        <title>{`${SITE_NAME} — ${TAGLINE}`}</title>
-        <meta name="description" content={DESCRIPTION} />
-        <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-        <meta name="theme-color" content="#0a0a0a" />
-        <meta name="apple-mobile-web-app-capable" content="yes" />
-        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-        <meta name="apple-mobile-web-app-title" content={SITE_NAME} />
-        {/* 카톡·슬랙·페북 등에 링크를 올렸을 때 보이는 미리보기 */}
-        <meta property="og:type" content="website" />
-        <meta property="og:site_name" content={SITE_NAME} />
-        <meta property="og:title" content={`${SITE_NAME} — ${TAGLINE}`} />
-        <meta property="og:description" content={DESCRIPTION} />
-        <meta property="og:image" content={`${SITE_URL}/og.jpg`} />
-        <meta property="og:image:secure_url" content={`${SITE_URL}/og.jpg`} />
-        <meta property="og:image:type" content="image/jpeg" />
-        <meta property="og:image:width" content="1200" />
-        <meta property="og:image:height" content="630" />
-        <meta property="og:image:alt" content={`${SITE_NAME} — ${TAGLINE}`} />
-        <meta property="og:url" content={`${SITE_URL}/`} />
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content={`${SITE_NAME} — ${TAGLINE}`} />
-        <meta name="twitter:description" content={DESCRIPTION} />
-        <meta name="twitter:image" content={`${SITE_URL}/og.jpg`} />
-        <link rel="manifest" href={`${router.basePath}/manifest.json`} />
-        <link rel="icon" href={`${router.basePath}/icon-180.png`} type="image/png" />
-        <link rel="apple-touch-icon" href={`${router.basePath}/icon-180.png`} />
-      </Head>
+      <SiteMeta />
 
       <div className="fixed inset-0 flex flex-col bg-neutral-950 text-white [padding-top:env(safe-area-inset-top)]">
         <header className={`mx-auto w-full max-w-2xl shrink-0 px-4 pt-2 ${fullscreen ? 'hidden' : ''}`}>
@@ -410,9 +384,14 @@ export default function ReelsPage({ initial, dayIndex }: Props) {
               검색
             </button>
           </div>
-          <button onClick={goHome} className="mt-0.5 block max-w-full truncate text-left text-[14px] font-bold text-white/85">
-            {TAGLINE}
-          </button>
+          <div className="mt-0.5 flex items-center gap-2">
+            <button onClick={goHome} className="min-w-0 flex-1 truncate text-left text-[14px] font-bold text-white/85">
+              {TAGLINE}
+            </button>
+            <Link href="/about/" className="shrink-0 text-[12px] font-bold text-white/50 underline-offset-2 hover:text-white hover:underline">
+              소개
+            </Link>
+          </div>
 
           {searchOpen && (
             <div className="mt-2 flex items-center gap-1.5">

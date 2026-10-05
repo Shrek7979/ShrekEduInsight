@@ -1,4 +1,5 @@
 import React from 'react'
+import Link from 'next/link'
 import { FeedItem, SUBJECT, Topic, formatViews, timeAgo } from '@/lib/feed'
 
 type BriefingProps = {
@@ -108,6 +109,12 @@ export default function Briefing(props: BriefingProps) {
                 )
               })}
         </ul>
+
+        <p className="pt-6 text-center text-[13px] text-white/40">
+          <Link href="/about/" className="underline hover:text-white">
+            사이트 소개 · 출처와 저작권 · 개인정보
+          </Link>
+        </p>
       </div>
     </div>
   )

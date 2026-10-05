@@ -94,3 +94,16 @@ export function combine(data: SubjectData[]): Combined {
   const topics = data.flatMap((d) => d.topics.map((t) => ({ ...t, id: `${d.subject}:${t.id}`, subject: d.subject })))
   return { updatedAt, items, topics }
 }
+
+// 소개 페이지용: 과목마다 마지막 수집 시각과 카드 수만 가볍게 확인
+export type SubjectStatus = { subject: Subject; updatedAt: string | null; count: number; ok: boolean }
+export async function fetchStatus(): Promise<SubjectStatus[]> {
+  return Promise.all(
+    SUBJECTS.map(async (subject) => {
+      const feed = await getJson<{ updatedAt: string | null; items: unknown[] } | null>(rawUrl(subject, 'feed.json'), null)
+      return { subject, updatedAt: feed?.updatedAt ?? null, count: feed?.items?.length ?? 0, ok: Boolean(feed) }
+    })
+  )
+}
+
+export { siteUrl }
