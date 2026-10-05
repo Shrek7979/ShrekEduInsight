@@ -1,0 +1,23 @@
+{
+  "name": "Shrek Edu Insight",
+  "short_name": "Shrek Edu",
+  "description": "오늘의 수학과학, 수업이 되는 뉴스 — 수학·물리·화학·생명과학, 1시간마다 업데이트",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "icons": [
+    {
+      "src": "icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

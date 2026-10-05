@@ -1,0 +1,74 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .no-scrollbar {
+    scrollbar-width: none;
+  }
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  /* 릴스 자동 넘김 타이머 */
+  .reel-timer {
+    animation: reel-timer linear forwards;
+  }
+  @keyframes reel-timer {
+    from {
+      width: 0;
+    }
+    to {
+      width: 100%;
+    }
+  }
+}
+
+/* 주제 카드: 카드 높이가 낮을 때(작은 폰에서 상단 메뉴가 보이는 상태)는
+   그림을 줄이고 제목을 한 줄로 해서 설명 글이 카드 안에 다 들어가게 함 */
+.topic-card {
+  container-type: size;
+}
+@container (max-height: 560px) {
+  .topic-visual {
+    height: 18%;
+    min-height: 92px;
+  }
+  .topic-title {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+    overflow: hidden;
+  }
+}
+/* 카드가 충분히 높으면(큰 폰의 전체화면, PC) 설명 글자를 키워 빈 공간을 채움 */
+@container (min-height: 700px) {
+  .topic-slide-heading {
+    font-size: 19px;
+  }
+  .topic-slide-text {
+    font-size: 16px;
+    line-height: 1.7;
+    margin-top: 0.7rem;
+  }
+}
