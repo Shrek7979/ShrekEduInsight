@@ -18,5 +18,5 @@ simple.resize((256, 256), Image.LANCZOS).save(os.path.join(public, 'favicon.ico'
 # 바탕화면 바로가기: 크게는 자세한 모양, 작게는 단순한 모양
 big = round_.resize((256, 256), Image.LANCZOS)
 small = [simple.resize((s, s), Image.LANCZOS) for s in (48, 32, 16)]
-big.save(os.path.join(design, 'shrek-edu.ico'), sizes=[(256, 256), (128, 128), (64, 64), (48, 48), (32, 32), (16, 16)], append_images=small)
+big.save(os.path.join(design, 'shrek-edu-stem.ico'), sizes=[(256, 256), (128, 128), (64, 64), (48, 48), (32, 32), (16, 16)], append_images=small)
 print('아이콘 저장 완료')

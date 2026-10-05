@@ -1,4 +1,4 @@
-﻿# 앱 아이콘 만들기: design/icon.html 을 크롬으로 찍어 public/icon-*.png, favicon.ico, design/shrek-edu.ico 저장
+﻿# 앱 아이콘 만들기: design/icon.html 을 크롬으로 찍어 public/icon-*.png, favicon.ico, design/shrek-edu-stem.ico 저장
 # 실행: powershell -File scripts/make-icons.ps1
 $root = Split-Path $PSScriptRoot -Parent
 $chrome = @(
