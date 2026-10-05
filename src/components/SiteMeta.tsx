@@ -15,7 +15,7 @@ export default function SiteMeta({ title, path = '/', description = DESCRIPTION 
       <title>{fullTitle}</title>
       <meta name="description" content={description} />
       <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-      <meta name="theme-color" content="#0a0a0a" />
+      <meta name="theme-color" content="#08090b" />
       <link rel="canonical" href={url} />
       <meta name="apple-mobile-web-app-capable" content="yes" />
       <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />

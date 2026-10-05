@@ -13,6 +13,7 @@ simple = Image.open(os.path.join(design, 'icon-simple.png')).convert('RGBA')
 # 휴대폰 홈 화면·앱: 꽉 찬 사각형 (모서리는 휴대폰이 자름)
 square.save(os.path.join(public, 'icon-512.png'), optimize=True)
 square.resize((180, 180), Image.LANCZOS).save(os.path.join(public, 'icon-180.png'), optimize=True)
+square.resize((192, 192), Image.LANCZOS).save(os.path.join(public, 'icon-192.png'), optimize=True)
 # 브라우저 탭: 작을수록 단순한 모양
 simple.resize((256, 256), Image.LANCZOS).save(os.path.join(public, 'favicon.ico'), sizes=[(48, 48), (32, 32), (16, 16)])
 # 바탕화면 바로가기: 크게는 자세한 모양, 작게는 단순한 모양
