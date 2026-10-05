@@ -324,6 +324,18 @@ export default function ReelsPage({ initial, dayIndex }: Props) {
     return pending.items.filter((item) => !ids.has(item.id)).length
   }, [pending, feed.items])
 
+  // 사이트명·제목을 누르면 처음 화면으로: 릴스 · 전체 · 첫 카드 (검색은 지우고, 새 소식이 있으면 반영)
+  const goHome = () => {
+    if (pending) {
+      setFeed(pending)
+      setPending(null)
+    }
+    setAuto(false)
+    setSearchOpen(false)
+    switchView('reels')
+    selectCategory(ALL)
+  }
+
   const applyPending = () => {
     if (!pending) return
     setFeed(pending)
@@ -370,7 +382,9 @@ export default function ReelsPage({ initial, dayIndex }: Props) {
         <header className={`mx-auto w-full max-w-2xl shrink-0 px-4 pt-2 ${fullscreen ? 'hidden' : ''}`}>
           <div className="flex items-center gap-2">
             <h1 className="min-w-0 flex-1 truncate text-[17px] font-extrabold leading-tight">
-              <span className="text-emerald-400">Shrek</span> Edu Insight
+              <button onClick={goHome} aria-label="처음 화면으로" className="max-w-full truncate text-left">
+                <span className="text-emerald-400">Shrek</span> Edu <span className="text-amber-300">Insight</span>
+              </button>
             </h1>
             <div className="flex rounded-full bg-white/10 p-0.5 text-[13px] font-bold">
               {(['reels', 'briefing'] as const).map((v) => (
@@ -396,7 +410,9 @@ export default function ReelsPage({ initial, dayIndex }: Props) {
               검색
             </button>
           </div>
-          <p className="mt-0.5 truncate text-[14px] font-bold text-white/85">{TAGLINE}</p>
+          <button onClick={goHome} className="mt-0.5 block max-w-full truncate text-left text-[14px] font-bold text-white/85">
+            {TAGLINE}
+          </button>
 
           {searchOpen && (
             <div className="mt-2 flex items-center gap-1.5">
