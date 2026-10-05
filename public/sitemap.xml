@@ -2,4 +2,5 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://shrek7979.github.io/ShrekEduInsight/</loc><changefreq>hourly</changefreq></url>
   <url><loc>https://shrek7979.github.io/ShrekEduInsight/about/</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://shrek7979.github.io/ShrekEduInsight/stats/</loc><changefreq>daily</changefreq></url>
 </urlset>
