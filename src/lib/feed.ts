@@ -36,7 +36,7 @@ export type Topic = {
 }
 
 export const SITE_NAME = 'Shrek Edu Insight'
-export const TAGLINE = '오늘의 수학과학, 수업이 되는 뉴스'
+export const TAGLINE = '오늘의 수학&과학, 수업이 되는 뉴스'
 export const DESCRIPTION = '수학·물리·화학·생명과학 교사를 위한 뉴스·영상·수업 주제, 1시간마다 업데이트'
 // 소개 페이지 '문의'에 보여 줄 이메일 (비워 두면 이메일 없이 안내만)
 export const CONTACT = 'heopx114@gmail.com'

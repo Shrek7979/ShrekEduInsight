@@ -1,0 +1,78 @@
+<!doctype html>
+<!-- 앱 아이콘 원본 (512×512). icon.html#simple 은 브라우저 탭용 단순한 모양. scripts/make-icons.ps1 로 찍음 -->
+<html>
+<head>
+<meta charset="utf-8" />
+<style>
+  * { margin: 0; }
+  html, body { width: 512px; height: 512px; overflow: hidden; background: transparent; }
+  svg { display: block; }
+  /* 단순한 모양: 과목 표시를 빼고 고리·전구를 굵게 */
+  .simple .detail { display: none; }
+  .simple .arc { stroke-width: 44; }
+  .simple .bulb { transform: translate(256px, 252px) scale(2.15); }
+</style>
+</head>
+<body>
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bg" cx="0.5" cy="0.42" r="0.75"><stop offset="0" stop-color="#1a1710"/><stop offset="0.55" stop-color="#0d0e11"/><stop offset="1" stop-color="#07080a"/></radialGradient>
+    <radialGradient id="core" cx="0.5" cy="0.4" r="0.6"><stop offset="0" stop-color="#fffbea"/><stop offset="0.45" stop-color="#fcd34d"/><stop offset="1" stop-color="#f59e0b"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#fcd34d" stop-opacity="0.55"/><stop offset="0.55" stop-color="#fcd34d" stop-opacity="0.1"/><stop offset="1" stop-color="#fcd34d" stop-opacity="0"/></radialGradient>
+  </defs>
+  <!-- 바탕 (홈 화면에서 모서리는 휴대폰이 알아서 둥글게 자름) -->
+  <rect class="bgrect" width="512" height="512" rx="112" fill="url(#bg)"/>
+
+  <!-- 네 과목 고리: 수학(왼쪽 위) · 물리(오른쪽 위) · 화학(오른쪽 아래) · 생명과학(왼쪽 아래) -->
+  <g fill="none" stroke-linecap="round" transform="translate(256 256)">
+    <!-- 반지름 150, 사분원마다 양끝을 조금씩 비움 -->
+    <path class="arc" d="M -144.9 -38.8 A 150 150 0 0 1 -38.8 -144.9" stroke="#e879f9" stroke-width="30"/>
+    <path class="arc" d="M 38.8 -144.9 A 150 150 0 0 1 144.9 -38.8" stroke="#38bdf8" stroke-width="30"/>
+    <path class="arc" d="M 144.9 38.8 A 150 150 0 0 1 38.8 144.9" stroke="#fbbf24" stroke-width="30"/>
+    <path class="arc" d="M -38.8 144.9 A 150 150 0 0 1 -144.9 38.8" stroke="#34d399" stroke-width="30"/>
+  </g>
+
+  <!-- 가운데 빛 -->
+  <circle cx="256" cy="256" r="118" fill="url(#glow)"/>
+
+  <!-- 과목 표시 (큰 아이콘에만) -->
+  <g class="detail" transform="translate(256 256)">
+    <g transform="translate(-106 -106)">
+      <circle r="38" fill="#120c14" stroke="#e879f9" stroke-width="5"/>
+      <path d="M12 -15 L-11 -15 L3 0 L-11 15 L12 15" fill="none" stroke="#f5d0fe" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <g transform="translate(106 -106)">
+      <circle r="38" fill="#0a1218" stroke="#38bdf8" stroke-width="5"/>
+      <g fill="none" stroke="#bae6fd" stroke-width="3.6"><ellipse rx="22" ry="8"/><ellipse rx="22" ry="8" transform="rotate(60)"/><ellipse rx="22" ry="8" transform="rotate(120)"/></g>
+      <circle r="4.5" fill="#fff"/>
+    </g>
+    <g transform="translate(106 106)">
+      <circle r="38" fill="#16120a" stroke="#fbbf24" stroke-width="5"/>
+      <polygon points="0,-20 17.3,-10 17.3,10 0,20 -17.3,10 -17.3,-10" fill="none" stroke="#fde68a" stroke-width="4.2" stroke-linejoin="round"/>
+      <circle r="9" fill="none" stroke="#fde68a" stroke-width="3.4"/>
+    </g>
+    <g transform="translate(-106 106)">
+      <circle r="38" fill="#0a1611" stroke="#34d399" stroke-width="5"/>
+      <g fill="none" stroke="#a7f3d0" stroke-width="3.8" stroke-linecap="round">
+        <path d="M-9 -21 C12 -10 12 -1 0 0 C-12 1 -12 10 9 21"/>
+        <path d="M9 -21 C-12 -10 -12 -1 0 0 C12 1 12 10 -9 21"/>
+      </g>
+    </g>
+  </g>
+
+  <!-- 전구 -->
+  <g class="bulb" style="transform: translate(256px, 252px) scale(1.75)">
+    <path d="M0 -34 C19 -34 32 -20 32 -3 C32 9 25 17 19 23 C16 26 15 29 15 33 L-15 33 C-15 29 -16 26 -19 23 C-25 17 -32 9 -32 -3 C-32 -20 -19 -34 0 -34 Z" fill="url(#core)"/>
+    <rect x="-13" y="37" width="26" height="6" rx="3" fill="#fcd34d"/>
+    <rect x="-9" y="46" width="18" height="5" rx="2.5" fill="#fcd34d" opacity="0.85"/>
+    <path d="M-8 6 L0 -6 L8 6" fill="none" stroke="#7c4a03" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="0" y1="-6" x2="0" y2="22" stroke="#7c4a03" stroke-width="3.6" stroke-linecap="round"/>
+  </g>
+</svg>
+<script>
+  if (location.hash === '#simple') document.documentElement.className = 'simple'
+  // #square: 휴대폰 홈 화면용은 바탕을 끝까지 채움 (모서리는 휴대폰이 자름)
+  if (location.hash === '#square') document.querySelector('.bgrect').setAttribute('rx', '0')
+</script>
+</body>
+</html>

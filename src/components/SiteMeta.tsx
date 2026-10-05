@@ -3,7 +3,7 @@ import { useRouter } from 'next/router'
 import { DESCRIPTION, SITE_NAME, SITE_URL, TAGLINE } from '@/lib/feed'
 
 // 미리보기 그림을 바꾸면 숫자를 올림 (카카오톡 등이 예전 그림을 기억하지 않도록)
-const OG_IMAGE = `${SITE_URL}/og.jpg?v=2`
+const OG_IMAGE = `${SITE_URL}/og.jpg?v=3`
 
 // 모든 페이지 공통 머리말: 제목, 검색·공유 미리보기, 아이콘 (아이콘 주소는 basePath 를 붙여야 GitHub Pages 에서 보임)
 export default function SiteMeta({ title, path = '/', description = DESCRIPTION }: { title?: string; path?: string; description?: string }) {

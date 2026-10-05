@@ -1,6 +1,6 @@
 # Shrek Edu Insight
 
-**오늘의 수학과학, 수업이 되는 뉴스** — 수학·물리·화학·생명과학 뉴스 피드를 하나로 모은 교육 피드.
+**오늘의 수학&과학, 수업이 되는 뉴스** — 수학·물리·화학·생명과학 뉴스 피드를 하나로 모은 교육 피드.
 
 - 사이트: https://shrek7979.github.io/ShrekEduInsight/
 - 과목 사이트: [수학](https://shrek7979.github.io/ShrekMathNews/) · [물리](https://shrek7979.github.io/JangPhysNews/) · [화학](https://shrek7979.github.io/SongChemNews/) · [생명과학](https://shrek7979.github.io/JangsBioNews/)
