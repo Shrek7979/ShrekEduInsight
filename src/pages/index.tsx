@@ -391,7 +391,7 @@ export default function ReelsPage({ initial, dayIndex }: Props) {
             <h1 className="min-w-0 flex-1">
               <button onClick={goHome} aria-label="처음 화면으로" className="flex max-w-full items-center gap-2 text-left">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img src={`${router.basePath}/icon-180.png`} alt="" className="h-8 w-8 shrink-0 rounded-full object-cover ring-1 ring-white/20" />
+                <img src={`${router.basePath}/icon-180.png?v=2`} alt="" className="h-8 w-8 shrink-0 rounded-full object-cover ring-1 ring-white/20" />
                 <span className="truncate text-[16.5px] font-extrabold tracking-[-0.02em]">
                   <span className="text-emerald-400">Shrek</span> Edu <span className="text-amber-300">Insight</span>
                 </span>

@@ -4,6 +4,8 @@ import { DESCRIPTION, SITE_NAME, SITE_URL, TAGLINE } from '@/lib/feed'
 
 // 미리보기 그림을 바꾸면 숫자를 올림 (카카오톡 등이 예전 그림을 기억하지 않도록)
 const OG_IMAGE = `${SITE_URL}/og.jpg?v=3`
+// 아이콘을 바꾸면 숫자를 올림 (브라우저가 예전 탭 아이콘을 오래 기억하므로)
+const ICON_V = '?v=2'
 
 // 모든 페이지 공통 머리말: 제목, 검색·공유 미리보기, 아이콘 (아이콘 주소는 basePath 를 붙여야 GitHub Pages 에서 보임)
 export default function SiteMeta({ title, path = '/', description = DESCRIPTION }: { title?: string; path?: string; description?: string }) {
@@ -37,10 +39,10 @@ export default function SiteMeta({ title, path = '/', description = DESCRIPTION 
       <meta name="twitter:title" content={fullTitle} />
       <meta name="twitter:description" content={description} />
       <meta name="twitter:image" content={OG_IMAGE} />
-      <link rel="manifest" href={`${basePath}/manifest.json`} />
-      <link rel="icon" href={`${basePath}/favicon.ico`} sizes="any" />
-      <link rel="icon" href={`${basePath}/icon-180.png`} type="image/png" />
-      <link rel="apple-touch-icon" href={`${basePath}/icon-180.png`} />
+      <link rel="manifest" href={`${basePath}/manifest.json${ICON_V}`} />
+      <link rel="icon" href={`${basePath}/favicon.ico${ICON_V}`} sizes="any" />
+      <link rel="icon" href={`${basePath}/icon-192.png${ICON_V}`} type="image/png" sizes="192x192" />
+      <link rel="apple-touch-icon" href={`${basePath}/icon-180.png${ICON_V}`} />
       {/* 검색엔진이 사이트 이름을 알아보도록 */}
       <script
         type="application/ld+json"
