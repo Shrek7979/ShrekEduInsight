@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-07T08:34:48.848Z",
+  "updatedAt": "2026-10-07T15:46:07.529Z",
   "items": [
+    {
+      "id": "fb-8df401809b7c",
+      "kind": "news",
+      "lang": "en",
+      "title": "Where the next generation of collaborations begins!",
+      "summary": "",
+      "link": "https://www.facebook.com/cellpress/posts/pfbid02wURXRnW32hJpNmNcXQdUziqE7cQ3uHyU7KgQ4QQS1L4qeCEZMUrhYsu5cZ3sJH7el",
+      "source": "Facebook Cell Press",
+      "category": "인기",
+      "publishedAt": "2026-10-07T15:02:27.728Z",
+      "thumb": "/social/fb/fb-8df401809b7c.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-07T15:46:07.529Z",
+      "titleKo": "차세대 협업이 시작되는 곳!",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-96f3d68a029c",
       "kind": "news",
@@ -478,20 +495,20 @@
       "translator": "google"
     },
     {
-      "id": "fb-f0b36782c247",
+      "id": "fb-1925045d4500",
       "kind": "news",
       "lang": "en",
       "title": "Well, we had updated our mitosis video, and it was time to RELEASE our",
       "summary": "updated meiosis video!",
-      "link": "https://www.facebook.com/AmoebaSisters/posts/pfbid02ymDsUzct65MvgAPfkWXPPuGEHpjn6XF2DQeLxNxDz1RgAH9r9hyaZALfAZxh2CqFl",
+      "link": "https://www.facebook.com/AmoebaSisters/posts/pfbid0vDagZpzXEy7FbFWoH7tPUJ1E9VPxSR7F8JpPwjmjVYisuYj5mWJ9qcf63Z9hLqe1l",
       "source": "Facebook The Amoeba Sisters",
       "category": "인기",
-      "publishedAt": "2026-09-30T16:01:36.818Z",
-      "thumb": "/social/fb/fb-f0b36782c247.jpg",
+      "publishedAt": "2026-09-30T12:00:00.000Z",
+      "thumb": "/social/fb/fb-1925045d4500.jpg",
       "refs": [
         "I-sucvMV0Ng"
       ],
-      "collectedAt": "2026-10-06T16:02:32.101Z",
+      "collectedAt": "2026-10-07T15:46:07.529Z",
       "titleKo": "글쎄, 우리는 유사분열 비디오를 업데이트했고 이제 우리의 비디오를 공개할 시간이 되었습니다.",
       "summaryKo": "감수분열 영상 업데이트!",
       "translator": "google"

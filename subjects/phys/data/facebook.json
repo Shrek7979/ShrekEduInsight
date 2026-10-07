@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-10-07T08:34:31.574Z",
+  "updatedAt": "2026-10-07T15:45:50.424Z",
   "items": [
+    {
+      "id": "fb-1133d2fe67ad",
+      "kind": "news",
+      "lang": "en",
+      "title": "Congratulations to Henri B.",
+      "summary": "Kagan and Kensō Soai, the laureates of the 2026 Nobel…",
+      "link": "https://www.facebook.com/apsphysics/posts/pfbid02XQHGDeL6v2dtCj1FVpGBrWKFHxC9Snqr4ttVQCjJypdYHCoEfS4MAKd68RhJHS21l",
+      "source": "Facebook American Physical Society",
+      "category": "인기",
+      "publishedAt": "2026-10-07T14:45:18.571Z",
+      "thumb": "/social/fb/fb-1133d2fe67ad.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-07T15:45:50.424Z",
+      "titleKo": "헨리 B에게 축하를 전합니다.",
+      "summaryKo": "2026년 노벨상 수상자 케이건·소아이 켄소…",
+      "translator": "google"
+    },
+    {
+      "id": "fb-2778a36472d5",
+      "kind": "video",
+      "lang": "en",
+      "title": "CERN’s newest exhibition is opening to the public",
+      "summary": "",
+      "link": "https://www.facebook.com/reel/957964990716328/",
+      "source": "Facebook CERN",
+      "category": "인기",
+      "publishedAt": "2026-10-07T13:45:30.144Z",
+      "thumb": "/social/fb/fb-2778a36472d5.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-07T15:45:50.424Z",
+      "titleKo": "CERN의 최신 전시회가 대중에게 공개됩니다",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-538b05c33b59",
       "kind": "news",

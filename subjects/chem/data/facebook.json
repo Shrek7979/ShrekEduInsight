@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-10-07T08:34:33.123Z",
+  "updatedAt": "2026-10-07T15:45:51.933Z",
   "items": [
+    {
+      "id": "fb-e563cde7ceb2",
+      "kind": "news",
+      "lang": "en",
+      "title": "Henri B. Kagan at Paris-Saclay University, and Kenso Soai at the Tokyo",
+      "summary": "University of Science have won this year’s in Chemistry…",
+      "link": "https://www.facebook.com/AmericanChemicalSociety/posts/pfbid02hgMFZog1xNRjvg9rxAgJxUCjpaCScCWZTTsUS1qDsVL1w4nXY47wWH2unbJd8ZfMl",
+      "source": "Facebook American Chemical Society",
+      "category": "인기",
+      "publishedAt": "2026-10-07T14:45:10.224Z",
+      "thumb": "/social/fb/fb-e563cde7ceb2.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-07T15:45:51.933Z",
+      "titleKo": "Paris-Saclay 대학의 Henri B. Kagan과 도쿄 대학의 Kenso Soai",
+      "summaryKo": "이과대학, 올해 화학 부문에서 우승…",
+      "translator": "google"
+    },
+    {
+      "id": "fb-b78ae07802ab",
+      "kind": "news",
+      "lang": "en",
+      "title": "Oct 8 is Did you know that octopuses have blue blood?",
+      "summary": "This graphic looks at what makes it blue, as well as…",
+      "link": "https://www.facebook.com/compoundchem/posts/pfbid0YJbQ3wkK3ACixfNR4MLagKwT7UjeEpBLe9MAM8xDogym2MXgPNsfkzvnnRHxLC7sl",
+      "source": "Facebook Compound Interest",
+      "category": "인기",
+      "publishedAt": "2026-10-07T12:45:21.523Z",
+      "thumb": "/social/fb/fb-b78ae07802ab.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-07T15:45:51.933Z",
+      "titleKo": "10월 8일은 문어의 피가 푸른색이라는 사실을 알고 계셨나요?",
+      "summaryKo": "이 그래픽은 무엇이 파란색인지를 보여줍니다.",
+      "translator": "google"
+    },
     {
       "id": "fb-a258c030a5df",
       "kind": "news",
