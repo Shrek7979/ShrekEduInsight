@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-07T15:46:07.529Z",
+  "updatedAt": "2026-10-07T20:52:56.569Z",
   "items": [
+    {
+      "id": "fb-f3506d71a970",
+      "kind": "news",
+      "lang": "en",
+      "title": "Volume 3, issue 3 of Nexus is online",
+      "summary": "",
+      "link": "https://www.facebook.com/cellpress/posts/pfbid02hv7PEaQimYqVttezwry2ikB9enjtFrEw7R7TiDL1fi3twGmrsrYoB8YD2z4mXSxUl",
+      "source": "Facebook Cell Press",
+      "category": "인기",
+      "publishedAt": "2026-10-07T19:52:16.549Z",
+      "thumb": "/social/fb/fb-f3506d71a970.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-07T20:52:56.569Z",
+      "titleKo": "Nexus 3권 3호가 온라인에 게재되었습니다.",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-8df401809b7c",
       "kind": "news",
