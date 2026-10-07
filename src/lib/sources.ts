@@ -54,6 +54,9 @@ function articleImage(url?: string) {
 // 개인 소식(부고, 임명·위촉, 취임·퇴임, 인사 발령 등)은 싣지 않음. '선임연구원' 같은 직급은 남김
 const PERSONAL_NEWS = /부고|별세|타계|영면|빈소|발인|장례|추도식|추모식|조문|부음|訃|임명|위촉|임용장|수여식|취임|이임식|퇴임|승진|인사\s?발령|인사이동|전보\s?발령|\[인사\]|\[동정\]|내정|화촉|결혼식|선임(?!연구|기자|병|원)|obituar|in memoriam|passed away|\b(dies|died|dead) at \d|funeral|\bappointed\b|\bnamed (new |as )?(president|director|dean|chair|head|editor|ceo)\b|\bretire(s|ment)\b|steps down/i
 
+// 광고·홍보성 기사(광고 표시, 할인·이벤트, 출시·MOU 같은 기업 홍보, 학원 대표 인터뷰, 단체장 동정)는 싣지 않음
+const PROMO_NEWS = /\[(광고|AD|PR|홍보|협찬|스폰서|기획광고|애드버토리얼)\]|\(광고\)|협찬|애드버토리얼|프로모션|특가|할인 ?(행사|이벤트|판매)|사은품|증정 ?이벤트|이벤트 ?(진행|개최|실시)|쿠폰|선착순|판매 ?(개시|시작)|신제품|출시|론칭|런칭|업무 ?협약|\bMOU\b|사업 ?확대|세계 ?1위 ?도전|수강생 ?모집|무료 ?체험|입시 ?설명회|(학원|교습소|에듀).{0,20}(대표|원장|개원|오픈)|(대표|원장).{0,15}(학원|교습소)|(구청장|시장|군수|도지사|국회의원|교육감).{0,30}(축하|축사|방문|격려)|sponsored|partner content|paid post|advertorial|promo code|\bdiscount|\bgiveaway|\bcoupon|buy now|limited[- ]time offer/i
+
 const normalize = (text?: string) => (text || '').toLowerCase().replace(/[^0-9a-z가-힣]/g, '')
 const videoId = (link: string) => link.match(/(?:v=|shorts\/|youtu\.be\/)([\w-]{11})/)?.[1]
 
@@ -65,7 +68,7 @@ export function combine(data: SubjectData[]): Combined {
   const items: FeedItem[] = []
 
   const add = (subject: Subject, raw: RawItem, isPost: boolean) => {
-    if (PERSONAL_NEWS.test(`${raw.title} ${raw.titleKo || ''}`)) return
+    if (PERSONAL_NEWS.test(`${raw.title} ${raw.titleKo || ''}`) || PROMO_NEWS.test(`${raw.title} ${raw.titleKo || ''}`)) return
     const titles = [normalize(raw.title), normalize(raw.titleKo)].filter((t) => t.length >= 6)
     // 인스타그램·페이스북 글이 이미 있는 유튜브 영상을 소개하는 것이면 뺌 (예: 같은 영상의 릴스)
     if (isPost && raw.refs?.some((id) => videoIds.has(id))) return
