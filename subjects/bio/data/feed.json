@@ -1,6 +1,35 @@
 {
-  "updatedAt": "2026-10-07T08:02:31.771Z",
+  "updatedAt": "2026-10-07T08:23:55.386Z",
   "items": [
+    {
+      "id": "c9d946a4f7d9",
+      "kind": "news",
+      "lang": "ko",
+      "title": "CAR-T·유전체 분석 주목…큐로셀·랩지노믹스 등 '불기둥'",
+      "summary": "유전자 치료제 분석 테마가 차세대 치료제 임상 진전과 유전체 데이터 기반 정밀의료 시장 확대…",
+      "detail": "유전자 치료제 분석 테마가 차세대 치료제 임상 진전과 유전체 데이터 기반 정밀의료 시장 확대 기대감에 7일 강세를 나타내고 있다. 유전자 분석을 활용한 맞춤형 치료와 CAR-T 등 차세대 신약 기술에 대한 관심이 커지면서 관련 제약·바이오 기업으로…",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493344",
+      "source": "핀포인트뉴스",
+      "category": "의학·바이오",
+      "publishedAt": "2026-10-06T16:16:00.000Z",
+      "collectedAt": "2026-10-07T08:23:55.386Z",
+      "thumb": "/thumbs/c9d946a4f7d9.png"
+    },
+    {
+      "id": "0c5ec4c80638",
+      "kind": "news",
+      "lang": "ko",
+      "title": "독도 신종 해양생물·항암 신소재 발견…특허등록도",
+      "summary": "독도 주변 해역에서 새 해양생물과 항암 신소재, 신유전체 정보가 발굴돼 독도의 가치를 새롭게 입증했다",
+      "detail": "독도 주변 해역에서 새 해양생물과 항암 신소재, 신유전체 정보가 발굴돼 독도의 가치를 새롭게 입증했다. 해양수산부는 한국해양과학기술원 연구팀이 독도 주변 해역에서 신종 해양생물, 항암 신소재, 독도새우 신유전체 정보를 발굴하는 성과를 거뒀다고 6일…",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=855667",
+      "source": "뉴스웍스",
+      "image": "http://www.bing.com/th?id=ONUT.U8mzH04BTyeAVwp8lO8i4A&pid=News",
+      "category": "생태·환경",
+      "publishedAt": "2026-10-06T05:48:00.000Z",
+      "collectedAt": "2026-10-07T08:23:55.386Z",
+      "thumb": "/thumbs/0c5ec4c80638.jpg"
+    },
     {
       "id": "9b4473bf9858",
       "kind": "news",
@@ -61,7 +90,7 @@
       "publishedAt": "2026-10-05T05:40:00.000Z",
       "collectedAt": "2026-10-07T08:02:31.771Z",
       "titleKo": "빛으로 뇌세포를 제어하는 ​​방법, 노벨상 수상",
-      "summaryKo": "칼 다이세로스, 페터 헤게만, 게오르그 나겔..",
+      "summaryKo": "칼 다이세로스, 페터 헤게만, 게오르그 나겔.",
       "translator": "google",
       "detailKo": "Karl Deisseroth, Peter Hegemann 및 Georg Nagel은 광유전학 개발로 영예를 안았습니다.",
       "thumb": "/thumbs/c7796c0960c8.png"
@@ -142,7 +171,7 @@
       "category": "의학·바이오",
       "publishedAt": "2026-10-06T18:01:00.000Z",
       "collectedAt": "2026-10-07T07:46:23.907Z",
-      "thumb": "/thumbs/9b3d8ceffc69.png"
+      "thumb": null
     },
     {
       "id": "5be44aae7de1",
@@ -302,7 +331,7 @@
       "category": "생태·환경",
       "publishedAt": "2026-10-06T05:43:00.000Z",
       "collectedAt": "2026-10-07T06:48:46.796Z",
-      "thumb": "/thumbs/c6e0d1a67f54.jpg"
+      "thumb": "/thumbs/c6e0d1a67f54.png"
     },
     {
       "id": "bsky-3mxbbv7tzr62f",
@@ -706,7 +735,7 @@
       "category": "교육",
       "publishedAt": "2026-10-06T19:20:00.000Z",
       "collectedAt": "2026-10-07T04:46:23.139Z",
-      "thumb": "/thumbs/5698fe4ed236.png"
+      "thumb": "/thumbs/5698fe4ed236.jpg"
     },
     {
       "id": "23fe91b9c409",
@@ -1188,7 +1217,7 @@
       "category": "의학·바이오",
       "publishedAt": "2026-10-06T18:33:56.000Z",
       "collectedAt": "2026-10-07T01:48:23.083Z",
-      "thumb": "/thumbs/820051dab00f.png"
+      "thumb": "/thumbs/820051dab00f.jpg"
     },
     {
       "id": "13f7ba74c752",
@@ -1567,7 +1596,7 @@
       "summaryKo": "헤루가비아리스(Herugavialis)는 이 지역에서 발견된 화석의 새로운 이름입니다",
       "translator": "google",
       "detailKo": "Herugavialis는 대스핑크스를 만든 동일한 암석에서 발견된 화석의 새로운 이름입니다. 파충류는 파충류의 독특한 가지입니다…",
-      "thumb": "/thumbs/be2c4747bdb2.webp"
+      "thumb": "/thumbs/be2c4747bdb2.jpg"
     },
     {
       "id": "55eae585c9b8",
@@ -1974,7 +2003,7 @@
       "summaryKo": "더 큰 몸과 더 넓은 부리는 새와 같은 새에게 도움이 됩니다",
       "translator": "google",
       "detailKo": "몸집이 크고 부리가 넓기 때문에 목이 노출된 방울새와 같은 새들은 착암기보다 더 큰 소리를 내는 데 도움이 되지만, 왜 그토록 큰 소리를 내는지…",
-      "thumb": "/thumbs/a1c9d6661a48.webp"
+      "thumb": "/thumbs/a1c9d6661a48.jpg"
     },
     {
       "id": "eb0b817bea53",
@@ -2044,7 +2073,7 @@
       "summaryKo": "인간의 뇌는 목소리를 들을 수 있도록 만들어졌습니다",
       "translator": "google",
       "detailKo": "인간의 뇌는 목소리를 듣도록 만들어졌습니다. 말하기는 우리를 다른 사람, 그리고 우리 자신과 연결해줍니다. 우리의 목소리는 우리 자신에 대해 무엇을 드러내는가?",
-      "thumb": "/thumbs/a716f944857d.webp"
+      "thumb": "/thumbs/a716f944857d.jpg"
     },
     {
       "id": "bsky-3mx7bn6rrlk2v",
@@ -2254,7 +2283,7 @@
       "category": "생태·환경",
       "publishedAt": "2026-10-06T01:11:23.000Z",
       "collectedAt": "2026-10-06T08:46:18.244Z",
-      "thumb": "/thumbs/d5601920f887.png"
+      "thumb": "/thumbs/d5601920f887.jpg"
     },
     {
       "id": "7b9e3e54c438",
@@ -2427,39 +2456,6 @@
       "summaryKo": "",
       "translator": "google",
       "thumb": "/thumbs/6f3cb6de5588.jpg"
-    },
-    {
-      "id": "bsky-3mx6sdcc5b72d",
-      "kind": "news",
-      "lang": "en",
-      "title": "Pupil size reveals the perceptual quality and effortless nature of synesthesia",
-      "summary": "Pupil size reveals the perceptual quality and…",
-      "link": "https://bsky.app/profile/elife.bsky.social/post/3mx6sdcc5b72d",
-      "source": "Bluesky eLife",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4irghgzlsjk6ugrekoqyl7km/bafkreiaqpl3kxdxpdh42t37jpcpsccmcb7n656beigdtvecp747knudahi",
-      "likes": "2",
-      "category": "인기",
-      "publishedAt": "2026-10-06T06:26:00.477Z",
-      "collectedAt": "2026-10-06T06:46:17.070Z",
-      "titleKo": "동공 크기는 공감각의 지각 품질과 자연스러운 특성을 드러냅니다.",
-      "summaryKo": "동공 크기는 지각의 질과…",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mx6sdcc5b72d.webp"
-    },
-    {
-      "id": "8646ee276fd8",
-      "kind": "news",
-      "lang": "ko",
-      "title": "‘빛으로 신경세포 켜고 끄는’ 기술 개발 3명, 올해 노벨 생리·의학상 영예",
-      "summary": "올해 노벨 생리·의학상의 영예는 빛을 이용해 특정 신경세포의 활동을 선택적으로 조절하는…",
-      "detail": "올해 노벨 생리·의학상의 영예는 빛을 이용해 특정 신경세포의 활동을 선택적으로 조절하는 ‘광유전학(optogenetics)’의 토대를 닦고 이를 신경과학 분야 핵심 연구 기술로 발전시킨 과학자 3명에게 돌아갔다. 이들의 기여로 파킨슨병, 간질,…",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000020066",
-      "source": "국민일보",
-      "image": "http://www.bing.com/th?id=ONUT.lGF177ouk-wbbOHw8gzUgQ&pid=News",
-      "category": "연구",
-      "publishedAt": "2026-10-05T23:28:00.000Z",
-      "collectedAt": "2026-10-06T06:46:17.070Z",
-      "thumb": "/thumbs/8646ee276fd8.png"
     }
   ]
 }

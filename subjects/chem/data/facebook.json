@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-10-06T08:42:19.105Z",
+  "updatedAt": "2026-10-07T08:34:33.123Z",
   "items": [
+    {
+      "id": "fb-a258c030a5df",
+      "kind": "news",
+      "lang": "en",
+      "title": "This year's in Chemistry will be awarded tomorrow",
+      "summary": "",
+      "link": "https://www.facebook.com/compoundchem/posts/pfbid0DBTQHefCWpxSNRWZfG4yc4wNmZK4oW1GL8v4CSp59FaR4MkiQqJncxCZvymnemAEl",
+      "source": "Facebook Compound Interest",
+      "category": "인기",
+      "publishedAt": "2026-10-06T17:34:03.642Z",
+      "thumb": "/social/fb/fb-a258c030a5df.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-07T08:34:33.123Z",
+      "titleKo": "올해 화학 부문은 내일 시상됩니다.",
+      "summaryKo": "",
+      "translator": "google"
+    },
+    {
+      "id": "fb-800a5eb116f6",
+      "kind": "video",
+      "lang": "en",
+      "title": "Bring your whole self to your science.",
+      "summary": "Scientists who honor their cultural roots offer…",
+      "link": "https://www.facebook.com/reel/935725632592008/",
+      "source": "Facebook American Chemical Society",
+      "category": "인기",
+      "publishedAt": "2026-10-06T14:33:53.007Z",
+      "thumb": "/social/fb/fb-800a5eb116f6.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-07T08:34:33.123Z",
+      "titleKo": "과학에 온전한 자아를 가져오세요.",
+      "summaryKo": "문화적 뿌리를 존중하는 과학자들은…",
+      "translator": "google"
+    },
     {
       "id": "fb-398f2dbfcf3b",
       "kind": "news",
