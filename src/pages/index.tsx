@@ -1,5 +1,7 @@
 import React, { useCallback, useEffect, useLayoutEffect, useMemo, useRef, useState } from 'react'
 import type { GetStaticProps } from 'next'
+import { readFile } from 'fs/promises'
+import path from 'path'
 import Link from 'next/link'
 import { useRouter } from 'next/router'
 import SiteMeta from '@/components/SiteMeta'
@@ -22,7 +24,7 @@ import {
   shareLink,
   useStoredSet,
 } from '@/lib/feed'
-import { Combined, combine, fetchAll } from '@/lib/sources'
+import { Combined, SubjectData, combine, fetchAll } from '@/lib/sources'
 import { ArrowIcon, MenuIcon, PauseIcon, PlayIcon, SearchIcon } from '@/components/icons'
 
 type Props = { initial: Combined; dayIndex: number }
@@ -37,13 +39,28 @@ const AUTO_SECONDS = 8
 const CHECK_MINUTES = 10
 const SUBJECT_BY_NAME = Object.fromEntries(SUBJECTS.map((s) => [s.name, s.key])) as Record<string, SubjectKey>
 
-// 빌드(배포) 시점에 네 과목 사이트의 데이터를 받아 첫 화면을 만듦. 브라우저에서 연 뒤에는 최신 데이터로 다시 바꿈
-export const getStaticProps: GetStaticProps<Props> = async () => ({
-  props: {
-    initial: combine(await fetchAll()),
-    dayIndex: Math.floor(Date.now() / (24 * 60 * 60 * 1000)),
-  },
-})
+// 빌드(배포) 시점에 subjects/<과목>/data 의 수집 결과로 첫 화면을 만듦. 브라우저에서 연 뒤에는 최신 데이터로 다시 바꿈
+export const getStaticProps: GetStaticProps<Props> = async () => {
+  const read = async <T,>(subject: string, file: string, fallback: T): Promise<T> => {
+    try {
+      return JSON.parse(await readFile(path.join(process.cwd(), 'subjects', subject, 'data', file), 'utf8'))
+    } catch {
+      return fallback
+    }
+  }
+  const data: SubjectData[] = await Promise.all(
+    SUBJECTS.map(async ({ key }) => ({
+      subject: key,
+      feed: await read<SubjectData['feed']>(key, 'feed.json', { updatedAt: null, items: [] }),
+      posts: [
+        ...(await read<{ items: SubjectData['posts'] }>(key, 'instagram.json', { items: [] })).items,
+        ...(await read<{ items: SubjectData['posts'] }>(key, 'facebook.json', { items: [] })).items,
+      ],
+      topics: await read<SubjectData['topics']>(key, 'topics.json', []),
+    }))
+  )
+  return { props: { initial: combine(data), dayIndex: Math.floor(Date.now() / (24 * 60 * 60 * 1000)) } }
+}
 
 const signature = (data: Combined) => `${data.updatedAt}|${data.items.map((item) => item.id).join(',')}`
 
@@ -81,6 +98,9 @@ export default function ReelsPage({ initial, dayIndex }: Props) {
 
   useEffect(() => {
     setNow(Date.now())
+    // 예전 과목 사이트에서 넘어온 주소(?s=math 등)면 그 과목을 바로 보여 줌
+    const fromSubject = SUBJECTS.find((s) => s.key === new URLSearchParams(window.location.search).get('s'))
+    if (fromSubject) setCategory(fromSubject.name)
     try {
       const last = localStorage.getItem('edu-hub:view')
       if (last === 'briefing') setView('briefing')

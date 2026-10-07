@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import Link from 'next/link'
 import SiteMeta from '@/components/SiteMeta'
 import { CONTACT, SITE_NAME, SUBJECTS, TAGLINE, editionLabel, timeAgo } from '@/lib/feed'
-import { SubjectStatus, fetchStatus, siteUrl } from '@/lib/sources'
+import { SubjectStatus, fetchStatus } from '@/lib/sources'
 
 // 과목 사이트가 이 시간보다 오래 업데이트되지 않았으면 '지연'으로 표시
 const STALE_HOURS = 3
@@ -62,7 +62,7 @@ export default function AboutPage() {
           </Section>
 
           <Section id="status" title="과목별 업데이트 상태">
-            <p>각 과목 소식은 과목 사이트가 1시간마다 모으고, 이 사이트는 열 때마다 그 최신 내용을 가져옵니다.</p>
+            <p>네 과목 소식을 1시간마다 모으고, 사이트를 열 때마다 그 최신 내용을 가져옵니다.</p>
             <ul className="divide-y divide-white/10 rounded-2xl bg-white/[0.04]">
               {SUBJECTS.map((subject) => {
                 const s = status?.find((x) => x.subject.key === subject.key)
@@ -88,9 +88,9 @@ export default function AboutPage() {
                         {s?.ok && !stale ? '정상' : '지연'}
                       </span>
                     )}
-                    <a href={`${siteUrl(subject)}/`} target="_blank" rel="noopener noreferrer" className="shrink-0 text-[13px] font-bold text-white/60 underline hover:text-white">
-                      과목 사이트
-                    </a>
+                    <Link href={{ pathname: '/', query: { s: subject.key } }} className="shrink-0 text-[13px] font-bold text-white/60 underline hover:text-white">
+                      피드 보기
+                    </Link>
                   </li>
                 )
               })}

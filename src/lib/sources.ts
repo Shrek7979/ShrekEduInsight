@@ -1,6 +1,6 @@
-import { Feed, FeedItem, OWNER, SUBJECTS, Subject, SubjectKey, Topic } from './feed'
+import { Feed, FeedItem, OWNER, SITE_URL, SUBJECTS, Subject, SubjectKey, Topic } from './feed'
 
-// 과목 사이트 하나가 올린 원본 데이터 (각 저장소의 data/*.json)
+// 과목 하나의 원본 데이터 (subjects/<과목>/data/*.json — 과목별 수집기가 만듦)
 type RawItem = Omit<FeedItem, 'subject'>
 type RawTopic = Omit<Topic, 'subject'>
 export type SubjectData = {
@@ -12,11 +12,12 @@ export type SubjectData = {
 
 export type Combined = Feed & { topics: Topic[] }
 
-// raw.githubusercontent.com 은 누구나(브라우저에서도) 읽을 수 있고, 저장소에 올라온 지 몇 분 안에 바뀜
+// 브라우저에서 최신 데이터 확인: raw.githubusercontent.com 은 누구나 읽을 수 있고, 저장소에 올라온 지 몇 분 안에 바뀜
+export const REPO = 'ShrekEduInsight'
 const rawUrl = (subject: Subject, file: string) =>
-  `https://raw.githubusercontent.com/${OWNER}/${subject.repo}/main/data/${file}`
-// 섬네일은 각 과목 사이트(GitHub Pages)에 있음
-const siteUrl = (subject: Subject) => `https://${OWNER.toLowerCase()}.github.io/${subject.repo}`
+  `https://raw.githubusercontent.com/${OWNER}/${REPO}/main/subjects/${subject.key}/data/${file}`
+// 섬네일·SNS 그림은 이 사이트의 /s/<과목> 아래 (빌드 전에 scripts/prepare-assets.mjs 가 복사)
+const assetUrl = (subject: Subject) => `${SITE_URL}/s/${subject.key}`
 
 async function getJson<T>(url: string, fallback: T): Promise<T> {
   try {
@@ -84,7 +85,7 @@ export function combine(data: SubjectData[]): Combined {
       collectedAt: raw.collectedAt || raw.publishedAt,
       // 빌드 시 넘기는 데이터에 undefined 가 있으면 Next 가 거부하므로 있을 때만
       ...(raw.image ? { image: articleImage(raw.image) } : {}),
-      thumb: raw.thumb ? (raw.thumb.startsWith('/') ? `${siteUrl(subject)}${raw.thumb}` : raw.thumb) : null,
+      thumb: raw.thumb ? (raw.thumb.startsWith('/') ? `${assetUrl(subject)}${raw.thumb}` : raw.thumb) : null,
     })
   }
 
@@ -113,4 +114,3 @@ export async function fetchStatus(): Promise<SubjectStatus[]> {
   )
 }
 
-export { siteUrl }

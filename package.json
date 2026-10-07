@@ -3,15 +3,22 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "predev": "node scripts/prepare-assets.mjs",
     "dev": "next dev -p 3040",
+    "prebuild": "node scripts/prepare-assets.mjs",
     "build": "next build",
     "start": "next start -p 3040",
-    "lint": "next lint"
+    "lint": "next lint",
+    "collect": "node scripts/collect-all.mjs news",
+    "collect:sns": "node scripts/collect-all.mjs sns"
   },
   "dependencies": {
     "next": "^14.2.0",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "@anthropic-ai/sdk": "^0.131.0",
+    "cheerio": "^1.1.2",
+    "zod": "^4.6.5"
   },
   "devDependencies": {
     "@types/node": "^20",

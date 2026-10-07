@@ -1,18 +1,34 @@
 # Shrek Edu Insight
 
-**오늘의 수학&과학, 수업이 되는 뉴스** — 수학·물리·화학·생명과학 뉴스 피드를 하나로 모은 교육 피드.
+**오늘의 수학&과학, 수업이 되는 뉴스** — 수학·물리·화학·생명과학 교사를 위한 교육 뉴스 피드.
 
 - 사이트: https://shrek7979.github.io/ShrekEduInsight/
-- 과목 사이트: [수학](https://shrek7979.github.io/ShrekMathNews/) · [물리](https://shrek7979.github.io/JangPhysNews/) · [화학](https://shrek7979.github.io/SongChemNews/) · [생명과학](https://shrek7979.github.io/JangsBioNews/)
+- 예전 과목 사이트(Shrek Math News, Jang Phys News, Song Chem News, Jangs Bio News)는 이 사이트로 통합되었고, 예전 주소로 들어오면 해당 과목 화면(`?s=math` 등)으로 자동 이동합니다.
+
+## 구조
+
+```
+subjects/
+  math/  phys/  chem/  bio/      과목마다 하나씩
+    scripts/   수집기 (뉴스·유튜브·저널 RSS, 인스타그램·페이스북, 섬네일, 번역)
+    data/      수집 결과 feed.json · instagram.json · facebook.json · topics.json
+    public/    SNS 그림(social/), 섬네일(thumbs/ — 저장소에는 올리지 않음)
+scripts/
+  collect-all.mjs     네 과목 수집을 한꺼번에 (news | sns | ig)
+  prepare-assets.mjs  빌드 전에 subjects/*/public 을 public/s/<과목> 으로 복사
+  sns-update.cmd      PC 예약 작업 (1시간마다: 인스타그램 + 필요하면 뉴스 → GitHub 에 올림)
+src/                  사이트 화면 (Next.js)
+```
 
 ## 어떻게 돌아가나요
 
-- 뉴스 수집은 네 과목 사이트가 각자 1시간마다 합니다. 이 사이트는 따로 수집하지 않아요.
-- 페이지를 열면 브라우저가 네 저장소의 `data/feed.json`, `instagram.json`, `facebook.json`, `topics.json` 을 바로 읽어 한 피드로 합칩니다 (`src/lib/sources.ts`). 그래서 이 사이트를 다시 배포하지 않아도 내용은 늘 최신입니다.
-- 열어 둔 채로 있으면 10분마다, 다른 앱에 갔다 돌아오면 바로 새 소식을 확인합니다. 카드를 넘겨 보는 중이면 위쪽에 "새 소식 n건 보기" 버튼이 뜹니다.
-- 같은 기사·영상이 여러 과목에 있으면 하나만 보여 줍니다.
-- 과목을 추가하려면 `src/lib/feed.ts` 의 `SUBJECTS` 에 저장소를 넣고, 주제 카드 그림은 `src/components/feed/visuals/<과목>/` 에 둡니다.
+- GitHub Actions(`.github/workflows/publish.yml`)가 약 1시간마다 네 과목을 동시에 수집하고 사이트를 배포합니다.
+- GitHub 예약 실행은 자주 밀리므로, PC 의 Windows 예약 작업 **"ShrekEduInsight SNS Update"** 가 1시간마다 인스타그램(서버에서는 막힘)과 뉴스를 모아 올립니다. 작업 폴더는 건드리지 않고 `.cache/bot-repo` 복사본에서만 git 을 씁니다.
+- 사이트를 열면 브라우저가 이 저장소의 최신 `subjects/*/data/*.json` 을 읽어 바로 새 소식을 보여 줍니다.
+- 부고·임명 같은 개인 소식, 광고·홍보성 기사는 수집 단계와 화면 단계에서 모두 거릅니다.
 
 ```bash
-npm run dev    # http://localhost:3040
+npm run dev            # http://localhost:3040
+npm run collect        # 네 과목 뉴스 수집
+npm run collect:sns    # 인스타그램·페이스북
 ```

@@ -44,3 +44,8 @@ next-env.d.ts
 # 미리보기 그림을 찍을 때 생기는 중간 파일
 /design/og.png
 /design/icon-*.png
+
+# 수집 때 만드는 섬네일과, 빌드 전에 복사하는 사본
+/subjects/*/public/thumbs/
+/public/s/
+/.cache/

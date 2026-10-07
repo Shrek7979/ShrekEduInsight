@@ -1,27 +1,45 @@
-# 수학·물리·화학·생명과학 사이트의 데이터를 모아 GitHub Pages 에 배포합니다.
-# 뉴스 수집은 각 과목 사이트가 하고, 이 사이트는 페이지를 열 때마다 그 최신 데이터를 직접 읽어 오므로
-# 여기서는 첫 화면용 데이터만 가끔 새로 굽습니다 (예약 실행이 밀리거나 빠져도 사이트 내용은 최신으로 보임).
+# 약 1시간마다 수학·물리·화학·생명과학 소식을 모아 GitHub Pages 에 배포합니다.
+# 과목마다 subjects/<과목> 폴더에 그 과목의 수집기·데이터·SNS 그림이 있고, scripts/collect-all.mjs 가 네 과목을 동시에 돌립니다.
 # 저장소 Settings → Pages → Source 를 "GitHub Actions" 로 한 번만 바꿔 주면 됩니다.
-name: Publish
+# (선택) Settings → Secrets 에 ANTHROPIC_API_KEY 를 넣으면 해외 기사를 Claude 가 번역·요약합니다.
+name: Collect & Publish
 
 on:
   schedule:
-    - cron: '23 */3 * * *'
+    # GitHub 예약은 자주 밀리거나 건너뛰어짐 → 20분마다 깨워서, 마지막 수집 후 1시간쯤 지났을 때만 실제로 수집
+    - cron: '7,27,47 * * * *'
   workflow_dispatch:
   push:
     branches: [main]
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
 concurrency:
   group: publish
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
+  # 예약 실행이면 마지막 수집 시각을 보고 할 때가 됐는지 판단 (코드를 올렸거나 수동 실행이면 항상 진행)
+  due:
+    runs-on: ubuntu-latest
+    outputs:
+      run: ${{ steps.check.outputs.run }}
+    steps:
+      - uses: actions/checkout@v4
+      - id: check
+        run: |
+          if [ "${{ github.event_name }}" != "schedule" ]; then echo "run=true" >> "$GITHUB_OUTPUT"; exit 0; fi
+          # 네 과목 중 가장 오래 전에 수집된 것을 기준으로
+          age=$(node -e "const fs=require('fs');const ages=['math','phys','chem','bio'].map(s=>{try{return Date.now()-new Date(JSON.parse(fs.readFileSync('subjects/'+s+'/data/feed.json','utf8')).updatedAt)}catch{return 1e12}});console.log(Math.round(Math.max(...ages)/60000))")
+          echo "가장 오래된 과목의 마지막 수집 후 ${age}분"
+          if [ "$age" -ge 50 ]; then echo "run=true" >> "$GITHUB_OUTPUT"; else echo "run=false" >> "$GITHUB_OUTPUT"; fi
+
   publish:
+    needs: due
+    if: needs.due.outputs.run == 'true'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
@@ -36,7 +54,40 @@ jobs:
 
       - run: npm ci
 
-      - name: 정적 사이트 빌드 (네 과목 데이터를 받아 첫 화면 생성)
+      # 섬네일은 저장소에 올리지 않으므로, 지난 실행에서 만든 것을 다시 써서 시간을 줄임
+      - uses: actions/cache@v4
+        with:
+          path: subjects/*/public/thumbs
+          key: thumbs-${{ github.run_id }}
+          restore-keys: thumbs-
+
+      # 구독자 1만 명 이상 수학 유튜브 채널 목록을 7일마다 새로 찾음 (실패해도 이전 목록으로 계속)
+      - name: 수학 유튜브 채널 목록 갱신 (7일마다)
+        working-directory: subjects/math
+        run: |
+          age=$(node -e "try{const d=require('./data/youtube-channels.json');console.log(Math.floor((Date.now()-new Date(d.updatedAt))/86400000))}catch{console.log(99)}")
+          if [ "$age" -ge 7 ]; then node scripts/discover-youtube.mjs || echo "채널 목록 갱신 건너뜀"; else echo "채널 목록 ${age}일 전 갱신 — 건너뜀"; fi
+
+      - name: 네 과목 뉴스 수집 (번역 · 섬네일 포함)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TZ: Asia/Seoul
+        run: npm run collect
+
+      # 인스타그램·페이스북은 서버 IP 에서 로그인 화면만 나올 수 있음 → 실패해도 이전 카드를 그대로 두고 계속 (PC 예약 작업이 보완)
+      - name: 인스타그램·페이스북 게시물 수집 (되면 갱신)
+        run: npm run collect:sns || echo "SNS 수집 건너뜀"
+
+      - name: 수집 결과 저장
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add subjects/*/data subjects/*/public/social
+          git diff --cached --quiet || git commit -m "chore: 뉴스 수집 $(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M')"
+          # 그 사이 다른 커밋(PC 예약 작업 등)이 올라왔으면 그 위에 다시 얹어서 올림 (충돌 시 방금 수집한 쪽을 택함)
+          git push || (git pull --rebase -X theirs && git push)
+
+      - name: 정적 사이트 빌드
         env:
           STATIC_EXPORT: '1'
           BASE_PATH: /${{ github.event.repository.name }}
@@ -49,7 +100,7 @@ jobs:
 
       - uses: actions/configure-pages@v5
         with:
-          enablement: true # 저장소에 Pages 가 아직 안 켜져 있으면 자동으로 켬
+          enablement: true
       - uses: actions/upload-pages-artifact@v3
         with:
           path: out
