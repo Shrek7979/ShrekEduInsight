@@ -51,6 +51,9 @@ function articleImage(url?: string) {
   return /^https:\/\/www\.bing\.com\/th\?/.test(secure) && !/[?&]w=/.test(secure) ? `${secure}&w=800` : secure
 }
 
+// 개인 소식(부고, 임명·위촉, 취임·퇴임, 인사 발령 등)은 싣지 않음. '선임연구원' 같은 직급은 남김
+const PERSONAL_NEWS = /부고|별세|타계|영면|빈소|발인|장례|추도식|추모식|조문|부음|訃|임명|위촉|임용장|수여식|취임|이임식|퇴임|승진|인사\s?발령|인사이동|전보\s?발령|\[인사\]|\[동정\]|내정|화촉|결혼식|선임(?!연구|기자|병|원)|obituar|in memoriam|passed away|\b(dies|died|dead) at \d|funeral|\bappointed\b|\bnamed (new |as )?(president|director|dean|chair|head|editor|ceo)\b|\bretire(s|ment)\b|steps down/i
+
 const normalize = (text?: string) => (text || '').toLowerCase().replace(/[^0-9a-z가-힣]/g, '')
 const videoId = (link: string) => link.match(/(?:v=|shorts\/|youtu\.be\/)([\w-]{11})/)?.[1]
 
@@ -62,6 +65,7 @@ export function combine(data: SubjectData[]): Combined {
   const items: FeedItem[] = []
 
   const add = (subject: Subject, raw: RawItem, isPost: boolean) => {
+    if (PERSONAL_NEWS.test(`${raw.title} ${raw.titleKo || ''}`)) return
     const titles = [normalize(raw.title), normalize(raw.titleKo)].filter((t) => t.length >= 6)
     // 인스타그램·페이스북 글이 이미 있는 유튜브 영상을 소개하는 것이면 뺌 (예: 같은 영상의 릴스)
     if (isPost && raw.refs?.some((id) => videoIds.has(id))) return
