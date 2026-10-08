@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-10-08T18:57:43.805Z",
+  "updatedAt": "2026-10-08T19:57:06.456Z",
   "items": [
+    {
+      "id": "ad4a1c10e460",
+      "kind": "news",
+      "lang": "ko",
+      "title": "[노벨상 2026] 불가능 취급받던 남극 얼음 '유령입자' 검출, 물리학상 단독 수상(종합)",
+      "summary": "스웨덴 왕립과학원 노벨위원회는 6일 (현지시간) 2026년 노벨물리학상 수상자로 프랜시스 할젠…",
+      "detail": "스웨덴 왕립과학원 노벨위원회는 6일 (현지시간) 2026년 노벨물리학상 수상자로 프랜시스 할젠 (82) 미국 위스콘신 매디슨대 교수를 선정했다고 발표했다. 노벨위원회는 할젠 교수가 \"아이스큐브 중성미자 관측소와 천체물리학적 기원의 고에너지 중성미자…",
+      "link": "https://www.dongascience.com/ko/news/80214",
+      "source": "동아사이언스",
+      "image": "http://www.bing.com/th?id=ONUT.rrSu12B5mPAqoOrEXgBRSA&pid=News",
+      "category": "양자·첨단",
+      "publishedAt": "2026-10-06T12:56:00.000Z",
+      "collectedAt": "2026-10-08T19:57:06.456Z",
+      "thumb": "/thumbs/ad4a1c10e460.png"
+    },
     {
       "id": "35c617de64c0",
       "kind": "news",
@@ -2416,20 +2431,6 @@
       "publishedAt": "2026-10-05T23:35:00.000Z",
       "collectedAt": "2026-10-06T12:16:03.778Z",
       "thumb": "/thumbs/601753eae096.jpg"
-    },
-    {
-      "id": "8439fc73219b",
-      "kind": "news",
-      "lang": "ko",
-      "title": "남극 얼음 2km 지하서 포착한 '우주 비밀'···<br>'중성미자 연구' 美 할슨 교수, 노벨물리학상 수상",
-      "summary": "남극 얼음 2km 아래에 거대한 검출기를 설치해 우주에서 날아오는 고에너지 중성미자를 포착한 연구가…",
-      "detail": "남극 얼음 2km 아래에 거대한 검출기를 설치해 우주에서 날아오는 고에너지 중성미자를 포착한 연구가 올해 노벨물리학상을 받았다. 단독 수상이다. 눈에 보이지 않고 지구를 거의 그대로 통과하는 중성미자를 통해 기존의 천문 관측으로는 알기 어려웠던…",
-      "link": "http://www.hellodd.com/news/articleView.html?idxno=113411",
-      "source": "헬로디디",
-      "category": "우주·천문",
-      "publishedAt": "2026-10-06T10:52:27.000Z",
-      "collectedAt": "2026-10-06T11:16:07.087Z",
-      "thumb": "/thumbs/8439fc73219b.png"
     }
   ]
 }

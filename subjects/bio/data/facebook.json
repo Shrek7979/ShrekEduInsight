@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T19:00:27.957Z",
+  "updatedAt": "2026-10-08T19:59:26.672Z",
   "items": [
     {
       "id": "fb-a8958d101fe8",
@@ -392,6 +392,23 @@
       "collectedAt": "2026-10-08T15:59:47.802Z",
       "titleKo": "글쎄, 우리는 유사분열 비디오를 업데이트했고 이제 업데이트된 감수분열 비디오를 공개할 시간이었습니다!",
       "summaryKo": "scr을 찾을 수 있습니다.",
+      "translator": "google"
+    },
+    {
+      "id": "fb-d488c32f6e21",
+      "kind": "news",
+      "lang": "en",
+      "title": "NEW VIDEO",
+      "summary": "",
+      "link": "https://www.facebook.com/periodicvideos/posts/pfbid02GSwCrXWDUtwfBZS9sLrNj9qhK2cUA26WkY3hp7px5GxgwHG6F1VakzMNTVcKTXeFl",
+      "source": "Facebook Cell Press",
+      "category": "인기",
+      "publishedAt": "2026-09-11T12:00:00.000Z",
+      "thumb": "/social/fb/fb-d488c32f6e21.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-08T19:59:26.672Z",
+      "titleKo": "새 비디오",
+      "summaryKo": "",
       "translator": "google"
     }
   ]

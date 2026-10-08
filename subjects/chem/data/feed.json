@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-08T18:57:43.733Z",
+  "updatedAt": "2026-10-08T19:57:06.380Z",
   "items": [
+    {
+      "id": "c1b5e4db3a54",
+      "kind": "news",
+      "lang": "en",
+      "title": "Opinion: I gave a chemistry lecture in a bar. It was a revelation",
+      "summary": "I discovered adults eager to learn",
+      "detail": "I discovered adults eager to learn. Let's do more to reach them",
+      "link": "https://cen.acs.org/education/outreach/organic-chemistry-public-outreach-engagement-communication/104/web/2026/10?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
+      "source": "C&EN",
+      "category": "해외",
+      "publishedAt": "2026-10-08T18:45:50.000Z",
+      "collectedAt": "2026-10-08T19:57:06.380Z",
+      "titleKo": "의견: 나는 술집에서 화학 강의를 했다. 그것은 폭로였습니다",
+      "summaryKo": "배우고 싶어하는 어른들을 발견했어요",
+      "translator": "google",
+      "detailKo": "나는 배우고 싶어하는 어른들을 발견했습니다. 그들에게 다가가기 위해 더 많은 노력을 합시다",
+      "thumb": "/thumbs/c1b5e4db3a54.webp"
+    },
     {
       "id": "47e40bec1398",
       "kind": "news",
@@ -12,9 +30,9 @@
       "source": "C&EN",
       "category": "해외",
       "publishedAt": "2026-10-08T15:19:22.000Z",
-      "collectedAt": "2026-10-08T18:57:43.733Z",
+      "collectedAt": "2026-10-08T19:57:06.380Z",
       "titleKo": "'분석화학' 차기 편집장 임명",
-      "summaryKo": "크리스티 L",
+      "summaryKo": "크리스티 엘",
       "translator": "google",
       "detailKo": "미네소타 대학의 Christy L. Haynes 교수가 2027년 1월 1일부터 저널을 이끌게 됩니다.",
       "thumb": "/thumbs/47e40bec1398.webp"
@@ -2414,24 +2432,6 @@
       "publishedAt": "2026-10-05T23:40:00.000Z",
       "collectedAt": "2026-10-06T12:31:04.964Z",
       "thumb": "/thumbs/d3b5d354b118.jpg"
-    },
-    {
-      "id": "bsky-3mx7b3pw6722y",
-      "kind": "news",
-      "lang": "en",
-      "title": "The 2026 in Physics has been awarded to Francis Halzen “for decisive contributions to the…",
-      "summary": "IceCube Neutrino Observatory and the discovery of…",
-      "link": "https://bsky.app/profile/cenmag.bsky.social/post/3mx7b3pw6722y",
-      "source": "Bluesky C&EN",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u4u4yeik2uube2g6ov7wr35p/bafkreich7elrunjhureehev6ertoukxs5hpbuueoklkiwgsy2qkvkpelxa",
-      "likes": "7",
-      "category": "인기",
-      "publishedAt": "2026-10-06T10:50:13.028Z",
-      "collectedAt": "2026-10-06T11:31:05.020Z",
-      "titleKo": "2026년 물리학상은 “과학 분야에 결정적인 공헌을 한 공로로 Francis Halzen에게 수여되었습니다.",
-      "summaryKo": "아이스큐브 중성미자 천문대와 발견…",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mx7b3pw6722y.webp"
     }
   ]
 }
