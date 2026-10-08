@@ -26,6 +26,8 @@ export type FeedItem = {
   translator?: 'claude' | 'google' | 'mymemory'
   // 날짜가 의미 없는 고정 카드 (인스타·페이스북 바로가기 등)
   evergreen?: boolean
+  // 수업 활용 방안 1~2문장 (scripts/add-lessons.mjs 가 Claude 로 만들어 lessons.json 에 저장)
+  lesson?: string
 }
 
 export type Feed = { updatedAt: string | null; items: FeedItem[] }

@@ -1,7 +1,7 @@
 # 약 1시간마다 수학·물리·화학·생명과학 소식을 모아 GitHub Pages 에 배포합니다.
 # 과목마다 subjects/<과목> 폴더에 그 과목의 수집기·데이터·SNS 그림이 있고, scripts/collect-all.mjs 가 네 과목을 동시에 돌립니다.
 # 저장소 Settings → Pages → Source 를 "GitHub Actions" 로 한 번만 바꿔 주면 됩니다.
-# (선택) Settings → Secrets 에 ANTHROPIC_API_KEY 를 넣으면 해외 기사를 Claude 가 번역·요약합니다.
+# (선택) Settings → Secrets 에 ANTHROPIC_API_KEY 를 넣으면 해외 기사를 Claude 가 번역·요약하고, 카드마다 '수업 활용'을 붙입니다.
 name: Collect & Publish
 
 on:
@@ -77,6 +77,12 @@ jobs:
       # 인스타그램·페이스북은 서버 IP 에서 로그인 화면만 나올 수 있음 → 실패해도 이전 카드를 그대로 두고 계속 (PC 예약 작업이 보완)
       - name: 인스타그램·페이스북 게시물 수집 (되면 갱신)
         run: npm run collect:sns || echo "SNS 수집 건너뜀"
+
+      # 새 카드마다 '수업 활용' 한두 문장을 Claude 로 만듦 (ANTHROPIC_API_KEY 가 없으면 건너뜀, 실패해도 배포는 계속)
+      - name: 수업 활용 만들기
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node scripts/add-lessons.mjs || echo "수업 활용 만들기 건너뜀"
 
       - name: 수집 결과 저장
         run: |

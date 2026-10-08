@@ -163,7 +163,15 @@ export function NewsCard({ item, isNew, saved, onSave, onShare, eager }: NewsCar
         <div className="mt-2 min-h-0 flex-1 overflow-hidden">
           <h2 className="line-clamp-3 break-keep text-[1.5rem] font-bold leading-[1.36] tracking-[-0.02em] [text-wrap:balance]">{title}</h2>
           {translated && <p className="mt-1.5 line-clamp-1 text-[13px] text-white/35">{item.title}</p>}
-          {summary && <p className="mt-3 line-clamp-3 break-keep text-[15px] leading-relaxed text-white/60">{summary}</p>}
+          {summary && (
+            <p className={`mt-3 break-keep text-[15px] leading-relaxed text-white/60 ${item.lesson ? 'line-clamp-2' : 'line-clamp-3'}`}>{summary}</p>
+          )}
+          {item.lesson && (
+            <p className="mt-3 line-clamp-3 break-keep rounded-xl border border-amber-300/15 bg-amber-300/[0.06] px-3 py-2 text-[14px] leading-relaxed text-white/75">
+              <span className="mr-1.5 font-semibold text-amber-300">💡 수업 활용</span>
+              {item.lesson}
+            </p>
+          )}
         </div>
 
         <div className="mt-3 flex items-center gap-2">

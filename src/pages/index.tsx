@@ -57,6 +57,7 @@ export const getStaticProps: GetStaticProps<Props> = async () => {
         ...(await read<{ items: SubjectData['posts'] }>(key, 'facebook.json', { items: [] })).items,
       ],
       topics: await read<SubjectData['topics']>(key, 'topics.json', []),
+      lessons: (await read<{ lessons: SubjectData['lessons'] }>(key, 'lessons.json', { lessons: {} })).lessons,
     }))
   )
   return { props: { initial: combine(data), dayIndex: Math.floor(Date.now() / (24 * 60 * 60 * 1000)) } }
@@ -154,7 +155,7 @@ export default function ReelsPage({ initial, dayIndex }: Props) {
     // 검색어가 있으면 칩과 상관없이 전체에서 찾음
     if (keyword) {
       return inLevel.filter((item) =>
-        `${item.title} ${item.titleKo || ''} ${item.summary} ${item.summaryKo || ''} ${item.detail || ''} ${item.detailKo || ''} ${item.source}`.toLowerCase().includes(keyword)
+        `${item.title} ${item.titleKo || ''} ${item.summary} ${item.summaryKo || ''} ${item.detail || ''} ${item.detailKo || ''} ${item.lesson || ''} ${item.source}`.toLowerCase().includes(keyword)
       )
     }
     if (category === ALL) return inLevel
