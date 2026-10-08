@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-10-08T14:57:42.378Z",
+  "updatedAt": "2026-10-08T15:57:04.923Z",
   "items": [
+    {
+      "id": "fbc99f917e7e",
+      "kind": "news",
+      "lang": "ko",
+      "title": "국립생물자원관, 국제표준 식물소재 제공",
+      "summary": "김인성 기자 = 국립생물자원관이 국제표준에 기반한 식물소재를 산업계에 본격적으로…",
+      "detail": "김인성 기자 = 국립생물자원관이 국제표준에 기반한 식물소재를 산업계에 본격적으로 제공한다.기후에너지환경부 소속 국립생물자원관은 국가야생생물소재은행이 지난 6일 한국인정기구(KOLAS)로부터 ‘공인생물자원은행(KS J ISO 20387)’으로…",
+      "link": "https://www.hkbs.co.kr/news/articleView.html?idxno=834918",
+      "source": "환경일보",
+      "image": "http://www.bing.com/th?id=ONUT.SjV4VO6i1TdXWYsugHUkEQ&pid=News",
+      "category": "교육",
+      "publishedAt": "2026-10-08T01:51:00.000Z",
+      "collectedAt": "2026-10-08T15:57:04.923Z",
+      "thumb": "/thumbs/fbc99f917e7e.png"
+    },
+    {
+      "id": "e1a47382b76d",
+      "kind": "news",
+      "lang": "en",
+      "title": "Editorial Expression of Concern: Maternal gut bacteria promote neurodevelopmental…",
+      "summary": "",
+      "detail": "",
+      "link": "https://www.nature.com/articles/s41586-026-11070-w",
+      "source": "Nature",
+      "category": "해외",
+      "publishedAt": "2026-10-08T00:00:00.000Z",
+      "collectedAt": "2026-10-08T15:57:04.923Z",
+      "titleKo": "편집 우려 표현: 산모의 장내 세균이 신경 발달을 촉진합니다…",
+      "summaryKo": "",
+      "translator": "google",
+      "thumb": "/thumbs/e1a47382b76d.png"
+    },
     {
       "id": "991377382dfa",
       "kind": "news",
@@ -2345,39 +2377,6 @@
       "publishedAt": "2026-10-06T14:41:00.000Z",
       "collectedAt": "2026-10-07T04:46:23.139Z",
       "thumb": "/thumbs/9dca3dfcb9e4.png"
-    },
-    {
-      "id": "580fbbdbf40e",
-      "kind": "news",
-      "lang": "ko",
-      "title": "세포내 반응 조절 '생체분자 응축체' 형성 원리 규명",
-      "summary": "UNIST를 포함한 공동 연구팀이 세포질을 떠다니는 단백질과 RNA 등이 모여 생기는 '생체분자…",
-      "detail": "UNIST를 포함한 공동 연구팀이 세포질을 떠다니는 단백질과 RNA 등이 모여 생기는 '생체분자 응축체'의 형성 원리를 밝혀냈다. 이동욱 UNIST 교수팀과 최수형 홍익대 교수팀, 허수미 DGIST 교수팀은 단백질을 모방한 합성 소재에서 분자에 달린…",
-      "link": "https://www.etnews.com/20261006000096",
-      "source": "전자신문",
-      "category": "의학·바이오",
-      "publishedAt": "2026-10-06T03:23:00.000Z",
-      "collectedAt": "2026-10-07T04:46:23.139Z",
-      "thumb": "/thumbs/580fbbdbf40e.jpg"
-    },
-    {
-      "id": "2c197ef4db2b",
-      "kind": "news",
-      "lang": "en",
-      "title": "How Virus-like ‘Jumping Genes’ Became Our Partners in Evolution",
-      "summary": "Half of our genome is made of transposons — snips of…",
-      "detail": "Half of our genome is made of transposons — snips of DNA that can move and copy themselves. But they’re more than parasites or genetic junk.",
-      "link": "https://www.quantamagazine.org/how-virus-like-jumping-genes-became-our-partners-in-evolution-20260921/",
-      "source": "Quanta Magazine",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/OurViralGenome-crSamuelVelasco-Default.webp",
-      "category": "해외",
-      "publishedAt": "2026-09-21T14:12:36.000Z",
-      "collectedAt": "2026-10-07T03:49:15.292Z",
-      "titleKo": "바이러스와 같은 '점핑 유전자'가 진화의 파트너가 된 방법",
-      "summaryKo": "우리 게놈의 절반은 트랜스포손으로 구성되어 있습니다",
-      "translator": "google",
-      "detailKo": "우리 게놈의 절반은 트랜스포손(스스로 움직이고 복제할 수 있는 DNA 조각)으로 구성되어 있습니다. 하지만 그것들은 기생충이나 유전적 쓰레기 그 이상입니다.",
-      "thumb": "/thumbs/2c197ef4db2b.jpg"
     }
   ]
 }

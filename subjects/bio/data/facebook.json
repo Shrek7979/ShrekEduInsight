@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-08T15:00:06.543Z",
+  "updatedAt": "2026-10-08T15:59:47.802Z",
   "items": [
+    {
+      "id": "fb-385fb8ba8534",
+      "kind": "news",
+      "lang": "en",
+      "title": "Neuron continues its landmark three-part series on neuroscience and AI with “Neuroscience and AI: Emerging Synergies”.",
+      "summary": "",
+      "link": "https://www.facebook.com/cellpress/posts/pfbid02zRSruAR6rqoBx1CAehLFkrMooaVYFXG6s16YcXZQrVBwxpQ14U5fAryo5RHc5esil",
+      "source": "Facebook Cell Press",
+      "category": "인기",
+      "publishedAt": "2026-10-08T15:04:06.432Z",
+      "thumb": "/social/fb/fb-385fb8ba8534.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-08T15:59:47.802Z",
+      "titleKo": "Neuron은 \"신경과학과 AI: 새로운 시너지 효과(Neuroscience and AI: Emerging Synergies)\"를 통해 신경과학과 AI에 대한 획기적인 3부작 시리즈를 이어갑니다.",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-e4f4eafacee8",
       "kind": "news",
@@ -325,20 +342,20 @@
       "translator": "google"
     },
     {
-      "id": "fb-1925045d4500",
+      "id": "fb-714880b96915",
       "kind": "news",
       "lang": "en",
       "title": "Well, we had updated our mitosis video, and it was time to RELEASE our updated meiosis video!",
       "summary": "You'll find the scr",
-      "link": "https://www.facebook.com/AmoebaSisters/posts/pfbid0vDagZpzXEy7FbFWoH7tPUJ1E9VPxSR7F8JpPwjmjVYisuYj5mWJ9qcf63Z9hLqe1l",
+      "link": "https://www.facebook.com/AmoebaSisters/posts/pfbid02z52PkVvM6JzFGmVQRyPC4ph4GzjQo36XJFFGdwBMS92z79iTXPMcgMbbZ6ksXFZyl",
       "source": "Facebook The Amoeba Sisters",
       "category": "인기",
       "publishedAt": "2026-09-30T12:00:00.000Z",
-      "thumb": "/social/fb/fb-1925045d4500.jpg",
+      "thumb": "/social/fb/fb-714880b96915.jpg",
       "refs": [
         "I-sucvMV0Ng"
       ],
-      "collectedAt": "2026-10-07T15:46:07.529Z",
+      "collectedAt": "2026-10-08T15:59:47.802Z",
       "titleKo": "글쎄, 우리는 유사분열 비디오를 업데이트했고 이제 업데이트된 감수분열 비디오를 공개할 시간이었습니다!",
       "summaryKo": "scr을 찾을 수 있습니다.",
       "translator": "google"

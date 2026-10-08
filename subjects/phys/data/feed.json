@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-10-08T14:57:42.341Z",
+  "updatedAt": "2026-10-08T15:57:04.945Z",
   "items": [
+    {
+      "id": "bsky-3mxeqym2pc22b",
+      "kind": "news",
+      "lang": "en",
+      "title": "In our latest podcast we explore why neutrinos are the subject of so many physics Nobel prizes 🧪⚛️",
+      "summary": "Francis Halzen and IceCube: why neutrinos keep…",
+      "link": "https://bsky.app/profile/physicsworld.bsky.social/post/3mxeqym2pc22b",
+      "source": "Bluesky Physics World",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:chuorfc5xbxvtvn53cqjvmov/bafkreiaiv6jhgj56usr6vamuwr52sxvs5nltt3wwsqizlufsbmbacdrw74",
+      "likes": "2",
+      "category": "인기",
+      "publishedAt": "2026-10-08T15:18:06.880Z",
+      "collectedAt": "2026-10-08T15:57:04.945Z",
+      "titleKo": "최신 팟캐스트에서는 중성미자가 왜 그렇게 많은 물리학 노벨상의 주제인지 알아봅니다 🧪⚛️",
+      "summaryKo": "Francis Halzen 및 IceCube: 중성미자가 계속 유지되는 이유",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxeqym2pc22b.webp"
+    },
+    {
+      "id": "6d8be8c0f04b",
+      "kind": "news",
+      "lang": "en",
+      "title": "Optogenetic therapy shows promise for vision restoration",
+      "summary": "Researchers report encouraging findings from the first…",
+      "detail": "Researchers report encouraging findings from the first clinical cohort of blind people treated with optogenetic therapy The post…",
+      "link": "https://physicsworld.com/a/optogenetic-therapy-shows-promise-for-vision-restoration/",
+      "source": "Physics World",
+      "category": "해외",
+      "publishedAt": "2026-10-08T15:00:34.000Z",
+      "collectedAt": "2026-10-08T15:57:04.945Z",
+      "titleKo": "광유전학적 치료는 시력 회복에 대한 가능성을 보여줍니다",
+      "summaryKo": "연구원들은 첫 번째 연구에서 고무적인 결과를 보고했습니다",
+      "translator": "google",
+      "detailKo": "연구자들은 광유전학 치료를 받은 시각 장애인의 첫 번째 임상 코호트에서 고무적인 결과를 보고합니다.",
+      "thumb": "/thumbs/6d8be8c0f04b.jpg"
+    },
     {
       "id": "190c02b4739a",
       "kind": "news",
@@ -2393,35 +2429,6 @@
       "publishedAt": "2026-10-05T22:56:00.000Z",
       "collectedAt": "2026-10-06T11:16:07.087Z",
       "thumb": "/thumbs/ad4a1c10e460.png"
-    },
-    {
-      "id": "73cffe493100",
-      "kind": "news",
-      "lang": "ko",
-      "title": "노벨물리학상에 ‘중성미자 관측’ 할젠…34년 만 단독수상",
-      "summary": "GoodNews paper ⓒ 국민일보(www.kmib.co.kr), 무단전재, 수집, 재배포 및…",
-      "detail": "GoodNews paper ⓒ 국민일보(www.kmib.co.kr), 무단전재, 수집, 재배포 및 AI학습 이용 금지 ...",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000020342",
-      "source": "국민일보",
-      "image": "http://www.bing.com/th?id=ONUT.VqXXlZfz1Bz84tdXN0KRjA&pid=News",
-      "category": "연구",
-      "publishedAt": "2026-10-05T22:36:00.000Z",
-      "collectedAt": "2026-10-06T11:16:07.087Z",
-      "thumb": "/thumbs/73cffe493100.jpg"
-    },
-    {
-      "id": "496b495a581b",
-      "kind": "news",
-      "lang": "ko",
-      "title": "[2026 노벨상-속보] 물리학상, 고에너지 중성미자 발견한 할젠 미국 교수",
-      "summary": "스웨덴 왕립 과학 아카데미는 2026년 노벨물리학상 수상자로 프랜시스 할젠 (Francis…",
-      "detail": "스웨덴 왕립 과학 아카데미는 2026년 노벨물리학상 수상자로 프랜시스 할젠 (Francis Halzen)미국 위스콘신-메디슨대 교수를 선정했다. 할젠 교수는 ‘아이스큐브 중성미자 관측소에 대한 결정적 공헌과 천체 물리학적 기원의 고에너지 중성미자…",
-      "link": "https://www.inews24.com/view/2012339",
-      "source": "아이뉴스24",
-      "category": "연구",
-      "publishedAt": "2026-10-05T23:56:00.000Z",
-      "collectedAt": "2026-10-06T10:17:46.469Z",
-      "thumb": "/thumbs/496b495a581b.jpg"
     }
   ]
 }
