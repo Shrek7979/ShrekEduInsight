@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-10-08T12:57:26.924Z",
+  "updatedAt": "2026-10-08T13:57:53.184Z",
   "items": [
+    {
+      "id": "573d5d183333",
+      "kind": "news",
+      "lang": "ko",
+      "title": "경희대-서강대 공동연구팀, 미생물·나무 성분 결합한 친환경 고무 개발…강도 4배·내열성↑",
+      "summary": "【뉴스퀘스트=장원수 기자】경희대학교 (총장 김진상) 화학공학과 이은열 교수 연구팀과 서강대학교…",
+      "detail": "【뉴스퀘스트=장원수 기자】경희대학교 (총장 김진상) 화학공학과 이은열 교수 연구팀과 서강대학교 화공생명공학과 박제영 교수 연구팀이 미생물이 만든 친환경 바이오플라스틱과 나무 성분인 리그닌을 함께 활용해 뛰어난 성능을 가진 친환경 폴리우레탄 고무…",
+      "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=302195",
+      "source": "뉴스퀘스트",
+      "image": "http://www.bing.com/th?id=ONUT.44CHcNOYv1ZXq0WkA8ZbTw&pid=News",
+      "category": "연구",
+      "publishedAt": "2026-10-07T08:57:00.000Z",
+      "collectedAt": "2026-10-08T13:57:53.184Z",
+      "thumb": "/thumbs/573d5d183333.jpg"
+    },
     {
       "id": "fc897ff895bf",
       "kind": "news",
@@ -2356,21 +2371,6 @@
       "publishedAt": "2026-10-06T15:00:00.000Z",
       "collectedAt": "2026-10-07T03:46:57.838Z",
       "thumb": "/thumbs/bef7ef7d9d2c.jpg"
-    },
-    {
-      "id": "d9a74f5d0eeb",
-      "kind": "news",
-      "lang": "ko",
-      "title": "국과수 유전자 검사로 실종아동 가족관계 확인 1000건 달성",
-      "summary": "【베이비뉴스 이유주 기자】국립과학수사연구원이 유전자 분석을 통해 실종아동 등의 가족관계를 확인한…",
-      "detail": "【베이비뉴스 이유주 기자】국립과학수사연구원이 유전자 분석을 통해 실종아동 등의 가족관계를 확인한 사례가 1000건을 넘어섰다. 22년간 이어진 유전자 검사와 관계기관 협업을 통해 실종아동뿐 아니라 지적장애인과 치매 노인 등의 가족 찾기에도 성과를…",
-      "link": "https://www.ibabynews.com/news/articleView.html?idxno=155036",
-      "source": "베이비뉴스",
-      "image": "http://www.bing.com/th?id=ONUT.gCuU9ICkuv7-LUWC-v2qnw&pid=News",
-      "category": "의학·바이오",
-      "publishedAt": "2026-10-06T14:55:00.000Z",
-      "collectedAt": "2026-10-07T03:46:57.838Z",
-      "thumb": "/thumbs/d9a74f5d0eeb.jpg"
     }
   ]
 }

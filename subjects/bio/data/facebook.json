@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-08T11:59:52.651Z",
+  "updatedAt": "2026-10-08T14:00:16.658Z",
   "items": [
+    {
+      "id": "fb-e4f4eafacee8",
+      "kind": "news",
+      "lang": "en",
+      "title": "Nexus has reached a significant milestone: indexing in the Web of Science and will receive a first Impact Factor in 2027.",
+      "summary": "Learn more in an interview with founding edito",
+      "link": "https://www.facebook.com/cellpress/posts/pfbid0KUse2FHJWymcLspB1YKDoB4gj95CCUDQmaa3GDs2PJ3QnhNxGwkYaj5pA6XqvLEhl",
+      "source": "Facebook Cell Press",
+      "category": "인기",
+      "publishedAt": "2026-10-08T13:30:36.682Z",
+      "thumb": "/social/fb/fb-e4f4eafacee8.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-08T14:00:16.658Z",
+      "titleKo": "Nexus는 Web of Science의 색인 생성이라는 중요한 이정표에 도달했으며 2027년에 첫 번째 Impact Factor를 받게 됩니다.",
+      "summaryKo": "창립 편집자와의 인터뷰에서 자세히 알아보세요.",
+      "translator": "google"
+    },
     {
       "id": "fb-96f3d68a029c",
       "kind": "news",

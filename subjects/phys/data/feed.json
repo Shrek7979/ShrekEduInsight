@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-10-08T12:57:26.896Z",
+  "updatedAt": "2026-10-08T13:57:53.261Z",
   "items": [
+    {
+      "id": "bsky-3mxemftpz6723",
+      "kind": "news",
+      "lang": "en",
+      "title": "GPS spoofing, the practice of falsifying location data, is becoming more common and harder to prevent, writes @sarah-wells.bsky.social`.",
+      "summary": "Researchers have proposed and tested a new approach…",
+      "link": "https://bsky.app/profile/physicstoday.aip.org/post/3mxemftpz6723",
+      "source": "Bluesky Physics Today",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ha7rj6xz2t4h6vw3c2fyfskr/bafkreievlmr4lwxskjmh573yemxbvzoiqx7ylm3sg65k5vmqxrw2lpic7y",
+      "category": "인기",
+      "publishedAt": "2026-10-08T13:56:02.400Z",
+      "collectedAt": "2026-10-08T13:57:53.261Z",
+      "titleKo": "위치 데이터를 위조하는 관행인 GPS 스푸핑이 점점 더 일반화되고 예방하기가 더 어려워지고 있다고 @sarah-wells.bsky.social`에 적었습니다.",
+      "summaryKo": "연구원들은 새로운 접근 방식을 제안하고 테스트했습니다…",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxemftpz6723.webp"
+    },
+    {
+      "id": "d62007325268",
+      "kind": "news",
+      "lang": "ko",
+      "title": "CHARLTON ARIA ACQUISITIO, 韓 양자기업 KQC와 합병 추진..가치 8000만 달러",
+      "summary": "합병 대상과 구체적인 거래 조건이 처음 공개된 점은 의미가 있어요",
+      "detail": "합병 대상과 구체적인 거래 조건이 처음 공개된 점은 의미가 있어요. 다만 사전 기업가치가 신탁 규모보다 작고, 상환율이 높으면 유입 현금이 크게 줄어들 수 있어요. 재무 미감사와 초기 사업 단계, 희석 부담도 있어 향후 상환 규모와 S-4 공시를…",
+      "link": "https://stock.mk.co.kr/news/view/1172031",
+      "source": "매일경제 증권",
+      "image": "http://www.bing.com/th?id=ONUT.nMIgM30rRChpPWyhAKLBMQ&pid=News",
+      "category": "양자·첨단",
+      "publishedAt": "2026-10-08T01:16:00.000Z",
+      "collectedAt": "2026-10-08T13:57:53.261Z",
+      "thumb": "/thumbs/d62007325268.png"
+    },
     {
       "id": "96dce17f95f0",
       "kind": "news",
@@ -2392,42 +2424,6 @@
       "summaryKo": "여러 실험에 대한 @physicstoday.aip.org…",
       "translator": "google",
       "thumb": "/thumbs/bsky-3mx75ywcd6c24.webp"
-    },
-    {
-      "id": "bsky-3mx75x5rkcs2l",
-      "kind": "news",
-      "lang": "en",
-      "title": "This year's in Physics has gone to Francis Halzen \"for decisive contributions to the…",
-      "summary": "IceCube Neutrino Observatory and the discovery of…",
-      "link": "https://bsky.app/profile/physicsworld.bsky.social/post/3mx75x5rkcs2l",
-      "source": "Bluesky Physics World",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:chuorfc5xbxvtvn53cqjvmov/bafkreignhtialhw327rah4hlk5bikbre5oycqqetaismq32z4iafxtmxdm",
-      "likes": "8",
-      "category": "인기",
-      "publishedAt": "2026-10-06T09:53:58.559Z",
-      "collectedAt": "2026-10-06T10:16:03.141Z",
-      "titleKo": "올해 물리학상은 \"결정적인 공헌을 한 Francis Halzen에게 돌아갔습니다.…",
-      "summaryKo": "아이스큐브 중성미자 천문대와 발견…",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mx75x5rkcs2l.webp"
-    },
-    {
-      "id": "7bdcfeed6f61",
-      "kind": "news",
-      "lang": "en",
-      "title": "Francis Halzen wins Nobel Prize in Physics",
-      "summary": "Astrophysicist wins for his work detecting cosmic…",
-      "detail": "Astrophysicist wins for his work detecting cosmic neutrinos The post Francis Halzen wins Nobel Prize in Physics appeared first on Physics…",
-      "link": "https://physicsworld.com/a/francis-halzen-wins-nobel-prize-in-physics/",
-      "source": "Physics World",
-      "category": "해외",
-      "publishedAt": "2026-10-06T09:52:32.000Z",
-      "collectedAt": "2026-10-06T10:16:03.141Z",
-      "titleKo": "프란시스 할젠(Francis Halzen)이 노벨 물리학상을 수상했습니다.",
-      "summaryKo": "천체물리학자, 우주탐사 연구로 승리…",
-      "translator": "google",
-      "detailKo": "우주 중성미자 탐지 연구로 천체물리학자 승리 프란시스 할젠(Francis Halzen)이 노벨 물리학상을 수상한 포스트가 물리학에 처음 등장…",
-      "thumb": "/thumbs/7bdcfeed6f61.jpg"
     }
   ]
 }

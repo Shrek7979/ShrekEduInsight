@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-10-08T12:57:26.895Z",
+  "updatedAt": "2026-10-08T13:57:53.406Z",
   "items": [
+    {
+      "id": "99b5ca1b975e",
+      "kind": "news",
+      "lang": "ko",
+      "title": "노벨화학상 수상에 기쁜 日…오늘 문학상도 하루키 등 수상 기대",
+      "summary": "김예진 기자 = 지난 7일 일본인이 노벨화학상을 수상하면서 축제 분위기인 일본이 8일 발표될…",
+      "detail": "김예진 기자 = 지난 7일 일본인이 노벨화학상을 수상하면서 축제 분위기인 일본이 8일 발표될 노벨문학상에서도 일본인 수상자가 나오기를 기대하는 분위기다.8일 현지 공영 NHK는 이날 오후 스웨덴 왕립과학원 노벨위원회가 노벨문학상을 발표한다면서,…",
+      "link": "https://www.newsis.com/view/NISX20261008_0003818782",
+      "source": "뉴시스",
+      "image": "http://www.bing.com/th?id=ONUT.YdwV2O86ck9jdPBcoK_Glg&pid=News",
+      "category": "대회·행사",
+      "publishedAt": "2026-10-08T06:08:00.000Z",
+      "collectedAt": "2026-10-08T13:57:53.406Z",
+      "thumb": "/thumbs/99b5ca1b975e.jpg"
+    },
     {
       "id": "56e192daf225",
       "kind": "news",
@@ -2406,20 +2421,6 @@
       "publishedAt": "2026-10-05T22:28:18.000Z",
       "collectedAt": "2026-10-06T07:31:12.842Z",
       "thumb": "/thumbs/93b7c6969e6f.jpg"
-    },
-    {
-      "id": "23817d2f04ed",
-      "kind": "news",
-      "lang": "ko",
-      "title": "충북대 신소재공학과, SK온과 차세대 단결정 양극재 설계기술 개발",
-      "summary": "충북대학교가 SK온과의 산학공동연구를 통해 전기차 배터리 성능 저하를 개선할 수 있는 설계 기술을…",
-      "detail": "충북대학교가 SK온과의 산학공동연구를 통해 전기차 배터리 성능 저하를 개선할 수 있는 설계 기술을 개발했습니다.충북대 신소재공학과 박기대 교수 연구팀은 노즐 타입 분무열분해공정으로 내부 결정립계를 최소화한 미드니켈 단결정 양극제 제조 설계기술을…",
-      "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4110585",
-      "source": "BBS NEWS",
-      "category": "소재·에너지",
-      "publishedAt": "2026-10-05T19:00:00.000Z",
-      "collectedAt": "2026-10-06T07:31:12.842Z",
-      "thumb": "/thumbs/23817d2f04ed.png"
     }
   ]
 }
