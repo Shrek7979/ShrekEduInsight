@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-08T15:59:47.802Z",
+  "updatedAt": "2026-10-08T17:01:05.349Z",
   "items": [
+    {
+      "id": "fb-c7531eba7f17",
+      "kind": "news",
+      "lang": "en",
+      "title": "Population declines and changes in community composition at the world’s largest penguin colony.",
+      "summary": "",
+      "link": "https://www.facebook.com/cellpress/posts/pfbid02s2UCgKTU4eUBP9JncNvaTdMcsEvnoNutSASdXc9RAeee59WP1bfTUJDcJHcHqignl",
+      "source": "Facebook Cell Press",
+      "category": "인기",
+      "publishedAt": "2026-10-08T16:00:22.549Z",
+      "thumb": "/social/fb/fb-c7531eba7f17.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-08T17:01:05.349Z",
+      "titleKo": "세계 최대 규모의 펭귄 서식지에서 인구가 감소하고 공동체 구성이 변화합니다.",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-385fb8ba8534",
       "kind": "news",
