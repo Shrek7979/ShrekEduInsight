@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-10-08T09:44:29.842Z",
+  "updatedAt": "2026-10-08T09:57:29.422Z",
   "items": [
+    {
+      "id": "9f177bcef862",
+      "kind": "news",
+      "lang": "ko",
+      "title": "국립청소년우주센터·고흥교육지원청 맞손…우주과학 교육·진로체험 확대",
+      "summary": "송주원 기자 = 한국청소년활동진흥원이 운영하는 국립청소년우주센터는 전남 고흥교육지원청과 지역…",
+      "detail": "송주원 기자 = 한국청소년활동진흥원이 운영하는 국립청소년우주센터는 전남 고흥교육지원청과 지역 교육혁신 및 청소년 교육 기회 확대를 위한 업무협약을 체결했다고 8일 밝혔다.이번 협약은 고흥지역의 교육 여건과 특성을 반영한 교육혁신 모델을 개발하고 ...",
+      "link": "https://www.newspim.com/news/view/20261008000234",
+      "source": "뉴스핌",
+      "image": "http://www.bing.com/th?id=ONUT.L0ZaKNpgwfhaPk7oBtzSdQ&pid=News",
+      "category": "교육",
+      "publishedAt": "2026-10-07T13:46:00.000Z",
+      "collectedAt": "2026-10-08T09:57:29.422Z",
+      "thumb": "/thumbs/9f177bcef862.png"
+    },
     {
       "id": "bf088b1ded30",
       "kind": "news",
@@ -2406,21 +2421,6 @@
       "publishedAt": "2026-10-05T12:20:00.000Z",
       "collectedAt": "2026-10-06T06:31:04.040Z",
       "thumb": "/thumbs/7b21b712461d.jpg"
-    },
-    {
-      "id": "4a8865e160f4",
-      "kind": "news",
-      "lang": "ko",
-      "title": "화학사고 3년 새 두 배 넘게 증가…사망자 10명 중 7명 ‘안전기준 미준수’",
-      "summary": "화학사고가 최근 3년 새 두 배 넘게 늘고, 사고에 따른 인명 피해도 크게 증가했다",
-      "detail": "화학사고가 최근 3년 새 두 배 넘게 늘고, 사고에 따른 인명 피해도 크게 증가했다. 최근 5년간 발생한 화학사고의 절반 이상은 ‘안전기준 미준수’가 원인이었다. 6일 이건태 더불어민주당 의원실이 기후에너지환경부에서 제출받은 ‘최근 5년간 화학사고…",
-      "link": "https://www.joongang.co.kr/article/25467444",
-      "source": "중앙일보",
-      "image": "http://www.bing.com/th?id=ONUT.wiohE_8hEE136_koXw8t6g&pid=News",
-      "category": "환경·안전",
-      "publishedAt": "2026-10-05T17:00:00.000Z",
-      "collectedAt": "2026-10-06T05:31:11.437Z",
-      "thumb": "/thumbs/4a8865e160f4.jpg"
     }
   ]
 }

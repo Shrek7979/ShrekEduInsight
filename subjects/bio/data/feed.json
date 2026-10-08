@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-10-08T09:44:29.558Z",
+  "updatedAt": "2026-10-08T09:57:29.425Z",
   "items": [
+    {
+      "id": "a5435d11cf91",
+      "kind": "news",
+      "lang": "ko",
+      "title": "RNA·유전자 통한 이상운동질환 치료 개발·연구 활발",
+      "summary": "이상운동질환 치료에 RNA 간섭(RNAi), 안티센스 올리고뉴클레오타이드(ASO) 등 RNA…",
+      "detail": "이상운동질환 치료에 RNA 간섭(RNAi), 안티센스 올리고뉴클레오타이드(ASO) 등 RNA 치료제와 유전자 대체·유전자편집을 포함한 유전자 치료 활용이 시도되고 있다. 파킨슨병에서는 SNCA를 겨냥한 RNAi가 임상 1상에 진입했고, 희귀질환에서는…",
+      "link": "https://www.medipana.com/news/articleView.html?idxno=418936",
+      "source": "메디파나 뉴스",
+      "image": "http://www.bing.com/th?id=ONUT.-YVKKweCEMtJ_IPbWtWvSg&pid=News",
+      "category": "의학·바이오",
+      "publishedAt": "2026-10-08T00:04:00.000Z",
+      "collectedAt": "2026-10-08T09:57:29.425Z",
+      "thumb": "/thumbs/a5435d11cf91.png"
+    },
+    {
+      "id": "9f177bcef862",
+      "kind": "news",
+      "lang": "ko",
+      "title": "국립청소년우주센터·고흥교육지원청 맞손…우주과학 교육·진로체험 확대",
+      "summary": "송주원 기자 = 한국청소년활동진흥원이 운영하는 국립청소년우주센터는 전남 고흥교육지원청과 지역…",
+      "detail": "송주원 기자 = 한국청소년활동진흥원이 운영하는 국립청소년우주센터는 전남 고흥교육지원청과 지역 교육혁신 및 청소년 교육 기회 확대를 위한 업무협약을 체결했다고 8일 밝혔다.이번 협약은 고흥지역의 교육 여건과 특성을 반영한 교육혁신 모델을 개발하고 ...",
+      "link": "https://www.newspim.com/news/view/20261008000234",
+      "source": "뉴스핌",
+      "image": "http://www.bing.com/th?id=ONUT.L0ZaKNpgwfhaPk7oBtzSdQ&pid=News",
+      "category": "대회·행사",
+      "publishedAt": "2026-10-07T13:46:00.000Z",
+      "collectedAt": "2026-10-08T09:57:29.425Z",
+      "thumb": "/thumbs/9f177bcef862.png"
+    },
     {
       "id": "716b10a35bc2",
       "kind": "news",
@@ -42,7 +72,7 @@
       "category": "의학·바이오",
       "publishedAt": "2026-10-07T18:27:00.000Z",
       "collectedAt": "2026-10-08T09:44:29.558Z",
-      "thumb": null
+      "thumb": "/thumbs/e9f0d4e01903.png"
     },
     {
       "id": "bsky-3mxc3dadcbs2z",
@@ -2353,46 +2383,6 @@
       "translator": "google",
       "detailKo": "위대한 군주 이주(Great Monarch Migration)는 자연에서 가장 인상적인 사건 중 하나입니다. 작은 나비가 캐나다에서 수천 마일을 날아…",
       "thumb": "/thumbs/a741ac66606a.jpg"
-    },
-    {
-      "id": "a0bc024f53bc",
-      "kind": "video",
-      "lang": "en",
-      "title": "Sea Monsters Science Says Are Real",
-      "summary": "What creatures lurk in the darkest parts of the ocean?",
-      "detail": "What creatures lurk in the darkest parts of the ocean? How did giant predators like mosasaurs and sperm whales dominate the seas, and why…",
-      "link": "https://www.youtube.com/watch?v=6hnGSaheuxw",
-      "source": "Animalogic",
-      "image": "https://i3.ytimg.com/vi/6hnGSaheuxw/hqdefault.jpg",
-      "views": 60103,
-      "category": "인기",
-      "publishedAt": "2026-09-29T07:00:51.000Z",
-      "collectedAt": "2026-10-07T02:48:13.286Z",
-      "titleKo": "바다 괴물 과학은 진짜라고 말합니다",
-      "summaryKo": "바다의 가장 어두운 곳에는 어떤 생물이 숨어 있을까요?",
-      "translator": "google",
-      "detailKo": "바다의 가장 어두운 곳에는 어떤 생물이 숨어 있을까요? 모사사우루스나 향유고래 같은 거대 포식자가 어떻게 바다를 지배하게 되었으며, 그 이유는…",
-      "thumb": "/thumbs/a0bc024f53bc.jpg"
-    },
-    {
-      "id": "03a9c544c059",
-      "kind": "video",
-      "lang": "en",
-      "title": "This \"Beaver\" Broke Every Rule of Being a Beaver",
-      "summary": "Giant Beavers were the largest rodents in North America",
-      "detail": "Giant Beavers were the largest rodents in North America. They grew the size of a bear and ruled ponds with iron teeth. The size is a given.…",
-      "link": "https://www.youtube.com/watch?v=QVVVU5Ng0-U",
-      "source": "Animalogic",
-      "image": "https://i2.ytimg.com/vi/QVVVU5Ng0-U/hqdefault.jpg",
-      "views": 112092,
-      "category": "인기",
-      "publishedAt": "2026-09-25T19:08:07.000Z",
-      "collectedAt": "2026-10-07T02:48:13.286Z",
-      "titleKo": "이 \"비버\"는 비버의 모든 규칙을 깨뜨렸습니다.",
-      "summaryKo": "자이언트 비버는 북미에서 가장 큰 설치류였습니다",
-      "translator": "google",
-      "detailKo": "자이언트 비버는 북미에서 가장 큰 설치류였습니다. 그들은 곰만큼 커졌고 철 이빨로 연못을 다스렸습니다. 사이즈는 정해져있습니다.…",
-      "thumb": "/thumbs/03a9c544c059.jpg"
     }
   ]
 }
