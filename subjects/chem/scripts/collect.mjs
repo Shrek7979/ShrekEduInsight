@@ -8,6 +8,7 @@ import { pathToFileURL } from 'node:url'
 import { ensureThumbs } from './thumbs.mjs'
 import { translateDetails, translateItems } from './translate.mjs'
 import { isUnwanted, stripPromo } from '../../../src/lib/content-filter.mjs'
+import { cleanHashtags, splitCaption } from '../../../scripts/caption.mjs'
 import { youtubeFeed, SOURCES, KO_REQUIRE, KO_EXCLUDE, EN_REQUIRE, BLOCKED_SOURCES, KO_CATEGORIES } from './sources.mjs'
 
 // npm 스크립트와 Next.js 서버 모두 프로젝트 루트에서 실행됨
@@ -152,15 +153,15 @@ async function collectBluesky(source, now) {
     .map(({ post }) => {
       const embed = post.embed?.media || post.embed
       const image = embed?.images?.[0]?.fullsize || embed?.thumbnail || embed?.external?.thumb
-      // 본문에서 링크·해시태그를 떼고 첫 문장을 제목으로
-      const text = clean((post.record?.text || '').replace(/https?:\/\/\S+|\S+\.\S+\/\S+/g, '').replace(/#[^\s#]+/g, ''))
-      const first = text.match(/^.{8,90}?[.!?](?=\s|$)/)?.[0] || truncate(text, TITLE_LENGTH)
+      // 본문에서 링크를 떼고(해시태그는 낱말로) 첫 문장을 제목으로 (scripts/caption.mjs)
+      const text = cleanHashtags(clean((post.record?.text || '').replace(/https?:\/\/\S+|\S+\.\S+\/\S+/g, '')))
+      const { title: first, rest } = splitCaption(text)
       return {
         id: `bsky-${post.uri.split('/').pop()}`,
         kind: embed?.playlist ? 'video' : 'news',
         lang: source.lang,
         title: first,
-        summary: oneLine(text.slice(first.length).trim() || embed?.external?.title || ''),
+        summary: oneLine(rest || embed?.external?.title || ''),
         link: `https://bsky.app/profile/${source.handle}/post/${post.uri.split('/').pop()}`,
         source: `Bluesky ${source.name}`,
         image,

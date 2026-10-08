@@ -10,6 +10,7 @@ import { EN_REQUIRE, FACEBOOK_PAGES, MIN_FOLLOWERS } from './sources.mjs'
 import { imageSize } from './thumbs.mjs'
 import { translateItems } from './translate.mjs'
 import { isUnwanted } from '../../../src/lib/content-filter.mjs'
+import { cleanHashtags, isBrokenSplit, splitCaption } from '../../../scripts/caption.mjs'
 
 const OUT_JSON = resolve(process.cwd(), 'data/facebook.json')
 const IMG_DIR = resolve(process.cwd(), 'public/social/fb')
@@ -105,23 +106,26 @@ for (const [slug, name, lang, options = {}] of FACEBOOK_PAGES) {
     // 글이 소개하는 유튜브 영상(있으면). 같은 영상이 이미 카드로 있으면 화면에서 이 글을 뺌
     const refs = [...post.text.matchAll(/(?:youtu\.be\/|youtube\.com\/(?:watch\?v=|shorts\/))([\w-]{11})/g)].map((m) => m[1])
     // 본문에서 링크와 "더 보기"를 떼고, 첫 문장을 제목으로
-    const text = post.text
-      .replace(/https?:\/\/\S+/g, '')
-      .replace(/…?\s*더 보기\s*$/, '')
-      .replace(/#[^\s#]+/g, '')
-      .replace(/\s+/g, ' ')
+    const text = cleanHashtags(
+      post.text
+        .replace(/https?:\/\/\S+/g, '')
+        .replace(/…?\s*더 보기\s*$/, '')
+        .replace(/\s+/g, ' ')
+        .trim()
+    )
       .replace(/\s*[-–:]\s*$/, '')
       .trim()
-    const firstSentence = text.match(/^.{8,80}?[.!?](?=\s|$)/)?.[0] || text.slice(0, 70)
-    if (isUnwanted({ source: `Facebook ${name}`, title: firstSentence, summary: text.slice(firstSentence.length) })) {
+    // 첫 문장을 제목으로, 나머지를 설명으로 (scripts/caption.mjs)
+    const { title, rest } = splitCaption(text)
+    if (isUnwanted({ source: `Facebook ${name}`, title, summary: rest })) {
       throw new Error('광고·홍보성 글 또는 개인 소식')
     }
     items.push({
       id,
       kind: /\/videos\/|\/reel\/|\/watch/.test(post.link) ? 'video' : 'news',
       lang,
-      title: firstSentence || `${name} 페이스북 게시물`,
-      summary: oneLine(text.slice(firstSentence.length).trim()),
+      title: title || `${name} 페이스북 게시물`,
+      summary: oneLine(rest),
       link: post.link,
       source: `Facebook ${name}`,
       category: '인기',
@@ -129,7 +133,7 @@ for (const [slug, name, lang, options = {}] of FACEBOOK_PAGES) {
       thumb: `/social/fb/${id}.jpg`,
       refs,
     })
-    console.log(`✓ ${name}: ${firstSentence.slice(0, 50)}`)
+    console.log(`✓ ${name}: ${title.slice(0, 50)}`)
   } catch (error) {
     console.warn(`✗ ${name}: ${error.message}`)
   }

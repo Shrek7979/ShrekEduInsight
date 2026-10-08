@@ -8,6 +8,7 @@ import { imageSize } from './thumbs.mjs'
 import { oneLine } from './collect.mjs'
 import { translateItems } from './translate.mjs'
 import { isUnwanted } from '../../../src/lib/content-filter.mjs'
+import { cleanHashtags, isBrokenSplit, splitCaption } from '../../../scripts/caption.mjs'
 import { INSTAGRAM_ACCOUNTS } from './sources.mjs'
 
 const OUT_JSON = resolve(process.cwd(), 'data/instagram.json')
@@ -64,16 +65,15 @@ async function readPost(post, account, lang) {
   if ((imageSize(bytes)?.width || 0) < 300) return null // 너무 작은 이미지는 카드로 쓰지 않음
   await writeFile(resolve(IMG_DIR, `${code}.jpg`), bytes)
 
-  // 캡션에서 해시태그를 떼고, 첫 문장을 제목으로
-  const text = caption.replace(/#[^\s#]+/g, '').replace(/\s+/g, ' ').trim()
-  const firstSentence = text.match(/^.{8,80}?[.!?。](?=\s|$)/)?.[0] || text.slice(0, 70)
-  const title = firstSentence || `${account} 인스타그램 게시물`
+  // 캡션 끝의 해시태그는 떼고(문장 속 해시태그는 낱말로), 첫 문장을 제목으로 (scripts/caption.mjs)
+  const text = cleanHashtags(caption.replace(/\s+/g, ' ').trim())
+  const { title, rest } = splitCaption(text)
   return {
     id: `ig-${code}`,
     kind: post.href.includes('/reel/') ? 'video' : 'news',
     lang,
-    title: title.length < text.length && !/[.!?。]$/.test(title) ? `${title}…` : title,
-    summary: oneLine(text.slice(firstSentence.length).trim()), // 캡션이 한 문장뿐이면 설명은 비움
+    title: title || `${account} 인스타그램 게시물`,
+    summary: oneLine(rest), // 캡션이 한 문장뿐이면 설명은 비움
     link: post.href,
     source: `Instagram @${account}`,
     category: '인기',
@@ -110,7 +110,9 @@ for (const [account, lang] of INSTAGRAM_ACCOUNTS) {
     for (const post of grid.slice(0, CANDIDATES)) {
       const code = post.href.match(/\/(?:p|reel)\/([^/]+)/)?.[1]
       try {
-        const item = known.get(`ig-${code}`) || (await readPost(post, account, lang))
+        const cached = known.get(`ig-${code}`)
+        // 예전 방식으로 단어 중간에서 잘린 카드는 다시 읽어 제목·설명을 고침
+        const item = cached && !isBrokenSplit(cached) ? cached : await readPost(post, account, lang)
         if (item && Date.now() - new Date(item.publishedAt) <= MAX_AGE_DAYS * DAY && !isUnwanted(item)) candidates.push(item) // 광고·홍보성 글과 개인 소식은 뺌
       } catch (error) {
         console.warn(`  건너뜀 ${post.href}: ${error.message}`)
