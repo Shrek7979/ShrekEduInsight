@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-08T14:00:00.044Z",
+  "updatedAt": "2026-10-08T14:59:52.757Z",
   "items": [
+    {
+      "id": "fb-48757e547fee",
+      "kind": "video",
+      "lang": "en",
+      "title": "50 years of the Super Proton Synchrotron",
+      "summary": "",
+      "link": "https://www.facebook.com/reel/1418774989828628/",
+      "source": "Facebook CERN",
+      "category": "인기",
+      "publishedAt": "2026-10-08T14:05:32.326Z",
+      "thumb": "/social/fb/fb-48757e547fee.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-08T14:59:52.757Z",
+      "titleKo": "슈퍼 양성자 싱크로트론 50주년",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-6f34d4132c4d",
       "kind": "news",

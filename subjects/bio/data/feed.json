@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-10-08T13:57:53.184Z",
+  "updatedAt": "2026-10-08T14:57:42.378Z",
   "items": [
+    {
+      "id": "991377382dfa",
+      "kind": "news",
+      "lang": "en",
+      "title": "Scientists accidentally discover a genetic code that breaks the rules of life",
+      "summary": "Scientists accidentally discovered a microscopic…",
+      "detail": "Scientists accidentally discovered a microscopic organism with a genetic code that breaks a rule researchers thought was nearly universal.…",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261007233136.htm",
+      "source": "ScienceDaily",
+      "category": "해외",
+      "publishedAt": "2026-10-08T13:31:39.000Z",
+      "collectedAt": "2026-10-08T14:57:42.378Z",
+      "titleKo": "과학자들이 우연히 생명의 규칙을 어기는 유전암호를 발견했습니다.",
+      "summaryKo": "과학자들이 우연히 미세한 것을 발견했습니다…",
+      "translator": "google",
+      "detailKo": "과학자들은 우연히 거의 보편적이라고 생각했던 규칙을 깨는 유전암호를 가진 미세한 유기체를 발견했습니다.…",
+      "thumb": "/thumbs/991377382dfa.webp"
+    },
+    {
+      "id": "a4761dbebe56",
+      "kind": "news",
+      "lang": "en",
+      "title": "This “golden tree” coral was too strange for any known family",
+      "summary": "A brilliant yellow coral discovered off Costa Rica…",
+      "detail": "A brilliant yellow coral discovered off Costa Rica proved so unusual that scientists had to create an entirely new family to classify it.…",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261007042116.htm",
+      "source": "ScienceDaily",
+      "category": "해외",
+      "publishedAt": "2026-10-08T13:18:54.000Z",
+      "collectedAt": "2026-10-08T14:57:42.378Z",
+      "titleKo": "이 \"황금 나무\" 산호는 알려진 어떤 가족에게도 너무 이상했습니다.",
+      "summaryKo": "코스타리카에서 발견된 찬란한 노란색 산호…",
+      "translator": "google",
+      "detailKo": "코스타리카에서 발견된 눈부신 노란색 산호는 매우 특이한 것으로 판명되어 과학자들은 이를 분류하기 위해 완전히 새로운 과를 만들어야 했습니다.…",
+      "thumb": "/thumbs/a4761dbebe56.webp"
+    },
     {
       "id": "573d5d183333",
       "kind": "news",
@@ -2342,35 +2378,6 @@
       "translator": "google",
       "detailKo": "우리 게놈의 절반은 트랜스포손(스스로 움직이고 복제할 수 있는 DNA 조각)으로 구성되어 있습니다. 하지만 그것들은 기생충이나 유전적 쓰레기 그 이상입니다.",
       "thumb": "/thumbs/2c197ef4db2b.jpg"
-    },
-    {
-      "id": "5cd78e7f3aa8",
-      "kind": "news",
-      "lang": "ko",
-      "title": "국가야생생물소재은행, 식물소재 관리 국제표준 인정…산업 활용 넓힌다",
-      "summary": "국가야생생물소재은행이 종자와 추출물, 디엔에이(DNA) 등 식물소재 관리체계에 국제표준 인정을 받았다",
-      "detail": "국가야생생물소재은행이 종자와 추출물, 디엔에이(DNA) 등 식물소재 관리체계에 국제표준 인정을 받았다. 국립생물자원관은 공인 체계를 바탕으로 화장품·식품·건강기능식품 등 산업계 공급을 확대한다. 기후에너지환경부 소속 국립생물자원관은…",
-      "link": "https://www.dt.co.kr/article/12087881",
-      "source": "디지털타임스",
-      "image": "http://www.bing.com/th?id=ONUT.asHJ7hNnUYuA_14W_kBZsQ&pid=News",
-      "category": "생태·환경",
-      "publishedAt": "2026-10-06T15:02:00.000Z",
-      "collectedAt": "2026-10-07T03:46:57.838Z",
-      "thumb": "/thumbs/5cd78e7f3aa8.png"
-    },
-    {
-      "id": "bef7ef7d9d2c",
-      "kind": "news",
-      "lang": "ko",
-      "title": "국립생물자원관 식물소재은행, 국제표준 공인…산업계 제공 확대",
-      "summary": "국립생물자원관이 운영하는 국가 야생생물 소재은행이 식물 소재 분야에서 국제표준에 맞는 공인…",
-      "detail": "국립생물자원관이 운영하는 국가 야생생물 소재은행이 식물 소재 분야에서 국제표준에 맞는 공인 생물자원은행으로 인정받았다. 국립생물자원관은 한국인정기구(KOLAS)로부터 '공인 생물자원은행'(KS J ISO 20387)으로 인정받았다고 7일 밝혔다.…",
-      "link": "https://www.yna.co.kr/view/AKR20261007070500530?section=society/all",
-      "source": "연합뉴스",
-      "category": "생태·환경",
-      "publishedAt": "2026-10-06T15:00:00.000Z",
-      "collectedAt": "2026-10-07T03:46:57.838Z",
-      "thumb": "/thumbs/bef7ef7d9d2c.jpg"
     }
   ]
 }

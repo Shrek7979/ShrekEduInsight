@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-10-08T13:57:53.261Z",
+  "updatedAt": "2026-10-08T14:57:42.341Z",
   "items": [
+    {
+      "id": "190c02b4739a",
+      "kind": "news",
+      "lang": "ko",
+      "title": "[서학!스타] 아이온큐, 美 국방부 양자컴퓨터 검증 '최종 단계' 진입…최대 3억 달러 계약에 쏠리는 시선",
+      "summary": "미국 양자컴퓨팅 기업 아이온큐(IonQ·NYSE: IONQ)가 미국 국방고등연구계획국(DARPA)의…",
+      "detail": "미국 양자컴퓨팅 기업 아이온큐(IonQ·NYSE: IONQ)가 미국 국방고등연구계획국(DARPA)의 양자컴퓨팅 기술 검증 프로그램에서 새로운 단계에 진입했다. 최대 3억 달러(약 4,000억 원대) 규모의 계약을 바탕으로 대규모 양자컴퓨터 상용화를…",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=613710",
+      "source": "CBC뉴스",
+      "image": "http://www.bing.com/th?id=ONUT.8OoQYI1gtlYnOnxEM7IH5w&pid=News",
+      "category": "양자·첨단",
+      "publishedAt": "2026-10-08T02:25:00.000Z",
+      "collectedAt": "2026-10-08T14:57:42.341Z",
+      "thumb": "/thumbs/190c02b4739a.jpg"
+    },
+    {
+      "id": "bsky-3mxa2ekvb742c",
+      "kind": "news",
+      "lang": "en",
+      "title": "Congratulations to Francis Halzen, winner of the 2026 @nobelprize.org in Physics, for contributions to @icecubeneutrino.bsky.social and the…",
+      "summary": "discovery of high-energy cosmic neutrinos",
+      "link": "https://bsky.app/profile/apsphysics.aps.org/post/3mxa2ekvb742c",
+      "source": "Bluesky APS Physics",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:heemoqq7cssrx5ixyxwd52y6/bafkreiapm57vo6pojnwbqc4kb4jtwmu4y52nn364jg4dhbwoex46lbjy6e",
+      "likes": "11",
+      "category": "인기",
+      "publishedAt": "2026-10-06T18:22:33.273Z",
+      "collectedAt": "2026-10-08T14:57:42.341Z",
+      "titleKo": "@icecubeneutrino.bsky.social 및…",
+      "summaryKo": "고에너지 우주 중성미자의 발견",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxa2ekvb742c.webp"
+    },
     {
       "id": "bsky-3mxemftpz6723",
       "kind": "news",
@@ -2389,41 +2422,6 @@
       "publishedAt": "2026-10-05T23:56:00.000Z",
       "collectedAt": "2026-10-06T10:17:46.469Z",
       "thumb": "/thumbs/496b495a581b.jpg"
-    },
-    {
-      "id": "bsky-3mx76z4oubc24",
-      "kind": "news",
-      "lang": "en",
-      "title": "Since it came online in 2010, @icecubeneutrino.bsky.social has been covered extensively…",
-      "summary": "in @physicstoday.aip.org",
-      "link": "https://bsky.app/profile/physicstoday.aip.org/post/3mx76z4oubc24",
-      "source": "Bluesky Physics Today",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ha7rj6xz2t4h6vw3c2fyfskr/bafkreigvtphxqkuaes65h5ie5swyy2373lbgvotkt3iy54m2gi7tceffym",
-      "category": "인기",
-      "publishedAt": "2026-10-06T10:12:58.274Z",
-      "collectedAt": "2026-10-06T10:16:03.141Z",
-      "titleKo": "2010년 온라인에 등장한 이후 @icecubeneutrino.bsky.social은 광범위하게 다루어졌습니다…",
-      "summaryKo": "@physicstoday.aip.org에서",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mx76z4oubc24.webp"
-    },
-    {
-      "id": "bsky-3mx75ywcd6c24",
-      "kind": "news",
-      "lang": "en",
-      "title": "In May 2008, Francis Halzen and Spencer Klein authored a feature article for…",
-      "summary": "@physicstoday.aip.org on several experiments in…",
-      "link": "https://bsky.app/profile/physicstoday.aip.org/post/3mx75ywcd6c24",
-      "source": "Bluesky Physics Today",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ha7rj6xz2t4h6vw3c2fyfskr/bafkreiekbaz2moahg656vsixh7mlzmetpyq4wjzfzk74tzh5vwz5fnqf4i",
-      "likes": "2",
-      "category": "인기",
-      "publishedAt": "2026-10-06T09:54:57.830Z",
-      "collectedAt": "2026-10-06T10:16:03.141Z",
-      "titleKo": "2008년 5월 Francis Halzen과 Spencer Klein은 다음에 대한 특집 기사를 작성했습니다.",
-      "summaryKo": "여러 실험에 대한 @physicstoday.aip.org…",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mx75ywcd6c24.webp"
     }
   ]
 }
