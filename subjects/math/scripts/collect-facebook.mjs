@@ -9,6 +9,7 @@ import { oneLine } from './collect.mjs'
 import { EN_REQUIRE, FACEBOOK_PAGES, MIN_FOLLOWERS } from './sources.mjs'
 import { imageSize } from './thumbs.mjs'
 import { translateItems } from './translate.mjs'
+import { isUnwanted } from '../../../src/lib/content-filter.mjs'
 
 const OUT_JSON = resolve(process.cwd(), 'data/facebook.json')
 const IMG_DIR = resolve(process.cwd(), 'public/social/fb')
@@ -112,6 +113,9 @@ for (const [slug, name, lang, options = {}] of FACEBOOK_PAGES) {
       .replace(/\s*[-–:]\s*$/, '')
       .trim()
     const firstSentence = text.match(/^.{8,80}?[.!?](?=\s|$)/)?.[0] || text.slice(0, 70)
+    if (isUnwanted({ source: `Facebook ${name}`, title: firstSentence, summary: text.slice(firstSentence.length) })) {
+      throw new Error('광고·홍보성 글 또는 개인 소식')
+    }
     items.push({
       id,
       kind: /\/videos\/|\/reel\/|\/watch/.test(post.link) ? 'video' : 'news',
@@ -151,7 +155,7 @@ try {
   const seen = new Set(items.flatMap((item) => [item.id, `${item.source}|${item.title}`]))
   for (const old of previous) {
     const duplicate = seen.has(old.id) || seen.has(`${old.source}|${old.title}`)
-    if (!duplicate && Date.now() - new Date(old.publishedAt) <= MAX_AGE_DAYS * DAY) items.push(old)
+    if (!duplicate && Date.now() - new Date(old.publishedAt) <= MAX_AGE_DAYS * DAY && !isUnwanted(old)) items.push(old)
   }
 } catch {
   for (const item of items) item.collectedAt = now

@@ -1,4 +1,5 @@
 import { Feed, FeedItem, OWNER, SITE_URL, SUBJECTS, Subject, SubjectKey, Topic } from './feed'
+import { isUnwanted, stripPromo } from './content-filter.mjs'
 
 // 과목 하나의 원본 데이터 (subjects/<과목>/data/*.json — 과목별 수집기가 만듦)
 type RawItem = Omit<FeedItem, 'subject'>
@@ -8,6 +9,7 @@ export type SubjectData = {
   feed: { updatedAt: string | null; items: RawItem[] }
   posts: RawItem[] // 인스타그램·페이스북 게시물
   topics: RawTopic[]
+  lessons: Record<string, string> // 카드 id → 수업 활용 (lessons.json)
 }
 
 export type Combined = Feed & { topics: Topic[] }
@@ -30,14 +32,21 @@ async function getJson<T>(url: string, fallback: T): Promise<T> {
 
 // 한 과목 데이터를 가져옴. 실패한 파일은 빈 것으로 두고, 피드 자체를 못 가져오면 null
 export async function fetchSubject(subject: Subject): Promise<SubjectData | null> {
-  const [feed, instagram, facebook, topics] = await Promise.all([
+  const [feed, instagram, facebook, topics, lessons] = await Promise.all([
     getJson<SubjectData['feed'] | null>(rawUrl(subject, 'feed.json'), null),
     getJson<{ items: RawItem[] }>(rawUrl(subject, 'instagram.json'), { items: [] }),
     getJson<{ items: RawItem[] }>(rawUrl(subject, 'facebook.json'), { items: [] }),
     getJson<RawTopic[]>(rawUrl(subject, 'topics.json'), []),
+    getJson<{ lessons: Record<string, string> }>(rawUrl(subject, 'lessons.json'), { lessons: {} }),
   ])
   if (!feed?.items) return null
-  return { subject: subject.key, feed, posts: [...(instagram.items || []), ...(facebook.items || [])], topics }
+  return {
+    subject: subject.key,
+    feed,
+    posts: [...(instagram.items || []), ...(facebook.items || [])],
+    topics,
+    lessons: lessons.lessons || {},
+  }
 }
 
 export async function fetchAll() {
@@ -52,12 +61,6 @@ function articleImage(url?: string) {
   return /^https:\/\/www\.bing\.com\/th\?/.test(secure) && !/[?&]w=/.test(secure) ? `${secure}&w=800` : secure
 }
 
-// 개인 소식(부고, 임명·위촉, 취임·퇴임, 인사 발령 등)은 싣지 않음. '선임연구원' 같은 직급은 남김
-const PERSONAL_NEWS = /부고|별세|타계|영면|빈소|발인|장례|추도식|추모식|조문|부음|訃|임명|위촉|임용장|수여식|취임|이임식|퇴임|승진|인사\s?발령|인사이동|전보\s?발령|\[인사\]|\[동정\]|내정|화촉|결혼식|선임(?!연구|기자|병|원)|obituar|in memoriam|passed away|\b(dies|died|dead) at \d|funeral|\bappointed\b|\bnamed (new |as )?(president|director|dean|chair|head|editor|ceo)\b|\bretire(s|ment)\b|steps down/i
-
-// 광고·홍보성 기사(광고 표시, 할인·이벤트, 출시·MOU 같은 기업 홍보, 학원 대표 인터뷰, 단체장 동정)는 싣지 않음
-const PROMO_NEWS = /\[(광고|AD|PR|홍보|협찬|스폰서|기획광고|애드버토리얼)\]|\(광고\)|협찬|애드버토리얼|프로모션|특가|할인 ?(행사|이벤트|판매)|사은품|증정 ?이벤트|이벤트 ?(진행|개최|실시)|쿠폰|선착순|판매 ?(개시|시작)|신제품|출시|론칭|런칭|업무 ?협약|\bMOU\b|사업 ?확대|세계 ?1위 ?도전|수강생 ?모집|무료 ?체험|입시 ?설명회|(학원|교습소|에듀).{0,20}(대표|원장|개원|오픈)|(대표|원장).{0,15}(학원|교습소)|(구청장|시장|군수|도지사|국회의원|교육감).{0,30}(축하|축사|방문|격려)|sponsored|partner content|paid post|advertorial|promo code|\bdiscount|\bgiveaway|\bcoupon|buy now|limited[- ]time offer/i
-
 const normalize = (text?: string) => (text || '').toLowerCase().replace(/[^0-9a-z가-힣]/g, '')
 const videoId = (link: string) => link.match(/(?:v=|shorts\/|youtu\.be\/)([\w-]{11})/)?.[1]
 
@@ -68,8 +71,10 @@ export function combine(data: SubjectData[]): Combined {
   const videoIds = new Set<string>()
   const items: FeedItem[] = []
 
-  const add = (subject: Subject, raw: RawItem, isPost: boolean) => {
-    if (PERSONAL_NEWS.test(`${raw.title} ${raw.titleKo || ''}`) || PROMO_NEWS.test(`${raw.title} ${raw.titleKo || ''}`)) return
+  const add = (subject: Subject, original: RawItem, isPost: boolean, lessons: SubjectData['lessons']) => {
+    // 광고·홍보성 글과 개인 소식은 싣지 않고, 설명의 홍보 문구(굿즈·멤버십 등)는 지움 (content-filter.mjs)
+    if (isUnwanted(original)) return
+    const raw = stripPromo(original)
     const titles = [normalize(raw.title), normalize(raw.titleKo)].filter((t) => t.length >= 6)
     // 인스타그램·페이스북 글이 이미 있는 유튜브 영상을 소개하는 것이면 뺌 (예: 같은 영상의 릴스)
     if (isPost && raw.refs?.some((id) => videoIds.has(id))) return
@@ -86,12 +91,13 @@ export function combine(data: SubjectData[]): Combined {
       // 빌드 시 넘기는 데이터에 undefined 가 있으면 Next 가 거부하므로 있을 때만
       ...(raw.image ? { image: articleImage(raw.image) } : {}),
       thumb: raw.thumb ? (raw.thumb.startsWith('/') ? `${assetUrl(subject)}${raw.thumb}` : raw.thumb) : null,
+      ...(lessons[raw.id] ? { lesson: lessons[raw.id] } : {}),
     })
   }
 
   // 뉴스·유튜브를 먼저 넣어야 같은 영상을 알리는 SNS 글이 빠짐
-  for (const d of data) for (const raw of d.feed.items) add(SUBJECTS.find((s) => s.key === d.subject)!, raw, false)
-  for (const d of data) for (const raw of d.posts) add(SUBJECTS.find((s) => s.key === d.subject)!, raw, true)
+  for (const d of data) for (const raw of d.feed.items) add(SUBJECTS.find((s) => s.key === d.subject)!, raw, false, d.lessons || {})
+  for (const d of data) for (const raw of d.posts) add(SUBJECTS.find((s) => s.key === d.subject)!, raw, true, d.lessons || {})
 
   items.sort((a, b) => b.collectedAt.localeCompare(a.collectedAt) || b.publishedAt.localeCompare(a.publishedAt))
 

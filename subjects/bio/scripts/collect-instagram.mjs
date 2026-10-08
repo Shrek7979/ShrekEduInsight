@@ -7,6 +7,7 @@ import { evalOnPage } from './capture.mjs'
 import { imageSize } from './thumbs.mjs'
 import { oneLine } from './collect.mjs'
 import { translateItems } from './translate.mjs'
+import { isUnwanted } from '../../../src/lib/content-filter.mjs'
 import { INSTAGRAM_ACCOUNTS } from './sources.mjs'
 
 const OUT_JSON = resolve(process.cwd(), 'data/instagram.json')
@@ -110,7 +111,7 @@ for (const [account, lang] of INSTAGRAM_ACCOUNTS) {
       const code = post.href.match(/\/(?:p|reel)\/([^/]+)/)?.[1]
       try {
         const item = known.get(`ig-${code}`) || (await readPost(post, account, lang))
-        if (item && Date.now() - new Date(item.publishedAt) <= MAX_AGE_DAYS * DAY) candidates.push(item)
+        if (item && Date.now() - new Date(item.publishedAt) <= MAX_AGE_DAYS * DAY && !isUnwanted(item)) candidates.push(item) // 광고·홍보성 글과 개인 소식은 뺌
       } catch (error) {
         console.warn(`  건너뜀 ${post.href}: ${error.message}`)
       }
@@ -133,9 +134,9 @@ if (items.length === 0) {
 
 // 이번에 못 읽은 계정의 카드는 사라지지 않게 지난번 것을 유지
 for (const old of previous.items) {
-  if (failedSources.has(old.source) && Date.now() - new Date(old.publishedAt) <= MAX_AGE_DAYS * DAY) items.push(old)
+  if (failedSources.has(old.source) && Date.now() - new Date(old.publishedAt) <= MAX_AGE_DAYS * DAY && !isUnwanted(old)) items.push(old)
 }
-for (const old of previous.pool) if (failedSources.has(old.source)) pool.push(old)
+for (const old of previous.pool) if (failedSources.has(old.source) && !isUnwanted(old)) pool.push(old)
 
 // 실리는 게시물이 지난번과 같으면 아무것도 바꾸지 않고 끝냄 → 불필요한 커밋·배포가 안 생김
 const ids = (list) => list.map((item) => item.id).sort().join(',')
