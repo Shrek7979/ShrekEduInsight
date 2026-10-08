@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-08T19:57:06.456Z",
+  "updatedAt": "2026-10-08T20:57:12.038Z",
   "items": [
+    {
+      "id": "16f5de3ef74d",
+      "kind": "news",
+      "lang": "ko",
+      "title": "남극 얼음 2km 지하서 포착한 '우주 비밀'···<br>'중성미자 연구' 美 할젠 교수, 노벨물리학상 단독 수상",
+      "summary": "남극 얼음 약 2km 아래에 거대한 검출기를 설치해 우주에서 날아오는 고에너지 중성미자를 포착한…",
+      "detail": "남극 얼음 약 2km 아래에 거대한 검출기를 설치해 우주에서 날아오는 고에너지 중성미자를 포착한 연구가 올해 노벨물리학상을 받았다. 34년만의 노벨물리학상 단독 수상이다. 스웨덴 왕립과학원은 6일(현지시간) 올해 노벨물리학상 수상자로 벨기에 출신의…",
+      "link": "http://www.hellodd.com/news/articleView.html?idxno=113411",
+      "source": "헬로디디",
+      "category": "우주·천문",
+      "publishedAt": "2026-10-06T10:52:27.000Z",
+      "collectedAt": "2026-10-08T20:57:12.038Z",
+      "thumb": "/thumbs/16f5de3ef74d.png"
+    },
     {
       "id": "ad4a1c10e460",
       "kind": "news",
@@ -2416,21 +2430,6 @@
       "publishedAt": "2026-10-05T23:40:00.000Z",
       "collectedAt": "2026-10-06T12:16:03.778Z",
       "thumb": "/thumbs/d3b5d354b118.jpg"
-    },
-    {
-      "id": "601753eae096",
-      "kind": "news",
-      "lang": "ko",
-      "title": "34년만 첫 노벨물리학상 '단독 수상'…우주의 기원 포착한 물리학자에게로 (종합)",
-      "summary": "노벨물리학상에서 34년만의 단독 수상이 나왔다",
-      "detail": "노벨물리학상에서 34년만의 단독 수상이 나왔다. 우주의 기원을 담은 고에너지 입자 '중성미자'의 비밀을 밝힌 입자물리학자 프랜시스 할젠(벨기에·미국 이중국적, 82세) 미국 위스콘신-매디슨대 교수가 그 주인공이다.",
-      "link": "https://www.mt.co.kr/tech/2026/10/06/2026100619280448395",
-      "source": "머니투데이",
-      "image": "http://www.bing.com/th?id=ONUT.cvJ5haea-uLJemLe23FLzw&pid=News",
-      "category": "우주·천문",
-      "publishedAt": "2026-10-05T23:35:00.000Z",
-      "collectedAt": "2026-10-06T12:16:03.778Z",
-      "thumb": "/thumbs/601753eae096.jpg"
     }
   ]
 }
