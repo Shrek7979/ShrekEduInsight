@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-10-08T08:13:55.955Z",
+  "updatedAt": "2026-10-08T08:24:10.302Z",
   "items": [
+    {
+      "id": "9392d9840145",
+      "kind": "news",
+      "lang": "ko",
+      "title": "[GAM] 파스칼 ① 노벨상 수상자가 세운 佛 양자기업에 월가 '매수' 합창",
+      "summary": "이 기사는 10월 7일 오후 4시48분 '해외 주식 투자의 도우미' GAM(Global Asset…",
+      "detail": "이 기사는 10월 7일 오후 4시48분 '해외 주식 투자의 도우미' GAM(Global Asset Management)에 출고된 프리미엄 기사입니다. GAM에서 회원 가입을 하면 9000여 해외 종목의 프리미엄 기사를 보실 수…",
+      "link": "https://www.newspim.com/news/view/20261008000006",
+      "source": "뉴스핌",
+      "image": "http://www.bing.com/th?id=ONUT.47IvbCafukjjMtxrmWdgqg&pid=News",
+      "category": "양자·첨단",
+      "publishedAt": "2026-10-07T17:00:00.000Z",
+      "collectedAt": "2026-10-08T08:24:10.302Z",
+      "thumb": "/thumbs/9392d9840145.png"
+    },
     {
       "id": "a2717f343be3",
       "kind": "news",

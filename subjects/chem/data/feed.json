@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-10-08T08:13:55.987Z",
+  "updatedAt": "2026-10-08T08:24:10.348Z",
   "items": [
+    {
+      "id": "df65b7172700",
+      "kind": "news",
+      "lang": "ko",
+      "title": "日, 2년 연속 노벨화학상 쾌거…95세 佛 과학자 공동 수상",
+      "summary": "올해 노벨화학상은 분자 비대칭의 원인을 규명하고, 원하는 한쪽으로 분자를 만드는 방법을 발견한…",
+      "detail": "올해 노벨화학상은 분자 비대칭의 원인을 규명하고, 원하는 한쪽으로 분자를 만드는 방법을 발견한 프랑스와 일본의 두 원로 과학자에게 돌아갔습니다. 2년 연속 노벨화학상 수상자를 배출한 일본은 축제 분위기에 휩싸였습니다. 김자민 기자입니다.",
+      "link": "https://news.tvchosun.com/site/data/html_dir/2026/10/08/2026100890032.html",
+      "source": "TV조선뉴스",
+      "image": "http://www.bing.com/th?id=ONUT.VylNj_IhWqKPMIB10_jz-g&pid=News",
+      "category": "연구",
+      "publishedAt": "2026-10-08T01:14:00.000Z",
+      "collectedAt": "2026-10-08T08:24:10.348Z",
+      "thumb": "/thumbs/df65b7172700.jpg"
+    },
     {
       "id": "633556b9b527",
       "kind": "news",
@@ -28,7 +43,7 @@
       "category": "소재·에너지",
       "publishedAt": "2026-10-07T20:03:00.000Z",
       "collectedAt": "2026-10-08T08:13:55.987Z",
-      "thumb": null
+      "thumb": "/thumbs/4bfbc229691a.jpg"
     },
     {
       "id": "bsky-3mxdvtx2x6c2d",

@@ -1,6 +1,35 @@
 {
-  "updatedAt": "2026-10-08T08:13:56.046Z",
+  "updatedAt": "2026-10-08T08:24:10.301Z",
   "items": [
+    {
+      "id": "99b122802197",
+      "kind": "news",
+      "lang": "ko",
+      "title": "상명대 충남 앵커 늘봄학교 식물/원예 교육 활성화 나선다",
+      "summary": "상명대(총장 김종희)는 오는 10월 8일 한국원예치료복지협회 등 충남 앵커 늘봄학교 고도화(1권역)…",
+      "detail": "상명대(총장 김종희)는 오는 10월 8일 한국원예치료복지협회 등 충남 앵커 늘봄학교 고도화(1권역) 관련 기관들과 '충남 앵커 늘봄학교 식물 교육 분야 활성화 및 프로그램 운영 협력을 위한 업무협약'을 체결한다.이번 협약은 식물/원예 분야 전문성을…",
+      "link": "https://www.veritas-a.com/news/articleView.html?idxno=631219",
+      "source": "베리타스알파",
+      "category": "교육",
+      "publishedAt": "2026-10-08T08:10:06.000Z",
+      "collectedAt": "2026-10-08T08:24:10.301Z",
+      "thumb": "/thumbs/99b122802197.jpg"
+    },
+    {
+      "id": "6d79e4683790",
+      "kind": "news",
+      "lang": "ko",
+      "title": "특정 뇌세포 '빛'으로 제어 … 光유전학 개척한 3人",
+      "summary": "올해 노벨 생리의학상은 빛을 이용해 뇌의 특정 신경세포를 켜고 끌 수 있는…",
+      "detail": "올해 노벨 생리의학상은 빛을 이용해 뇌의 특정 신경세포를 켜고 끌 수 있는 '광유전학(optogenetics)'을 개척한 과학자 3명에게 돌아갔다. 빛에 반응하는 단백질을 신경세포의 '스위치'로 활용해 뇌 회로가 기억과 감정, 행동을 어떻게…",
+      "link": "https://www.mk.co.kr/news/it/12168683",
+      "source": "매일경제",
+      "image": "http://www.bing.com/th?id=ONUT.23ZevuBOwJ9bnsITb9fkJg&pid=News",
+      "category": "의학·바이오",
+      "publishedAt": "2026-10-05T15:39:00.000Z",
+      "collectedAt": "2026-10-08T08:24:10.301Z",
+      "thumb": "/thumbs/6d79e4683790.jpg"
+    },
     {
       "id": "bsky-3mxdys7antq2v",
       "kind": "news",
@@ -320,7 +349,7 @@
       "kind": "news",
       "lang": "ko",
       "title": "두나무 \"업비트 계정·API 키 대여 요청은 신종 사기\"…투자자 주의 당부",
-      "summary": "가상자산 거래소 업비트를 운영하는 두나무가 오늘(8일) ' ",
+      "summary": "가상자산 거래소 업비트를 운영하는 두나무가 오늘(8일) '",
       "link": "https://www.msn.com/ko-kr/news/other/%EB%91%90%EB%82%98%EB%AC%B4-%EC%97%85%EB%B9%84%ED%8A%B8-%EA%B3%84%EC%A0%95-api-%ED%82%A4-%EB%8C%80%EC%97%AC-%EC%9A%94%EC%B2%AD%EC%9D%80-%EC%8B%A0%EC%A2%85-%EC%82%AC%EA%B8%B0-%ED%88%AC%EC%9E%90%EC%9E%90-%EC%A3%BC%EC%9D%98-%EB%8B%B9%EB%B6%80/ar-AA2dNfAE",
       "source": "SBS Biz",
       "category": "생태·환경",
@@ -2386,36 +2415,6 @@
       "publishedAt": "2026-10-06T13:48:00.000Z",
       "collectedAt": "2026-10-07T02:46:24.810Z",
       "thumb": "/thumbs/56343bd524da.jpg"
-    },
-    {
-      "id": "92952eaa2559",
-      "kind": "news",
-      "lang": "ko",
-      "title": "치료 반응 예측 불가’ 줄기세포 난제 푼다… 장스템랩, AI 기반 재생의료 SaMD 개발 착수",
-      "summary": "세포치료제와 재생의학 분야에서 오랜 기간 미해결 과제로 남아있던 ‘환자 개체 간 치료 효능 편차’를…",
-      "detail": "세포치료제와 재생의학 분야에서 오랜 기간 미해결 과제로 남아있던 ‘환자 개체 간 치료 효능 편차’를 인공지능(AI) 기반 소프트웨어 의료기기(SaMD)로 사전에 계량화·선별하는 차세대 정밀 바이오 기술이 ...",
-      "link": "https://www.yakup.com/news/?mode=view&cat=13&cat3=0&nid=333448",
-      "source": "약업닷컴",
-      "image": "http://www.bing.com/th?id=ONUT.ycaqYMFrd6QPOPFfxMcJEg&pid=News",
-      "category": "의학·바이오",
-      "publishedAt": "2026-10-06T13:26:00.000Z",
-      "collectedAt": "2026-10-07T02:46:24.810Z",
-      "thumb": "/thumbs/92952eaa2559.jpg"
-    },
-    {
-      "id": "5bf4e1109ad9",
-      "kind": "news",
-      "lang": "ko",
-      "title": "2026 노벨 생리의학상에 ‘광유전학’ 토대 세운 다이서로스 등 3인",
-      "summary": "올해 노벨 생리의학상은 빛으로 신경세포를 제어하는 ‘광유전학’ 분야를 개척한 칼 다이서로스 미국…",
-      "detail": "올해 노벨 생리의학상은 빛으로 신경세포를 제어하는 ‘광유전학’ 분야를 개척한 칼 다이서로스 미국 스탠포드대 교수 등3명의 과학자에게 돌아갔다. 스웨덴 카롤린스카 연구소 노벨위원회는 5일(현지시간) 스웨덴에서 칼 다이서로스 교수와 페터 헤게만 독일…",
-      "link": "https://www.dt.co.kr/article/12087480",
-      "source": "디지털타임스",
-      "image": "http://www.bing.com/th?id=ONUT.2ClIwb1_Gvy6m5dBV-yydA&pid=News",
-      "category": "의학·바이오",
-      "publishedAt": "2026-10-05T14:07:00.000Z",
-      "collectedAt": "2026-10-07T02:46:24.810Z",
-      "thumb": "/thumbs/5bf4e1109ad9.png"
     }
   ]
 }

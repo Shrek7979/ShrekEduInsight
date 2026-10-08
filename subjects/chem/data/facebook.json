@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-08T08:17:10.930Z",
+  "updatedAt": "2026-10-08T08:26:10.469Z",
   "items": [
     {
       "id": "fb-8ab2dd215dd3",
       "kind": "news",
       "lang": "en",
-      "title": "This year's in Chemistry was awarded for research which helps chemists",
-      "summary": "make just one of a molecule's pair of mirror images…",
+      "title": "This year's Nobel Prize in Chemistry was awarded for research which helps chemists make just one of a molecule's pair of mirror images This…",
+      "summary": "is hugely useful in making",
       "link": "https://www.facebook.com/compoundchem/posts/pfbid0BEyDS8vS8jvM9fjcj3z7XZucVwyT5dFwXMcqvhPZKuhgb5WAPQC5YjyZUdL74mPJl",
       "source": "Facebook Compound Interest",
       "category": "인기",
@@ -14,16 +14,16 @@
       "thumb": "/social/fb/fb-8ab2dd215dd3.jpg",
       "refs": [],
       "collectedAt": "2026-10-07T20:52:41.578Z",
-      "titleKo": "올해의 화학 부문은 화학자들에게 도움이 되는 연구에 수여되었습니다.",
-      "summaryKo": "분자의 거울상 쌍 중 하나만 만드세요…",
+      "titleKo": "올해의 노벨 화학상은 화학자들이 분자의 거울상 쌍 중 하나만 만드는 데 도움을 주는 연구에 수여되었습니다. 이…",
+      "summaryKo": "만드는데 엄청 유용해요",
       "translator": "google"
     },
     {
       "id": "fb-8479f18ab5fd",
       "kind": "video",
       "lang": "en",
-      "title": "These two researchers helped answer one of the great questions of scie",
-      "summary": "nce: How could nature create homochirality from achiral…",
+      "title": "These two researchers helped answer one of the great questions of science: How could nature create homochirality from achiral starting…",
+      "summary": "materials?",
       "link": "https://www.facebook.com/reel/1636046891382823/",
       "source": "Facebook American Chemical Society",
       "category": "인기",
@@ -31,8 +31,8 @@
       "thumb": "/social/fb/fb-8479f18ab5fd.jpg",
       "refs": [],
       "collectedAt": "2026-10-07T20:52:41.578Z",
-      "titleKo": "이 두 연구자는 과학계의 위대한 질문 중 하나에 답하는 데 도움을 주었습니다.",
-      "summaryKo": "nce: 자연은 어떻게 비키럴로부터 동질 카이랄성을 만들 수 있었나요…",
+      "titleKo": "이 두 연구자는 과학의 가장 큰 질문 중 하나인 '어떻게 자연이 비키럴 시작에서 동종키랄성을 생성할 수 있었습니까?'라는 질문에 답하는 데 도움을 주었습니다.",
+      "summaryKo": "재료?",
       "translator": "google"
     },
     {
