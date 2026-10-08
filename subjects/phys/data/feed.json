@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-10-08T11:57:37.474Z",
+  "updatedAt": "2026-10-08T12:57:26.896Z",
   "items": [
+    {
+      "id": "96dce17f95f0",
+      "kind": "news",
+      "lang": "en",
+      "title": "Physics and wildlife conservation: a slide puzzle",
+      "summary": "Can you reconstruct the wildlife photo in our…",
+      "detail": "Can you reconstruct the wildlife photo in our interactive slide puzzle? The post Physics and wildlife conservation: a slide puzzle appeared…",
+      "link": "https://physicsworld.com/a/physics-and-wildlife-conservation-a-slide-puzzle/",
+      "source": "Physics World",
+      "category": "해외",
+      "publishedAt": "2026-10-08T12:00:50.000Z",
+      "collectedAt": "2026-10-08T12:57:26.896Z",
+      "titleKo": "물리학과 야생동물 보호: 슬라이드 퍼즐",
+      "summaryKo": "우리의 야생 동물 사진을 재구성할 수 있습니까?",
+      "translator": "google",
+      "detailKo": "대화형 슬라이드 퍼즐로 야생동물 사진을 재구성할 수 있나요? 포스트 물리학과 야생동물 보호: 슬라이드 퍼즐이 등장했다…",
+      "thumb": "/thumbs/96dce17f95f0.jpg"
+    },
+    {
+      "id": "c9881fec8601",
+      "kind": "news",
+      "lang": "ko",
+      "title": "대전, 양자기술 산업화 모색…13일 연구·창업 전문가 한자리에",
+      "summary": "대전시(시장 허태정)가 대덕연구개발특구의 연구 역량을 양자기술 산업화와 스타트업 육성으로 연결하기…",
+      "detail": "대전시(시장 허태정)가 대덕연구개발특구의 연구 역량을 양자기술 산업화와 스타트업 육성으로 연결하기 위한 협력 방안을 모색한다. 양자산업 클러스터 조성부터 위성 기반 양자통신, 에너지 진단·센싱까지 기술의 산업적 활용 가능성을 논의하는 자리가 ...",
+      "link": "https://www.timenews.co.kr/article/1707468",
+      "source": "timenews.co.kr",
+      "image": "http://www.bing.com/th?id=ONUT.DsqeeIoh0pDFkjqwqbw4LQ&pid=News",
+      "category": "양자·첨단",
+      "publishedAt": "2026-10-08T01:38:00.000Z",
+      "collectedAt": "2026-10-08T12:57:26.896Z",
+      "thumb": "/thumbs/c9881fec8601.png"
+    },
     {
       "id": "19d84972d882",
       "kind": "news",
@@ -2395,35 +2428,6 @@
       "translator": "google",
       "detailKo": "우주 중성미자 탐지 연구로 천체물리학자 승리 프란시스 할젠(Francis Halzen)이 노벨 물리학상을 수상한 포스트가 물리학에 처음 등장…",
       "thumb": "/thumbs/7bdcfeed6f61.jpg"
-    },
-    {
-      "id": "05586b05fbd5",
-      "kind": "news",
-      "lang": "ko",
-      "title": "韓·日 기초과학 연구진 뭉쳤다···IBS, RIKEN과 '양자현상' 공동연구랩 구축",
-      "summary": "기초과학연구원(IBS)이 일본 이화학연구소(RIKEN)에 공동연구 거점을 마련했다",
-      "detail": "기초과학연구원(IBS)이 일본 이화학연구소(RIKEN)에 공동연구 거점을 마련했다. 한국 연구진의 나노 수준 공간 계측 기술과 일본 연구진의 펨토초 수준 시간 계측 기술을 결합해 분자·나노 세계에서 일어나는 양자현상을 들여다본다.IBS(원장…",
-      "link": "http://www.hellodd.com/news/articleView.html?idxno=113410",
-      "source": "헬로디디",
-      "category": "양자·첨단",
-      "publishedAt": "2026-10-06T08:00:00.000Z",
-      "collectedAt": "2026-10-06T10:16:03.141Z",
-      "thumb": "/thumbs/05586b05fbd5.png"
-    },
-    {
-      "id": "62177fcb4615",
-      "kind": "news",
-      "lang": "ko",
-      "title": "[노벨상 2026] 물리학상에 중성미자 검출기 '아이스큐브' 완공한 프랜시스 할젠(2보)",
-      "summary": "올해 노벨 생리의학상은 빛으로 신경세포를 제어해 신경과학의 새 시대를 연 '광유전학' 개척…",
-      "detail": "올해 노벨 생리의학상은 빛으로 신경세포를 제어해 신경과학의 새 시대를 연 '광유전학' 개척 과학자들이 받았다. 스웨덴 카롤린스카 의대 노벨위원회는 5일 (현지시간) 2026년 노벨 생리의학상 수상자로 칼 다이서로스 미국 스탠퍼드대 교수 (54),…",
-      "link": "https://www.dongascience.com/ko/news/80213",
-      "source": "동아사이언스",
-      "image": "http://www.bing.com/th?id=ONUT.oF9ses4VqwcIwQO7UFbb8g&pid=News",
-      "category": "연구",
-      "publishedAt": "2026-10-05T22:08:00.000Z",
-      "collectedAt": "2026-10-06T10:16:03.141Z",
-      "thumb": "/thumbs/62177fcb4615.png"
     }
   ]
 }

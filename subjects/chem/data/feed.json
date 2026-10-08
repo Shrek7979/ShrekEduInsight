@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-10-08T11:57:37.788Z",
+  "updatedAt": "2026-10-08T12:57:26.895Z",
   "items": [
+    {
+      "id": "56e192daf225",
+      "kind": "news",
+      "lang": "ko",
+      "title": "노벨화학상 '비대칭 화학' 연구 주목…\"장기간 연구할 환경 조성돼야\"",
+      "summary": "올해 노벨 화학상 공동 수상자에 앙리 카강 프랑스 파리 남부대학교 명예교수와 소아이 겐소 도쿄…",
+      "detail": "올해 노벨 화학상 공동 수상자에 앙리 카강 프랑스 파리 남부대학교 명예교수와 소아이 겐소 도쿄 이과대학 명예교수가 선정됐습니다. 이 수상 결과는 우리 과학계가 한 연구를 장기간 이어갈 수 있는 환경 조성이란 화두를 던져 눈길을 끕니다.",
+      "link": "https://www.newstomato.com/ReadNews.aspx?no=1316078&inflow=G",
+      "source": "뉴스토마토",
+      "image": "http://www.bing.com/th?id=ONUT.xKsR-IjXb8Rae1PO043D8A&pid=News",
+      "category": "연구",
+      "publishedAt": "2026-10-08T05:22:00.000Z",
+      "collectedAt": "2026-10-08T12:57:26.895Z",
+      "thumb": "/thumbs/56e192daf225.jpg"
+    },
     {
       "id": "41536ff28907",
       "kind": "news",
@@ -2405,21 +2420,6 @@
       "publishedAt": "2026-10-05T19:00:00.000Z",
       "collectedAt": "2026-10-06T07:31:12.842Z",
       "thumb": "/thumbs/23817d2f04ed.png"
-    },
-    {
-      "id": "506ee3973c8c",
-      "kind": "news",
-      "lang": "ko",
-      "title": "진안군, 화학물질 안전관리위원회 개최",
-      "summary": "진안군은 지난 10월 2일 군청 상황실에서 ‘진안군 화학물질 안전관리위원회 위촉식 및 화학물질…",
-      "detail": "진안군은 지난 10월 2일 군청 상황실에서 ‘진안군 화학물질 안전관리위원회 위촉식 및 화학물질 안전관리계획 수립 용역보고회’를 개최했다. 이날 회의에는 진안군 부군수를 비롯한 관계 공무원과 진안군의회, 전북대학교, 한국환경공단, 진안소방서 등…",
-      "link": "https://www.jbjnews.com/news/articleView.html?idxno=327611",
-      "source": "jbjnews",
-      "image": "http://www.bing.com/th?id=ONUT.T2UMHIZDroG_yyF2cAg8iw&pid=News",
-      "category": "환경·안전",
-      "publishedAt": "2026-10-05T18:40:00.000Z",
-      "collectedAt": "2026-10-06T07:31:12.842Z",
-      "thumb": "/thumbs/506ee3973c8c.jpg"
     }
   ]
 }

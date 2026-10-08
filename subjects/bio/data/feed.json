@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-10-08T11:57:37.850Z",
+  "updatedAt": "2026-10-08T12:57:26.924Z",
   "items": [
+    {
+      "id": "fc897ff895bf",
+      "kind": "news",
+      "lang": "ko",
+      "title": "'빛으로 뇌세포 조절' 과학자 3명 노벨 생리의학상",
+      "summary": "빛으로 세포의 활동을 조절하는 '광유전학'을 개척한 미국과 독일 과학자 3명이 올해 노벨…",
+      "detail": "빛으로 세포의 활동을 조절하는 '광유전학'을 개척한 미국과 독일 과학자 3명이 올해 노벨 생리의학상을 받는다.스웨덴 카롤린스카 연구소 노벨위원회는 5일(현지시간) 칼 다이서로스 미국 스탠퍼드대 교수, 페터 헤게만 독일 베를린 훔볼트대 교수, 게오르크…",
+      "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=246247",
+      "source": "세이프타임즈",
+      "image": "http://www.bing.com/th?id=ONUT.LXSGmnbO_pW1s4jT39rQ-A&pid=News",
+      "category": "의학·바이오",
+      "publishedAt": "2026-10-06T06:27:00.000Z",
+      "collectedAt": "2026-10-08T12:57:26.924Z",
+      "thumb": "/thumbs/fc897ff895bf.jpg"
+    },
     {
       "id": "52bedbbbec6a",
       "kind": "news",
@@ -2356,21 +2371,6 @@
       "publishedAt": "2026-10-06T14:55:00.000Z",
       "collectedAt": "2026-10-07T03:46:57.838Z",
       "thumb": "/thumbs/d9a74f5d0eeb.jpg"
-    },
-    {
-      "id": "573d5d183333",
-      "kind": "news",
-      "lang": "ko",
-      "title": "경희대-서강대 공동연구팀, 미생물·나무 성분 결합한 친환경 고무 개발…강도 4배·내열성↑",
-      "summary": "【뉴스퀘스트=장원수 기자】경희대학교 (총장 김진상) 화학공학과 이은열 교수 연구팀과 서강대학교…",
-      "detail": "【뉴스퀘스트=장원수 기자】경희대학교 (총장 김진상) 화학공학과 이은열 교수 연구팀과 서강대학교 화공생명공학과 박제영 교수 연구팀이 미생물이 만든 친환경 바이오플라스틱과 나무 성분인 리그닌을 함께 활용해 뛰어난 성능을 가진 친환경 폴리우레탄 고무…",
-      "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=302195",
-      "source": "뉴스퀘스트",
-      "image": "http://www.bing.com/th?id=ONUT.44CHcNOYv1ZXq0WkA8ZbTw&pid=News",
-      "category": "연구",
-      "publishedAt": "2026-10-06T14:17:00.000Z",
-      "collectedAt": "2026-10-07T03:46:57.838Z",
-      "thumb": "/thumbs/573d5d183333.jpg"
     }
   ]
 }
