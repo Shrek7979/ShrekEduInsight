@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-10-08T08:24:10.302Z",
+  "updatedAt": "2026-10-08T08:57:02.337Z",
   "items": [
+    {
+      "id": "7cc90a696e90",
+      "kind": "news",
+      "lang": "ko",
+      "title": "과학고 ‘누리호 키즈’들이 개발한 위성, 누리호 타고 우주로 갔다",
+      "summary": "“발사 1시간 만에 우주에서 우리가 개발한 위성이 보낸 신호가 잡혔어요",
+      "detail": "“발사 1시간 만에 우주에서 우리가 개발한 위성이 보낸 신호가 잡혔어요. 실감이 안 나더라고요. 얼떨떨했습니다.” 지난 7일 발사된 누리호에 탑재된 위성 ‘지비셋(GBSAT)’을 개발한 이태균(23·광주과학기술원 졸업)씨는 8일 기자에게 당시 소감을…",
+      "link": "https://www.joongang.co.kr/article/25468250",
+      "source": "중앙일보",
+      "image": "http://www.bing.com/th?id=ONUT.Xv5ci6sSTK67e60VaapoZg&pid=News",
+      "category": "우주·천문",
+      "publishedAt": "2026-10-07T18:29:00.000Z",
+      "collectedAt": "2026-10-08T08:57:02.337Z",
+      "thumb": "/thumbs/7cc90a696e90.jpg"
+    },
+    {
+      "id": "fbaca28ba3ac",
+      "kind": "news",
+      "lang": "ko",
+      "title": "[GAM] 파스칼 ② 이미 돈 버는 양자기업...\"칩 없이 원자로 계산한다\"",
+      "summary": "이 기사는 10월 7일 오후 4시49분 '해외 주식 투자의 도우미' GAM(Global Asset…",
+      "detail": "이 기사는 10월 7일 오후 4시49분 '해외 주식 투자의 도우미' GAM(Global Asset Management)에 출고된 프리미엄 기사입니다. GAM에서 회원 가입을 하면 9000여 해외 종목의 프리미엄 기사를 보실 수 있습니다.<파스칼 ①…",
+      "link": "https://www.newspim.com/news/view/20261008000007",
+      "source": "뉴스핌",
+      "image": "http://www.bing.com/th?id=ONUT.9zsB-_xAJNJrobxAnKeH1A&pid=News",
+      "category": "양자·첨단",
+      "publishedAt": "2026-10-07T17:00:00.000Z",
+      "collectedAt": "2026-10-08T08:57:02.337Z",
+      "thumb": "/thumbs/fbaca28ba3ac.png"
+    },
     {
       "id": "9392d9840145",
       "kind": "news",

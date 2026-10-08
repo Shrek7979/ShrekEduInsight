@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-08T08:26:11.626Z",
+  "updatedAt": "2026-10-08T08:59:32.722Z",
   "items": [
+    {
+      "id": "fb-cd036b20cd8c",
+      "kind": "video",
+      "lang": "en",
+      "title": "Happy birthday",
+      "summary": "",
+      "link": "https://www.facebook.com/reel/1372320718070193/",
+      "source": "Facebook CERN",
+      "category": "인기",
+      "publishedAt": "2026-10-08T07:59:12.386Z",
+      "thumb": "/social/fb/fb-cd036b20cd8c.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-08T08:59:32.722Z",
+      "titleKo": "생일 축하해요",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-36037fc0e5e6",
       "kind": "news",
