@@ -1,6 +1,35 @@
 {
-  "updatedAt": "2026-10-08T07:17:24.401Z",
+  "updatedAt": "2026-10-08T08:13:55.987Z",
   "items": [
+    {
+      "id": "633556b9b527",
+      "kind": "news",
+      "lang": "ko",
+      "title": "한국교원대학교부설월곡초등학교 즐거움과 체험이 가득한 '2026. 2학기 잼JAM 과학탐구축제' 개최",
+      "summary": "청주시 한국교원대학교부설월곡초등학교(교장 김옥선)는 오는 10월 6일부터 10월 8일까지 3일간,…",
+      "detail": "청주시 한국교원대학교부설월곡초등학교(교장 김옥선)는 오는 10월 6일부터 10월 8일까지 3일간, 1~6학년 전교생을 대상으로 '2026. 2학기 잼JAM 즐거움/체험 과학탐구축제'를 개최했다.이번 과학축제는 과학탐구집중 운영 기간을 통해 체험과…",
+      "link": "https://www.veritas-a.com/news/articleView.html?idxno=631174",
+      "source": "베리타스알파",
+      "category": "대회·행사",
+      "publishedAt": "2026-10-08T06:11:14.000Z",
+      "collectedAt": "2026-10-08T08:13:55.987Z",
+      "thumb": "/thumbs/633556b9b527.jpg"
+    },
+    {
+      "id": "4bfbc229691a",
+      "kind": "news",
+      "lang": "ko",
+      "title": "울산과학기술원 연구팀, 망간 수전해 촉매 성능·내구성 높였다",
+      "summary": "울산과학기술원(UNIST)는 에너지화학공학과 류정기·이준희 교수팀이 망간 산화물에 네오디뮴을 넣어…",
+      "detail": "울산과학기술원(UNIST)는 에너지화학공학과 류정기·이준희 교수팀이 망간 산화물에 네오디뮴을 넣어 산성 환경에서도 오래 작동하는 산소 발생 촉매를 개발했다고 7일 밝혔다. 연구 결과는 지난달 11일 국제 학술지 Nature…",
+      "link": "https://www.metroseoul.co.kr/article/20261007500399",
+      "source": "메트로신문",
+      "image": "http://www.bing.com/th?id=ONUT.KCjCeiLPJvYq-G8DqS587A&pid=News",
+      "category": "소재·에너지",
+      "publishedAt": "2026-10-07T20:03:00.000Z",
+      "collectedAt": "2026-10-08T08:13:55.987Z",
+      "thumb": null
+    },
     {
       "id": "bsky-3mxdvtx2x6c2d",
       "kind": "news",
@@ -1127,20 +1156,6 @@
       "thumb": "/thumbs/d4013ad43cd0.jpg"
     },
     {
-      "id": "bf82cd0a3167",
-      "kind": "news",
-      "lang": "ko",
-      "title": "광운대 정보과학교육원 사회복지학, 사회복지사 2급 과정 운영",
-      "summary": "광운대학교 정보과학교육원은 사회복지학 전공을 운영하고 있으며, 졸업 시 광운대학교 총장 명의의…",
-      "detail": "광운대학교 정보과학교육원은 사회복지학 전공을 운영하고 있으며, 졸업 시 광운대학교 총장 명의의 행정학사 학위가 수여된다고 학교 측이 7일 밝혔다. 사회복지학 전공 교과 과정에는 사회복지실천론과 사회복지정책론, 사회복지현장실습 등이 편성돼 있다.",
-      "link": "https://www.job-post.co.kr/news/articleView.html?idxno=231148",
-      "source": "잡포스트",
-      "category": "교육",
-      "publishedAt": "2026-10-06T20:38:00.000Z",
-      "collectedAt": "2026-10-07T15:42:20.216Z",
-      "thumb": "/thumbs/bf82cd0a3167.jpg"
-    },
-    {
       "id": "5baef2633a7a",
       "kind": "video",
       "lang": "en",
@@ -1925,38 +1940,6 @@
       "thumb": "/thumbs/eb477765ddf1.webp"
     },
     {
-      "id": "f7ae21faef6e",
-      "kind": "news",
-      "lang": "ko",
-      "title": "렉스이노베이션, 비귀금속 수전해·연료전지 촉매 사업화…전남대 앵커사업 선정",
-      "summary": "렉스이노베이션(REC's Innovation, 대표 임정민)은 전남대학교 앵커사업단의 시제품 제작과…",
-      "detail": "렉스이노베이션(REC's Innovation, 대표 임정민)은 전남대학교 앵커사업단의 시제품 제작과 비즈니스모델(BM) 설계 지원 분야에 동시 선정됐다고 6일 밝혔다. 이번 사업을 통해 비귀금속 촉매 기반의 연료전지 부품 시제품을 확보하고, 수전해…",
-      "link": "https://www.etnews.com/20261006000423",
-      "source": "전자신문",
-      "category": "소재·에너지",
-      "publishedAt": "2026-10-06T01:14:00.000Z",
-      "collectedAt": "2026-10-06T16:31:10.042Z",
-      "thumb": "/thumbs/f7ae21faef6e.png"
-    },
-    {
-      "id": "92bad52be2ef",
-      "kind": "news",
-      "lang": "en",
-      "title": "Register for the 2026 Southeastern Regional Meeting of the American Chemical Society",
-      "summary": "The event will take place Nov",
-      "detail": "The event will take place Nov. 4–7 at the Renasant Convention Center in Memphis, Tennessee",
-      "link": "https://cen.acs.org/acs-news/register-2026-southeastern-regional-meeting/104/web/2026/10?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
-      "source": "C&EN",
-      "category": "해외",
-      "publishedAt": "2026-10-06T15:14:27.000Z",
-      "collectedAt": "2026-10-06T15:31:08.373Z",
-      "titleKo": "2026년 미국화학회 남동부 지역회의 등록",
-      "summaryKo": "이벤트는 11월에 진행됩니다",
-      "translator": "google",
-      "detailKo": "이 행사는 테네시 주 멤피스의 Renasant Convention Center에서 11월 4일부터 7일까지 개최됩니다.",
-      "thumb": "/thumbs/92bad52be2ef.webp"
-    },
-    {
       "id": "d94ada38c472",
       "kind": "news",
       "lang": "en",
@@ -2092,23 +2075,6 @@
       "summaryKo": "프로그램: 🧪",
       "translator": "google",
       "thumb": "/thumbs/bsky-3mx7hanu2uc2y.webp"
-    },
-    {
-      "id": "bsky-3mx7envbaks2r",
-      "kind": "news",
-      "lang": "en",
-      "title": "Technobis have developed a free expert white paper exploring two efficient, data-driven…",
-      "summary": "methods for generating robust solubility measurements",
-      "link": "https://bsky.app/profile/chemistryworld.com/post/3mx7envbaks2r",
-      "source": "Bluesky Chemistry World",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6v2nwmzy4dozxcftobscktc3/bafkreihjvzzcp565lrwwmk6cn5frlf57mlytgtc7ex5el3u7xez36ydy7q",
-      "category": "인기",
-      "publishedAt": "2026-10-06T11:54:03.837Z",
-      "collectedAt": "2026-10-06T12:31:04.964Z",
-      "titleKo": "Technobis는 두 가지 효율적인 데이터 기반 기술을 탐구하는 무료 전문가 백서를 개발했습니다.",
-      "summaryKo": "강력한 용해도 측정을 생성하는 방법",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mx7envbaks2r.webp"
     },
     {
       "id": "bsky-3mx7do2xcks2y",
@@ -2297,21 +2263,6 @@
       "publishedAt": "2026-10-05T18:21:00.000Z",
       "collectedAt": "2026-10-06T07:31:12.842Z",
       "thumb": "/thumbs/3e5b324e1efa.png"
-    },
-    {
-      "id": "71720b9c19df",
-      "kind": "news",
-      "lang": "ko",
-      "title": "인류를 바꾼 과학자들의 도전과 발견…2026 노벨과학상 발표 앞두고 『노벨과학상 수상』 출간",
-      "summary": "2026년 노벨과학상 발표를 앞두고 지난 125년간 인류의 삶을 변화시킨 노벨과학상 수상자들의…",
-      "detail": "2026년 노벨과학상 발표를 앞두고 지난 125년간 인류의 삶을 변화시킨 노벨과학상 수상자들의 연구와 삶을 살펴보는 『노벨과학상 수상』이 출간됐다.김현숙·성용길·류재근 박사가 공동 집필한 이 책은 물리학, 화학, 생리·의학 분야의 대표적인 노벨상…",
-      "link": "https://www.lecturernews.com/news/articleView.html?idxno=211600",
-      "source": "한국강사신문",
-      "image": "http://www.bing.com/th?id=ONUT.Azzw_UJ7dFX6BTeq77wTVg&pid=News",
-      "category": "연구",
-      "publishedAt": "2026-10-05T17:49:00.000Z",
-      "collectedAt": "2026-10-06T06:31:04.040Z",
-      "thumb": "/thumbs/71720b9c19df.png"
     },
     {
       "id": "071821f31647",
