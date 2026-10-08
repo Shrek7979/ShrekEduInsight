@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-08T20:57:11.904Z",
+  "updatedAt": "2026-10-08T21:57:15.696Z",
   "items": [
+    {
+      "id": "47e40bec1398",
+      "kind": "news",
+      "lang": "en",
+      "title": "‘Analytical Chemistry’ names next editor in chief",
+      "summary": "Christy L",
+      "detail": "Christy L. Haynes, professor at the University of Minnesota, will lead the journal starting Jan. 1, 2027",
+      "link": "https://cen.acs.org/acs-news/Analytical-Chemistry-names-next-editor/104/web/2026/10?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
+      "source": "C&EN",
+      "category": "해외",
+      "publishedAt": "2026-10-08T15:19:22.000Z",
+      "collectedAt": "2026-10-08T21:57:15.696Z",
+      "titleKo": "'분석화학' 차기 편집장 임명",
+      "summaryKo": "크리스티 L",
+      "translator": "google",
+      "detailKo": "미네소타 대학의 Christy L. Haynes 교수가 2027년 1월 1일부터 저널을 이끌게 됩니다.",
+      "thumb": "/thumbs/47e40bec1398.webp"
+    },
     {
       "id": "bsky-3mxfdbrr5hc2f",
       "kind": "news",
@@ -53,24 +71,6 @@
       "translator": "google",
       "detailKo": "두 명의 수상자들은 왼손잡이 분자의 세계에서 우리가 어떻게 살 수 있는지를 밝혔습니다.",
       "thumb": "/thumbs/82c7d567abc1.webp"
-    },
-    {
-      "id": "47e40bec1398",
-      "kind": "news",
-      "lang": "en",
-      "title": "‘Analytical Chemistry’ names next editor in chief",
-      "summary": "Christy L",
-      "detail": "Christy L. Haynes, professor at the University of Minnesota, will lead the journal starting Jan. 1, 2027",
-      "link": "https://cen.acs.org/acs-news/Analytical-Chemistry-names-next-editor/104/web/2026/10?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
-      "source": "C&EN",
-      "category": "해외",
-      "publishedAt": "2026-10-08T15:19:22.000Z",
-      "collectedAt": "2026-10-08T20:57:11.904Z",
-      "titleKo": "'분석화학' 차기 편집장 임명",
-      "summaryKo": "크리스티 L",
-      "translator": "google",
-      "detailKo": "미네소타 대학의 Christy L. Haynes 교수가 2027년 1월 1일부터 저널을 이끌게 됩니다.",
-      "thumb": "/thumbs/47e40bec1398.webp"
     },
     {
       "id": "c1b5e4db3a54",

@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-08T20:57:12.038Z",
+  "updatedAt": "2026-10-08T21:57:15.480Z",
   "items": [
+    {
+      "id": "bsky-3mxferjstkm26",
+      "kind": "news",
+      "lang": "en",
+      "title": "Math graduate students find good jobs and earn credit and recognition based on the theorems they prove.",
+      "summary": "What happens now if AI is solving all the problems?",
+      "link": "https://bsky.app/profile/quantamagazine.org/post/3mxferjstkm26",
+      "source": "Bluesky Quanta Magazine",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vfktz6qe6vy7serr3wqutpzt/bafkreib53jmq7wiza2rybvtyocimwq6qr5z4czafx7vk5hgjcpxykg3kmm",
+      "likes": "3",
+      "category": "인기",
+      "publishedAt": "2026-10-08T21:12:04.465Z",
+      "collectedAt": "2026-10-08T21:57:15.480Z",
+      "titleKo": "수학 대학원생은 좋은 직업을 찾고 자신이 증명한 정리를 바탕으로 학점과 인정을 받습니다.",
+      "summaryKo": "AI가 모든 문제를 해결한다면 이제 어떻게 될까요?",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxferjstkm26.webp"
+    },
     {
       "id": "16f5de3ef74d",
       "kind": "news",
@@ -2416,20 +2434,6 @@
       "publishedAt": "2026-10-05T22:56:00.000Z",
       "collectedAt": "2026-10-06T12:17:26.938Z",
       "thumb": "/thumbs/851038a53ba9.png"
-    },
-    {
-      "id": "d3b5d354b118",
-      "kind": "news",
-      "lang": "ko",
-      "title": "광주과학고 윤예준, 국제 천문올림피아드 ‘금메달’",
-      "summary": "전남광주 ‘우주과학 꿈나무’가 세계 무대에서 두각을 나타냈다",
-      "detail": "전남광주 ‘우주과학 꿈나무’가 세계 무대에서 두각을 나타냈다. 광주과학고 3학년 윤예준 학생이 포함된 한국대표단 5명이 올해 국제 천문 및 천체물리올림피아드에 출전해 ‘전원 금메달’이라는 성과를 거뒀다.",
-      "link": "https://www.namdonews.com/news/articleView.html?idxno=925400",
-      "source": "남도일보",
-      "category": "대회·행사",
-      "publishedAt": "2026-10-05T23:40:00.000Z",
-      "collectedAt": "2026-10-06T12:16:03.778Z",
-      "thumb": "/thumbs/d3b5d354b118.jpg"
     }
   ]
 }
