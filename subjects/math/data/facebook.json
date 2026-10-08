@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T14:01:38.128Z",
+  "updatedAt": "2026-10-08T18:01:18.097Z",
   "items": [
     {
       "id": "fb-20709cd04ec5",
@@ -16,6 +16,23 @@
       "collectedAt": "2026-10-08T14:01:38.128Z",
       "titleKo": "더 빠른 시뮬레이션, 더 스마트한 컨트롤러 또는 더 효율적인 AI 교육을 원하십니까?",
       "summaryKo": "엔지니어링 모델 간의 격차를 해소하고…",
+      "translator": "google"
+    },
+    {
+      "id": "fb-b647713ce848",
+      "kind": "video",
+      "lang": "en",
+      "title": "Rosie and Nick are just about to start their third year.",
+      "summary": "Before they finished their second year, we had a chat…",
+      "link": "https://www.facebook.com/reel/4583886981895260/",
+      "source": "Facebook Oxford Mathematics",
+      "category": "인기",
+      "publishedAt": "2026-10-07T18:00:13.153Z",
+      "thumb": "/social/fb/fb-b647713ce848.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-08T18:01:18.097Z",
+      "titleKo": "Rosie와 Nick은 이제 막 3년차를 시작하게 되었습니다.",
+      "summaryKo": "2학년이 끝나기 전에 우리는 이야기를 나눴는데…",
       "translator": "google"
     },
     {

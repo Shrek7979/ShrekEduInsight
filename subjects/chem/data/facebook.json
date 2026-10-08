@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T17:00:48.840Z",
+  "updatedAt": "2026-10-08T18:00:14.386Z",
   "items": [
     {
       "id": "fb-78fd6b6fd58e",
@@ -31,7 +31,7 @@
       "thumb": "/social/fb/fb-8479f18ab5fd.jpg",
       "refs": [],
       "collectedAt": "2026-10-07T20:52:41.578Z",
-      "titleKo": "이 두 연구자는 과학의 위대한 질문 중 하나인 '어떻게 자연이 비키럴 시작에서 동종키랄성을 생성할 수 있었을까?'라는 질문에 답하는 데 도움을 주었습니다.",
+      "titleKo": "이 두 연구자는 과학의 가장 큰 질문 중 하나인 '어떻게 자연이 비키럴 시작에서 동종키랄성을 생성할 수 있었습니까?'라는 질문에 답하는 데 도움을 주었습니다.",
       "summaryKo": "재료?",
       "translator": "google"
     },
@@ -67,6 +67,23 @@
       "collectedAt": "2026-10-07T15:45:51.933Z",
       "titleKo": "10월 8일은 문어의 피가 푸른색이라는 사실을 알고 계셨나요?",
       "summaryKo": "이 그래픽은 무엇이 파란색인지를 보여줍니다.",
+      "translator": "google"
+    },
+    {
+      "id": "fb-00d877ce2425",
+      "kind": "video",
+      "lang": "en",
+      "title": "Which salt will make ice cream even faster?",
+      "summary": "",
+      "link": "https://www.facebook.com/reel/1363657485584031/",
+      "source": "Facebook Reactions",
+      "category": "인기",
+      "publishedAt": "2026-10-06T18:00:14.344Z",
+      "thumb": "/social/fb/fb-00d877ce2425.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-08T18:00:14.386Z",
+      "titleKo": "어떤 소금이 아이스크림을 더 빨리 만들까요?",
+      "summaryKo": "",
       "translator": "google"
     },
     {
