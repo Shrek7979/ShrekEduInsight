@@ -33,6 +33,9 @@ type Card = { key: string; item?: FeedItem; topic?: Topic }
 const ALL = '전체'
 const POPULAR = '인기'
 const SAVED = '★ 저장'
+// 상단 과목 동그라미(인스타 스토리처럼)를 눌렀을 때: 그 과목의 최근 24시간 새 소식만 넘겨 봄 (칩에는 없는 보기)
+const STORY = '__story__'
+const STORY_HOURS = 24
 const TOPIC_EVERY = 5
 const AUTO_SECONDS = 8
 // 페이지를 연 뒤에도 이 간격으로 과목 사이트의 새 데이터를 확인
@@ -93,6 +96,8 @@ export default function ReelsPage({ initial, dayIndex }: Props) {
   const [searchOpen, setSearchOpen] = useState(false)
   const [query, setQuery] = useState('')
   const [level, setLevel] = useState('')
+  // 스토리로 볼 카드 (누른 순간의 목록을 고정해, 보는 사이 읽음 처리돼도 카드가 빠지지 않게)
+  const [storyIds, setStoryIds] = useState<Set<string>>(new Set())
   const [now, setNow] = useState<number | null>(null)
   const saved = useStoredSet('edu-hub:saved')
   const read = useStoredSet('edu-hub:read')
@@ -158,6 +163,7 @@ export default function ReelsPage({ initial, dayIndex }: Props) {
         `${item.title} ${item.titleKo || ''} ${item.summary} ${item.summaryKo || ''} ${item.detail || ''} ${item.detailKo || ''} ${item.lesson || ''} ${item.source}`.toLowerCase().includes(keyword)
       )
     }
+    if (category === STORY) return inLevel.filter((item) => storyIds.has(item.id))
     if (category === ALL) return inLevel
     if (category === TOPIC_CHIP) return []
     if (category === SAVED) return inLevel.filter((item) => saved.ids.has(item.id))
@@ -169,7 +175,7 @@ export default function ReelsPage({ initial, dayIndex }: Props) {
         .sort((a, b) => popularity(b) - popularity(a))
     }
     return inLevel.filter((item) => item.category === category)
-  }, [feed.items, category, subjectFilter, saved.ids, keyword, level])
+  }, [feed.items, category, subjectFilter, saved.ids, keyword, level, storyIds])
 
   const cards = useMemo<Card[]>(() => {
     const newsCards: Card[] = visibleItems.map((item) => ({ key: item.id, item }))
@@ -180,6 +186,7 @@ export default function ReelsPage({ initial, dayIndex }: Props) {
       return [...found.map((topic) => ({ key: topic.id, topic })), ...newsCards]
     }
     if (category === TOPIC_CHIP) return mixedTopics.map((topic) => ({ key: topic.id, topic }))
+    if (category === STORY) return newsCards
     if (category === SAVED) {
       const savedTopics = mixedTopics.filter((topic) => saved.ids.has(topic.id))
       return [...newsCards, ...savedTopics.map((topic) => ({ key: topic.id, topic }))]
@@ -371,6 +378,29 @@ export default function ReelsPage({ initial, dayIndex }: Props) {
 
   const fullscreen = immersive && view === 'reels'
 
+  // 과목 스토리: 최근 24시간 소식 중 아직 안 본 것이 있으면 색 링 + 개수
+  const stories = useMemo(
+    () =>
+      SUBJECTS.map((subject) => {
+        const recent = now
+          ? feed.items.filter((item) => item.subject === subject.key && now - new Date(item.collectedAt).getTime() < STORY_HOURS * 3600_000)
+          : []
+        return { subject, recent, unread: recent.filter((item) => !read.ids.has(item.id)) }
+      }),
+    [feed.items, read.ids, now]
+  )
+  const [storySubject, setStorySubject] = useState<SubjectKey | null>(null)
+  const openStory = ({ subject, recent, unread }: (typeof stories)[number]) => {
+    // 안 본 소식이 있으면 그것만, 다 봤으면 최근 소식 전체를 다시, 최근 소식이 없으면 그 과목 칩으로
+    const list = unread.length ? unread : recent
+    setAuto(false)
+    switchView('reels')
+    if (!list.length) return selectCategory(subject.name)
+    setStoryIds(new Set(list.map((item) => item.id)))
+    setStorySubject(subject.key)
+    selectCategory(STORY)
+  }
+
   // 고른 칩이 화면 밖에 있으면 가운데로 끌어옴 (PC 왼쪽 패널에서 과목을 골랐을 때 등)
   const chipsRef = useRef<HTMLElement>(null)
   useEffect(() => {
@@ -452,6 +482,50 @@ export default function ReelsPage({ initial, dayIndex }: Props) {
             <Link href="/about/" className="shrink-0 text-[12px] font-semibold text-white/45 underline-offset-4 hover:text-white hover:underline">
               소개
             </Link>
+          </div>
+
+          <div className="mt-2 flex items-center gap-3" aria-label="과목별 새 소식">
+            {stories.map((story) => {
+              const { subject, unread } = story
+              const on = category === STORY && storySubject === subject.key && !keyword
+              return (
+                <button
+                  key={subject.key}
+                  onClick={() => openStory(story)}
+                  aria-label={`${subject.name} 새 소식 ${unread.length}건`}
+                  title={`${subject.name} 최근 ${STORY_HOURS}시간 새 소식`}
+                  className="relative shrink-0 rounded-full transition active:scale-95"
+                >
+                  <span
+                    className="block rounded-full p-[2.5px]"
+                    style={{
+                      background: unread.length
+                        ? `conic-gradient(from 210deg, ${subject.color}, #fde68a, ${subject.color})`
+                        : 'rgba(255,255,255,0.16)',
+                    }}
+                  >
+                    <span
+                      className={`flex h-[42px] w-[42px] items-center justify-center rounded-full border-2 text-[12.5px] font-extrabold tracking-[-0.03em] ${
+                        on ? 'border-white bg-white text-neutral-900' : 'border-[#08090b] bg-[#16171b]'
+                      }`}
+                      style={on ? undefined : { color: unread.length ? subject.color : 'rgba(255,255,255,0.45)' }}
+                    >
+                      {subject.name.slice(0, 2)}
+                    </span>
+                  </span>
+                  {unread.length > 0 && (
+                    <span className="absolute -right-1 -top-1 min-w-[20px] rounded-full border-2 border-[#08090b] bg-amber-300 px-1 text-center text-[10.5px] font-extrabold leading-[16px] text-neutral-900">
+                      {unread.length > 99 ? '99+' : unread.length}
+                    </span>
+                  )}
+                </button>
+              )
+            })}
+            <p className="min-w-0 flex-1 text-[11.5px] font-semibold leading-tight text-white/40">
+              {category === STORY && storySubject && !keyword
+                ? `${SUBJECT[storySubject].name} 새 소식 ${cards.length}건`
+                : `최근 ${STORY_HOURS}시간 새 소식`}
+            </p>
           </div>
 
           {searchOpen && (
@@ -624,6 +698,8 @@ export default function ReelsPage({ initial, dayIndex }: Props) {
                     <NewsCard
                       key={card.key}
                       eager={i < 2}
+                      active={i === active}
+                      onPlay={() => setAuto(false)}
                       item={card.item}
                       isNew={isNew(card.item)}
                       saved={saved.ids.has(card.key)}

@@ -1,8 +1,8 @@
-import React, { useRef, useState } from 'react'
+import React, { useEffect, useRef, useState } from 'react'
 import Link from 'next/link'
 import { FeedItem, SUBJECT, SubjectKey, Topic, formatDate, formatViews } from '@/lib/feed'
 import { saveTopicImage } from '@/lib/topicImage'
-import { ArrowIcon, DownloadIcon, ExternalIcon, PlayIcon, ShareIcon, StarIcon } from '@/components/icons'
+import { ArrowIcon, DownloadIcon, ExternalIcon, PauseIcon, PlayIcon, ShareIcon, StarIcon } from '@/components/icons'
 import TopicVisual, { hasTopicVisual } from './TopicVisual'
 
 // 카드 바탕은 모두 같은 어두운 면. 과목은 배지의 점과 글자 색으로만 구분해 읽는 데 집중하게 함
@@ -86,16 +86,47 @@ function TitleThumb({ item, title }: { item: FeedItem; title: string }) {
   )
 }
 
+// 유튜브 영상 번호 (watch?v=, shorts/, youtu.be/). 유튜브가 아니면 null
+const youtubeId = (link: string) => link.match(/(?:youtube\.com\/(?:watch\?v=|shorts\/|embed\/)|youtu\.be\/)([\w-]{11})/)?.[1] ?? null
+
+// 유튜브 영상을 사이트를 떠나지 않고 카드 안에서 재생 (쿠키를 덜 남기는 nocookie 주소)
+function VideoPlayer({ id, title }: { id: string; title: string }) {
+  return (
+    <div className="relative h-[42%] max-h-[420px] min-h-[140px] shrink-0 bg-black">
+      <iframe
+        src={`https://www.youtube-nocookie.com/embed/${id}?autoplay=1&playsinline=1&rel=0`}
+        title={title}
+        allow="autoplay; encrypted-media; picture-in-picture; fullscreen"
+        allowFullScreen
+        className="absolute inset-0 h-full w-full"
+      />
+    </div>
+  )
+}
+
 // 섬네일: 카드 위쪽 42% 를 차지
 // 과목 사이트의 섬네일 → 원문 기사 이미지 → 제목 글자 섬네일 순서로 대체
-function Thumbnail({ item, title, eager }: { item: FeedItem; title: string; eager?: boolean }) {
+// 유튜브 영상이면 누를 때 카드 안에서 재생(onPlay), 아니면 원문으로 이동
+function Thumbnail({ item, title, eager, onPlay }: { item: FeedItem; title: string; eager?: boolean; onPlay?: () => void }) {
   const sources = [item.thumb, item.image].filter(Boolean) as string[]
   const [index, setIndex] = useState(0)
   const hasImage = index < sources.length
   // 사진·섬네일을 잘라 내면 좁은 폰 화면에서 글자나 얼굴이 잘림 → 항상 그림 전체를 보여 줌.
   // 남는 자리는 같은 그림을 흐리게 깔아 채워 띠처럼 보이지 않게 함
-  return (
-    <a href={item.link} target="_blank" rel="noopener noreferrer" className="relative block h-[42%] max-h-[420px] min-h-[140px] shrink-0 overflow-hidden bg-[#0f1013]">
+  const frame = 'relative block h-[42%] max-h-[420px] min-h-[140px] shrink-0 overflow-hidden bg-[#0f1013]'
+  // 컴포넌트를 새로 만들지 않고 감싸기만 함 (그림이 다시 불려 오지 않게)
+  const wrap = (children: React.ReactNode) =>
+    onPlay ? (
+      <button type="button" onClick={onPlay} aria-label="영상 재생" className={`${frame} w-full text-left`}>
+        {children}
+      </button>
+    ) : (
+      <a href={item.link} target="_blank" rel="noopener noreferrer" className={frame}>
+        {children}
+      </a>
+    )
+  return wrap(
+    <>
       {hasImage ? (
         <>
           {/* eslint-disable-next-line @next/next/no-img-element */}
@@ -125,7 +156,7 @@ function Thumbnail({ item, title, eager }: { item: FeedItem; title: string; eage
           <PlayIcon className="h-7 w-7" />
         </span>
       )}
-    </a>
+    </>
   )
 }
 
@@ -136,10 +167,23 @@ type NewsCardProps = {
   onSave: () => void
   onShare: () => void
   eager?: boolean
+  // 지금 화면에 보이는 카드인지 (넘기면 재생 중인 영상을 멈춤)
+  active?: boolean
+  // 카드 안에서 영상 재생을 시작할 때 (자동 넘김을 멈추는 데 씀)
+  onPlay?: () => void
 }
 
-export function NewsCard({ item, isNew, saved, onSave, onShare, eager }: NewsCardProps) {
+export function NewsCard({ item, isNew, saved, onSave, onShare, eager, active, onPlay }: NewsCardProps) {
   const isVideo = item.kind === 'video'
+  const videoId = isVideo ? youtubeId(item.link) : null
+  const [playing, setPlaying] = useState(false)
+  useEffect(() => {
+    if (!active) setPlaying(false)
+  }, [active])
+  const play = () => {
+    setPlaying(true)
+    onPlay?.()
+  }
   const translated = item.lang === 'en' && item.titleKo
   const title = translated ? item.titleKo! : item.title
   // 긴 설명(2~3줄)이 있으면 그것을, 없으면 한 줄 설명
@@ -155,7 +199,11 @@ export function NewsCard({ item, isNew, saved, onSave, onShare, eager }: NewsCar
 
   return (
     <CardShell>
-      <Thumbnail item={item} title={title} eager={eager} />
+      {playing && videoId ? (
+        <VideoPlayer id={videoId} title={title} />
+      ) : (
+        <Thumbnail item={item} title={title} eager={eager} onPlay={videoId ? play : undefined} />
+      )}
 
       <div className="flex min-h-0 flex-1 flex-col px-5 pb-4 pt-3">
         <MetaLine subject={item.subject} details={details} isNew={isNew} />
@@ -175,10 +223,29 @@ export function NewsCard({ item, isNew, saved, onSave, onShare, eager }: NewsCar
         </div>
 
         <div className="mt-3 flex items-center gap-2">
-          <a href={item.link} target="_blank" rel="noopener noreferrer" className={primaryClass}>
-            {isVideo ? <PlayIcon className="h-4 w-4" /> : <ExternalIcon className="h-4 w-4" />}
-            {isVideo ? '영상 보기' : item.evergreen ? `${item.source}에서 보기` : '원문 보기'}
-          </a>
+          {videoId ? (
+            <>
+              <button onClick={playing ? () => setPlaying(false) : play} className={primaryClass}>
+                {playing ? <PauseIcon className="h-4 w-4" /> : <PlayIcon className="h-4 w-4" />}
+                {playing ? '재생 닫기' : '바로 재생'}
+              </button>
+              <a
+                href={item.link}
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="유튜브에서 보기"
+                title="유튜브에서 보기"
+                className="flex min-h-[50px] min-w-[50px] items-center justify-center rounded-2xl border border-white/10 bg-white/[0.06] text-white/85 transition hover:border-white/20 hover:bg-white/[0.12] active:scale-95"
+              >
+                <ExternalIcon className="h-[18px] w-[18px]" />
+              </a>
+            </>
+          ) : (
+            <a href={item.link} target="_blank" rel="noopener noreferrer" className={primaryClass}>
+              {isVideo ? <PlayIcon className="h-4 w-4" /> : <ExternalIcon className="h-4 w-4" />}
+              {isVideo ? '영상 보기' : item.evergreen ? `${item.source}에서 보기` : '원문 보기'}
+            </a>
+          )}
           <IconButton onClick={onSave} active={saved} label={saved ? '저장 취소' : '저장'}>
             <StarIcon filled={saved} />
           </IconButton>
