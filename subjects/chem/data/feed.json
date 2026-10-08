@@ -1,6 +1,35 @@
 {
-  "updatedAt": "2026-10-08T10:57:28.118Z",
+  "updatedAt": "2026-10-08T11:57:37.788Z",
   "items": [
+    {
+      "id": "41536ff28907",
+      "kind": "news",
+      "lang": "ko",
+      "title": "日다카이치, 노벨화학상 수상자에 축하 전화…연구비 확대 약속",
+      "summary": "신효령 기자 = 다카이치 사나에(高市早苗) 일본 총리가 노벨화학상 수상자로 선정된 소아이…",
+      "detail": "신효령 기자 = 다카이치 사나에(高市早苗) 일본 총리가 노벨화학상 수상자로 선정된 소아이 겐소(76) 일본 도쿄 이과대학교 명예 교수에게 축하 인사를 했다. 과학기술 연구 지원도 확대하겠다고 밝혔다. 8일 TV아사히 등 현지 언론에 따르면 다카이치…",
+      "link": "https://www.newsis.com/view/NISX20261008_0003818894",
+      "source": "뉴시스",
+      "image": "http://www.bing.com/th?id=ONUT.D_CD4xu5MCFA20YBs3xgFA&pid=News",
+      "category": "연구",
+      "publishedAt": "2026-10-08T04:48:00.000Z",
+      "collectedAt": "2026-10-08T11:57:37.788Z",
+      "thumb": "/thumbs/41536ff28907.jpg"
+    },
+    {
+      "id": "83d704b5eaab",
+      "kind": "news",
+      "lang": "ko",
+      "title": "장 보던 중 노벨상 수상 접해… 佛카강·日소아이 노벨화학상 후일담 [이런일이]",
+      "summary": "프랑스 앙리 카강(96) 파리사클레대(파리남부대) 명예교수와 일본 소아이 켄조(76) 도쿄이과대…",
+      "detail": "프랑스 앙리 카강(96) 파리사클레대(파리남부대) 명예교수와 일본 소아이 켄조(76) 도쿄이과대 명예교수가 2026년 노벨화학상 영예를 안았습니다. 프랑스 현지매체는 카강 교수에게 노벨상이 25년이나 늦게 도착했다면서 지난 2001년 노벨화학상…",
+      "link": "https://www.msn.com/ko-kr/news/news/%EC%9E%A5-%EB%B3%B4%EB%8D%98-%EC%A4%91-%EB%85%B8%EB%B2%A8%EC%83%81-%EC%88%98%EC%83%81-%EC%A0%91%ED%95%B4-%E4%BD%9B%EC%B9%B4%EA%B0%95-%E6%97%A5%EC%86%8C%EC%95%84%EC%9D%B4-%EB%85%B8%EB%B2%A8%ED%99%94%ED%95%99%EC%83%81-%ED%9B%84%EC%9D%BC%EB%8B%B4-%EC%9D%B4%EB%9F%B0%EC%9D%BC%EC%9D%B4/ar-AA2dN9lY",
+      "source": "노컷뉴스",
+      "category": "연구",
+      "publishedAt": "2026-10-08T04:26:04.000Z",
+      "collectedAt": "2026-10-08T11:57:37.788Z",
+      "thumb": "/thumbs/83d704b5eaab.png"
+    },
     {
       "id": "0df06eeaf091",
       "kind": "news",
@@ -2391,35 +2420,6 @@
       "publishedAt": "2026-10-05T18:40:00.000Z",
       "collectedAt": "2026-10-06T07:31:12.842Z",
       "thumb": "/thumbs/506ee3973c8c.jpg"
-    },
-    {
-      "id": "3e5b324e1efa",
-      "kind": "news",
-      "lang": "ko",
-      "title": "[뉴스워커_김위상 의원] 화학사고 67건→155건 늘었는데…예방 예산은 2년 새 36% 감소",
-      "summary": "화학물질 누출·유출 등 화학사고 발생 건수가 최근 증가한 가운데 사업장의 노후 화학물질 취급시설…",
-      "detail": "화학물질 누출·유출 등 화학사고 발생 건수가 최근 증가한 가운데 사업장의 노후 화학물질 취급시설 개선을 지원하는 정부 예산은 2년 새 36.1% 감소한 것으로 나타났다. 국회 기후에너지환경노동위원회 소속 김위상 국민의힘 의원이 기후에너지환경부로부터…",
-      "link": "https://www.newsworker.co.kr/news/articleView.html?idxno=507239",
-      "source": "뉴스워커",
-      "category": "환경·안전",
-      "publishedAt": "2026-10-05T18:21:00.000Z",
-      "collectedAt": "2026-10-06T07:31:12.842Z",
-      "thumb": "/thumbs/3e5b324e1efa.png"
-    },
-    {
-      "id": "071821f31647",
-      "kind": "news",
-      "lang": "ko",
-      "title": "그랜드조선 제주 화학물질 사고 기준치 100배 높아",
-      "summary": "그랜드조선 제주 호텔에서 발생한 염소가스 사고를 계기로 제주도가 화학물질·환경, 관광, 보건,…",
-      "detail": "그랜드조선 제주 호텔에서 발생한 염소가스 사고를 계기로 제주도가 화학물질·환경, 관광, 보건, 재난·안전 등 4개 분야에 걸친 재발방지 대책을 마련했다. 현재 관계 기관이 그랜드조선 제주호텔 종사자 등을 대상으로 조사를 벌이고 있고 처벌 수위는 조사…",
-      "link": "https://www.jejudomin.co.kr/news/articleView.html?idxno=400920",
-      "source": "제주도민일보",
-      "image": "http://www.bing.com/th?id=ONUT.hWFE1s9II_p6RIv3zUyrQg&pid=News",
-      "category": "환경·안전",
-      "publishedAt": "2026-10-05T17:26:00.000Z",
-      "collectedAt": "2026-10-06T06:31:04.040Z",
-      "thumb": "/thumbs/071821f31647.jpg"
     }
   ]
 }

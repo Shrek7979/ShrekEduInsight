@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-10-08T10:57:28.135Z",
+  "updatedAt": "2026-10-08T11:57:37.474Z",
   "items": [
+    {
+      "id": "19d84972d882",
+      "kind": "news",
+      "lang": "en",
+      "title": "Disordered environments around tumour cells can promote cancer spread",
+      "summary": "A biophysics model describing how cancers spread within…",
+      "detail": "A biophysics model describing how cancers spread within the human body could help researchers developing new cancer therapies The post…",
+      "link": "https://physicsworld.com/a/disordered-environments-around-tumour-cells-can-promote-cancer-spread/",
+      "source": "Physics World",
+      "category": "해외",
+      "publishedAt": "2026-10-08T11:00:42.000Z",
+      "collectedAt": "2026-10-08T11:57:37.474Z",
+      "titleKo": "종양 세포 주변의 무질서한 환경은 암 확산을 촉진할 수 있습니다",
+      "summaryKo": "암이 어떻게 퍼지는지 설명하는 생물물리학 모델…",
+      "translator": "google",
+      "detailKo": "암이 인체 내에서 어떻게 퍼지는지 설명하는 생물물리학 모델은 연구자들이 새로운 암 치료법을 개발하는 데 도움이 될 수 있습니다.",
+      "thumb": "/thumbs/19d84972d882.jpg"
+    },
+    {
+      "id": "d515e747fea7",
+      "kind": "news",
+      "lang": "ko",
+      "title": "AI 데이터센터 전력난..과연 핵융합이 돌파구 될까(?)",
+      "summary": "인공지능(AI) 경쟁의 승부처가 반도체와 데이터에서 전력으로 옮겨가고 있다",
+      "detail": "인공지능(AI) 경쟁의 승부처가 반도체와 데이터에서 전력으로 옮겨가고 있다. AI 모델을 학습시키고 서비스를 운영하는 데이터센터가 급증하면서 막대한 전력을 안정적으로 공급할 수 있는지가 국가 경쟁력의 새로운 변수로 떠오른 것이다. 한국 정부는 최근…",
+      "link": "https://www.dailycar.co.kr/content/news.html?type=view&autoId=62739",
+      "source": "데일리카",
+      "category": "양자·첨단",
+      "publishedAt": "2026-10-06T04:28:00.000Z",
+      "collectedAt": "2026-10-08T11:57:37.474Z",
+      "thumb": "/thumbs/d515e747fea7.webp"
+    },
     {
       "id": "6759f913072c",
       "kind": "news",
@@ -2392,35 +2424,6 @@
       "publishedAt": "2026-10-05T22:08:00.000Z",
       "collectedAt": "2026-10-06T10:16:03.141Z",
       "thumb": "/thumbs/62177fcb4615.png"
-    },
-    {
-      "id": "196aa1e86329",
-      "kind": "news",
-      "lang": "ko",
-      "title": "2026 노벨 물리학상 프랜시스 할젠…남극 얼음으로 우주 비밀 찾았다",
-      "summary": "2026년 노벨 물리학상은 남극의 얼음을 이용해 우주에서 날아오는 아주 작은 입자인 ‘중성미자’를…",
-      "detail": "2026년 노벨 물리학상은 남극의 얼음을 이용해 우주에서 날아오는 아주 작은 입자인 ‘중성미자’를 찾아낸 프랜시스 할젠 미국 위스콘신대학교 매디슨 캠퍼스 교수에게 돌아갔다. 스웨덴 왕립과학아카데미는 6일 할젠 교수를 올해 노벨 물리학상 수상자로…",
-      "link": "https://www.cwoneconomy.com/news/articleView.html?idxno=20341",
-      "source": "글로컬경제",
-      "image": "http://www.bing.com/th?id=ONUT.iJtpv-NWZlOosq8LQyaHnw&pid=News",
-      "category": "우주·천문",
-      "publishedAt": "2026-10-05T22:05:00.000Z",
-      "collectedAt": "2026-10-06T10:16:03.141Z",
-      "thumb": "/thumbs/196aa1e86329.jpg"
-    },
-    {
-      "id": "5b862caed0c6",
-      "kind": "news",
-      "lang": "ko",
-      "title": "중성미자 탐지계 발명한 벨기에 프랜시스 할젠, 노벨 물리학상 단독수상",
-      "summary": "김재영 기자 = 스웨덴 왕립과학원은 6일 올 노벨 물리학상 수상자로 2010년부터 작동하기 시작한…",
-      "detail": "김재영 기자 = 스웨덴 왕립과학원은 6일 올 노벨 물리학상 수상자로 2010년부터 작동하기 시작한 남극 내 아문센-스콧 지점 아이스큐브 중성미자 관측소의 핵심 조사 과학자인 ...",
-      "link": "https://www.newsis.com/view/NISX20261006_0003816291",
-      "source": "뉴시스",
-      "category": "연구",
-      "publishedAt": "2026-10-05T22:04:00.000Z",
-      "collectedAt": "2026-10-06T10:16:03.141Z",
-      "thumb": "/thumbs/5b862caed0c6.jpg"
     }
   ]
 }

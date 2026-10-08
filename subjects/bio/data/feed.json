@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-08T10:57:28.143Z",
+  "updatedAt": "2026-10-08T11:57:37.850Z",
   "items": [
+    {
+      "id": "52bedbbbec6a",
+      "kind": "news",
+      "lang": "ko",
+      "title": "거제도 흙 속에서 발견된 신종 생물...이름은 '한국애지네'",
+      "summary": "국립호남권생물자원관은 섬 지역 생물다양성 조사 과정에서 경남 거제도 토양에 서식하는 애지네류를…",
+      "detail": "국립호남권생물자원관은 섬 지역 생물다양성 조사 과정에서 경남 거제도 토양에 서식하는 애지네류를 신종으로 확인하고, '한국애지네'로 명명했다고 밝혔습니다. 애지네류는 몸길이가 2~8mm에 불과한 작은 절지동물입니다. 겉보기에는 지네를 닮았지만 입…",
+      "link": "https://news.ikbc.co.kr/article/view/kbc202610080044",
+      "source": "KBC광주방송",
+      "category": "생태·환경",
+      "publishedAt": "2026-10-07T18:37:00.000Z",
+      "collectedAt": "2026-10-08T11:57:37.850Z",
+      "thumb": "/thumbs/52bedbbbec6a.jpg"
+    },
     {
       "id": "bsky-3mxe73nap5b2r",
       "kind": "news",
@@ -2357,21 +2371,6 @@
       "publishedAt": "2026-10-06T14:17:00.000Z",
       "collectedAt": "2026-10-07T03:46:57.838Z",
       "thumb": "/thumbs/573d5d183333.jpg"
-    },
-    {
-      "id": "fc897ff895bf",
-      "kind": "news",
-      "lang": "ko",
-      "title": "'빛으로 뇌세포 조절' 과학자 3명 노벨 생리의학상",
-      "summary": "빛으로 세포의 활동을 조절하는 '광유전학'을 개척한 미국과 독일 과학자 3명이 올해 노벨…",
-      "detail": "빛으로 세포의 활동을 조절하는 '광유전학'을 개척한 미국과 독일 과학자 3명이 올해 노벨 생리의학상을 받는다.스웨덴 카롤린스카 연구소 노벨위원회는 5일(현지시간) 칼 다이서로스 미국 스탠퍼드대 교수, 페터 헤게만 독일 베를린 훔볼트대 교수, 게오르크…",
-      "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=246247",
-      "source": "세이프타임즈",
-      "image": "http://www.bing.com/th?id=ONUT.LXSGmnbO_pW1s4jT39rQ-A&pid=News",
-      "category": "의학·바이오",
-      "publishedAt": "2026-10-06T06:27:00.000Z",
-      "collectedAt": "2026-10-07T03:46:57.838Z",
-      "thumb": "/thumbs/fc897ff895bf.jpg"
     }
   ]
 }
