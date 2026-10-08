@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-10-08T08:57:02.521Z",
+  "updatedAt": "2026-10-08T09:44:29.842Z",
   "items": [
+    {
+      "id": "bf088b1ded30",
+      "kind": "news",
+      "lang": "ko",
+      "title": "[사진] 유기합성 분야 프랑스·일본 과학자 노벨 화학상 수상",
+      "summary": "스웨덴 왕립과학원이 7일 비대칭 유기 합성에서 비선형 효과와 자가촉매 작용을 발견한 공로를 인정해…",
+      "detail": "스웨덴 왕립과학원이 7일 비대칭 유기 합성에서 비선형 효과와 자가촉매 작용을 발견한 공로를 인정해 프랑스 과학자 앙리 카강과 일본 과학자 소아이 겐소에게 2026년 노벨 화학상을 수여한다고 발표했다.이날 스웨덴 ...",
+      "link": "https://www.dongbangilbo.co.kr/news/articleView.html?idxno=108343",
+      "source": "dongbangilbo",
+      "image": "http://www.bing.com/th?id=ONUT.fyC8X4pcm9FqD4c4LPKPHw&pid=News",
+      "category": "소재·에너지",
+      "publishedAt": "2026-10-07T20:17:00.000Z",
+      "collectedAt": "2026-10-08T09:44:29.842Z",
+      "thumb": "/thumbs/bf088b1ded30.jpg"
+    },
     {
       "id": "bsky-3mxe3kqvnnc2c",
       "kind": "news",
@@ -2406,23 +2421,6 @@
       "publishedAt": "2026-10-05T17:00:00.000Z",
       "collectedAt": "2026-10-06T05:31:11.437Z",
       "thumb": "/thumbs/4a8865e160f4.jpg"
-    },
-    {
-      "id": "677cab81a1e6",
-      "kind": "video",
-      "lang": "ko",
-      "title": "[물질과 에너지] 번외편 : 1~2단원 문제 풀이 (직전대비, 벼락치기 영상으로 추천합니다)",
-      "summary": "",
-      "detail": "",
-      "link": "https://www.youtube.com/watch?v=V8H74aG_jd4",
-      "source": "티노화학",
-      "image": "https://i3.ytimg.com/vi/V8H74aG_jd4/hqdefault.jpg",
-      "views": 2865,
-      "category": "인기",
-      "publishedAt": "2026-09-29T07:07:33.000Z",
-      "collectedAt": "2026-10-06T04:32:33.525Z",
-      "summaryKo": "",
-      "thumb": "/thumbs/677cab81a1e6.jpg"
     }
   ]
 }
