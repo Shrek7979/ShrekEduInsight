@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-08T09:57:29.422Z",
+  "updatedAt": "2026-10-08T10:57:28.118Z",
   "items": [
+    {
+      "id": "0df06eeaf091",
+      "kind": "news",
+      "lang": "ko",
+      "title": "'노벨화학상' 日소아이 교수 \"암흑 속 불 켜고 길 찾은 기분\"",
+      "summary": "올해 노벨화학상 공동 수상자로 선정된 일본 도쿄이과대의 소아이 겐소(76) 명예교수가 7일 오후…",
+      "detail": "올해 노벨화학상 공동 수상자로 선정된 일본 도쿄이과대의 소아이 겐소(76) 명예교수가 7일 오후 도쿄 신주쿠구 도쿄이과대에서 기자회견을 열고 수상 소감과 감회를 밝혔다.노벨 화학상을 ...",
+      "link": "https://tv.edaily.co.kr/News/NewsRead?NewsId=02870006645610952&Kind=257",
+      "source": "이데일리TV",
+      "category": "연구",
+      "publishedAt": "2026-10-08T02:58:00.000Z",
+      "collectedAt": "2026-10-08T10:57:28.118Z",
+      "thumb": "/thumbs/0df06eeaf091.jpg"
+    },
     {
       "id": "9f177bcef862",
       "kind": "news",
@@ -2406,21 +2420,6 @@
       "publishedAt": "2026-10-05T17:26:00.000Z",
       "collectedAt": "2026-10-06T06:31:04.040Z",
       "thumb": "/thumbs/071821f31647.jpg"
-    },
-    {
-      "id": "7b21b712461d",
-      "kind": "news",
-      "lang": "ko",
-      "title": "\"붙는 힘보다 붙을 자리가 중요\"…UNIST, 생체분자 뭉침 원리 규명",
-      "summary": "구미현 기자 = 세포 속 단백질과 RNA 등이 한곳에 모여 만들어지는 '생체분자 응축체'가 분자…",
-      "detail": "구미현 기자 = 세포 속 단백질과 RNA 등이 한곳에 모여 만들어지는 '생체분자 응축체'가 분자 사이의 결합 강도뿐 아니라 결합할 수 있는 자리의 수에 따라 형성된다는 사실이 밝혀졌다.울산과학기술원(UNIST)는 이동욱 교수팀이 홍익대학교 최수형…",
-      "link": "https://www.newsis.com/view/NISX20261006_0003814950",
-      "source": "뉴시스",
-      "image": "http://www.bing.com/th?id=ONUT.BIUCAH_6RsHeAc6oLQEcdw&pid=News",
-      "category": "연구",
-      "publishedAt": "2026-10-05T12:20:00.000Z",
-      "collectedAt": "2026-10-06T06:31:04.040Z",
-      "thumb": "/thumbs/7b21b712461d.jpg"
     }
   ]
 }

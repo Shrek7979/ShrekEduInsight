@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-08T10:00:10.888Z",
+  "updatedAt": "2026-10-08T11:00:16.249Z",
   "items": [
+    {
+      "id": "fb-6f34d4132c4d",
+      "kind": "news",
+      "lang": "en",
+      "title": "Applications are now open for Grand Prix Resonance",
+      "summary": "",
+      "link": "https://www.facebook.com/cern/posts/pfbid02APAmQVs3NDNW7KgrPMAPg5QLyZ8KbmKcJ64EbXEpHGx2ffTnpBvMZWDN9f4ZobVwl",
+      "source": "Facebook CERN",
+      "category": "인기",
+      "publishedAt": "2026-10-08T10:11:54.803Z",
+      "thumb": "/social/fb/fb-6f34d4132c4d.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-08T11:00:16.249Z",
+      "titleKo": "그랑프리 레조넌스(Grand Prix Resonance) 신청이 시작되었습니다.",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-cd036b20cd8c",
       "kind": "video",

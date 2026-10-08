@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-08T09:57:29.421Z",
+  "updatedAt": "2026-10-08T10:57:28.135Z",
   "items": [
+    {
+      "id": "6759f913072c",
+      "kind": "news",
+      "lang": "ko",
+      "title": "퀀텀레일, 금융·통신 겨냥 양자보안 솔루션 개발",
+      "summary": "금융권 침해사고와 통신사 유심정보 유출로 개인정보 보호와 인증체계의 안전성이 주요 과제로 떠오른…",
+      "detail": "금융권 침해사고와 통신사 유심정보 유출로 개인정보 보호와 인증체계의 안전성이 주요 과제로 떠오른 가운데, 퀀텀레일이 양자내성암호(PQC)를 활용한 보안 제품 개발에 나섰다. 기존 유심·인증 사업을 금융과 산업설비 보안 영역으로 확장하려는…",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493909",
+      "source": "핀포인트뉴스",
+      "category": "양자·첨단",
+      "publishedAt": "2026-10-07T21:00:00.000Z",
+      "collectedAt": "2026-10-08T10:57:28.135Z",
+      "thumb": "/thumbs/6759f913072c.jpg"
+    },
     {
       "id": "9cdb056aa994",
       "kind": "news",
@@ -2407,21 +2421,6 @@
       "publishedAt": "2026-10-05T22:04:00.000Z",
       "collectedAt": "2026-10-06T10:16:03.141Z",
       "thumb": "/thumbs/5b862caed0c6.jpg"
-    },
-    {
-      "id": "18e6744285ac",
-      "kind": "news",
-      "lang": "ko",
-      "title": "[2보] 노벨물리학상 '뉴트리노 관측' 프란시스 할전 단독수상",
-      "summary": "2026년 노벨물리학상은 뉴트리노(중성미자) 관측에 크게 기여한 벨기에 물리학자 프란시스…",
-      "detail": "2026년 노벨물리학상은 뉴트리노(중성미자) 관측에 크게 기여한 벨기에 물리학자 프란시스 할전(82)에게 돌아갔다. 스웨덴 왕립과학원 노벨위원회는 \"아이스큐브(IceCube) 뉴트리노 관측소에 대한 결정적 기여와 천체물리학적 기원의 고에너지…",
-      "link": "https://www.yna.co.kr/view/AKR20261006184751009",
-      "source": "연합뉴스",
-      "image": "http://www.bing.com/th?id=ONUT.-TDHmQKUFbhntIu_ibbstQ&pid=News",
-      "category": "연구",
-      "publishedAt": "2026-10-05T22:03:00.000Z",
-      "collectedAt": "2026-10-06T10:16:03.141Z",
-      "thumb": "/thumbs/18e6744285ac.jpg"
     }
   ]
 }
