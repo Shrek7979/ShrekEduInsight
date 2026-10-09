@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-09T17:57:17.261Z",
+  "updatedAt": "2026-10-09T18:56:57.129Z",
   "items": [
+    {
+      "id": "a73ef49fb182",
+      "kind": "news",
+      "lang": "en",
+      "title": "Breaking down nerve-cell scaffold relieves chronic pain in mice",
+      "summary": "Results could help researchers to develop painkillers…",
+      "detail": "Results could help researchers to develop painkillers that are safer and more effective than existing treatments.",
+      "link": "https://www.nature.com/articles/d41586-026-03159-z",
+      "source": "Nature",
+      "category": "해외",
+      "publishedAt": "2026-10-09T00:00:00.000Z",
+      "collectedAt": "2026-10-09T18:56:57.129Z",
+      "titleKo": "신경세포 비계를 파괴하면 생쥐의 만성 통증이 완화됩니다",
+      "summaryKo": "결과는 연구자들이 진통제를 개발하는 데 도움이 될 수 있습니다…",
+      "translator": "google",
+      "detailKo": "결과는 연구자들이 기존 치료법보다 더 안전하고 효과적인 진통제를 개발하는 데 도움이 될 수 있습니다.",
+      "thumb": "/thumbs/a73ef49fb182.png"
+    },
     {
       "id": "bsky-3mxhfr62gfr2y",
       "kind": "news",
@@ -2406,20 +2424,6 @@
       "publishedAt": "2026-10-06T10:52:00.000Z",
       "collectedAt": "2026-10-08T00:56:55.097Z",
       "thumb": "/thumbs/e61af3ce78dc.jpg"
-    },
-    {
-      "id": "61f61bb9592e",
-      "kind": "news",
-      "lang": "ko",
-      "title": "도시 출몰 멧돼지, AI로 빠르게 대응한다!",
-      "summary": "안녕하세요!",
-      "detail": "안녕하세요! 우리나라 생물 자원의 가치를 발굴하고 생태계를 연구하는 국립생물자원관입니다. 오늘은 도시 곳곳에서 출몰하는 멧돼지와 관련해 반갑고도 특별한 소식을 전해드립니다. 바로 국립생물자원관이 인공지능(AI)을 활용해 멧돼지의 출몰을 미리 확인하고…",
-      "link": "https://blog.naver.com/nibr_bio/224433149129?fromRss=true&trackingCode=rss",
-      "source": "네이버 블로그 국립생물자원관",
-      "category": "인기",
-      "publishedAt": "2026-10-06T08:01:03.000Z",
-      "collectedAt": "2026-10-08T00:56:55.097Z",
-      "thumb": "/thumbs/61f61bb9592e.png"
     }
   ]
 }
