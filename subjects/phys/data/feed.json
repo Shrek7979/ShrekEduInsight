@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-10-09T05:57:46.197Z",
+  "updatedAt": "2026-10-09T06:48:53.954Z",
   "items": [
+    {
+      "id": "1df7be9c7e03",
+      "kind": "news",
+      "lang": "ko",
+      "title": "노벨물리학상에 프랜시스 할젠…빙하로 중성미자 관측",
+      "summary": "6일 스웨덴 왕립과학원 노벨위원회는 남극의 얼음(아이스큐브)으로부터 우주에서 날아온 고에너지…",
+      "detail": "6일 스웨덴 왕립과학원 노벨위원회는 남극의 얼음(아이스큐브)으로부터 우주에서 날아온 고에너지 중성미자를 포착하는 프로젝트를 이끈 벨기에 출신의 천체물리학자 프랜시스 할젠 미국 위스콘신대 매디슨 교수를 2026년 노벨 물리학상 수상자로 선정했다고…",
+      "link": "https://www.hani.co.kr/arti/science/science_general/1281194.html",
+      "source": "한겨레",
+      "category": "우주·천문",
+      "publishedAt": "2026-10-07T07:20:00.000Z",
+      "collectedAt": "2026-10-09T06:48:53.954Z",
+      "thumb": "/thumbs/1df7be9c7e03.webp"
+    },
+    {
+      "id": "a58ebf8c4d67",
+      "kind": "news",
+      "lang": "ko",
+      "title": "[조간브리핑]휘어지지 않는 '유령입자' 추적···할젠, '새로운 천문학' 지평 열어",
+      "summary": "남극서 우주 비밀 풀 ‘중성미자’ 포착···노벨물리학상에 美할전남극의 얼음을 활용해 태양계 바깥에서…",
+      "detail": "남극서 우주 비밀 풀 ‘중성미자’ 포착···노벨물리학상에 美할전남극의 얼음을 활용해 태양계 바깥에서 온 고에너지의 ‘중성미자(Neutrino)’를 처음으로 포착한 프랜시스 할젠 미국 매디슨 위스콘신대 교수(82)가 올해 노벨 물리학상을 받았다. 노벨…",
+      "link": "http://www.hellodd.com/news/articleView.html?idxno=113413",
+      "source": "헬로디디",
+      "category": "우주·천문",
+      "publishedAt": "2026-10-07T00:20:11.000Z",
+      "collectedAt": "2026-10-09T06:48:53.954Z",
+      "thumb": "/thumbs/a58ebf8c4d67.jpg"
+    },
     {
       "id": "1d86b1073e6a",
       "kind": "news",
@@ -2441,37 +2469,6 @@
       "publishedAt": "2026-10-06T13:56:00.000Z",
       "collectedAt": "2026-10-07T02:16:10.604Z",
       "thumb": "/thumbs/5cc585896c9d.jpg"
-    },
-    {
-      "id": "f990749d8985",
-      "kind": "news",
-      "lang": "ko",
-      "title": "경희대 양자물질글로벌연구소 한·프 양자기술 협력 무대 참여",
-      "summary": "경희대학교와 프랑스 양자컴퓨팅 기업 파스칼(Pasqal)의 공동연구 협력이 한·프 첨단기술 협력…",
-      "detail": "경희대학교와 프랑스 양자컴퓨팅 기업 파스칼(Pasqal)의 공동연구 협력이 한·프 첨단기술 협력 행사에서 소개됐다. 경희대 물리학과 손석균 교수(경희대 양자물질글로벌연구소 연구부소장)이 9월 초 프랑스 파리에서 열린 ‘France-Korea…",
-      "link": "https://m.dhnews.co.kr/news/view/1065577633480878",
-      "source": "대학저널",
-      "image": "http://www.bing.com/th?id=ONUT.T0DNqxY8suy0cJPbueHvig&pid=News",
-      "category": "양자·첨단",
-      "publishedAt": "2026-10-06T13:48:00.000Z",
-      "collectedAt": "2026-10-07T02:16:10.604Z",
-      "thumb": "/thumbs/f990749d8985.png"
-    },
-    {
-      "id": "693a056b46f1",
-      "kind": "video",
-      "lang": "ko",
-      "title": "구글이 Gemini4를 바로 공개하지 않은 이유",
-      "summary": "구글이 약 10개월 만에 새로운 프런티어 AI 모델 **제미나이 4 아르곤(Gemini 4…",
-      "detail": "구글이 약 10개월 만에 새로운 프런티어 AI 모델 **제미나이 4 아르곤(Gemini 4 Argon)**을 공개했습니다.",
-      "link": "https://www.youtube.com/watch?v=UCs-hBBLXjo",
-      "source": "안될과학",
-      "image": "https://i2.ytimg.com/vi/UCs-hBBLXjo/hqdefault.jpg",
-      "views": 115644,
-      "category": "인기",
-      "publishedAt": "2026-10-03T10:44:01.000Z",
-      "collectedAt": "2026-10-07T02:16:10.604Z",
-      "thumb": "/thumbs/693a056b46f1.jpg"
     }
   ]
 }
