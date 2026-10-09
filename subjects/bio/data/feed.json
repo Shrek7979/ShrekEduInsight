@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-10-08T23:57:29.684Z",
+  "updatedAt": "2026-10-09T00:57:12.241Z",
   "items": [
+    {
+      "id": "4dfa43816e01",
+      "kind": "news",
+      "lang": "ko",
+      "title": "학명에 한국어 새겨진 멸종위기종",
+      "summary": "학명 두 단어가 모두 한국어다",
+      "detail": "학명 두 단어가 모두 한국어다. 속명 Mankyua는 식물학자 박만규 전 고려대 교수의 이름을 뜻하고 종소명 chejuensis는 제주를 뜻한다. 국내 연구진이 2001년 논문에서 제주도에서 발견한 새로운 고사리 속으로 보고했다.",
+      "link": "https://www.newspenguin.com/news/articleView.html?idxno=22273",
+      "source": "뉴스펭귄",
+      "image": "http://www.bing.com/th?id=ONUT.xuYZYb3NKGXhZ-7J7wcpfA&pid=News",
+      "category": "생태·환경",
+      "publishedAt": "2026-10-08T12:05:00.000Z",
+      "collectedAt": "2026-10-09T00:57:12.241Z",
+      "thumb": "/thumbs/4dfa43816e01.jpg"
+    },
     {
       "id": "88d9fec43311",
       "kind": "news",
@@ -2373,25 +2388,6 @@
       "collectedAt": "2026-10-07T07:46:23.907Z",
       "summaryKo": "",
       "thumb": "/thumbs/64db256faa7c.jpg"
-    },
-    {
-      "id": "28491df0fe88",
-      "kind": "video",
-      "lang": "en",
-      "title": "Did the Ozone Collapse 252 Million Years Ago?",
-      "summary": "",
-      "detail": "",
-      "link": "https://www.youtube.com/watch?v=sIupXhjet0s",
-      "source": "PBS Eons",
-      "image": "https://i4.ytimg.com/vi/sIupXhjet0s/hqdefault.jpg",
-      "views": 521162,
-      "category": "인기",
-      "publishedAt": "2026-09-15T14:00:15.000Z",
-      "collectedAt": "2026-10-07T07:46:23.907Z",
-      "titleKo": "오존은 2억 5200만년 전에 붕괴되었는가?",
-      "summaryKo": "",
-      "translator": "google",
-      "thumb": "/thumbs/28491df0fe88.jpg"
     }
   ]
 }

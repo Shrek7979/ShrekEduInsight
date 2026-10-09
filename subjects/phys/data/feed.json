@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-10-08T23:57:29.650Z",
+  "updatedAt": "2026-10-09T00:57:12.273Z",
   "items": [
+    {
+      "id": "bsky-3mxfogrtrjw2b",
+      "kind": "news",
+      "lang": "en",
+      "title": "Strangely twisted shapes exist in dimension 126.",
+      "summary": "Dimension 126 Contains Strangely Twisted Shapes,…",
+      "link": "https://bsky.app/profile/quantamagazine.org/post/3mxfogrtrjw2b",
+      "source": "Bluesky Quanta Magazine",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vfktz6qe6vy7serr3wqutpzt/bafkreibq6owubwc4qmybigdq6wqfbfhkbbv3rf7dk7rmqkm26dubfwlmlu",
+      "likes": "10",
+      "category": "인기",
+      "publishedAt": "2026-10-09T00:05:01.204Z",
+      "collectedAt": "2026-10-09T00:57:12.273Z",
+      "titleKo": "126차원에는 이상하게 뒤틀린 형상이 존재합니다.",
+      "summaryKo": "차원 126에는 이상하게 뒤틀린 모양이 포함되어 있습니다…",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxfogrtrjw2b.webp"
+    },
+    {
+      "id": "0a667d36fd74",
+      "kind": "news",
+      "lang": "ko",
+      "title": "[금주의인물] 프란시스 할전, ‘노벨 물리학상’ 단독 수상",
+      "summary": "은 창간 초기부터 ‘금주의 인물’이란 기획을 통해 매주 시대의 얼굴을 기록했습니다",
+      "detail": "은 창간 초기부터 ‘금주의 인물’이란 기획을 통해 매주 시대의 얼굴을 기록했습니다. 정치, 문화, 예술, 사회 각계의 인물들이 한 주의 이슈와 함께 지면을 장식했습니다. 금주의 인물은 단순한 인물 소개를 넘어 시대를 살아가는 사람들의 선택과 갈등,…",
+      "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7187831",
+      "source": "주간한국",
+      "image": "http://www.bing.com/th?id=ONUT.wR-tpeST74jLHne61iPuHA&pid=News",
+      "category": "연구",
+      "publishedAt": "2026-10-08T12:00:00.000Z",
+      "collectedAt": "2026-10-09T00:57:12.273Z",
+      "thumb": "/thumbs/0a667d36fd74.jpg"
+    },
     {
       "id": "bsky-3mxferjstkm26",
       "kind": "news",
@@ -2404,36 +2437,6 @@
       "publishedAt": "2026-10-06T05:44:00.000Z",
       "collectedAt": "2026-10-06T13:16:06.213Z",
       "thumb": "/thumbs/d617c2c3e9da.jpg"
-    },
-    {
-      "id": "1a7442453334",
-      "kind": "news",
-      "lang": "ko",
-      "title": "우주의 미지 풀 ‘유령입자’ 빙하로 찾아냈다…노벨물리학상 할젠",
-      "summary": "미국 위스콘신대 매디슨 교수남극의 거대한 빙하 활용해서 중성미자 검출 방법 처음 제안남극 관측소서…",
-      "detail": "미국 위스콘신대 매디슨 교수남극의 거대한 빙하 활용해서 중성미자 검출 방법 처음 제안남극 관측소서 공동 연구 주도“새 우주 정보 알려줄 것 기대” ...",
-      "link": "https://www.msn.com/ko-kr/news/techandscience/%EC%9A%B0%EC%A3%BC%EC%9D%98-%EB%AF%B8%EC%A7%80-%ED%92%80-%EC%9C%A0%EB%A0%B9%EC%9E%85%EC%9E%90-%EB%B9%99%ED%95%98%EB%A1%9C-%EC%B0%BE%EC%95%84%EB%83%88%EB%8B%A4-%EB%85%B8%EB%B2%A8%EB%AC%BC%EB%A6%AC%ED%95%99%EC%83%81-%ED%95%A0%EC%A0%A0/ar-AA2dFBUO",
-      "source": "한겨레",
-      "image": "http://www.bing.com/th?id=ONUT.IV5YRkQWkPJZbzbB1mG52Q&pid=News",
-      "category": "우주·천문",
-      "publishedAt": "2026-10-06T04:54:21.000Z",
-      "collectedAt": "2026-10-06T13:16:06.213Z",
-      "thumb": "/thumbs/1a7442453334.jpg"
-    },
-    {
-      "id": "851038a53ba9",
-      "kind": "news",
-      "lang": "ko",
-      "title": "우주 비밀 풀 '중성미자' 첫 포착… 노벨물리학상에 프란시스 할젠",
-      "summary": "올해 노벨물리학상은 남극의 미세한 얼음에서 우주의 비밀을 담은 유령입자로 불리는 중성미자를 포착한…",
-      "detail": "올해 노벨물리학상은 남극의 미세한 얼음에서 우주의 비밀을 담은 유령입자로 불리는 중성미자를 포착한 천체물리학자에게 돌아갔다. 스웨덴 왕립과학원 노벨위원회는 6일 2026년 노벨물리학상 수상자로 프란시스 할젠 미국 위스콘신대 메디슨캠퍼스 교수를…",
-      "link": "https://www.dt.co.kr/article/12087776",
-      "source": "디지털타임스",
-      "image": "http://www.bing.com/th?id=ONUT.aVj2I-XRlT0mM0RQkJuV8A&pid=News",
-      "category": "우주·천문",
-      "publishedAt": "2026-10-05T22:56:00.000Z",
-      "collectedAt": "2026-10-06T12:17:26.938Z",
-      "thumb": "/thumbs/851038a53ba9.png"
     }
   ]
 }
