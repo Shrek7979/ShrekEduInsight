@@ -1,6 +1,25 @@
 {
-  "updatedAt": "2026-10-09T15:57:27.758Z",
+  "updatedAt": "2026-10-09T16:57:03.478Z",
   "items": [
+    {
+      "id": "bea28a48f85e",
+      "kind": "video",
+      "lang": "en",
+      "title": "This Device Turns Anything into a Suction Cup",
+      "summary": "",
+      "detail": "",
+      "link": "https://www.youtube.com/watch?v=6gsZY_-kT3U",
+      "source": "Steve Mould",
+      "image": "https://i3.ytimg.com/vi/6gsZY_-kT3U/hqdefault.jpg",
+      "views": 1461869,
+      "category": "인기",
+      "publishedAt": "2026-09-30T23:26:33.000Z",
+      "collectedAt": "2026-10-09T16:57:03.478Z",
+      "titleKo": "이 장치는 무엇이든 흡착컵으로 바꿔줍니다",
+      "summaryKo": "",
+      "translator": "google",
+      "thumb": "/thumbs/bea28a48f85e.jpg"
+    },
     {
       "id": "3cb86daa86af",
       "kind": "video",
@@ -2467,24 +2486,6 @@
       "publishedAt": "2026-10-04T10:53:00.000Z",
       "collectedAt": "2026-10-07T07:16:16.643Z",
       "thumb": "/thumbs/737da3d4a8f2.jpg"
-    },
-    {
-      "id": "3d9a6736e954",
-      "kind": "news",
-      "lang": "en",
-      "title": "Scientists just made a superconductor stronger using “empty space”",
-      "summary": "Researchers have demonstrated that quantum fluctuations…",
-      "detail": "Researchers have demonstrated that quantum fluctuations in supposedly empty space can strengthen superconductivity, raising the transition…",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260930225456.htm",
-      "source": "ScienceDaily",
-      "category": "해외",
-      "publishedAt": "2026-10-03T12:03:23.000Z",
-      "collectedAt": "2026-10-07T07:16:16.643Z",
-      "titleKo": "과학자들은 '빈 공간'을 이용해 초전도체를 더 강하게 만들었습니다.",
-      "summaryKo": "연구자들은 양자 변동이…",
-      "translator": "google",
-      "detailKo": "연구자들은 빈 공간으로 추정되는 양자 변동이 초전도성을 강화하여 전이를 높일 수 있음을 입증했습니다.",
-      "thumb": "/thumbs/3d9a6736e954.webp"
     }
   ]
 }

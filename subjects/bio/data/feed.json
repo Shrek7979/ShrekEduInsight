@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-09T15:57:27.910Z",
+  "updatedAt": "2026-10-09T16:57:03.569Z",
   "items": [
+    {
+      "id": "bsky-3mxhfr62gfr2y",
+      "kind": "news",
+      "lang": "en",
+      "title": "Trending Now | This study presents a genome-scale phylogeny of Opisthokonta, the major lineage that includes animals, fungi, and their…",
+      "summary": "unicellular relatives",
+      "link": "https://bsky.app/profile/plosbiology.org/post/3mxhfr62gfr2y",
+      "source": "Bluesky PLOS Biology",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5522ztebtekoor5efelihqhb/bafkreihydnsxisqdnsz3n24qw5t35t2xkrel4srfzsahiqbgaiuhg73dwi",
+      "likes": "1",
+      "category": "인기",
+      "publishedAt": "2026-10-09T16:35:04.136Z",
+      "collectedAt": "2026-10-09T16:57:03.569Z",
+      "titleKo": "지금 인기 급상승 | 이 연구는 동물, 균류 및 그들의…",
+      "summaryKo": "단세포 친척",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxhfr62gfr2y.png"
+    },
     {
       "id": "e992d824cc8d",
       "kind": "video",
@@ -2402,21 +2420,6 @@
       "publishedAt": "2026-10-06T08:01:03.000Z",
       "collectedAt": "2026-10-08T00:56:55.097Z",
       "thumb": "/thumbs/61f61bb9592e.png"
-    },
-    {
-      "id": "2682122f5742",
-      "kind": "news",
-      "lang": "ko",
-      "title": "칼 다이서로스 교수의 혁명적인 광유전학, 실명 치료의 신기원 열다",
-      "summary": "허은영 기자=노벨 생리의학상 수상자인 칼 다이서로스 스탠퍼드대 교수는 자신이 개발한 광유전학 기술의…",
-      "detail": "허은영 기자=노벨 생리의학상 수상자인 칼 다이서로스 스탠퍼드대 교수는 자신이 개발한 광유전학 기술의 임상적 가능성을 언급하며 의사이자 과학자로서의 사명감을 강조했다. 그의 연구는 뇌 연구와 치료법 개발을 동시에 발전시키는 것을 목표로 하고…",
-      "link": "https://www.gokorea.kr/news/articleView.html?idxno=880509",
-      "source": "공감신문",
-      "image": "http://www.bing.com/th?id=ONUT.AAiuc-oY-7rKcxnKZFebiA&pid=News",
-      "category": "의학·바이오",
-      "publishedAt": "2026-10-06T04:13:00.000Z",
-      "collectedAt": "2026-10-08T00:56:55.097Z",
-      "thumb": "/thumbs/2682122f5742.png"
     }
   ]
 }
