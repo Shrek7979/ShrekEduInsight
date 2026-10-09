@@ -1,6 +1,43 @@
 {
-  "updatedAt": "2026-10-09T13:57:33.041Z",
+  "updatedAt": "2026-10-09T14:57:14.150Z",
   "items": [
+    {
+      "id": "e7124eabfaa9",
+      "kind": "news",
+      "lang": "en",
+      "title": "How Does Life Unfold? A Landscape Metaphor Comes Into Its Own.",
+      "summary": "C.H",
+      "detail": "C.H. Waddington’s powerful image of embryonic stem cells specializing on a rolling landscape has captivated biologists since the 1950s.…",
+      "link": "https://www.quantamagazine.org/how-does-life-unfold-a-landscape-metaphor-comes-into-its-own-20261009/",
+      "source": "Quanta Magazine",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Waddington-cr.MarkBelan-Default.webp",
+      "category": "해외",
+      "publishedAt": "2026-10-09T14:03:07.000Z",
+      "collectedAt": "2026-10-09T14:57:14.150Z",
+      "titleKo": "인생은 어떻게 전개되는가? 풍경의 은유가 그 자체로 나타납니다.",
+      "summaryKo": "C.H",
+      "translator": "google",
+      "detailKo": "C.H. 구불구불한 풍경을 전문으로 하는 배아줄기세포에 대한 Waddington의 강력한 이미지는 1950년대부터 생물학자들의 마음을 사로잡았습니다.…",
+      "thumb": "/thumbs/e7124eabfaa9.jpg"
+    },
+    {
+      "id": "bsky-3mxcpzarjsx2g",
+      "kind": "news",
+      "lang": "en",
+      "title": "Earthquakes frequently trigger rock falls.",
+      "summary": "Now there’s solid evidence marsquakes can send boulders…",
+      "link": "https://bsky.app/profile/sciencenews.bsky.social/post/3mxcpzarjsx2g",
+      "source": "Bluesky Science News",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mhjqpvjvyzpj4pso7ux2tekh/bafkreichycn3emqoqgvm6ognyg5dmc3ktukw4luzpk2rp7ilkulaonzpvq",
+      "likes": "4",
+      "category": "인기",
+      "publishedAt": "2026-10-07T19:55:14.757Z",
+      "collectedAt": "2026-10-09T14:57:14.150Z",
+      "titleKo": "지진은 종종 암석 낙하를 유발합니다.",
+      "summaryKo": "이제 화성 지진이 바위를 보낼 수 있다는 확실한 증거가 있습니다…",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxcpzarjsx2g.webp"
+    },
     {
       "id": "387d13808688",
       "kind": "news",
@@ -2379,39 +2416,6 @@
       "translator": "google",
       "detailKo": "포식성 말벌은 개미 방어자들을 위해 열대 나무로 지어진 피난처를 납치하여 잠재적으로 고대의 파트너십을 방해합니다.",
       "thumb": "/thumbs/eb0b817bea53.webp"
-    },
-    {
-      "id": "ad910c988ad0",
-      "kind": "news",
-      "lang": "ko",
-      "title": "오송고, 전국과학전람회 화학 분야 특상…2년 연속 수상",
-      "summary": "5일 청주교육지원청에 따르면 오송고 오승환·송은준·손민규 학생 (2학년)이 전국과학전람회 화학…",
-      "detail": "5일 청주교육지원청에 따르면 오송고 오승환·송은준·손민규 학생 (2학년)이 전국과학전람회 화학 분야에서 특상을 수상했다. 지난해 물리 분야에 이어 올해 화학 분야에서도 특상을 받으며 전국대회에서 2년 연속 수상 기록을 이어갔다.",
-      "link": "https://www.inews24.com/view/mp/2011788",
-      "source": "아이뉴스24",
-      "category": "대회·행사",
-      "publishedAt": "2026-10-05T04:29:00.000Z",
-      "collectedAt": "2026-10-08T00:56:55.097Z",
-      "thumb": "/thumbs/ad910c988ad0.jpg"
-    },
-    {
-      "id": "e992d824cc8d",
-      "kind": "video",
-      "lang": "en",
-      "title": "new cat unlocked !! 😺",
-      "summary": "",
-      "detail": "",
-      "link": "https://www.youtube.com/shorts/V8E6HZP4U20",
-      "source": "Lindsay Nikole",
-      "image": "https://i3.ytimg.com/vi/V8E6HZP4U20/hqdefault.jpg",
-      "views": 316850,
-      "category": "인기",
-      "publishedAt": "2026-09-19T14:38:36.000Z",
-      "collectedAt": "2026-10-08T00:56:55.097Z",
-      "titleKo": "새로운 고양이 잠금 해제!! 😺",
-      "summaryKo": "",
-      "translator": "google",
-      "thumb": "/thumbs/e992d824cc8d.jpg"
     }
   ]
 }

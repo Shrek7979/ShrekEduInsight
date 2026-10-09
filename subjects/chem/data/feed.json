@@ -1,6 +1,41 @@
 {
-  "updatedAt": "2026-10-09T13:57:32.995Z",
+  "updatedAt": "2026-10-09T14:57:14.162Z",
   "items": [
+    {
+      "id": "bsky-3mxh7rn6qk22q",
+      "kind": "news",
+      "lang": "en",
+      "title": "What happens when the answers aren't clear?",
+      "summary": "Join @maxhenrybarnhart.bsky.social of C&EN and fellow…",
+      "link": "https://bsky.app/profile/cenmag.bsky.social/post/3mxh7rn6qk22q",
+      "source": "Bluesky C&EN",
+      "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:u4u4yeik2uube2g6ov7wr35p/bafkreih6tpozuq3kb3avmrnijzrsymlp43s7lyarx7srbgdssuqcimbo6i",
+      "category": "인기",
+      "publishedAt": "2026-10-09T14:47:58.784Z",
+      "collectedAt": "2026-10-09T14:57:14.162Z",
+      "titleKo": "답변이 명확하지 않으면 어떻게 되나요?",
+      "summaryKo": "C&EN의 @maxhenrybarnhart.bsky.social에 가입하세요",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxh7rn6qk22q.webp"
+    },
+    {
+      "id": "bsky-3mxh5cphkor2g",
+      "kind": "news",
+      "lang": "en",
+      "title": "Sarah EchoHawk believes everyone should feel a sense of belonging in science.",
+      "summary": "Through AISES, Indigenous students can find community…",
+      "link": "https://bsky.app/profile/acs.org/post/3mxh5cphkor2g",
+      "source": "Bluesky American Chemical Society",
+      "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3etshrnlom5cvnvb7udqp3zo/bafkreifgomkpazmafnp6vvqmwganw7oanspy5gfyujeprapeu6gj6xpgli",
+      "likes": "2",
+      "category": "인기",
+      "publishedAt": "2026-10-09T14:03:50.180Z",
+      "collectedAt": "2026-10-09T14:57:14.162Z",
+      "titleKo": "Sarah EchoHawk는 모든 사람이 과학에 대한 소속감을 느껴야 한다고 믿습니다.",
+      "summaryKo": "AISES를 통해 원주민 학생들은 커뮤니티를 찾을 수 있습니다…",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxh5cphkor2g.webp"
+    },
     {
       "id": "bsky-3mxgygc4ad22q",
       "kind": "news",
@@ -2403,42 +2438,6 @@
       "translator": "google",
       "detailKo": "대부분의 슈퍼마켓이나 레스토랑에 파는 와사비가 와사비가 아니라는 사실을 알고 계셨나요? 아니면 말린 해초와…",
       "thumb": "/thumbs/9bcc17cbda1a.png"
-    },
-    {
-      "id": "bsky-3mx7zw2fzb22r",
-      "kind": "news",
-      "lang": "en",
-      "title": "On Sept. 1, 2026, researchers reported what may be the first ever detection of dark…",
-      "summary": "matter, a mysterious and invisible substance that makes…",
-      "link": "https://bsky.app/profile/cenmag.bsky.social/post/3mx7zw2fzb22r",
-      "source": "Bluesky C&EN",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u4u4yeik2uube2g6ov7wr35p/bafkreihjvnhfqgojbsphtcoqur3fkj4fqvwgd2ftnqg327ck2kmoput6eq",
-      "likes": "2",
-      "category": "인기",
-      "publishedAt": "2026-10-06T18:14:26.253Z",
-      "collectedAt": "2026-10-06T18:31:04.128Z",
-      "titleKo": "2026년 9월 1일, 연구자들은 최초의 어둠의 탐지가 무엇인지 보고했습니다…",
-      "summaryKo": "물질, 신비롭고 보이지 않는 물질로 인해…",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mx7zw2fzb22r.webp"
-    },
-    {
-      "id": "bsky-3mx7zuhrfv22r",
-      "kind": "news",
-      "lang": "en",
-      "title": "It’s a challenging investment climate for entrepreneurs and investors looking to…",
-      "summary": "commercialize climate technology",
-      "link": "https://bsky.app/profile/cenmag.bsky.social/post/3mx7zuhrfv22r",
-      "source": "Bluesky C&EN",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u4u4yeik2uube2g6ov7wr35p/bafkreicx66nrdgg4dc7s5k6443dgtzf2ejbkzninmhlfpzystsxjm7i4ly",
-      "likes": "1",
-      "category": "인기",
-      "publishedAt": "2026-10-06T18:13:33.148Z",
-      "collectedAt": "2026-10-06T18:31:04.128Z",
-      "titleKo": "이를 원하는 기업가와 투자자에게는 어려운 투자 환경입니다.",
-      "summaryKo": "기후기술을 상용화하다",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mx7zuhrfv22r.webp"
     }
   ]
 }
