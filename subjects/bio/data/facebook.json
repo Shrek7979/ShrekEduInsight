@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-09T16:59:24.018Z",
+  "updatedAt": "2026-10-09T17:59:52.263Z",
   "items": [
+    {
+      "id": "fb-be0174787602",
+      "kind": "news",
+      "lang": "en",
+      "title": "Science advocacy works.",
+      "summary": "",
+      "link": "https://www.facebook.com/asbmb/posts/pfbid0RnHrKcGJgT7CAma8vvAELb9xk3JP7XPQEbiD2ZVbwxWHjMRa3WZBgNqqiF2ndEHQl",
+      "source": "Facebook ASBMB",
+      "category": "인기",
+      "publishedAt": "2026-10-09T12:59:42.274Z",
+      "thumb": "/social/fb/fb-be0174787602.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-09T17:59:52.263Z",
+      "titleKo": "과학 옹호가 작동합니다.",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-36f20e194602",
       "kind": "news",
@@ -36,18 +53,18 @@
       "translator": "google"
     },
     {
-      "id": "fb-a8958d101fe8",
+      "id": "fb-66623c18dfcd",
       "kind": "news",
       "lang": "en",
       "title": "How do genes and the environment shape our health?",
       "summary": "In this new activity, students use evidence-based…",
-      "link": "https://www.facebook.com/biointeractive/posts/pfbid0ik49kmdwknAiXQ2NBGnH9FpcSVLjHrqnsvufNnXx68EDqhNtu3jmsj3trqZok8UYl",
+      "link": "https://www.facebook.com/biointeractive/posts/pfbid02nbVrwSZmcE536cMjA2hffHRj4xWy1nNcSCLD77c58aZa1xettTyHxQH4GTjpRgg7l",
       "source": "Facebook HHMI BioInteractive",
       "category": "인기",
-      "publishedAt": "2026-10-08T16:59:37.720Z",
-      "thumb": "/social/fb/fb-a8958d101fe8.jpg",
+      "publishedAt": "2026-10-08T17:59:30.687Z",
+      "thumb": "/social/fb/fb-66623c18dfcd.jpg",
       "refs": [],
-      "collectedAt": "2026-10-08T17:59:57.748Z",
+      "collectedAt": "2026-10-09T17:59:52.263Z",
       "titleKo": "유전자와 환경은 우리의 건강을 어떻게 형성합니까?",
       "summaryKo": "이 새로운 활동에서 학생들은 증거 기반…",
       "translator": "google"
