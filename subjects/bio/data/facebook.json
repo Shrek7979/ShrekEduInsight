@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T12:00:45.199Z",
+  "updatedAt": "2026-10-09T13:01:09.519Z",
   "items": [
     {
       "id": "fb-36f20e194602",
@@ -101,6 +101,23 @@
       "collectedAt": "2026-10-08T14:00:16.658Z",
       "titleKo": "Nexus는 Web of Science의 색인 생성이라는 중요한 이정표에 도달했으며 2027년에 첫 번째 Impact Factor를 받게 됩니다.",
       "summaryKo": "창립 편집자와의 인터뷰에서 자세히 알아보세요.",
+      "translator": "google"
+    },
+    {
+      "id": "fb-00d877ce2425",
+      "kind": "video",
+      "lang": "en",
+      "title": "Which salt will make ice cream even faster?",
+      "summary": "",
+      "link": "https://www.facebook.com/reel/1363657485584031/",
+      "source": "Facebook ASBMB",
+      "category": "인기",
+      "publishedAt": "2026-10-07T13:00:58.686Z",
+      "thumb": "/social/fb/fb-00d877ce2425.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-09T13:01:09.519Z",
+      "titleKo": "어떤 소금이 아이스크림을 더 빠르게 만들까요?",
+      "summaryKo": "",
       "translator": "google"
     },
     {

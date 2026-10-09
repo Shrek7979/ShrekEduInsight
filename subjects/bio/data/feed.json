@@ -1,6 +1,35 @@
 {
-  "updatedAt": "2026-10-09T11:58:22.273Z",
+  "updatedAt": "2026-10-09T12:58:46.030Z",
   "items": [
+    {
+      "id": "ea6267ec1432",
+      "kind": "news",
+      "lang": "ko",
+      "title": "인니 산불로 멸종위기종 오랑우탄도 생존 위협…구조 노력",
+      "summary": "인도네시아 대규모 산불로 오랑우탄의 단둘뿐인 야생 서식지 보르네오섬과 수마트라섬 곳곳이 불타면서…",
+      "detail": "인도네시아 대규모 산불로 오랑우탄의 단둘뿐인 야생 서식지 보르네오섬과 수마트라섬 곳곳이 불타면서 멸종 위기종인 오랑우탄의 생존에 큰 타격이 우려된다. 9일(현지시간) AFP 통신에 따르면 유인원 보호단체 '보르네오 오랑우탄 생존 재단'은 지난달 말…",
+      "link": "https://www.yna.co.kr/view/AKR20261009060100084",
+      "source": "연합뉴스",
+      "category": "생태·환경",
+      "publishedAt": "2026-10-09T00:19:00.000Z",
+      "collectedAt": "2026-10-09T12:58:46.030Z",
+      "thumb": "/thumbs/ea6267ec1432.jpg"
+    },
+    {
+      "id": "945f1171e0a0",
+      "kind": "news",
+      "lang": "ko",
+      "title": "50세 이상 ADHD, 노년기 인지장애 진단 위험 4.6배…美 18만 명 의료기록·유전자 분석",
+      "summary": "미국 피츠버그대 연구팀이 50세 이상 미국인 18만7341명의 전자의무기록과 유전체 정보를 분석한…",
+      "detail": "미국 피츠버그대 연구팀이 50세 이상 미국인 18만7341명의 전자의무기록과 유전체 정보를 분석한 결과, 주의력결핍 과잉행동장애 (ADHD) 진단 이력이 있는 사람은 그렇지 않은 사람보다 나중에 경도인지장애나 치매 진단을 받을 위험이 나이·성별 등을…",
+      "link": "https://www.famtimes.co.kr/news/articleView.html?idxno=701778",
+      "source": "에프이타임스",
+      "image": "http://www.bing.com/th?id=ONUT.o4XZmpE_9zg7tP96zFv6pA&pid=News",
+      "category": "의학·바이오",
+      "publishedAt": "2026-10-08T18:04:00.000Z",
+      "collectedAt": "2026-10-09T12:58:46.030Z",
+      "thumb": "/thumbs/945f1171e0a0.png"
+    },
     {
       "id": "bsky-3mxguiiwobd2i",
       "kind": "news",
@@ -2385,42 +2414,6 @@
       "summaryKo": "현실은 더 미묘하다",
       "translator": "google",
       "thumb": "/thumbs/bsky-3mxclt43nnl2y.webp"
-    },
-    {
-      "id": "bsky-3mxchw2h4sj2k",
-      "kind": "news",
-      "lang": "en",
-      "title": "The fossil of Herugavialis is missing the tip of its snout, not unlike the Great Sphinx…",
-      "summary": "with whom it shares its rocky origins",
-      "link": "https://bsky.app/profile/sciencenews.bsky.social/post/3mxchw2h4sj2k",
-      "source": "Bluesky Science News",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mhjqpvjvyzpj4pso7ux2tekh/bafkreiep3gmiylsdvqr4im2ay6r7gpzo5exa7u5ggqpqos22hatlzqyesu",
-      "likes": "3",
-      "category": "인기",
-      "publishedAt": "2026-10-07T17:30:17.432Z",
-      "collectedAt": "2026-10-07T20:49:17.093Z",
-      "titleKo": "헤루가비알리스(Herugavialis)의 화석은 대스핑크스와 마찬가지로 주둥이 끝이 없습니다…",
-      "summaryKo": "바위 같은 기원을 공유하는 사람",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mxchw2h4sj2k.webp"
-    },
-    {
-      "id": "bsky-3mxcetc2lzi2r",
-      "kind": "news",
-      "lang": "en",
-      "title": "| Disease-associated are associated with and This Essay discusses the dynamics, origins…",
-      "summary": "and therapeutic potential of these microglia in…",
-      "link": "https://bsky.app/profile/plosbiology.org/post/3mxcetc2lzi2r",
-      "source": "Bluesky PLOS Biology",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5522ztebtekoor5efelihqhb/bafkreifppumpuby5uvxu6rbnqgqxzhb2vcg23tgfcwqty4ocnvrmtzze5e",
-      "likes": "5",
-      "category": "인기",
-      "publishedAt": "2026-10-07T16:35:03.223Z",
-      "collectedAt": "2026-10-07T20:49:17.093Z",
-      "titleKo": "| 질병 관련은 다음과 연관되어 있으며 이 에세이에서는 역학, 기원에 대해 논의합니다.",
-      "summaryKo": "그리고 이러한 소교세포의 치료 잠재력은 다음과 같습니다",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mxcetc2lzi2r.png"
     }
   ]
 }

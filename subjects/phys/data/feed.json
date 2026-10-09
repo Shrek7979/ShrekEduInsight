@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-10-09T11:58:22.245Z",
+  "updatedAt": "2026-10-09T12:58:46.028Z",
   "items": [
+    {
+      "id": "cc2d68014019",
+      "kind": "news",
+      "lang": "ko",
+      "title": "미국 과학 구상 60억달러…양자컴퓨터 경연에 최대 2억1500만달러",
+      "summary": "미국 정부가 60억달러(약 8조580억원) 이상 규모의 과학 투자 구상을 발표했다",
+      "detail": "미국 정부가 60억달러(약 8조580억원) 이상 규모의 과학 투자 구상을 발표했다. 양자컴퓨터 개발 경연에는 최대 2억1500만달러(약 2889억원)를 계획했고, 기업 11곳은 인공지능(AI) 연구 도구와 컴퓨팅 자원 24억달러(약…",
+      "link": "https://www.tokenpost.kr/news/tech/420357",
+      "source": "토큰포스트",
+      "image": "http://www.bing.com/th?id=ONUT.Of46JzaCqlGYwQ9HpNHlCw&pid=News",
+      "category": "양자·첨단",
+      "publishedAt": "2026-10-08T17:42:00.000Z",
+      "collectedAt": "2026-10-09T12:58:46.028Z",
+      "thumb": "/thumbs/cc2d68014019.jpg"
+    },
+    {
+      "id": "2710c0431127",
+      "kind": "video",
+      "lang": "en",
+      "title": "The Insane Real Engineering of the Nazi Enigma Machine",
+      "summary": "",
+      "detail": "",
+      "link": "https://www.youtube.com/watch?v=JsBZOcqZerk",
+      "source": "Veritasium",
+      "image": "https://i3.ytimg.com/vi/JsBZOcqZerk/hqdefault.jpg",
+      "views": 17626575,
+      "category": "인기",
+      "publishedAt": "2026-09-21T17:49:57.000Z",
+      "collectedAt": "2026-10-09T12:58:46.028Z",
+      "titleKo": "나치 에니그마 기계의 미친 실제 공학",
+      "summaryKo": "",
+      "translator": "google",
+      "thumb": "/thumbs/2710c0431127.jpg"
+    },
     {
       "id": "afaf38b2e4c7",
       "kind": "news",
@@ -2441,44 +2475,6 @@
       "publishedAt": "2026-10-06T14:42:00.000Z",
       "collectedAt": "2026-10-07T06:16:02.998Z",
       "thumb": "/thumbs/70bbdef05d87.png"
-    },
-    {
-      "id": "4b6d55458ce0",
-      "kind": "news",
-      "lang": "en",
-      "title": "Quiz of the week: how are researchers making weather predictions more accurate?",
-      "summary": "Have you been keeping up to date with physics news?",
-      "detail": "Have you been keeping up to date with physics news? Try our short quiz to find out The post Quiz of the week: how are researchers making…",
-      "link": "https://physicsworld.com/a/quiz-of-the-week-how-are-researchers-making-weather-predictions-more-accurate/",
-      "source": "Physics World",
-      "category": "해외",
-      "publishedAt": "2026-10-02T14:30:38.000Z",
-      "collectedAt": "2026-10-07T06:16:02.998Z",
-      "titleKo": "이번주의 퀴즈: 연구자들은 어떻게 날씨 예측을 더 정확하게 만들고 있나요?",
-      "summaryKo": "물리학 뉴스를 최신 상태로 유지하고 계십니까?",
-      "translator": "google",
-      "detailKo": "물리학 뉴스를 최신 상태로 유지하고 계십니까? 짧은 퀴즈를 통해 금주의 포스트 퀴즈: 연구자들은 어떻게 만들고 있는지 알아보세요…",
-      "thumb": "/thumbs/4b6d55458ce0.jpg"
-    },
-    {
-      "id": "0401935aaf94",
-      "kind": "video",
-      "lang": "en",
-      "title": "What happens to these balloons when you open the valve?",
-      "summary": "Take a balloon and fill it with lots of air",
-      "detail": "Take a balloon and fill it with lots of air. Take another one and fill it with less air. Now connect the two via a valve.",
-      "link": "https://www.youtube.com/shorts/VKlulHwMxgU",
-      "source": "Veritasium",
-      "image": "https://i3.ytimg.com/vi/VKlulHwMxgU/hqdefault.jpg",
-      "views": 1436496,
-      "category": "인기",
-      "publishedAt": "2026-09-24T13:00:24.000Z",
-      "collectedAt": "2026-10-07T06:16:02.998Z",
-      "titleKo": "밸브를 열면 이 풍선들은 어떻게 되나요?",
-      "summaryKo": "풍선을 가져다가 공기를 많이 채워주세요",
-      "translator": "google",
-      "detailKo": "풍선을 가져다가 공기를 많이 채워보세요. 다른 하나를 가져다가 공기를 적게 채우십시오. 이제 밸브를 통해 두 개를 연결하십시오.",
-      "thumb": "/thumbs/0401935aaf94.jpg"
     }
   ]
 }
