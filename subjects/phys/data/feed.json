@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-10-09T14:57:14.309Z",
+  "updatedAt": "2026-10-09T15:57:27.758Z",
   "items": [
+    {
+      "id": "3cb86daa86af",
+      "kind": "video",
+      "lang": "en",
+      "title": "The Universe May Have Just Revealed the True Nature of Empty Space",
+      "summary": "",
+      "detail": "",
+      "link": "https://www.youtube.com/watch?v=568-39aOZkw",
+      "source": "PBS Space Time",
+      "image": "https://i2.ytimg.com/vi/568-39aOZkw/hqdefault.jpg",
+      "views": 1761992,
+      "category": "인기",
+      "publishedAt": "2026-09-24T20:15:16.000Z",
+      "collectedAt": "2026-10-09T15:57:27.758Z",
+      "titleKo": "우주는 이제 막 빈 공간의 본질을 드러냈을지도 모른다",
+      "summaryKo": "",
+      "translator": "google",
+      "thumb": "/thumbs/3cb86daa86af.jpg"
+    },
+    {
+      "id": "c548451f9706",
+      "kind": "video",
+      "lang": "ko",
+      "title": "양자역학의 중첩과 절대적 운동상태가 없는 점을 이용한 실험에서 이상한일이 생겼다",
+      "summary": "",
+      "detail": "",
+      "link": "https://www.youtube.com/watch?v=jO-7FadXU5s",
+      "source": "지식보관소",
+      "image": "https://i3.ytimg.com/vi/jO-7FadXU5s/hqdefault.jpg",
+      "views": 393833,
+      "category": "인기",
+      "publishedAt": "2026-09-12T14:46:43.000Z",
+      "collectedAt": "2026-10-09T15:57:27.758Z",
+      "summaryKo": "",
+      "thumb": "/thumbs/c548451f9706.jpg"
+    },
     {
       "id": "5bc12c184ed8",
       "kind": "news",
@@ -2449,39 +2485,6 @@
       "translator": "google",
       "detailKo": "연구자들은 빈 공간으로 추정되는 양자 변동이 초전도성을 강화하여 전이를 높일 수 있음을 입증했습니다.",
       "thumb": "/thumbs/3d9a6736e954.webp"
-    },
-    {
-      "id": "ea30ea138362",
-      "kind": "news",
-      "lang": "ko",
-      "title": "나주 글로벌 에너지포럼서 국내 핵융합 기술·연구성과 선보여",
-      "summary": "윤병태 나주시장이 ‘나주 글로벌 에너지포럼 2026’ 핵융합 기술 전시장을 둘러보고 있다",
-      "detail": "윤병태 나주시장이 ‘나주 글로벌 에너지포럼 2026’ 핵융합 기술 전시장을 둘러보고 있다. (사진=나주시)나주시는 9월 30일부터 10월 1일까지 한국에너지공과대학교(KENTECH)에서 열린 ‘나주 글로벌 에너지포럼 2026’에서 국내 핵융합…",
-      "link": "http://www.news21tongsin.co.kr/news/view.php?idx=306874",
-      "source": "news21tongsin",
-      "category": "양자·첨단",
-      "publishedAt": "2026-10-03T06:04:00.000Z",
-      "collectedAt": "2026-10-07T07:16:16.643Z",
-      "thumb": "/thumbs/ea30ea138362.jpg"
-    },
-    {
-      "id": "bea28a48f85e",
-      "kind": "video",
-      "lang": "en",
-      "title": "This Device Turns Anything into a Suction Cup",
-      "summary": "",
-      "detail": "",
-      "link": "https://www.youtube.com/watch?v=6gsZY_-kT3U",
-      "source": "Steve Mould",
-      "image": "https://i3.ytimg.com/vi/6gsZY_-kT3U/hqdefault.jpg",
-      "views": 1399487,
-      "category": "인기",
-      "publishedAt": "2026-09-30T23:26:33.000Z",
-      "collectedAt": "2026-10-07T07:16:16.643Z",
-      "titleKo": "이 장치는 무엇이든 흡착컵으로 바꿔줍니다",
-      "summaryKo": "",
-      "translator": "google",
-      "thumb": "/thumbs/bea28a48f85e.jpg"
     }
   ]
 }

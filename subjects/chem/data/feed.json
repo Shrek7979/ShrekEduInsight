@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-10-09T14:57:14.162Z",
+  "updatedAt": "2026-10-09T15:57:27.930Z",
   "items": [
+    {
+      "id": "bsky-3mxhdnrhjw22v",
+      "kind": "news",
+      "lang": "en",
+      "title": "In academia, career paths are often implicitly understood.",
+      "summary": "Progression from PhD to postdoc signals increasing…",
+      "link": "https://bsky.app/profile/chemistryworld.com/post/3mxhdnrhjw22v",
+      "source": "Bluesky Chemistry World",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6v2nwmzy4dozxcftobscktc3/bafkreigluacmqp5wvw5klthilaabm76qfi6fp3hqzfkem5z2thta3exnqu",
+      "category": "인기",
+      "publishedAt": "2026-10-09T15:57:24.016Z",
+      "collectedAt": "2026-10-09T15:57:27.930Z",
+      "titleKo": "학계에서는 진로가 암묵적으로 이해되는 경우가 많습니다.",
+      "summaryKo": "PhD에서 박사후 과정으로의 진행 신호 증가…",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxhdnrhjw22v.webp"
+    },
+    {
+      "id": "b411333877b1",
+      "kind": "news",
+      "lang": "en",
+      "title": "C&EN weekly chemistry news quiz, Oct. 9",
+      "summary": "Test your knowledge of our stories on the Nobel Prizes…",
+      "link": "https://cen.acs.org/people/nobel-prize/cen-weekly-chemistry-news-quiz-october-9/104/web/2026/10?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
+      "source": "C&EN",
+      "category": "해외",
+      "publishedAt": "2026-10-09T15:36:48.000Z",
+      "collectedAt": "2026-10-09T15:57:27.930Z",
+      "titleKo": "C&EN 주간 화학 뉴스 퀴즈, 10월 9일",
+      "summaryKo": "노벨상 이야기에 대한 지식을 테스트해보세요…",
+      "translator": "google",
+      "thumb": "/thumbs/b411333877b1.webp"
+    },
     {
       "id": "bsky-3mxh7rn6qk22q",
       "kind": "news",
@@ -2402,42 +2435,6 @@
       "publishedAt": "2026-09-25T02:00:04.000Z",
       "collectedAt": "2026-10-06T19:31:06.092Z",
       "thumb": "/thumbs/f1e591198597.jpg"
-    },
-    {
-      "id": "57548a2a482d",
-      "kind": "news",
-      "lang": "en",
-      "title": "Today in Chemistry History: Michael Faraday and electrochemistry",
-      "summary": "Today (22 September) marks the birthday of Michael…",
-      "detail": "Today (22 September) marks the birthday of Michael Faraday, a chemist and physicist who made significant contributions to the study of…",
-      "link": "https://www.compoundchem.com/2026/09/22/faraday/?utm_source=rss&utm_medium=rss&utm_campaign=faraday",
-      "source": "Compound Interest",
-      "category": "해외",
-      "publishedAt": "2026-09-22T20:18:20.000Z",
-      "collectedAt": "2026-10-06T19:31:06.092Z",
-      "titleKo": "오늘의 화학 역사: 마이클 패러데이와 전기화학",
-      "summaryKo": "오늘(9월 22일)은 마이클의 생일입니다…",
-      "translator": "google",
-      "detailKo": "오늘(9월 22일)은 화학자이자 물리학자인 마이클 패러데이(Michael Faraday)의 생일입니다. 그는…",
-      "thumb": "/thumbs/57548a2a482d.png"
-    },
-    {
-      "id": "9bcc17cbda1a",
-      "kind": "news",
-      "lang": "en",
-      "title": "The chemistry of sushi: nori, wasabi and sticky rice",
-      "summary": "Did you know that the wasabi in most supermarkets and…",
-      "detail": "Did you know that the wasabi in most supermarkets and restaurants isn’t wasabi? Or that a chemical synergy between dried seaweed and…",
-      "link": "https://www.compoundchem.com/2026/09/21/sushi/?utm_source=rss&utm_medium=rss&utm_campaign=sushi",
-      "source": "Compound Interest",
-      "category": "해외",
-      "publishedAt": "2026-09-21T19:58:50.000Z",
-      "collectedAt": "2026-10-06T19:31:06.092Z",
-      "titleKo": "스시의 화학: 김, 와사비, 찹쌀",
-      "summaryKo": "대부분의 슈퍼마켓에 와사비가 있다는 사실을 알고 계셨나요?",
-      "translator": "google",
-      "detailKo": "대부분의 슈퍼마켓이나 레스토랑에 파는 와사비가 와사비가 아니라는 사실을 알고 계셨나요? 아니면 말린 해초와…",
-      "thumb": "/thumbs/9bcc17cbda1a.png"
     }
   ]
 }

@@ -1,6 +1,25 @@
 {
-  "updatedAt": "2026-10-09T14:57:14.150Z",
+  "updatedAt": "2026-10-09T15:57:27.910Z",
   "items": [
+    {
+      "id": "e992d824cc8d",
+      "kind": "video",
+      "lang": "en",
+      "title": "new cat unlocked !! 😺",
+      "summary": "",
+      "detail": "",
+      "link": "https://www.youtube.com/shorts/V8E6HZP4U20",
+      "source": "Lindsay Nikole",
+      "image": "https://i3.ytimg.com/vi/V8E6HZP4U20/hqdefault.jpg",
+      "views": 319669,
+      "category": "인기",
+      "publishedAt": "2026-09-19T14:38:36.000Z",
+      "collectedAt": "2026-10-09T15:57:27.910Z",
+      "titleKo": "새로운 고양이 잠금 해제!! 😺",
+      "summaryKo": "",
+      "translator": "google",
+      "thumb": "/thumbs/e992d824cc8d.jpg"
+    },
     {
       "id": "e7124eabfaa9",
       "kind": "news",
@@ -2398,24 +2417,6 @@
       "publishedAt": "2026-10-06T04:13:00.000Z",
       "collectedAt": "2026-10-08T00:56:55.097Z",
       "thumb": "/thumbs/2682122f5742.png"
-    },
-    {
-      "id": "eb0b817bea53",
-      "kind": "news",
-      "lang": "en",
-      "title": "Tropical trees built homes for ants. Wasps are taking them over",
-      "summary": "Predatory wasps are hijacking shelters built by…",
-      "detail": "Predatory wasps are hijacking shelters built by tropical trees for their ant defenders, potentially disrupting an ancient partnership that…",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261004001832.htm",
-      "source": "ScienceDaily",
-      "category": "해외",
-      "publishedAt": "2026-10-06T03:12:36.000Z",
-      "collectedAt": "2026-10-08T00:56:55.097Z",
-      "titleKo": "열대 나무는 개미를 위한 집을 지었습니다. 말벌이 그들을 점령하고 있습니다",
-      "summaryKo": "약탈적인 말벌은 다음과 같은 사람들이 지은 대피소를 납치합니다",
-      "translator": "google",
-      "detailKo": "포식성 말벌은 개미 방어자들을 위해 열대 나무로 지어진 피난처를 납치하여 잠재적으로 고대의 파트너십을 방해합니다.",
-      "thumb": "/thumbs/eb0b817bea53.webp"
     }
   ]
 }
