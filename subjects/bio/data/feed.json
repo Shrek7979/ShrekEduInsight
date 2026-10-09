@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-10-09T00:57:12.241Z",
+  "updatedAt": "2026-10-09T01:56:59.980Z",
   "items": [
+    {
+      "id": "64b38f3ab155",
+      "kind": "news",
+      "lang": "ko",
+      "title": "쥐, 오리도 잡아먹는 거대 포식자?, 빗살무늬강꼬치고기",
+      "summary": "안녕하세요!",
+      "detail": "안녕하세요! 국립생태원의 아기 펭귄 펭이에요! 우리 생태계를 위협할 수 있는 불청객을 미리 알아보고 주의하는 〈유입주의 생물도감〉 열일곱 번째 시간이에요! 몸길이는 최대 180cm, 무게는 최대 30kg까지 자라고 쥐와 오리까지 잡아먹는 대형…",
+      "link": "https://blog.naver.com/nie_korea/224435498033?fromRss=true&trackingCode=rss",
+      "source": "네이버 블로그 국립생태원",
+      "category": "인기",
+      "publishedAt": "2026-10-09T01:30:00.000Z",
+      "collectedAt": "2026-10-09T01:56:59.980Z",
+      "thumb": "/thumbs/64b38f3ab155.png"
+    },
+    {
+      "id": "28491df0fe88",
+      "kind": "video",
+      "lang": "en",
+      "title": "Did the Ozone Collapse 252 Million Years Ago?",
+      "summary": "",
+      "detail": "",
+      "link": "https://www.youtube.com/watch?v=sIupXhjet0s",
+      "source": "PBS Eons",
+      "image": "https://i4.ytimg.com/vi/sIupXhjet0s/hqdefault.jpg",
+      "views": 524887,
+      "category": "인기",
+      "publishedAt": "2026-09-15T14:00:15.000Z",
+      "collectedAt": "2026-10-09T01:56:59.980Z",
+      "titleKo": "오존은 2억 5200만년 전에 붕괴되었는가?",
+      "summaryKo": "",
+      "translator": "google",
+      "thumb": "/thumbs/28491df0fe88.jpg"
+    },
     {
       "id": "4dfa43816e01",
       "kind": "news",
@@ -2352,42 +2385,6 @@
       "translator": "google",
       "detailKo": "오래전 항공의 여명기, 모든 것에 대한 공개 비행 전시회에서 갈매기가 비행기의 조종 장치를 방해하여 비행기를 추락시켰고…",
       "thumb": "/thumbs/61bd89fc8465.jpg"
-    },
-    {
-      "id": "e9ca5e5b9174",
-      "kind": "video",
-      "lang": "en",
-      "title": "The End of Oak Street - Was It Terrible? Zoologist and Paleontologist React",
-      "summary": "",
-      "detail": "",
-      "link": "https://www.youtube.com/watch?v=7GFXV4zJ6oo",
-      "source": "Clint's Reptiles",
-      "image": "https://i4.ytimg.com/vi/7GFXV4zJ6oo/hqdefault.jpg",
-      "views": 279539,
-      "category": "인기",
-      "publishedAt": "2026-09-19T12:00:14.000Z",
-      "collectedAt": "2026-10-07T07:46:23.907Z",
-      "titleKo": "오크 스트리트의 끝 - 끔찍했나요? 동물학자 및 고생물학자 반응",
-      "summaryKo": "",
-      "translator": "google",
-      "thumb": "/thumbs/e9ca5e5b9174.jpg"
-    },
-    {
-      "id": "64db256faa7c",
-      "kind": "video",
-      "lang": "ko",
-      "title": "이젠 무서워서 해수욕도 못하겠네요 ㄷㄷ 진짜 조심하셔합니다!!!",
-      "summary": "",
-      "detail": "",
-      "link": "https://www.youtube.com/watch?v=8jYOccOpYNk",
-      "source": "TV생물도감",
-      "image": "https://i1.ytimg.com/vi/8jYOccOpYNk/hqdefault.jpg",
-      "views": 1023302,
-      "category": "인기",
-      "publishedAt": "2026-09-17T09:30:20.000Z",
-      "collectedAt": "2026-10-07T07:46:23.907Z",
-      "summaryKo": "",
-      "thumb": "/thumbs/64db256faa7c.jpg"
     }
   ]
 }
