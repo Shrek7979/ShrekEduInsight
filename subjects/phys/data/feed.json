@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-10-09T10:57:17.677Z",
+  "updatedAt": "2026-10-09T11:58:22.245Z",
   "items": [
+    {
+      "id": "afaf38b2e4c7",
+      "kind": "news",
+      "lang": "en",
+      "title": "A quantum prediction from 1931 just came to life",
+      "summary": "Nearly a century after physicist Hans Bethe predicted…",
+      "detail": "Nearly a century after physicist Hans Bethe predicted them, scientists have created and directly observed unusual quantum states known as…",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261006234517.htm",
+      "source": "ScienceDaily",
+      "category": "해외",
+      "publishedAt": "2026-10-09T08:25:24.000Z",
+      "collectedAt": "2026-10-09T11:58:22.245Z",
+      "titleKo": "1931년의 양자 예측이 현실로 나타났습니다.",
+      "summaryKo": "물리학자 한스 베테(Hans Bethe)가 예측한 지 거의 100년이 지났습니다",
+      "translator": "google",
+      "detailKo": "물리학자 한스 베테(Hans Bethe)가 이를 예측한 지 거의 100년이 지난 후, 과학자들은 다음과 같은 특이한 양자 상태를 만들고 직접 관찰했습니다.",
+      "thumb": "/thumbs/afaf38b2e4c7.webp"
+    },
+    {
+      "id": "f310725fb7f5",
+      "kind": "news",
+      "lang": "ko",
+      "title": "전남광주교육청 출범 100일…영재학교·과학고 6곳 체제 추진",
+      "summary": "전남광주통합특별시교육청이 출범 100일을 맞아 영재학교·과학고 6곳 체제 구축과 교육활동 보호…",
+      "detail": "전남광주통합특별시교육청이 출범 100일을 맞아 영재학교·과학고 6곳 체제 구축과 교육활동 보호 강화, 미래산업 인재 양성 등을 핵심으로 한 교육정책을 본격 추진한다. 김대중 전남광주통합특별시교육감은 7일 'K-민주주의 교육', '꿈이 피어나는 교실…",
+      "link": "https://www.etoday.co.kr/news/view/2633323",
+      "source": "이투데이",
+      "image": "http://www.bing.com/th?id=ONUT.VprMVwwoQwGwtLQCr3LItQ&pid=News",
+      "category": "교육",
+      "publishedAt": "2026-10-07T04:59:00.000Z",
+      "collectedAt": "2026-10-09T11:58:22.245Z",
+      "thumb": "/thumbs/f310725fb7f5.jpg"
+    },
     {
       "id": "8ba769baf135",
       "kind": "news",
@@ -2446,44 +2479,6 @@
       "translator": "google",
       "detailKo": "풍선을 가져다가 공기를 많이 채워보세요. 다른 하나를 가져다가 공기를 적게 채우십시오. 이제 밸브를 통해 두 개를 연결하십시오.",
       "thumb": "/thumbs/0401935aaf94.jpg"
-    },
-    {
-      "id": "2710c0431127",
-      "kind": "video",
-      "lang": "en",
-      "title": "The Insane Real Engineering of the Nazi Enigma Machine",
-      "summary": "",
-      "detail": "",
-      "link": "https://www.youtube.com/watch?v=JsBZOcqZerk",
-      "source": "Veritasium",
-      "image": "https://i3.ytimg.com/vi/JsBZOcqZerk/hqdefault.jpg",
-      "views": 16638610,
-      "category": "인기",
-      "publishedAt": "2026-09-21T17:49:57.000Z",
-      "collectedAt": "2026-10-07T06:16:02.998Z",
-      "titleKo": "나치 에니그마 기계의 미친 실제 공학",
-      "summaryKo": "",
-      "translator": "google",
-      "thumb": "/thumbs/2710c0431127.jpg"
-    },
-    {
-      "id": "3f19968fce2d",
-      "kind": "video",
-      "lang": "en",
-      "title": "CERN Built the Opposite of an Atomic Bomb",
-      "summary": "",
-      "detail": "",
-      "link": "https://www.youtube.com/watch?v=2zPRAej9h3o",
-      "source": "The Action Lab",
-      "image": "https://i3.ytimg.com/vi/2zPRAej9h3o/hqdefault.jpg",
-      "views": 905011,
-      "category": "인기",
-      "publishedAt": "2026-09-12T15:02:12.000Z",
-      "collectedAt": "2026-10-07T06:16:02.998Z",
-      "titleKo": "CERN은 원자폭탄의 반대편을 건설했습니다",
-      "summaryKo": "",
-      "translator": "google",
-      "thumb": "/thumbs/3f19968fce2d.jpg"
     }
   ]
 }

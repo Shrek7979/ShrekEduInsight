@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-09T10:57:17.719Z",
+  "updatedAt": "2026-10-09T11:58:22.173Z",
   "items": [
+    {
+      "id": "bsky-3mxguh3fpwk27",
+      "kind": "news",
+      "lang": "en",
+      "title": "‘The idea is to put into practice what you’re learning in lectures,’ Kate Harris, a drug discovery lecturer at Newcastle University tells…",
+      "summary": "Victoria Atkinson as she gathers tips for making the…",
+      "link": "https://bsky.app/profile/chemistryworld.com/post/3mxguh3fpwk27",
+      "source": "Bluesky Chemistry World",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6v2nwmzy4dozxcftobscktc3/bafkreiclq3kxf6wh4hh4tjmkplixfoxurso5ngjk63hiw7jujqt7ysi4ie",
+      "category": "인기",
+      "publishedAt": "2026-10-09T11:25:13.435Z",
+      "collectedAt": "2026-10-09T11:58:22.173Z",
+      "titleKo": "뉴캐슬 대학의 약물 발견 강사인 케이트 해리스(Kate Harris)는 '강의에서 배운 내용을 실제로 적용하는 것이 아이디어입니다.'라고 말합니다.",
+      "summaryKo": "빅토리아 앳킨슨(Victoria Atkinson)이 제작 팁을 수집하는 중…",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxguh3fpwk27.webp"
+    },
     {
       "id": "47e40bec1398",
       "kind": "news",
@@ -12,7 +29,7 @@
       "source": "C&EN",
       "category": "해외",
       "publishedAt": "2026-10-08T15:19:22.000Z",
-      "collectedAt": "2026-10-09T10:57:17.719Z",
+      "collectedAt": "2026-10-09T11:58:22.173Z",
       "titleKo": "'분석화학' 차기 편집장 임명",
       "summaryKo": "크리스티 L",
       "translator": "google",
@@ -2423,24 +2440,6 @@
       "translator": "google",
       "detailKo": "노벨 화학상 후보 추천 데이터 탐색",
       "thumb": "/thumbs/eb477765ddf1.webp"
-    },
-    {
-      "id": "d94ada38c472",
-      "kind": "news",
-      "lang": "en",
-      "title": "‘Proteins don’t exist’: Scenes from HUPO 2026",
-      "summary": "At the Human Proteome Organization World Congress,…",
-      "detail": "At the Human Proteome Organization World Congress, researchers turn from building tools to finding out what they can do",
-      "link": "https://cen.acs.org/biological-chemistry/proteomics/hupo-proteomics-conference/104/web/2026/10?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
-      "source": "C&EN",
-      "category": "해외",
-      "publishedAt": "2026-10-06T15:06:02.000Z",
-      "collectedAt": "2026-10-06T15:31:08.373Z",
-      "titleKo": "'단백질은 존재하지 않는다': HUPO 2026의 장면",
-      "summaryKo": "인간 프로테옴 조직 세계 회의에서…",
-      "translator": "google",
-      "detailKo": "Human Proteome Organization World Congress에서 연구자들은 도구 구축에서 무엇을 할 수 있는지 찾는 것으로 전환합니다.",
-      "thumb": "/thumbs/d94ada38c472.webp"
     }
   ]
 }

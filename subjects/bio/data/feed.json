@@ -1,6 +1,41 @@
 {
-  "updatedAt": "2026-10-09T10:57:17.839Z",
+  "updatedAt": "2026-10-09T11:58:22.273Z",
   "items": [
+    {
+      "id": "bsky-3mxguiiwobd2i",
+      "kind": "news",
+      "lang": "en",
+      "title": "Niche exclusion of a lung pathogen in mice with designed probiotic communities",
+      "summary": "Niche exclusion of a lung pathogen in mice with…",
+      "link": "https://bsky.app/profile/elife.bsky.social/post/3mxguiiwobd2i",
+      "source": "Bluesky eLife",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4irghgzlsjk6ugrekoqyl7km/bafkreiaqpl3kxdxpdh42t37jpcpsccmcb7n656beigdtvecp747knudahi",
+      "category": "인기",
+      "publishedAt": "2026-10-09T11:26:00.855Z",
+      "collectedAt": "2026-10-09T11:58:22.273Z",
+      "titleKo": "설계된 프로바이오틱스 공동체를 갖춘 생쥐에서 폐 병원체의 틈새 배제",
+      "summaryKo": "쥐의 폐 병원체에 대한 틈새 배제…",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxguiiwobd2i.webp"
+    },
+    {
+      "id": "9aaadaf6fdad",
+      "kind": "news",
+      "lang": "en",
+      "title": "Chimp and gorilla brains resist weight loss with age — unlike human brains",
+      "summary": "The relatively short lifespans of non-human great apes…",
+      "detail": "The relatively short lifespans of non-human great apes might explain why their brain mass is maintained in later life",
+      "link": "https://www.nature.com/articles/d41586-026-03158-0",
+      "source": "Nature",
+      "category": "해외",
+      "publishedAt": "2026-10-09T00:00:00.000Z",
+      "collectedAt": "2026-10-09T11:58:22.273Z",
+      "titleKo": "침팬지와 고릴라의 뇌는 인간의 뇌와 달리 나이가 들수록 체중 감소에 저항합니다.",
+      "summaryKo": "인간이 아닌 유인원의 상대적으로 짧은 수명…",
+      "translator": "google",
+      "detailKo": "인간이 아닌 유인원의 상대적으로 짧은 수명은 그들의 뇌량이 노년에도 유지되는 이유를 설명할 수 있습니다.",
+      "thumb": "/thumbs/9aaadaf6fdad.png"
+    },
     {
       "id": "bb0f82b76d0a",
       "kind": "news",
@@ -2386,39 +2421,6 @@
       "summaryKo": "그리고 이러한 소교세포의 치료 잠재력은 다음과 같습니다",
       "translator": "google",
       "thumb": "/thumbs/bsky-3mxcetc2lzi2r.png"
-    },
-    {
-      "id": "bsky-3mxccuoarb32q",
-      "kind": "news",
-      "lang": "en",
-      "title": "Context-specific hypermetabolism in humans with mitochondrial defects.",
-      "summary": "Learn more in Cell Press Blue:…",
-      "link": "https://bsky.app/profile/cellpress.bsky.social/post/3mxccuoarb32q",
-      "source": "Bluesky Cell Press",
-      "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dbehouwmds4bxla5z5glados/bafkreiaslqtf7gn7xe2ndqr567kd3ka5yftremgitcyc4t73zcmihpcha4",
-      "likes": "3",
-      "category": "인기",
-      "publishedAt": "2026-10-07T16:00:02.734Z",
-      "collectedAt": "2026-10-07T20:49:17.093Z",
-      "titleKo": "미토콘드리아 결함이 있는 인간의 상황별 과다대사.",
-      "summaryKo": "Cell Press Blue에서 자세히 알아보세요:…",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mxccuoarb32q.webp"
-    },
-    {
-      "id": "2a568626fac1",
-      "kind": "news",
-      "lang": "ko",
-      "title": "부산시, 내년 수돗물 검사 항목 확대…신종 오염물질 12개 추가",
-      "summary": "부산시가 내년부터 수돗물 수질검사 항목을 확대하고, 신종 미량오염물질에 대한 관리를 강화한다.부산시…",
-      "detail": "부산시가 내년부터 수돗물 수질검사 항목을 확대하고, 신종 미량오염물질에 대한 관리를 강화한다.부산시 상수도사업본부는 취수원과 낙동강 수계에서 새롭게 검출되거나 위해성이 제기되는 미량오염물질에 대응하기 위해 수질검사 관리체계를 개편한다고 7일…",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3715114",
-      "source": "국제뉴스",
-      "image": "http://www.bing.com/th?id=ONUT.jEIhveMhvEGrLfCiHmSLaw&pid=News",
-      "category": "생태·환경",
-      "publishedAt": "2026-10-07T12:36:00.000Z",
-      "collectedAt": "2026-10-07T20:49:17.093Z",
-      "thumb": "/thumbs/2a568626fac1.png"
     }
   ]
 }
