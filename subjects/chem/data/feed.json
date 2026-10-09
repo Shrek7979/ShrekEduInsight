@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-09T19:57:15.012Z",
+  "updatedAt": "2026-10-09T20:57:29.022Z",
   "items": [
+    {
+      "id": "bsky-3mxhszatgzc24",
+      "kind": "news",
+      "lang": "en",
+      "title": "Hue knew?",
+      "summary": "Sapphires and ketchup get even more colorful with…",
+      "link": "https://bsky.app/profile/cenmag.bsky.social/post/3mxhszatgzc24",
+      "source": "Bluesky C&EN",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u4u4yeik2uube2g6ov7wr35p/bafkreig426jnn72aiojl5lf7ro7oeqxaeop3tsus7ihlr2di3on3fsnmci",
+      "category": "인기",
+      "publishedAt": "2026-10-09T20:32:15.361Z",
+      "collectedAt": "2026-10-09T20:57:29.022Z",
+      "titleKo": "휴는 알고 있었어?",
+      "summaryKo": "사파이어와 케첩은 더욱 화려해집니다…",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxhszatgzc24.webp"
+    },
     {
       "id": "bsky-3mxhmvel5qs2x",
       "kind": "news",
@@ -2425,20 +2442,6 @@
       "publishedAt": "2026-10-06T13:15:00.000Z",
       "collectedAt": "2026-10-07T01:31:07.245Z",
       "thumb": "/thumbs/193e1e450422.jpg"
-    },
-    {
-      "id": "4a36cc386165",
-      "kind": "news",
-      "lang": "ko",
-      "title": "수소 저장·운송 기술 발목 잡던 촉매 열화, '반응 경로'에서 원인 찾아",
-      "summary": "포스텍 연구팀이 액상유기수소운반체(LOHC)에서 수소를 꺼내는 과정에서 촉매 성능을 떨어뜨리는…",
-      "detail": "포스텍 연구팀이 액상유기수소운반체(LOHC)에서 수소를 꺼내는 과정에서 촉매 성능을 떨어뜨리는 부산물의 생성 원인을 규명하는데 성공했다. 포스텍은 화학공학과·친환경소재학과 윤창원 교수, 화학공학과 한승목 박사 연구팀이 서울대 재료공학부 한정우 교수,…",
-      "link": "https://kpinews.kr/newsView/1065575399179470",
-      "source": "kpinews.kr",
-      "category": "소재·에너지",
-      "publishedAt": "2026-10-06T13:11:00.000Z",
-      "collectedAt": "2026-10-07T01:31:07.245Z",
-      "thumb": "/thumbs/4a36cc386165.jpg"
     }
   ]
 }

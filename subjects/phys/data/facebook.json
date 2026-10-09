@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-09T19:59:19.238Z",
+  "updatedAt": "2026-10-09T20:59:36.082Z",
   "items": [
+    {
+      "id": "fb-d38d66cebbaf",
+      "kind": "video",
+      "lang": "en",
+      "title": "Chances are you didn’t win a Nobel Prize in Physics this week.",
+      "summary": "But if you did, what would you do with the million…",
+      "link": "https://www.facebook.com/reel/1597583865191289/",
+      "source": "Facebook American Physical Society",
+      "category": "인기",
+      "publishedAt": "2026-10-09T20:25:03.328Z",
+      "thumb": "/social/fb/fb-d38d66cebbaf.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-09T20:59:36.082Z",
+      "titleKo": "이번 주에 노벨 물리학상을 받지 못했을 가능성이 높습니다.",
+      "summaryKo": "하지만 만약 그렇게 했다면, 그 백만 달러로 무엇을 하시겠습니까…",
+      "translator": "google"
+    },
     {
       "id": "fb-e1cb30aa97b4",
       "kind": "video",

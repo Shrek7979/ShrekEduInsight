@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-09T19:59:36.422Z",
+  "updatedAt": "2026-10-09T20:59:51.459Z",
   "items": [
+    {
+      "id": "fb-fb163e1df0c0",
+      "kind": "news",
+      "lang": "en",
+      "title": "Insights from ASHG authors: Moving human genetics forward through publishing.",
+      "summary": "Meet AJHG author and researcher Sarah Vergult, PhD",
+      "link": "https://www.facebook.com/cellpress/posts/pfbid02FqsyqwWm9yki1EeX1bbKyojH9WmvvoUAnDK2prJy3vub4Sb3wrmEotjCAw2ChkWml",
+      "source": "Facebook Cell Press",
+      "category": "인기",
+      "publishedAt": "2026-10-09T20:09:06.657Z",
+      "thumb": "/social/fb/fb-fb163e1df0c0.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-09T20:59:51.459Z",
+      "titleKo": "ASHG 저자의 통찰력: 출판을 통해 인간 유전학을 발전시킵니다.",
+      "summaryKo": "AJHG 저자이자 연구원인 Sarah Vergult 박사를 만나보세요",
+      "translator": "google"
+    },
     {
       "id": "fb-be0174787602",
       "kind": "news",
@@ -15,6 +32,23 @@
       "refs": [],
       "collectedAt": "2026-10-09T17:59:52.263Z",
       "titleKo": "과학 옹호가 작동합니다.",
+      "summaryKo": "",
+      "translator": "google"
+    },
+    {
+      "id": "fb-b857b95d1c1b",
+      "kind": "news",
+      "lang": "en",
+      "title": "CRY me to sleep",
+      "summary": "",
+      "link": "https://www.facebook.com/elifesciences/posts/pfbid02XLneGs6cj9NwGi8ohSb7aoeGmkgEtbyrjwe3KZLKbTVT2VAH7cNo9KJ8RS2zUtWql",
+      "source": "Facebook eLife",
+      "category": "인기",
+      "publishedAt": "2026-10-09T09:59:19.588Z",
+      "thumb": "/social/fb/fb-b857b95d1c1b.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-09T20:59:51.459Z",
+      "titleKo": "울어서 잠들다",
       "summaryKo": "",
       "translator": "google"
     },
@@ -53,18 +87,18 @@
       "translator": "google"
     },
     {
-      "id": "fb-66623c18dfcd",
+      "id": "fb-fc14b7c463cb",
       "kind": "news",
       "lang": "en",
       "title": "How do genes and the environment shape our health?",
       "summary": "In this new activity, students use evidence-based…",
-      "link": "https://www.facebook.com/biointeractive/posts/pfbid02nbVrwSZmcE536cMjA2hffHRj4xWy1nNcSCLD77c58aZa1xettTyHxQH4GTjpRgg7l",
+      "link": "https://www.facebook.com/biointeractive/posts/pfbid0iZu9TdNCwDPDpB9oZ6mbbGriPPh3rkB8amfCfdYH72Qzi4w95Nt8Z16669TPZtD4l",
       "source": "Facebook HHMI BioInteractive",
       "category": "인기",
-      "publishedAt": "2026-10-08T17:59:30.687Z",
-      "thumb": "/social/fb/fb-66623c18dfcd.jpg",
+      "publishedAt": "2026-10-08T20:59:31.530Z",
+      "thumb": "/social/fb/fb-fc14b7c463cb.jpg",
       "refs": [],
-      "collectedAt": "2026-10-09T17:59:52.263Z",
+      "collectedAt": "2026-10-09T20:59:51.459Z",
       "titleKo": "유전자와 환경은 우리의 건강을 어떻게 형성합니까?",
       "summaryKo": "이 새로운 활동에서 학생들은 증거 기반…",
       "translator": "google"

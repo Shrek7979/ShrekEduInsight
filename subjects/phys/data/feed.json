@@ -1,6 +1,41 @@
 {
-  "updatedAt": "2026-10-09T19:57:15.003Z",
+  "updatedAt": "2026-10-09T20:57:29.057Z",
   "items": [
+    {
+      "id": "bsky-3mxhsql44h526",
+      "kind": "video",
+      "lang": "en",
+      "title": "Winning a @NobelPrize comes with some serious bragging rights — and a $1 million prize.",
+      "summary": "We asked APSSummit26 attendees what they’d do with it",
+      "link": "https://bsky.app/profile/apsphysics.aps.org/post/3mxhsql44h526",
+      "source": "Bluesky APS Physics",
+      "image": "https://video.bsky.app/watch/did%3Aplc%3Aheemoqq7cssrx5ixyxwd52y6/bafkreif3maug6iixvzgqkk7bk7b3brosbacrtu5gy5upa6u5hg7t7di47u/thumbnail.jpg",
+      "category": "인기",
+      "publishedAt": "2026-10-09T20:27:24.104Z",
+      "collectedAt": "2026-10-09T20:57:29.057Z",
+      "titleKo": "@NobelPrize를 수상하면 자랑할 만한 권리와 100만 달러의 상금이 수여됩니다.",
+      "summaryKo": "우리는 APSSummit26 참석자들에게 어떻게 할 것인지 물었습니다",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxhsql44h526.jpg"
+    },
+    {
+      "id": "bsky-3mxe2nkyx3s2m",
+      "kind": "news",
+      "lang": "en",
+      "title": "Topological transitions in orbital-symmetry-controlled chemical reactions",
+      "summary": "Topological transitions in orbital-symmetry-controlled…",
+      "link": "https://bsky.app/profile/natphys.nature.com/post/3mxe2nkyx3s2m",
+      "source": "Bluesky Nature Physics",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jghqhqnjl2z2n6ad4qpffxba/bafkreiecnbpespfjniluplwu4yvjdaurkhw6n7takpobzjzzzb4jjutvcy",
+      "likes": "3",
+      "category": "인기",
+      "publishedAt": "2026-10-08T08:38:14.355Z",
+      "collectedAt": "2026-10-09T20:57:29.057Z",
+      "titleKo": "궤도 대칭 제어 화학 반응의 위상 전이",
+      "summaryKo": "궤도 대칭 제어의 토폴로지 전환…",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxe2nkyx3s2m.webp"
+    },
     {
       "id": "bsky-3mxhpg6jpwd2k",
       "kind": "news",
@@ -2455,42 +2490,6 @@
       "publishedAt": "2026-10-06T18:45:00.000Z",
       "collectedAt": "2026-10-07T08:17:31.325Z",
       "thumb": "/thumbs/733e398be52c.webp"
-    },
-    {
-      "id": "21d0da96711d",
-      "kind": "news",
-      "lang": "en",
-      "title": "Engineered Diabatic Transition under Arbitrarily Slow Evolution via Phase-Difference…",
-      "summary": "Author(s): Oubo You, Zhaoqi Jiang, Jinhui Shi, Qing…",
-      "detail": "Author(s): Oubo You, Zhaoqi Jiang, Jinhui Shi, Qing Dai, Chunying Guan, and Shuang ZhangThe quantum adiabatic theorem, a cornerstone of…",
-      "link": "http://link.aps.org/doi/10.1103/ntgm-dshb",
-      "source": "Physical Review Letters",
-      "category": "연구",
-      "publishedAt": "2026-10-06T10:00:00.000Z",
-      "collectedAt": "2026-10-07T08:17:31.325Z",
-      "titleKo": "위상차를 통한 임의로 느린 진화에 따른 공학적 당뇨병 전환…",
-      "summaryKo": "저자: Oubo You, Zhaoqi Jiang, Jinhui Shi, Qing…",
-      "translator": "google",
-      "detailKo": "저자: Oubo You, Zhaoqi Jiang, Jinhui Shi, Qing Dai, Chunying Guan 및 Shuang Zhang양자 단열 정리, 초석…",
-      "thumb": "/thumbs/21d0da96711d.png"
-    },
-    {
-      "id": "d44429d00d3a",
-      "kind": "news",
-      "lang": "en",
-      "title": "Two-Dimensional Transverse-Momentum Subtraction and Semi-Inclusive Deep-Inelastic…",
-      "summary": "Author(s): Liang Dong, Shen Fang, Jun Gao, Hai Tao Li,…",
-      "detail": "Author(s): Liang Dong, Shen Fang, Jun Gao, Hai Tao Li, Ding Yu Shao, Hua Xing Zhu, and Yu Jiao ZhuIdentified hadron production is essential…",
-      "link": "http://link.aps.org/doi/10.1103/gnk4-8p43",
-      "source": "Physical Review Letters",
-      "category": "연구",
-      "publishedAt": "2026-10-06T10:00:00.000Z",
-      "collectedAt": "2026-10-07T08:17:31.325Z",
-      "titleKo": "2차원 횡운동량 차감 및 반포함 심탄성…",
-      "summaryKo": "저자: Liang Dong, Shen Fang, Jun Gao, Hai Tao Li,…",
-      "translator": "google",
-      "detailKo": "저자: Liang Dong, Shen Fang, Jun Gao, Hai Tao Li, Ding Yu Shao, Hua Xing Zhu 및 Yu Jiao Zhu확인된 하드론 생산이 필수적입니다...",
-      "thumb": "/thumbs/d44429d00d3a.png"
     }
   ]
 }

@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-09T19:57:15.080Z",
+  "updatedAt": "2026-10-09T20:57:29.182Z",
   "items": [
+    {
+      "id": "db6252f5f74f",
+      "kind": "news",
+      "lang": "en",
+      "title": "U.S. crop genome sequencing gets $180 million boost",
+      "summary": "Department of Agriculture will expand effort to…",
+      "detail": "Department of Agriculture will expand effort to describe genetics of seed banks",
+      "link": "https://www.science.org/content/article/u-s-crop-genome-sequencing-gets-180-million-boost",
+      "source": "Science",
+      "category": "해외",
+      "publishedAt": "2026-10-09T03:43:00.000Z",
+      "collectedAt": "2026-10-09T20:57:29.182Z",
+      "titleKo": "미국 작물 게놈 서열 분석에 1억 8천만 달러 증가",
+      "summaryKo": "농무부는 다음과 같은 노력을 확대할 것입니다",
+      "translator": "google",
+      "detailKo": "농무부는 종자 은행의 유전학을 기술하기 위한 노력을 확대할 예정입니다.",
+      "thumb": "/thumbs/db6252f5f74f.png"
+    },
     {
       "id": "a89485371e84",
       "kind": "news",
@@ -2412,20 +2430,6 @@
       "publishedAt": "2026-10-07T11:07:00.000Z",
       "collectedAt": "2026-10-08T00:56:55.097Z",
       "thumb": "/thumbs/044a82c0b45a.jpg"
-    },
-    {
-      "id": "1e43f5f14522",
-      "kind": "news",
-      "lang": "ko",
-      "title": "멸종위기 저어새 번식지 인천 승기천 하구 습지보호지 지정 추진",
-      "summary": "멸종위기종 저어새의 번식지인 인천 승기천 하구를 습지보호지역으로 지정하는 방안이 추진된다",
-      "detail": "멸종위기종 저어새의 번식지인 인천 승기천 하구를 습지보호지역으로 지정하는 방안이 추진된다. 인천시는 승기천 하구를 습지보전법에 따른 습지보호지역으로 지정하기 위한 정밀 조사를 기후에너지환경부에 건의했다고 8일 밝혔다.",
-      "link": "https://www.yna.co.kr/view/AKR20261007116300065",
-      "source": "연합뉴스",
-      "category": "생태·환경",
-      "publishedAt": "2026-10-07T10:17:00.000Z",
-      "collectedAt": "2026-10-08T00:56:55.097Z",
-      "thumb": "/thumbs/1e43f5f14522.jpg"
     }
   ]
 }
