@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-10-09T06:48:53.864Z",
+  "updatedAt": "2026-10-09T07:57:24.653Z",
   "items": [
+    {
+      "id": "3b5013e7aa36",
+      "kind": "news",
+      "lang": "en",
+      "title": "Anion‐Dipole Catalytic Decomposition Enables Robust Solid Electrolyte Interfaces for…",
+      "summary": "Aromatic additives featuring high anion-dipole binding…",
+      "detail": "Aromatic additives featuring high anion-dipole binding energy (E b) and electrostatic potential difference (ΔESP), exemplified by…",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.7075150?af=R",
+      "source": "Angewandte Chemie",
+      "image": "https://onlinelibrary.wiley.com/cms/asset/8badec1c-c9f3-4395-92bf-8741fb9d1f08/anie75177-gra-0001-m.png",
+      "category": "연구",
+      "publishedAt": "2026-10-09T05:05:37.000Z",
+      "collectedAt": "2026-10-09T07:57:24.653Z",
+      "titleKo": "음이온-쌍극자 촉매 분해로 견고한 고체 전해질 인터페이스 구현…",
+      "summaryKo": "높은 음이온-쌍극자 결합을 특징으로 하는 방향족 첨가제…",
+      "translator": "google",
+      "detailKo": "높은 음이온-쌍극자 결합 에너지(E b)와 정전기 전위차(ΔESP)를 특징으로 하는 방향족 첨가제는 다음과 같습니다.",
+      "thumb": "/thumbs/3b5013e7aa36.png"
+    },
+    {
+      "id": "4e61491fb765",
+      "kind": "news",
+      "lang": "en",
+      "title": "Biao Li",
+      "summary": "“The most exciting thing about my research is that I…",
+      "detail": "“The most exciting thing about my research is that I can synthesize a lot of interesting structures, find out how they respond in…",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.6368181?af=R",
+      "source": "Angewandte Chemie",
+      "image": "https://onlinelibrary.wiley.com/cms/asset/21988cbe-4795-495f-b7a1-f7b6a0f0f74d/anie75244-gra-0001-m.png",
+      "category": "연구",
+      "publishedAt": "2026-10-09T05:00:03.000Z",
+      "collectedAt": "2026-10-09T07:57:24.653Z",
+      "titleKo": "리 비아오",
+      "summaryKo": "“내 연구에서 가장 흥미로운 점은 내가…",
+      "translator": "google",
+      "detailKo": "“제 연구에서 가장 흥미로운 점은 흥미로운 구조를 많이 합성할 수 있고 구조가 어떻게 반응하는지 알아낼 수 있다는 것입니다.",
+      "thumb": "/thumbs/4e61491fb765.png"
+    },
     {
       "id": "47e40bec1398",
       "kind": "news",
@@ -12,7 +50,7 @@
       "source": "C&EN",
       "category": "해외",
       "publishedAt": "2026-10-08T15:19:22.000Z",
-      "collectedAt": "2026-10-09T06:48:53.864Z",
+      "collectedAt": "2026-10-09T07:57:24.653Z",
       "titleKo": "'분석화학' 차기 편집장 임명",
       "summaryKo": "크리스티 L",
       "translator": "google",
@@ -2402,38 +2440,6 @@
       "translator": "google",
       "detailKo": "마누카 오일에서 추출한 화합물과 알을 표적으로 삼는 머릿니 약물을 결합한 실험용 국소제",
       "thumb": "/thumbs/d4d203cf42e2.webp"
-    },
-    {
-      "id": "92254da7c0a2",
-      "kind": "news",
-      "lang": "en",
-      "title": "Scientists finally see how nature moves energy so efficiently",
-      "summary": "Researchers have captured key steps in a chemical…",
-      "detail": "Researchers have captured key steps in a chemical reaction that helps nature transfer energy with remarkable efficiency. Ultrafast X-rays…",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261004001841.htm",
-      "source": "ScienceDaily",
-      "category": "해외",
-      "publishedAt": "2026-10-06T07:49:51.000Z",
-      "collectedAt": "2026-10-06T14:31:06.453Z",
-      "titleKo": "과학자들은 마침내 자연이 어떻게 에너지를 효율적으로 이동시키는지 확인했습니다.",
-      "summaryKo": "연구원들은 화학 물질의 주요 단계를 포착했습니다…",
-      "translator": "google",
-      "detailKo": "연구자들은 자연이 놀라운 효율성으로 에너지를 전달하는 데 도움이 되는 화학 반응의 주요 단계를 포착했습니다. 초고속 엑스레이…",
-      "thumb": "/thumbs/92254da7c0a2.webp"
-    },
-    {
-      "id": "96ab3a35644f",
-      "kind": "news",
-      "lang": "ko",
-      "title": "효모·AI로 ‘영원한 화학물질’ 잡는다",
-      "summary": "인공지능(AI)으로 설계한 단백질과 유전자 조작 효모, 반도체 센서를 결합해 수돗물 속…",
-      "detail": "인공지능(AI)으로 설계한 단백질과 유전자 조작 효모, 반도체 센서를 결합해 수돗물 속 과불화화합물(PFAS)을 빠르게 검출하는 기술이 개발되고 있다. 기존에는 값비싼 질량분석 장비를 갖춘 전문 실험실에 시료를 보내야 했지만, 새로운 기술이 상용화될…",
-      "link": "https://www.ecomedia.co.kr/news/newsview.php?ncode=1065583129477195",
-      "source": "이미디어",
-      "category": "소재·에너지",
-      "publishedAt": "2026-10-06T01:18:00.000Z",
-      "collectedAt": "2026-10-06T14:31:06.453Z",
-      "thumb": "/thumbs/96ab3a35644f.png"
     }
   ]
 }

@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-09T06:50:51.270Z",
+  "updatedAt": "2026-10-09T08:00:00.132Z",
   "items": [
+    {
+      "id": "fb-6fe84f5aaa82",
+      "kind": "news",
+      "lang": "en",
+      "title": "Can you guess what’s happening here?",
+      "summary": "Hint: these images show different parts of the LHC…",
+      "link": "https://www.facebook.com/cern/posts/pfbid02GBD5jLpfoGoraBUTub5FuSPBtTrRhgrh6LgB3XV4fVBjywQDbdwMz11vqaSJvnKbl",
+      "source": "Facebook CERN",
+      "category": "인기",
+      "publishedAt": "2026-10-09T07:00:38.861Z",
+      "thumb": "/social/fb/fb-6fe84f5aaa82.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-09T08:00:00.132Z",
+      "titleKo": "여기서 무슨 일이 일어나고 있는지 추측할 수 있나요?",
+      "summaryKo": "힌트: 이 이미지는 LHC의 다른 부분을 보여줍니다…",
+      "translator": "google"
+    },
     {
       "id": "fb-444a06815348",
       "kind": "news",
