@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-10-09T08:57:39.894Z",
+  "updatedAt": "2026-10-09T09:57:17.236Z",
   "items": [
+    {
+      "id": "3f203a3c38ac",
+      "kind": "news",
+      "lang": "en",
+      "title": "Reversible Sn<sup>4+</sup>/Sn<sup>0</sup> anode for high-energy-density flow batteries",
+      "summary": "Tin-based aqueous flow batteries offer high-capacity…",
+      "detail": "Tin-based aqueous flow batteries offer high-capacity anodes due to the potential four-electron redox reactions, but irreversible Sn4+/Sn2+…",
+      "link": "https://www.nature.com/articles/s41557-026-02275-7",
+      "source": "Nature Chemistry",
+      "category": "연구",
+      "publishedAt": "2026-10-09T00:00:00.000Z",
+      "collectedAt": "2026-10-09T09:57:17.236Z",
+      "titleKo": "고에너지 밀도 플로우 배터리용 가역적 Sn<sup>4+</sup>/Sn<sup>0</sup> 양극",
+      "summaryKo": "주석 기반 수성 흐름 배터리는 고용량을 제공합니다…",
+      "translator": "google",
+      "detailKo": "주석 기반 수성 흐름 배터리는 잠재적인 4전자 산화환원 반응으로 인해 고용량 양극을 제공하지만 되돌릴 수 없는 Sn4+/Sn2+...",
+      "thumb": "/thumbs/3f203a3c38ac.png"
+    },
+    {
+      "id": "47e40bec1398",
+      "kind": "news",
+      "lang": "en",
+      "title": "‘Analytical Chemistry’ names next editor in chief",
+      "summary": "Christy L",
+      "detail": "Christy L. Haynes, professor at the University of Minnesota, will lead the journal starting Jan. 1, 2027",
+      "link": "https://cen.acs.org/acs-news/Analytical-Chemistry-names-next-editor/104/web/2026/10?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
+      "source": "C&EN",
+      "category": "해외",
+      "publishedAt": "2026-10-08T15:19:22.000Z",
+      "collectedAt": "2026-10-09T09:57:17.236Z",
+      "titleKo": "'분석화학' 차기 편집장 임명",
+      "summaryKo": "크리스티 L",
+      "translator": "google",
+      "detailKo": "미네소타 대학의 Christy L. Haynes 교수가 2027년 1월 1일부터 저널을 이끌게 됩니다.",
+      "thumb": "/thumbs/47e40bec1398.webp"
+    },
     {
       "id": "bsky-3mxgk4pwrcs2h",
       "kind": "news",
@@ -18,24 +54,6 @@
       "summaryKo": "이상은 매우…",
       "translator": "google",
       "thumb": "/thumbs/bsky-3mxgk4pwrcs2h.webp"
-    },
-    {
-      "id": "47e40bec1398",
-      "kind": "news",
-      "lang": "en",
-      "title": "‘Analytical Chemistry’ names next editor in chief",
-      "summary": "Christy L",
-      "detail": "Christy L. Haynes, professor at the University of Minnesota, will lead the journal starting Jan. 1, 2027",
-      "link": "https://cen.acs.org/acs-news/Analytical-Chemistry-names-next-editor/104/web/2026/10?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
-      "source": "C&EN",
-      "category": "해외",
-      "publishedAt": "2026-10-08T15:19:22.000Z",
-      "collectedAt": "2026-10-09T08:57:39.894Z",
-      "titleKo": "'분석화학' 차기 편집장 임명",
-      "summaryKo": "크리스티 L",
-      "translator": "google",
-      "detailKo": "미네소타 대학의 Christy L. Haynes 교수가 2027년 1월 1일부터 저널을 이끌게 됩니다.",
-      "thumb": "/thumbs/47e40bec1398.webp"
     },
     {
       "id": "92254da7c0a2",
@@ -2423,23 +2441,6 @@
       "translator": "google",
       "detailKo": "Human Proteome Organization World Congress에서 연구자들은 도구 구축에서 무엇을 할 수 있는지 찾는 것으로 전환합니다.",
       "thumb": "/thumbs/d94ada38c472.webp"
-    },
-    {
-      "id": "bsky-3mx7ndfrhac2g",
-      "kind": "video",
-      "lang": "en",
-      "title": "The Chemical Breakdown team unpack some of the predictions for who will be taking home…",
-      "summary": "the chemistry Nobel prize this year & give their own…",
-      "link": "https://bsky.app/profile/chemistryworld.com/post/3mx7ndfrhac2g",
-      "source": "Bluesky Chemistry World",
-      "image": "https://video.bsky.app/watch/did%3Aplc%3A6v2nwmzy4dozxcftobscktc3/bafkreifhxrkhqbw6gfqlm7ky2ml7r37lh4jhjtuq5trcflff3vf75qlo7m/thumbnail.jpg",
-      "category": "인기",
-      "publishedAt": "2026-10-06T14:29:15.724Z",
-      "collectedAt": "2026-10-06T14:31:06.453Z",
-      "titleKo": "Chemical Breakdown 팀은 누가 집에 데려갈지에 대한 몇 가지 예측을 공개합니다…",
-      "summaryKo": "올해 화학 노벨상을 수상하고…",
-      "translator": "google",
-      "thumb": null
     }
   ]
 }

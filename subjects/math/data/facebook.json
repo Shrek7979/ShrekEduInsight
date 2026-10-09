@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-09T04:01:22.819Z",
+  "updatedAt": "2026-10-09T10:01:26.559Z",
   "items": [
+    {
+      "id": "fb-dafa3c331100",
+      "kind": "video",
+      "lang": "en",
+      "title": "Wolfram Language Version 15 introduces web socket support with SocketListen and SocketWriteMessage, giving developers a fully…",
+      "summary": "bidirectional, asynchronous channel to str",
+      "link": "https://www.facebook.com/reel/2435987546804707/",
+      "source": "Facebook Wolfram Research",
+      "category": "인기",
+      "publishedAt": "2026-10-08T22:01:03.529Z",
+      "thumb": "/social/fb/fb-dafa3c331100.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-09T10:01:26.559Z",
+      "titleKo": "Wolfram 언어 버전 15에서는 SocketListen 및 SocketWriteMessage를 통한 웹 소켓 지원을 도입하여 개발자에게 완벽한…",
+      "summaryKo": "str에 대한 양방향, 비동기 채널",
+      "translator": "google"
+    },
     {
       "id": "fb-20709cd04ec5",
       "kind": "news",

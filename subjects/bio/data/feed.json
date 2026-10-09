@@ -1,6 +1,43 @@
 {
-  "updatedAt": "2026-10-09T08:57:39.820Z",
+  "updatedAt": "2026-10-09T09:57:17.167Z",
   "items": [
+    {
+      "id": "2ff0ac4beb04",
+      "kind": "video",
+      "lang": "en",
+      "title": "Spiders Getting Increasingly More Heinous | Lindsay Nikole",
+      "summary": "Some people love spiders, most people hate them",
+      "detail": "Some people love spiders, most people hate them. Journey down the spider iceberg, from adorable peacock spiders to the cordyceps spider…",
+      "link": "https://www.youtube.com/watch?v=sd8i4Q6PFZI",
+      "source": "Lindsay Nikole",
+      "image": "https://i4.ytimg.com/vi/sd8i4Q6PFZI/hqdefault.jpg",
+      "views": 1140236,
+      "category": "인기",
+      "publishedAt": "2026-10-03T20:00:20.000Z",
+      "collectedAt": "2026-10-09T09:57:17.167Z",
+      "titleKo": "점점 더 흉악해지는 거미 | 린제이 니콜",
+      "summaryKo": "어떤 사람들은 거미를 좋아하지만, 대부분의 사람들은 거미를 싫어합니다",
+      "translator": "google",
+      "detailKo": "어떤 사람들은 거미를 좋아하지만 대부분의 사람들은 거미를 싫어합니다. 사랑스러운 공작거미부터 동충하초 거미까지 거미 빙산을 따라 여행하세요…",
+      "thumb": "/thumbs/2ff0ac4beb04.jpg"
+    },
+    {
+      "id": "4ed4465a9581",
+      "kind": "video",
+      "lang": "ko",
+      "title": "물리면 사망! 독으로 사람도 제압한다는 코모도왕도마뱀이 한국에 밀수되었습니다 ㄷㄷ",
+      "summary": "",
+      "detail": "",
+      "link": "https://www.youtube.com/watch?v=lg1NzeN1W6g",
+      "source": "TV생물도감",
+      "image": "https://i1.ytimg.com/vi/lg1NzeN1W6g/hqdefault.jpg",
+      "views": 682121,
+      "category": "인기",
+      "publishedAt": "2026-09-29T09:30:01.000Z",
+      "collectedAt": "2026-10-09T09:57:17.167Z",
+      "summaryKo": "",
+      "thumb": "/thumbs/4ed4465a9581.jpg"
+    },
     {
       "id": "bsky-3mxgk5ozpdb2h",
       "kind": "news",
@@ -2384,38 +2421,6 @@
       "translator": "google",
       "detailKo": "고대 수영 생물은 간호가 언제 진화했는지에 대한 단서를 제공합니다",
       "thumb": "/thumbs/873f5876f916.png"
-    },
-    {
-      "id": "76bf7a0ae487",
-      "kind": "news",
-      "lang": "ko",
-      "title": "시선바이오머티리얼스, 자체 개발 수용성 PNA로 유전자 조절·AOC 플랫폼 확장",
-      "summary": "시선바이오머티리얼스가 자체 개발한 수용성 PNA(SB-PNA)의 유전자 조절 기능과…",
-      "detail": "시선바이오머티리얼스가 자체 개발한 수용성 PNA(SB-PNA)의 유전자 조절 기능과 항체-올리고뉴클레오타이드 접합체(AOC) 적용 가능성을 확인한 연구 결과를 공개했다.시선바이오머티리얼스는 한국분자·세포생물학회 학술대회에서 SB-PNA의 구조 설계에…",
-      "link": "https://www.mediaus.co.kr/news/articleView.html?idxno=318365",
-      "source": "미디어스",
-      "category": "의학·바이오",
-      "publishedAt": "2026-10-07T08:56:00.000Z",
-      "collectedAt": "2026-10-07T20:49:17.093Z",
-      "thumb": "/thumbs/76bf7a0ae487.jpg"
-    },
-    {
-      "id": "7fa1620ea59a",
-      "kind": "news",
-      "lang": "en",
-      "title": "Nobel Prizes 2026: brain switches, ‘ghost’ particle hunter, and 'the chemistry of life'",
-      "summary": "Nature rounds up the Nobel Prizes for science — plus,…",
-      "detail": "Nature rounds up the Nobel Prizes for science — plus, hints of the ancestral human gut microbiome.",
-      "link": "https://www.nature.com/articles/d41586-026-03208-7",
-      "source": "Nature",
-      "category": "해외",
-      "publishedAt": "2026-10-07T00:00:00.000Z",
-      "collectedAt": "2026-10-07T20:49:17.093Z",
-      "titleKo": "2026년 노벨상: 뇌 스위치, '유령' 입자 사냥꾼, '생명의 화학'",
-      "summaryKo": "자연은 과학 분야의 노벨상을 모았습니다",
-      "translator": "google",
-      "detailKo": "자연은 과학 분야의 노벨상을 마무리하며, 조상의 인간 장내 미생물에 대한 힌트도 제공합니다.",
-      "thumb": "/thumbs/7fa1620ea59a.png"
     }
   ]
 }
