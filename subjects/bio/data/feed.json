@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-10-09T09:57:17.167Z",
+  "updatedAt": "2026-10-09T10:57:17.839Z",
   "items": [
+    {
+      "id": "bb0f82b76d0a",
+      "kind": "news",
+      "lang": "ko",
+      "title": "간암에 전기 소작술·CAR-NK 면역세포치료 병합했더니 항암 효과 증가",
+      "summary": "이번 연구에는 박주동·신하은 연구원이 공동 제1저자로 참여했으며, 연구진은 전기천공술이 종양 주변의…",
+      "detail": "이번 연구에는 박주동·신하은 연구원이 공동 제1저자로 참여했으며, 연구진은 전기천공술이 종양 주변의 면역환경을 변화시키고 CAR-NK 세포의 항암 작용을 강화하는 분자적 기전도 규명했다.",
+      "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=617977",
+      "source": "메디컬투데이",
+      "image": "http://www.bing.com/th?id=ONUT.NTsCKcewKNZwBlgTme30MA&pid=News",
+      "category": "의학·바이오",
+      "publishedAt": "2026-10-08T17:49:00.000Z",
+      "collectedAt": "2026-10-09T10:57:17.839Z",
+      "thumb": "/thumbs/bb0f82b76d0a.jpg"
+    },
+    {
+      "id": "bd0f921e1cf2",
+      "kind": "news",
+      "lang": "ko",
+      "title": "러시아, 페스트방역연구소 직원 사망 관해 \"위험 미생물 검출되지 않았다\"",
+      "summary": "러시아 동시베리아의 이르쿠츠크주에서 10월 2일, 페스트방역연구소에 근무하는 20대 여성이 사망해,…",
+      "detail": "러시아 동시베리아의 이르쿠츠크주에서 10월 2일, 페스트방역연구소에 근무하는 20대 여성이 사망해, 보건당국이 여성과 접촉한 바 있는 경과 관찰 대상인 약 200명을 검사해 왔습니다.",
+      "link": "https://www3.nhk.or.jp/nhkworld/ko/news/20261009_RS06/",
+      "source": "NHK",
+      "image": "http://www.bing.com/th?id=ONUT.gAtFkOwrT-6hARxf9m1Qkg&pid=News",
+      "category": "연구",
+      "publishedAt": "2026-10-08T17:00:00.000Z",
+      "collectedAt": "2026-10-09T10:57:17.839Z",
+      "thumb": "/thumbs/bd0f921e1cf2.jpg"
+    },
     {
       "id": "2ff0ac4beb04",
       "kind": "video",
@@ -2389,38 +2419,6 @@
       "publishedAt": "2026-10-07T12:36:00.000Z",
       "collectedAt": "2026-10-07T20:49:17.093Z",
       "thumb": "/thumbs/2a568626fac1.png"
-    },
-    {
-      "id": "921da0567797",
-      "kind": "news",
-      "lang": "ko",
-      "title": "“사는 지역 따라 배울 기회 달라져선 안 돼”…최혁진, AI·과학교육 격차 해소 촉구",
-      "summary": "국회 과학기술정보방송통신위원회 최혁진 국회의원은 6일 열린 과방위 국정감사 첫날 질의에서 “사는…",
-      "detail": "국회 과학기술정보방송통신위원회 최혁진 국회의원은 6일 열린 과방위 국정감사 첫날 질의에서 “사는 지역에 따라 배우고 체험할 기회가 달라져서는 안 된다”며 AI·과학교육의 지역 격차 문제를 강하게 제기했다.",
-      "link": "https://www.pressian.com/pages/articles/2026100719095362039",
-      "source": "프레시안",
-      "category": "교육",
-      "publishedAt": "2026-10-07T12:19:00.000Z",
-      "collectedAt": "2026-10-07T20:49:17.093Z",
-      "thumb": "/thumbs/921da0567797.jpg"
-    },
-    {
-      "id": "873f5876f916",
-      "kind": "news",
-      "lang": "en",
-      "title": "Was this odd animal the world’s first milk suckler?",
-      "summary": "Ancient swimming creature provides clues to when…",
-      "detail": "Ancient swimming creature provides clues to when nursing evolved",
-      "link": "https://www.science.org/content/article/was-odd-animal-world-s-first-milk-suckler",
-      "source": "Science",
-      "category": "해외",
-      "publishedAt": "2026-10-07T11:10:00.000Z",
-      "collectedAt": "2026-10-07T20:49:17.093Z",
-      "titleKo": "이 이상한 동물이 세계 최초의 젖먹이였나요?",
-      "summaryKo": "고대 수영 생물은 언제…",
-      "translator": "google",
-      "detailKo": "고대 수영 생물은 간호가 언제 진화했는지에 대한 단서를 제공합니다",
-      "thumb": "/thumbs/873f5876f916.png"
     }
   ]
 }

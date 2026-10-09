@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-09T09:57:17.175Z",
+  "updatedAt": "2026-10-09T10:57:17.677Z",
   "items": [
+    {
+      "id": "8ba769baf135",
+      "kind": "news",
+      "lang": "en",
+      "title": "Order from chaos with adaptive circuits on quantum hardware",
+      "summary": "Controlling quantum chaos requires using measurement…",
+      "detail": "Controlling quantum chaos requires using measurement and feedback that survive noise and decoherence. Such control is now achieved in a…",
+      "link": "https://www.nature.com/articles/s41567-026-03470-6",
+      "source": "Nature Physics",
+      "category": "연구",
+      "publishedAt": "2026-10-09T00:00:00.000Z",
+      "collectedAt": "2026-10-09T10:57:17.677Z",
+      "titleKo": "양자 하드웨어의 적응 회로를 사용하여 혼돈으로부터의 질서",
+      "summaryKo": "양자 혼돈을 제어하려면 측정을 사용해야 합니다…",
+      "translator": "google",
+      "detailKo": "양자 혼돈을 제어하려면 잡음과 결맞음이 발생하지 않는 측정과 피드백을 사용해야 합니다. 이러한 제어는 이제 다음과 같은 방식으로 달성됩니다.",
+      "thumb": "/thumbs/8ba769baf135.png"
+    },
     {
       "id": "b3b2f639b00b",
       "kind": "news",
@@ -2466,23 +2484,6 @@
       "summaryKo": "",
       "translator": "google",
       "thumb": "/thumbs/3f19968fce2d.jpg"
-    },
-    {
-      "id": "734a0955b821",
-      "kind": "video",
-      "lang": "ko",
-      "title": "누리호 5차 발사 생중계! [항성의 우주속으로]",
-      "summary": "",
-      "link": "https://www.youtube.com/watch?v=y_8DdC7hsbc",
-      "source": "안될과학",
-      "image": "https://i2.ytimg.com/vi/y_8DdC7hsbc/hqdefault.jpg",
-      "views": 203179,
-      "category": "인기",
-      "publishedAt": "2026-10-07T04:00:02.000Z",
-      "collectedAt": "2026-10-07T05:16:01.998Z",
-      "thumb": "/thumbs/734a0955b821.jpg",
-      "detail": "",
-      "summaryKo": ""
     }
   ]
 }
