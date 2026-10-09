@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T02:57:19.789Z",
+  "updatedAt": "2026-10-09T03:57:39.750Z",
   "items": [
     {
       "id": "47e40bec1398",
@@ -12,12 +12,27 @@
       "source": "C&EN",
       "category": "해외",
       "publishedAt": "2026-10-08T15:19:22.000Z",
-      "collectedAt": "2026-10-09T02:57:19.789Z",
+      "collectedAt": "2026-10-09T03:57:39.750Z",
       "titleKo": "'분석화학' 차기 편집장 임명",
-      "summaryKo": "크리스티 L",
+      "summaryKo": "크리스티 엘",
       "translator": "google",
       "detailKo": "미네소타 대학의 Christy L. Haynes 교수가 2027년 1월 1일부터 저널을 이끌게 됩니다.",
       "thumb": "/thumbs/47e40bec1398.webp"
+    },
+    {
+      "id": "43655f16f44e",
+      "kind": "news",
+      "lang": "ko",
+      "title": "4명이 국제대회서 메달 6개…광주과학고, 개교 이래 최다 기록",
+      "summary": "광주과학고 재학생 4명이 한 해 동안 세계 과학 경연대회 3곳에 국가대표로 출전해 금메달 4개를…",
+      "detail": "광주과학고 재학생 4명이 한 해 동안 세계 과학 경연대회 3곳에 국가대표로 출전해 금메달 4개를 포함한 메달 6개를 따냈다. 화학부터 지구과학, 천문·천체물리까지 분야를 넘나들며 개교 이래 가장 많은 국제올림피아드 수상 실적을 기록했다.광주과학고는…",
+      "link": "https://www.thepowernews.co.kr/view.php?ud=202610090911435112caa2b7671d_7",
+      "source": "thepowernews",
+      "image": "http://www.bing.com/th?id=ONUT.pagK_AtgtHuLTHgskQUCYQ&pid=News",
+      "category": "대회·행사",
+      "publishedAt": "2026-10-08T13:46:00.000Z",
+      "collectedAt": "2026-10-09T03:57:39.750Z",
+      "thumb": "/thumbs/43655f16f44e.jpg"
     },
     {
       "id": "bsky-3mxfdbrr5hc2f",
@@ -2419,23 +2434,6 @@
       "publishedAt": "2026-10-06T01:18:00.000Z",
       "collectedAt": "2026-10-06T14:31:06.453Z",
       "thumb": "/thumbs/96ab3a35644f.png"
-    },
-    {
-      "id": "bsky-3mx7jn7zsb22z",
-      "kind": "news",
-      "lang": "en",
-      "title": "In the 1950s, Lipscomb & colleagues unpicked the structures of several boranes using…",
-      "summary": "low-temperature x-ray crystallography, determining they…",
-      "link": "https://bsky.app/profile/chemistryworld.com/post/3mx7jn7zsb22z",
-      "source": "Bluesky Chemistry World",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6v2nwmzy4dozxcftobscktc3/bafkreicydsc24v4nwq2xj2d7b2clngemcawqjkig6j4hjqffjf767jg4oi",
-      "category": "인기",
-      "publishedAt": "2026-10-06T13:23:10.284Z",
-      "collectedAt": "2026-10-06T13:31:06.671Z",
-      "titleKo": "1950년대에 Lipscomb과 동료들은 다음을 사용하여 여러 보란의 구조를 추출했습니다.",
-      "summaryKo": "저온 X선 결정학으로 결정…",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mx7jn7zsb22z.webp"
     }
   ]
 }

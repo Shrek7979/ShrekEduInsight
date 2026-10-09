@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T02:59:47.445Z",
+  "updatedAt": "2026-10-09T03:59:57.908Z",
   "items": [
     {
       "id": "fb-9f3eb6746bbf",
@@ -16,6 +16,23 @@
       "collectedAt": "2026-10-08T23:00:47.665Z",
       "titleKo": "\"뉴스 속\" 컬렉션에서 신문, 방송 등에서 다룬 Cell Press 연구를 살펴보세요.",
       "summaryKo": "",
+      "translator": "google"
+    },
+    {
+      "id": "fb-34cc2e13c75f",
+      "kind": "news",
+      "lang": "en",
+      "title": "e Neuro: Iglesias et al. show that a pathway from the lateral hypothalamus to the paraventricular thalamus regulates reward-directed…",
+      "summary": "behavior, especially in rats with f",
+      "link": "https://www.facebook.com/societyforneuroscience/posts/pfbid0L4cuJsVfPF9K6eFpSZcGEzZpvW7MS44GBHBsuywGTJHEFU3fAjr3WACDSeAq5tMwl",
+      "source": "Facebook Society for Neuroscience",
+      "category": "인기",
+      "publishedAt": "2026-10-08T20:59:57.727Z",
+      "thumb": "/social/fb/fb-34cc2e13c75f.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-09T03:59:57.908Z",
+      "titleKo": "e 신경: Iglesias et al. 측면 시상하부에서 뇌실주위 시상으로의 경로가 보상 지향을 조절한다는 것을 보여줍니다.",
+      "summaryKo": "특히 f가 있는 쥐의 행동",
       "translator": "google"
     },
     {
