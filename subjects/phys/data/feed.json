@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-10-09T12:58:46.028Z",
+  "updatedAt": "2026-10-09T13:57:33.016Z",
   "items": [
+    {
+      "id": "e2e102b5d44e",
+      "kind": "news",
+      "lang": "en",
+      "title": "Quiz of the week: which star could help astronomers measure the spin of Sagittarius A*?",
+      "summary": "Have you been keeping up to date with physics news?",
+      "detail": "Have you been keeping up to date with physics news? Try our short quiz to find out The post Quiz of the week: which star could help…",
+      "link": "https://physicsworld.com/a/quiz-of-the-week-which-star-could-help-astronomers-measure-the-spin-of-sagittarius-a/",
+      "source": "Physics World",
+      "category": "해외",
+      "publishedAt": "2026-10-09T13:45:49.000Z",
+      "collectedAt": "2026-10-09T13:57:33.016Z",
+      "titleKo": "이번 주의 퀴즈: 천문학자들이 궁수자리 A*의 회전을 측정하는 데 도움이 될 수 있는 별은 무엇입니까?",
+      "summaryKo": "물리학 뉴스를 최신 상태로 유지하고 계십니까?",
+      "translator": "google",
+      "detailKo": "물리학 뉴스를 최신 상태로 유지하고 계십니까? 짧은 퀴즈를 통해 금주의 포스트 퀴즈: 어떤 스타가 도움이 될 수 있는지 알아보세요…",
+      "thumb": "/thumbs/e2e102b5d44e.jpg"
+    },
+    {
+      "id": "0401935aaf94",
+      "kind": "video",
+      "lang": "en",
+      "title": "What happens to these balloons when you open the valve?",
+      "summary": "Take a balloon and fill it with lots of air",
+      "detail": "Take a balloon and fill it with lots of air. Take another one and fill it with less air. Now connect the two via a valve.",
+      "link": "https://www.youtube.com/shorts/VKlulHwMxgU",
+      "source": "Veritasium",
+      "image": "https://i3.ytimg.com/vi/VKlulHwMxgU/hqdefault.jpg",
+      "views": 1457696,
+      "category": "인기",
+      "publishedAt": "2026-09-24T13:00:24.000Z",
+      "collectedAt": "2026-10-09T13:57:33.016Z",
+      "titleKo": "밸브를 열면 이 풍선들은 어떻게 되나요?",
+      "summaryKo": "풍선을 가져다가 공기를 많이 채워주세요",
+      "translator": "google",
+      "detailKo": "풍선을 가져다가 공기를 많이 채워보세요. 다른 하나를 가져다가 공기를 적게 채우십시오. 이제 밸브를 통해 두 개를 연결하십시오.",
+      "thumb": "/thumbs/0401935aaf94.jpg"
+    },
     {
       "id": "cc2d68014019",
       "kind": "news",
@@ -2447,34 +2485,6 @@
       "publishedAt": "2026-10-06T22:52:59.000Z",
       "collectedAt": "2026-10-07T06:16:02.998Z",
       "thumb": "/thumbs/09329f36a2c8.jpg"
-    },
-    {
-      "id": "f8f7bf6eca87",
-      "kind": "news",
-      "lang": "ko",
-      "title": "경희대, 프랑스 파스칼과 '양자 기술' 맞손… 실질 연구 체계 구축",
-      "summary": "경희대학교가 프랑스의 세계적인 양자컴퓨팅 기업 '파스칼(Pasqal)'과 손잡고 차세대 양자 기술의…",
-      "detail": "경희대학교가 프랑스의 세계적인 양자컴퓨팅 기업 '파스칼(Pasqal)'과 손잡고 차세대 양자 기술의 산업적 활용을 위한 실질적인 공동연구 체계를 구축했다. 단순한 업무협약(MOU) 수준을 넘어 실제 공동 연구조직을 만들고 핵심 연구 인력을 직접…",
-      "link": "https://www.fnnews.com/news/202610071457452522",
-      "source": "파이낸셜뉴스",
-      "category": "양자·첨단",
-      "publishedAt": "2026-10-06T17:59:00.000Z",
-      "collectedAt": "2026-10-07T06:16:02.998Z",
-      "thumb": "/thumbs/f8f7bf6eca87.png"
-    },
-    {
-      "id": "70bbdef05d87",
-      "kind": "news",
-      "lang": "ko",
-      "title": "전남자연과학고, 전국영농학생축제 11명 수상 ‘전남 최다’",
-      "summary": "전남자연과학고등학교(교장 김은순)가 ‘2026 전국영농학생축제’에서 교육부장관상 수상자를 포함해…",
-      "detail": "전남자연과학고등학교(교장 김은순)가 ‘2026 전국영농학생축제’에서 교육부장관상 수상자를 포함해 11명의 수상자를 배출하며 전남 농업계 특성화고 가운데 최다 수상 기록을 세웠다. 지난해 자체 최다인 10명을 한 해 만에 넘어섰다.전남자연과학고는 지난…",
-      "link": "https://www.ihopenews.com/news/articleView.html?idxno=256885",
-      "source": "호남교육신문",
-      "category": "대회·행사",
-      "publishedAt": "2026-10-06T14:42:00.000Z",
-      "collectedAt": "2026-10-07T06:16:02.998Z",
-      "thumb": "/thumbs/70bbdef05d87.png"
     }
   ]
 }

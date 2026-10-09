@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-10-09T12:58:46.030Z",
+  "updatedAt": "2026-10-09T13:57:33.041Z",
   "items": [
+    {
+      "id": "387d13808688",
+      "kind": "news",
+      "lang": "en",
+      "title": "Here’s a look at the Nobel Prizes for science",
+      "summary": "An icy window into the cosmos, a light switch for the…",
+      "detail": "An icy window into the cosmos, a light switch for the brain and solving the mystery of mirror image molecules all took home the top prize.",
+      "link": "https://www.sciencenews.org/article/nobel-2026-physics-chemistry-medicine",
+      "source": "Science News",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/100826_NO_2026NobelRoundup_main.jpg?w=800",
+      "category": "해외",
+      "publishedAt": "2026-10-09T13:00:00.000Z",
+      "collectedAt": "2026-10-09T13:57:33.041Z",
+      "titleKo": "노벨 과학상을 살펴보자",
+      "summaryKo": "우주로 통하는 얼음창, 전등 스위치…",
+      "translator": "google",
+      "detailKo": "우주를 들여다보는 얼음창, 뇌를 위한 전등 스위치, 거울상 분자의 미스터리 해결 모두가 최우수상을 받았습니다.",
+      "thumb": "/thumbs/387d13808688.webp"
+    },
+    {
+      "id": "6ed3b896dca8",
+      "kind": "news",
+      "lang": "ko",
+      "title": "치료 까다로운 악질 유방암, 이것 넣자 암세포 먹어 치웠다",
+      "summary": "서울대병원, 삼중음성유방암 다중표적 유전자치료 전략 제시 재발이 빠르고 쓸 수 있는 표적치료제가…",
+      "detail": "서울대병원, 삼중음성유방암 다중표적 유전자치료 전략 제시 재발이 빠르고 쓸 수 있는 표적치료제가 한정된 삼중음성유방암은 유방암 중에서도 치료가 까다로워 '악질 유방암'으로 통한다. 그런데 이 유방암에서, 유전자 하나로 암세포의 성장·전이를 억제하는…",
+      "link": "https://www.msn.com/ko-kr/news/other/%EC%B9%98%EB%A3%8C-%EA%B9%8C%EB%8B%A4%EB%A1%9C%EC%9A%B4-%EC%95%85%EC%A7%88-%EC%9C%A0%EB%B0%A9%EC%95%94-%EC%9D%B4%EA%B2%83-%EB%84%A3%EC%9E%90-%EC%95%94%EC%84%B8%ED%8F%AC-%EB%A8%B9%EC%96%B4-%EC%B9%98%EC%9B%A0%EB%8B%A4/ar-AA2dTDAK",
+      "source": "머니투데이",
+      "category": "의학·바이오",
+      "publishedAt": "2026-10-09T05:46:41.000Z",
+      "collectedAt": "2026-10-09T13:57:33.041Z",
+      "thumb": "/thumbs/6ed3b896dca8.png"
+    },
     {
       "id": "ea6267ec1432",
       "kind": "news",
@@ -2379,41 +2412,6 @@
       "summaryKo": "",
       "translator": "google",
       "thumb": "/thumbs/e992d824cc8d.jpg"
-    },
-    {
-      "id": "bsky-3mxcpzarjsx2g",
-      "kind": "news",
-      "lang": "en",
-      "title": "Earthquakes frequently trigger rock falls.",
-      "summary": "Now there’s solid evidence marsquakes can send boulders…",
-      "link": "https://bsky.app/profile/sciencenews.bsky.social/post/3mxcpzarjsx2g",
-      "source": "Bluesky Science News",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mhjqpvjvyzpj4pso7ux2tekh/bafkreichycn3emqoqgvm6ognyg5dmc3ktukw4luzpk2rp7ilkulaonzpvq",
-      "category": "인기",
-      "publishedAt": "2026-10-07T19:55:14.757Z",
-      "collectedAt": "2026-10-07T20:49:17.093Z",
-      "titleKo": "지진은 종종 암석 낙하를 유발합니다.",
-      "summaryKo": "이제 화성 지진이 바위를 보낼 수 있다는 확실한 증거가 있습니다…",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mxcpzarjsx2g.webp"
-    },
-    {
-      "id": "bsky-3mxclt43nnl2y",
-      "kind": "news",
-      "lang": "en",
-      "title": "The idea that caregiving kills has dominated scientific discourse.",
-      "summary": "The reality is more nuanced",
-      "link": "https://bsky.app/profile/sciencenews.bsky.social/post/3mxclt43nnl2y",
-      "source": "Bluesky Science News",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mhjqpvjvyzpj4pso7ux2tekh/bafkreiasrfglgp4jdttmqtlblye5oimzdayn6tp6lukjuqas32jgdbtmje",
-      "likes": "1",
-      "category": "인기",
-      "publishedAt": "2026-10-07T18:40:13.553Z",
-      "collectedAt": "2026-10-07T20:49:17.093Z",
-      "titleKo": "간병이 사람을 죽인다는 생각이 과학적 담론을 지배해 왔습니다.",
-      "summaryKo": "현실은 더 미묘하다",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mxclt43nnl2y.webp"
     }
   ]
 }
