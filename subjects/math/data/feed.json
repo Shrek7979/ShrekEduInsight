@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-10-09T04:57:06.652Z",
+  "updatedAt": "2026-10-09T05:57:46.165Z",
   "items": [
+    {
+      "id": "9e49e826e6c2",
+      "kind": "news",
+      "lang": "ko",
+      "title": "AI가 수학 논문 722편 쏟아내자…환호 대신 한숨 쉬는 수학계 왜?[사이언스 PICK]",
+      "summary": "윤현성 기자 = 인공지능(AI)이 수학계의 오랜 난제를 다룬 연구 결과 수백 건을 한꺼번에 공개하자…",
+      "detail": "윤현성 기자 = 인공지능(AI)이 수학계의 오랜 난제를 다룬 연구 결과 수백 건을 한꺼번에 공개하자 수학자들은 복잡한 심경을 드러내고 있다. 수학 발전을 앞당길 기술적 성과라는 기대와 함께 인간이 AI의 정답을 검증하고 이해하는 뒷정리만 맡게 되는…",
+      "link": "https://www.fnnews.com/news/202610091300394050",
+      "source": "파이낸셜뉴스",
+      "image": "http://www.bing.com/th?id=ONUT.B0uTvxRmSe_aQ96EpxS2CA&pid=News",
+      "category": "AI·에듀테크",
+      "publishedAt": "2026-10-08T16:01:00.000Z",
+      "collectedAt": "2026-10-09T05:57:46.165Z",
+      "thumb": "/thumbs/9e49e826e6c2.jpg"
+    },
+    {
+      "id": "3f0f218e1383",
+      "kind": "news",
+      "lang": "ko",
+      "title": "오픈AI, 수학 난제 해결 주장…학계, 신뢰성에 의문 드러내",
+      "summary": "오픈AI가 인공지능(AI)으로 수학 난제를 대거 풀었다고 발표했지만 일부 연구에서 오류가 발견되면서…",
+      "detail": "오픈AI가 인공지능(AI)으로 수학 난제를 대거 풀었다고 발표했지만 일부 연구에서 오류가 발견되면서 결과의 신뢰성을 둘러싼 논란이 일고 있다.8일(현지시간) 테크크런치에 따르면 오픈AI는 지난 6일 AI를 활용한 수학 연구 원고 722건을 공개한 후…",
+      "link": "https://zdnet.co.kr/view/?no=20261009073816",
+      "source": "지디넷코리아",
+      "image": "http://www.bing.com/th?id=ONUT.37pspQN-VTPOc5Uj5LZvNA&pid=News",
+      "category": "AI·에듀테크",
+      "publishedAt": "2026-10-08T16:00:00.000Z",
+      "collectedAt": "2026-10-09T05:57:46.165Z",
+      "thumb": "/thumbs/3f0f218e1383.png"
+    },
     {
       "id": "a5a5bb162fa9",
       "kind": "news",
