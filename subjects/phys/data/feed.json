@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-09T18:56:56.884Z",
+  "updatedAt": "2026-10-09T19:57:15.003Z",
   "items": [
+    {
+      "id": "bsky-3mxhpg6jpwd2k",
+      "kind": "news",
+      "lang": "en",
+      "title": "🎉 Congrats to our new class of APS Fellows.",
+      "summary": "They’ve been recognized by their peers for exceptional…",
+      "link": "https://bsky.app/profile/apsphysics.aps.org/post/3mxhpg6jpwd2k",
+      "source": "Bluesky APS Physics",
+      "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:heemoqq7cssrx5ixyxwd52y6/bafkreifooosdrbpwf5w57fgvcxb2yn45tgvuprc33vjoxguysydw7sv7di",
+      "likes": "2",
+      "category": "인기",
+      "publishedAt": "2026-10-09T19:27:54.167Z",
+      "collectedAt": "2026-10-09T19:57:15.003Z",
+      "titleKo": "🎉 새로운 APS Fellow 클래스를 축하합니다.",
+      "summaryKo": "그들은 동료들로부터 뛰어난 점을 인정받았습니다…",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxhpg6jpwd2k.webp"
+    },
     {
       "id": "19e07a3324e3",
       "kind": "news",
@@ -2473,24 +2491,6 @@
       "translator": "google",
       "detailKo": "저자: Liang Dong, Shen Fang, Jun Gao, Hai Tao Li, Ding Yu Shao, Hua Xing Zhu 및 Yu Jiao Zhu확인된 하드론 생산이 필수적입니다...",
       "thumb": "/thumbs/d44429d00d3a.png"
-    },
-    {
-      "id": "c48cd8a6ad4d",
-      "kind": "news",
-      "lang": "en",
-      "title": "Reactions become topological",
-      "summary": "Chemical reactions are often guided by orbital…",
-      "detail": "Chemical reactions are often guided by orbital symmetries, but the usual orbital picture can fail when electrons are strongly correlated. A…",
-      "link": "https://www.nature.com/articles/s41567-026-03472-4",
-      "source": "Nature Physics",
-      "category": "연구",
-      "publishedAt": "2026-10-06T00:00:00.000Z",
-      "collectedAt": "2026-10-07T08:17:31.325Z",
-      "titleKo": "반응이 위상적으로 변하다",
-      "summaryKo": "화학 반응은 종종 궤도에 의해 유도됩니다…",
-      "translator": "google",
-      "detailKo": "화학 반응은 종종 궤도 대칭에 의해 유도되지만 전자가 강한 상관관계를 가질 때 일반적인 궤도 그림은 실패할 수 있습니다. 에이…",
-      "thumb": "/thumbs/c48cd8a6ad4d.png"
     }
   ]
 }

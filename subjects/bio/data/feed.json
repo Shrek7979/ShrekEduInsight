@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-10-09T18:56:57.129Z",
+  "updatedAt": "2026-10-09T19:57:15.080Z",
   "items": [
+    {
+      "id": "a89485371e84",
+      "kind": "news",
+      "lang": "en",
+      "title": "Department of Energy expands ‘Genesis Mission’ to boost AI, awarding larger grants",
+      "summary": "Department will also initiate new fellowship program to…",
+      "detail": "Department will also initiate new fellowship program to shorten path to Ph.D.",
+      "link": "https://www.science.org/content/article/department-energy-expands-genesis-mission-boost-ai-awarding-larger-grants",
+      "source": "Science",
+      "category": "해외",
+      "publishedAt": "2026-10-09T03:21:00.000Z",
+      "collectedAt": "2026-10-09T19:57:15.080Z",
+      "titleKo": "에너지부는 AI를 강화하기 위해 '제네시스 미션'을 확대하고 더 많은 보조금을 지급합니다.",
+      "summaryKo": "부서는 또한 다음을 위해 새로운 펠로우십 프로그램을 시작할 것입니다",
+      "translator": "google",
+      "detailKo": "학과에서는 박사 학위 취득 경로를 단축하기 위해 새로운 펠로우십 프로그램도 시작할 예정입니다.",
+      "thumb": "/thumbs/a89485371e84.png"
+    },
+    {
+      "id": "61f61bb9592e",
+      "kind": "news",
+      "lang": "ko",
+      "title": "도시 출몰 멧돼지, AI로 빠르게 대응한다!",
+      "summary": "안녕하세요!",
+      "detail": "안녕하세요! 우리나라 생물 자원의 가치를 발굴하고 생태계를 연구하는 국립생물자원관입니다. 오늘은 도시 곳곳에서 출몰하는 멧돼지와 관련해 반갑고도 특별한 소식을 전해드립니다. 바로 국립생물자원관이 인공지능(AI)을 활용해 멧돼지의 출몰을 미리 확인하고…",
+      "link": "https://blog.naver.com/nibr_bio/224433149129?fromRss=true&trackingCode=rss",
+      "source": "네이버 블로그 국립생물자원관",
+      "category": "인기",
+      "publishedAt": "2026-10-06T08:01:03.000Z",
+      "collectedAt": "2026-10-09T19:57:15.080Z",
+      "thumb": "/thumbs/61f61bb9592e.png"
+    },
     {
       "id": "a73ef49fb182",
       "kind": "news",
@@ -2394,36 +2426,6 @@
       "publishedAt": "2026-10-07T10:17:00.000Z",
       "collectedAt": "2026-10-08T00:56:55.097Z",
       "thumb": "/thumbs/1e43f5f14522.jpg"
-    },
-    {
-      "id": "41b9fab39307",
-      "kind": "news",
-      "lang": "ko",
-      "title": "'국민상어' 부캉이, 알고 보니 멸종위기종…몸길이 3m 암컷 흑상어 확인",
-      "summary": "융기선(붉은색 화살표)이 뚜렷하게 발달해 흑상어로 확인된 부캉이.(국립수산과학원 제공)…",
-      "detail": "융기선(붉은색 화살표)이 뚜렷하게 발달해 흑상어로 확인된 부캉이.(국립수산과학원 제공) /사진=뉴스1 [파이낸셜뉴스] 지난달 18일 부산에 처음 등장한 이후 전국적으로 화제가 된 상어 '부캉이'의 정체가 흑상어..",
-      "link": "https://busan.fnnews.com/news/202610070853586266?pg=mny",
-      "source": "부산파이낸셜뉴스",
-      "image": "http://www.bing.com/th?id=ONUT.THAKCaynwJe0fOY2gBqFnA&pid=News",
-      "category": "생태·환경",
-      "publishedAt": "2026-10-07T02:04:00.000Z",
-      "collectedAt": "2026-10-08T00:56:55.097Z",
-      "thumb": "/thumbs/41b9fab39307.jpg"
-    },
-    {
-      "id": "e61af3ce78dc",
-      "kind": "news",
-      "lang": "ko",
-      "title": "독도서 신종 해양생물 발굴...균주 활용한 항암 신소재 개발도 성공",
-      "summary": "독도 해역에서 세계 최초의 신종 해양생물이 발견된 데 이어, 독도 해양생물에서 추출한 균주를 활용해…",
-      "detail": "독도 해역에서 세계 최초의 신종 해양생물이 발견된 데 이어, 독도 해양생물에서 추출한 균주를 활용해 기존 치료제보다 효과가 뛰어난 항암 신소재가 개발됐다. 해양수산부와 한국해양과학기술원(KIOST) 연구팀은 ‘독도 및 주변 해역 해양조사·연구…",
-      "link": "https://www.hidomin.com/news/articleView.html?idxno=723797",
-      "source": "경북도민일보",
-      "image": "http://www.bing.com/th?id=ONUT.Qhc7SeONXfR1OIJ8mCGG6Q&pid=News",
-      "category": "생태·환경",
-      "publishedAt": "2026-10-06T10:52:00.000Z",
-      "collectedAt": "2026-10-08T00:56:55.097Z",
-      "thumb": "/thumbs/e61af3ce78dc.jpg"
     }
   ]
 }
