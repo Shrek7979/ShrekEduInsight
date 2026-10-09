@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-10-08T22:56:56.143Z",
+  "updatedAt": "2026-10-08T23:57:29.684Z",
   "items": [
+    {
+      "id": "88d9fec43311",
+      "kind": "news",
+      "lang": "ko",
+      "title": "새총 원리로 노동자 손목 지킨 봉화 초등생들…전국과학전람회 '특상'",
+      "summary": "봉화교육지원청 (교육장 성태동)은 제72회 전국과학전람회에 출전한 도촌초등학교 탐구팀 '마스터…",
+      "detail": "봉화교육지원청 (교육장 성태동)은 제72회 전국과학전람회에 출전한 도촌초등학교 탐구팀 '마스터 이글스' (6학년 강예준·5학년 노찬영)가 대회 최고 영예 중 하나인 특상을 품에 안았다고 7일 밝혔다.",
+      "link": "https://www.imaeil.com/page/view/2026100713494659603",
+      "source": "매일신문",
+      "image": "http://www.bing.com/th?id=ONUT.Vf0nlD1x7sH4lAyghgwg5g&pid=News",
+      "category": "대회·행사",
+      "publishedAt": "2026-10-07T07:15:00.000Z",
+      "collectedAt": "2026-10-08T23:57:29.684Z",
+      "thumb": "/thumbs/88d9fec43311.jpg"
+    },
+    {
+      "id": "5b0aa9c581c2",
+      "kind": "news",
+      "lang": "en",
+      "title": "Surprisingly Complex Waves Reveal the Brain’s Inner Workings",
+      "summary": "Unexpected patterns traveling across the human brain…",
+      "detail": "Unexpected patterns traveling across the human brain may be reorganizing its activity in real time.",
+      "link": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+      "source": "Quanta Magazine",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/Thought-Geometry-cr.Mark-Belan-Default.webp",
+      "category": "해외",
+      "publishedAt": "2026-09-30T14:52:12.000Z",
+      "collectedAt": "2026-10-08T23:57:29.684Z",
+      "titleKo": "놀랍도록 복잡한 파동이 뇌의 내부 작용을 드러냅니다",
+      "summaryKo": "인간의 뇌를 여행하는 예상치 못한 패턴…",
+      "translator": "google",
+      "detailKo": "인간의 뇌를 여행하는 예상치 못한 패턴이 실시간으로 활동을 재구성할 수 있습니다.",
+      "thumb": "/thumbs/5b0aa9c581c2.jpg"
+    },
     {
       "id": "bsky-3mxfhhbzyx225",
       "kind": "news",
@@ -44,7 +78,7 @@
       "category": "교육",
       "publishedAt": "2026-10-07T10:19:00.000Z",
       "collectedAt": "2026-10-08T22:56:56.143Z",
-      "thumb": null
+      "thumb": "/thumbs/3204b36c011a.jpg"
     },
     {
       "id": "8bb963f661a0",
@@ -2358,38 +2392,6 @@
       "summaryKo": "",
       "translator": "google",
       "thumb": "/thumbs/28491df0fe88.jpg"
-    },
-    {
-      "id": "c6e0d1a67f54",
-      "kind": "news",
-      "lang": "ko",
-      "title": "독도 해역서 신종 ‘독도강치용선충’ 발견…항암 신소재 미국 특허 등록",
-      "summary": "- 독도 해양조사·연구 성과…신종 해양생물 발견·신규 항암물질 2종 발굴- 독도새우 3종…",
-      "detail": "- 독도 해양조사·연구 성과…신종 해양생물 발견·신규 항암물질 2종 발굴- 독도새우 3종 전사체·도화새우 유전체 정보 확보…생태계 보존·자원관리 활용독도 주변 해역에서 세계 최초로 신종 해양생물이 발견되고, 독도 해양생물에서 발굴한 신규 항암물질…",
-      "link": "https://mnlnews.net/news/view.php?bIdx=50823",
-      "source": "mnlnews.net",
-      "image": "http://www.bing.com/th?id=ONUT.Es7PQMyl2wXA0CUzemMfLA&pid=News",
-      "category": "생태·환경",
-      "publishedAt": "2026-10-06T05:43:00.000Z",
-      "collectedAt": "2026-10-07T06:48:46.796Z",
-      "thumb": "/thumbs/c6e0d1a67f54.png"
-    },
-    {
-      "id": "bsky-3mxbbv7tzr62f",
-      "kind": "news",
-      "lang": "en",
-      "title": "| Within the cells engage in dynamic metabolic competition.",
-      "summary": "This Essay discusses metabolic crosstalk between cells…",
-      "link": "https://bsky.app/profile/plosbiology.org/post/3mxbbv7tzr62f",
-      "source": "Bluesky PLOS Biology",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5522ztebtekoor5efelihqhb/bafkreiburlzncrwaqz64watgn5a6elafdz26ytrdrbezl5xgd34pq5jeam",
-      "category": "인기",
-      "publishedAt": "2026-10-07T06:09:46.964Z",
-      "collectedAt": "2026-10-07T06:46:17.718Z",
-      "titleKo": "| 세포 내에서는 역동적인 대사 경쟁이 진행됩니다.",
-      "summaryKo": "이 에세이는 세포 간의 대사 혼선에 대해 논의합니다…",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mxbbv7tzr62f.png"
     }
   ]
 }
