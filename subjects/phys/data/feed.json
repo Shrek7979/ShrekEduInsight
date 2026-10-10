@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-10T20:57:00.530Z",
+  "updatedAt": "2026-10-10T21:57:18.056Z",
   "items": [
+    {
+      "id": "bsky-3mxkfkcgqm52p",
+      "kind": "video",
+      "lang": "en",
+      "title": "Throughout nature, an army of genes gives rise to a very limited number of cell types.",
+      "summary": "How does this selection process occur?",
+      "link": "https://bsky.app/profile/quantamagazine.org/post/3mxkfkcgqm52p",
+      "source": "Bluesky Quanta Magazine",
+      "image": "https://video.bsky.app/watch/did%3Aplc%3Avfktz6qe6vy7serr3wqutpzt/bafkreib5cuoo4f7mmp3ccly47j3naoz6urmnooh54hcynujstjpiv3nbrm/thumbnail.jpg",
+      "likes": "14",
+      "category": "인기",
+      "publishedAt": "2026-10-10T21:09:14.264Z",
+      "collectedAt": "2026-10-10T21:57:18.056Z",
+      "titleKo": "자연 전체에서 유전자군은 매우 제한된 수의 세포 유형을 생성합니다.",
+      "summaryKo": "이 선택 과정은 어떻게 진행됩니까?",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxkfkcgqm52p.jpg"
+    },
     {
       "id": "bsky-3mxkearzkaw2f",
       "kind": "news",
@@ -2480,20 +2498,6 @@
       "translator": "google",
       "detailKo": "새로운 시간 측정 도구는 기초 물리학 연구에 혁명을 일으킬 수 있습니다. 핵 시계 이후 마침내 빛이 처음으로 나타났습니다.",
       "thumb": "/thumbs/f2cd61a9341f.jpg"
-    },
-    {
-      "id": "04e466332490",
-      "kind": "news",
-      "lang": "ko",
-      "title": "Haiqu, AI 기반 양자 연구를 지속적으로 진행하도록 AgenticOS를 공개",
-      "summary": "과학적 계산이 완벽하게 실행되더라도 잘못된 질문에 대한 답을 줄 수 있습니다",
-      "detail": "과학적 계산이 완벽하게 실행되더라도 잘못된 질문에 대한 답을 줄 수 있습니다. AI 에이전트가 몰래 분자의 기하구조를 바꾸거나 시뮬레이션에서 전자를 빼버리면, 작동하는 코드와 설득력 있는 그래프가 깨진 실험을 숨길 수 있습니다. 이것이 Haiqu가…",
-      "link": "https://www.unite.ai/ko/haiqu-agenticos-ai-quantum-research/",
-      "source": "Unite.AI",
-      "category": "양자·첨단",
-      "publishedAt": "2026-10-07T08:42:00.000Z",
-      "collectedAt": "2026-10-07T20:49:17.134Z",
-      "thumb": "/thumbs/04e466332490.jpg"
     }
   ]
 }
