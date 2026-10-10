@@ -1,6 +1,52 @@
 {
-  "updatedAt": "2026-10-10T13:57:23.539Z",
+  "updatedAt": "2026-10-10T14:57:00.477Z",
   "items": [
+    {
+      "id": "bsky-3mxjniz4wt72d",
+      "kind": "news",
+      "lang": "en",
+      "title": "Apparent cooperativity between human CMV virions introduces errors in conventional methods of calculating multiplicity of infection",
+      "summary": "Apparent cooperativity between human CMV virions…",
+      "link": "https://bsky.app/profile/elife.bsky.social/post/3mxjniz4wt72d",
+      "source": "Bluesky eLife",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4irghgzlsjk6ugrekoqyl7km/bafkreiaqpl3kxdxpdh42t37jpcpsccmcb7n656beigdtvecp747knudahi",
+      "likes": "1",
+      "category": "인기",
+      "publishedAt": "2026-10-10T13:59:00.878Z",
+      "collectedAt": "2026-10-10T14:57:00.477Z",
+      "titleKo": "인간 CMV 비리온 간의 명백한 협력으로 인해 감염 다중도를 계산하는 기존 방법에 오류가 발생합니다.",
+      "summaryKo": "인간 CMV 비리온 간의 명백한 협력…",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxjniz4wt72d.webp"
+    },
+    {
+      "id": "e84de514cc7d",
+      "kind": "news",
+      "lang": "ko",
+      "title": "대전대 정수정 교수, 면역세포 '호중구' 연구 성과 국제학술지 논문 2편 발표",
+      "summary": "우리 몸을 지키는 면역세포가 때로는 질병의 발생과 진행에도 관여한다는 사실에 주목한 연구가 잇따라…",
+      "detail": "우리 몸을 지키는 면역세포가 때로는 질병의 발생과 진행에도 관여한다는 사실에 주목한 연구가 잇따라 성과를 내고 있다. 대전대학교 한의과대학 정수정 교수는 면역세포인 '호중구'의 역할을 규명한 연구 논문 2편을 올해 8월과 9월 국제학술지에 발표했다.…",
+      "link": "https://www.imaeil.com/page/view/2026100816211083817",
+      "source": "매일신문",
+      "category": "의학·바이오",
+      "publishedAt": "2026-10-08T09:21:00.000Z",
+      "collectedAt": "2026-10-10T14:57:00.477Z",
+      "thumb": "/thumbs/e84de514cc7d.png"
+    },
+    {
+      "id": "9108204cfff7",
+      "kind": "news",
+      "lang": "ko",
+      "title": "알지노믹스, 국제학술대회서 ‘촉매 기반 RNA 교정’ 기술 경쟁력 공개",
+      "summary": "알지노믹스, 국제학술대회서 ‘촉매 기반 RNA 교정’ 기술 경쟁력 공개, 한국분자·세포생물학회…",
+      "detail": "알지노믹스, 국제학술대회서 ‘촉매 기반 RNA 교정’ 기술 경쟁력 공개, 한국분자·세포생물학회 ‘2026 KSMCB 국제학술대회’서 발표 이성욱 대표, RNA 치료제 차별점·파이프라인·사업화 전략 소개 ...",
+      "link": "https://www.hankyung.com/article/202610080347i",
+      "source": "한국경제",
+      "category": "대회·행사",
+      "publishedAt": "2026-10-08T03:12:00.000Z",
+      "collectedAt": "2026-10-10T14:57:00.477Z",
+      "thumb": "/thumbs/9108204cfff7.jpg"
+    },
     {
       "id": "c439aa8fa622",
       "kind": "news",
@@ -2434,49 +2480,6 @@
       "summaryKo": "높은 배경 형광",
       "translator": "google",
       "thumb": "/thumbs/bsky-3mxdyjxsyau2f.webp"
-    },
-    {
-      "id": "633556b9b527",
-      "kind": "news",
-      "lang": "ko",
-      "title": "한국교원대학교부설월곡초등학교 즐거움과 체험이 가득한 '2026. 2학기 잼JAM 과학탐구축제' 개최",
-      "summary": "청주시 한국교원대학교부설월곡초등학교(교장 김옥선)는 오는 10월 6일부터 10월 8일까지 3일간,…",
-      "detail": "청주시 한국교원대학교부설월곡초등학교(교장 김옥선)는 오는 10월 6일부터 10월 8일까지 3일간, 1~6학년 전교생을 대상으로 '2026. 2학기 잼JAM 즐거움/체험 과학탐구축제'를 개최했다.이번 과학축제는 과학탐구집중 운영 기간을 통해 체험과…",
-      "link": "https://www.veritas-a.com/news/articleView.html?idxno=631174",
-      "source": "베리타스알파",
-      "category": "대회·행사",
-      "publishedAt": "2026-10-08T06:11:14.000Z",
-      "collectedAt": "2026-10-08T08:13:56.046Z",
-      "thumb": "/thumbs/633556b9b527.jpg"
-    },
-    {
-      "id": "1a797c4b2b38",
-      "kind": "news",
-      "lang": "ko",
-      "title": "생물공학과 임연후학생 2026 ABEEK 학생포트폴리오경진대회 교육부장관상 수상",
-      "summary": "지난 10월 1일 일산 킨텍스에서 개최된 2026 ABEEK 학생포트폴리오경진대회에서 전남대…",
-      "detail": "지난 10월 1일 일산 킨텍스에서 개최된 2026 ABEEK 학생포트폴리오경진대회에서 전남대 생물공학과 임연후학생(지도교수 신수임)이 교육부장관상을 수상했다.올해로 20회를 맞은 위 대회는 전국 공학계열 3, 4학년을 대상으로 포트폴리오 작성을 통한…",
-      "link": "https://www.veritas-a.com/news/articleView.html?idxno=631166",
-      "source": "베리타스알파",
-      "category": "대회·행사",
-      "publishedAt": "2026-10-08T05:53:43.000Z",
-      "collectedAt": "2026-10-08T08:13:56.046Z",
-      "thumb": "/thumbs/1a797c4b2b38.png"
-    },
-    {
-      "id": "7de5f1c439ce",
-      "kind": "news",
-      "lang": "ko",
-      "title": "[OBS 뉴스 오늘2] '암살자(들)' 수사·법정으로…멸종위기종 '부캉이' 인기 여전",
-      "summary": "【앵커】배우 신변 위협과 정치권 공방",
-      "detail": "【앵커】배우 신변 위협과 정치권 공방. 영화 암살자들을 둘러싼 논란이 격화되면서 그 파장이 수사와 법정으로 향하고 있습니다.권상희 시사문화평론가 모시고 관련 이야기 나눠보겠습니다.[질문1]'암살자(들)' 제작진 고발 종로서 배당…수사 착수제작진…",
-      "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1539887",
-      "source": "OBS경인TV",
-      "image": "http://www.bing.com/th?id=ONUT.rdFZ2JlTlY3lzsIg-rqVwg&pid=News",
-      "category": "생태·환경",
-      "publishedAt": "2026-10-07T19:35:00.000Z",
-      "collectedAt": "2026-10-08T08:13:56.046Z",
-      "thumb": "/thumbs/7de5f1c439ce.jpg"
     }
   ]
 }

@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-10T13:57:23.592Z",
+  "updatedAt": "2026-10-10T14:57:00.548Z",
   "items": [
+    {
+      "id": "bsky-3mxc6qdwxfp2n",
+      "kind": "news",
+      "lang": "en",
+      "title": "Can the US dodge a dystopia in which political appointees micromanage science?",
+      "summary": "Congress has put a hold on a rule proposed by the…",
+      "link": "https://bsky.app/profile/physicstoday.aip.org/post/3mxc6qdwxfp2n",
+      "source": "Bluesky Physics Today",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ha7rj6xz2t4h6vw3c2fyfskr/bafkreickhgmdtlghxqhambyzegqllidycx3igef7lymbg5esjcvlwirtn4",
+      "category": "인기",
+      "publishedAt": "2026-10-07T14:46:03.087Z",
+      "collectedAt": "2026-10-10T14:57:00.548Z",
+      "titleKo": "미국은 정치적 지명자가 과학을 세세하게 관리하는 디스토피아를 피할 수 있습니까?",
+      "summaryKo": "의회는 의회가 제안한 규칙을 보류했습니다",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxc6qdwxfp2n.webp"
+    },
     {
       "id": "851dd046b936",
       "kind": "video",
@@ -2475,24 +2492,6 @@
       "summaryKo": "이론적 컴퓨터 과학, 앞서 나가기를 희망하며…",
       "translator": "google",
       "thumb": "/thumbs/bsky-3mxcaqvsm4s23.webp"
-    },
-    {
-      "id": "bsky-3mxc7ebsxf22n",
-      "kind": "news",
-      "lang": "en",
-      "title": "Researchers in the Netherlands have shown that they can turn off the dipole moment of…",
-      "summary": "molecules that are normally polar, drastically altering…",
-      "link": "https://bsky.app/profile/physicsworld.bsky.social/post/3mxc7ebsxf22n",
-      "source": "Bluesky Physics World",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:chuorfc5xbxvtvn53cqjvmov/bafkreibjy4mzlohmgqubsou7ltituuez4lpdhdvqdwyboqtbjxzeemz4xq",
-      "likes": "1",
-      "category": "인기",
-      "publishedAt": "2026-10-07T14:57:11.965Z",
-      "collectedAt": "2026-10-07T15:42:20.229Z",
-      "titleKo": "네덜란드 연구원들은 쌍극자 모멘트를 끌 수 있다는 것을 보여주었습니다.",
-      "summaryKo": "일반적으로 극성을 띠고 급격히 변화하는 분자…",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mxc7ebsxf22n.webp"
     }
   ]
 }
