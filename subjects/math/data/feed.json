@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-10T05:57:03.757Z",
+  "updatedAt": "2026-10-10T06:57:36.016Z",
   "items": [
+    {
+      "id": "6a94d10dda8f",
+      "kind": "news",
+      "lang": "en",
+      "title": "Road Thoughts",
+      "summary": "A puzzle by Sam Loyd: Here is a pretty problem which I…",
+      "detail": "A puzzle by Sam Loyd: Here is a pretty problem which I figured out during a ride from Bixley to Quixley astride a razor-back mule. I asked…",
+      "link": "https://www.futilitycloset.com/2026/10/10/road-thoughts/",
+      "source": "Futility Closet",
+      "category": "문제·증명",
+      "publishedAt": "2026-10-10T06:36:58.000Z",
+      "collectedAt": "2026-10-10T06:57:36.016Z",
+      "titleKo": "도로 생각",
+      "summaryKo": "샘 로이드(Sam Loyd)의 퍼즐: 여기에 제가 풀어야 할 예쁜 문제가 있습니다",
+      "translator": "google",
+      "detailKo": "Sam Loyd의 퍼즐: 면도날 노새를 타고 Bixley에서 Quixley까지 이동하는 동안 제가 알아낸 예쁜 문제가 있습니다. 나는 물었다…",
+      "thumb": "/thumbs/6a94d10dda8f.png"
+    },
     {
       "id": "2db226dde4ae",
       "kind": "news",
