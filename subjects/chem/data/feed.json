@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-10T19:02:47.508Z",
+  "updatedAt": "2026-10-10T19:57:38.108Z",
   "items": [
+    {
+      "id": "bsky-3mxk6kdluxc23",
+      "kind": "news",
+      "lang": "en",
+      "title": "This year’s National Chemistry Week theme, “Chemistry Under Construction,” gives us an opportunity to explore the chemistry behind the…",
+      "summary": "materials that build our world—from concrete and steel…",
+      "link": "https://bsky.app/profile/cenmag.bsky.social/post/3mxk6kdluxc23",
+      "source": "Bluesky C&EN",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u4u4yeik2uube2g6ov7wr35p/bafkreigawr3l4qs2hut25aa6wk2o6d4ojnchcjh2v2zkpov2sdumqyudrq",
+      "likes": "1",
+      "category": "인기",
+      "publishedAt": "2026-10-10T19:03:59.322Z",
+      "collectedAt": "2026-10-10T19:57:38.108Z",
+      "titleKo": "올해 전국 화학 주간 주제인 \"건설 중인 화학\"은 우리에게 화학의 이면에 있는 화학을 탐구할 수 있는 기회를 제공합니다.",
+      "summaryKo": "세상을 만드는 재료 - 콘크리트와 강철…",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxk6kdluxc23.webp"
+    },
     {
       "id": "8d4185dfc12c",
       "kind": "news",
@@ -2432,23 +2450,6 @@
       "collectedAt": "2026-10-07T03:31:07.623Z",
       "summaryKo": "",
       "thumb": "/thumbs/354e9bccb7d6.jpg"
-    },
-    {
-      "id": "c4bbc68510b3",
-      "kind": "video",
-      "lang": "ko",
-      "title": "부분 압력과 몰분율(+ 교재)",
-      "summary": "",
-      "detail": "",
-      "link": "https://www.youtube.com/watch?v=uPsau98v3Aw",
-      "source": "탑사이언스",
-      "image": "https://i2.ytimg.com/vi/uPsau98v3Aw/hqdefault.jpg",
-      "views": 2188,
-      "category": "인기",
-      "publishedAt": "2026-09-24T11:06:19.000Z",
-      "collectedAt": "2026-10-07T03:31:07.623Z",
-      "summaryKo": "",
-      "thumb": "/thumbs/c4bbc68510b3.jpg"
     }
   ]
 }

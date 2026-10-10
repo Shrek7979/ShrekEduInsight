@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-10-10T19:02:47.442Z",
+  "updatedAt": "2026-10-10T19:57:38.244Z",
   "items": [
+    {
+      "id": "f3873da1701e",
+      "kind": "news",
+      "lang": "ko",
+      "title": "서울대 농업생명과학대학 ABEL팀 네덜란드 WUR 주최 ‘2026 Food Systems Innovation Challenge’ TOP 3 수상",
+      "summary": "서울대 농업생명과학대학 ABEL팀이 네덜란드 와게닝겐 대(Wageningen University &…",
+      "detail": "서울대 농업생명과학대학 ABEL팀이 네덜란드 와게닝겐 대(Wageningen University & Research, 이하 WUR)가 주최한 '2026 Food Systems Innovation Challenge'에서 최종 TOP 3(대상)에 오르는…",
+      "link": "https://www.veritas-a.com/news/articleView.html?idxno=631123",
+      "source": "베리타스알파",
+      "image": "http://www.bing.com/th?id=ONUT.Go2IAn7U8n_S-WcSfhKDOA&pid=News",
+      "category": "교육",
+      "publishedAt": "2026-10-08T06:40:00.000Z",
+      "collectedAt": "2026-10-10T19:57:38.244Z",
+      "thumb": "/thumbs/f3873da1701e.png"
+    },
     {
       "id": "bsky-3mxjuigmkap2y",
       "kind": "news",
@@ -2461,21 +2476,6 @@
       "publishedAt": "2026-10-08T08:10:06.000Z",
       "collectedAt": "2026-10-08T08:24:10.301Z",
       "thumb": "/thumbs/99b122802197.jpg"
-    },
-    {
-      "id": "6d79e4683790",
-      "kind": "news",
-      "lang": "ko",
-      "title": "특정 뇌세포 '빛'으로 제어 … 光유전학 개척한 3人",
-      "summary": "올해 노벨 생리의학상은 빛을 이용해 뇌의 특정 신경세포를 켜고 끌 수 있는…",
-      "detail": "올해 노벨 생리의학상은 빛을 이용해 뇌의 특정 신경세포를 켜고 끌 수 있는 '광유전학(optogenetics)'을 개척한 과학자 3명에게 돌아갔다. 빛에 반응하는 단백질을 신경세포의 '스위치'로 활용해 뇌 회로가 기억과 감정, 행동을 어떻게…",
-      "link": "https://www.mk.co.kr/news/it/12168683",
-      "source": "매일경제",
-      "image": "http://www.bing.com/th?id=ONUT.23ZevuBOwJ9bnsITb9fkJg&pid=News",
-      "category": "의학·바이오",
-      "publishedAt": "2026-10-05T15:39:00.000Z",
-      "collectedAt": "2026-10-08T08:24:10.301Z",
-      "thumb": "/thumbs/6d79e4683790.jpg"
     }
   ]
 }

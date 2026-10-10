@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T19:05:04.054Z",
+  "updatedAt": "2026-10-10T19:59:41.745Z",
   "items": [
     {
       "id": "fb-d38d66cebbaf",
@@ -53,18 +53,18 @@
       "translator": "google"
     },
     {
-      "id": "fb-10a92de5587d",
+      "id": "fb-e81ee27faa02",
       "kind": "news",
       "lang": "en",
       "title": "In our latest podcast we explore why neutrinos are the subject of so many physics Nobel prizes",
       "summary": "",
-      "link": "https://www.facebook.com/physicsworld/posts/pfbid026kBC8edmGvtEh758w9omdJCUaQmxHvuKZKkqnGx5wS1eodxonVGWfHW3p4U514aZl",
+      "link": "https://www.facebook.com/physicsworld/posts/pfbid03CY1DV1QRhfJQW4WJ4EwU1ZbbT1AKFFomffYYwhkZ2WYJGZbiskoBq5x5RhcRgf9l",
       "source": "Facebook Physics World",
       "category": "인기",
-      "publishedAt": "2026-10-08T19:58:38.752Z",
-      "thumb": "/social/fb/fb-10a92de5587d.jpg",
+      "publishedAt": "2026-10-08T19:58:57.400Z",
+      "thumb": "/social/fb/fb-e81ee27faa02.jpg",
       "refs": [],
-      "collectedAt": "2026-10-09T19:59:19.238Z",
+      "collectedAt": "2026-10-10T19:59:41.745Z",
       "titleKo": "최신 팟캐스트에서 우리는 왜 중성미자가 수많은 물리학 노벨상의 주제인지 알아봅니다.",
       "summaryKo": "",
       "translator": "google"
