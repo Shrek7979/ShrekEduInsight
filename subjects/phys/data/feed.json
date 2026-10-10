@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-10T10:57:35.056Z",
+  "updatedAt": "2026-10-10T11:56:51.625Z",
   "items": [
+    {
+      "id": "50779fbc8a20",
+      "kind": "news",
+      "lang": "en",
+      "title": "Unitarity Bounds and Sum Rules in the Standard Model Effective Field Theory",
+      "summary": "Author(s): Luigi C",
+      "detail": "Author(s): Luigi C. Bresciani, Paride Paradisi, and Andrea SainaghiWe present a comprehensive reassessment of perturbative unitarity bounds…",
+      "link": "http://link.aps.org/doi/10.1103/v5xg-dmss",
+      "source": "Physical Review Letters",
+      "category": "연구",
+      "publishedAt": "2026-10-09T10:00:00.000Z",
+      "collectedAt": "2026-10-10T11:56:51.625Z",
+      "titleKo": "표준모델 유효장 이론의 단일성 경계 및 합계 규칙",
+      "summaryKo": "작성자: Luigi C",
+      "translator": "google",
+      "detailKo": "저자: Luigi C. Bresciani, Paride Paradisi 및 Andrea Sainaghi우리는 섭동적인 단일성 범위에 대한 포괄적인 재평가를 제시합니다…",
+      "thumb": "/thumbs/50779fbc8a20.png"
+    },
     {
       "id": "a01b08a7b250",
       "kind": "news",
@@ -2474,24 +2492,6 @@
       "summaryKo": "의회는 의회가 제안한 규칙을 보류했습니다",
       "translator": "google",
       "thumb": "/thumbs/bsky-3mxc6qdwxfp2n.webp"
-    },
-    {
-      "id": "bsky-3mxc2clwc2c22",
-      "kind": "video",
-      "lang": "en",
-      "title": "CERN’s newest exhibition is opening to the public 💫 “Why?",
-      "summary": "It matters.” is a free temporary exhibition that…",
-      "link": "https://bsky.app/profile/cern.bsky.social/post/3mxc2clwc2c22",
-      "source": "Bluesky CERN",
-      "image": "https://video.bsky.app/watch/did%3Aplc%3A2vrfekwr4jo7zufnlt7qlrqq/bafkreiddgl6fdom2436qc2aeqbcoytqoinfzyz4uocvtdzs2qabh2klpcq/thumbnail.jpg",
-      "likes": "25",
-      "category": "인기",
-      "publishedAt": "2026-10-07T13:26:46.740Z",
-      "collectedAt": "2026-10-07T15:42:20.229Z",
-      "titleKo": "CERN의 최신 전시회가 대중에게 공개됩니다 🎉 “왜?",
-      "summaryKo": "중요해요.” 무료 임시 전시회입니다…",
-      "translator": "google",
-      "thumb": null
     }
   ]
 }
