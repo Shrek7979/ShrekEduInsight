@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-10-10T12:57:17.877Z",
+  "updatedAt": "2026-10-10T13:57:23.539Z",
   "items": [
+    {
+      "id": "c439aa8fa622",
+      "kind": "news",
+      "lang": "ko",
+      "title": "희귀 질소 동위원소로 미생물의 질소 제거 추적",
+      "summary": "물속 과잉 질소가 미생물에 의해 얼마나 제거되는지를 보다 정확하게 추적할 수 있는 새로운 방법이…",
+      "detail": "물속 과잉 질소가 미생물에 의해 얼마나 제거되는지를 보다 정확하게 추적할 수 있는 새로운 방법이 개발됐다. 연구진은 매우 희귀한 질소 동위원소 조합을 일종의 ‘자연 지문’으로 활용해, 대기에서 녹아든 질소와 미생물이 만들어낸 질소가스를 구분하는 데…",
+      "link": "http://ecomedia.co.kr/news/newsview.php?ncode=1065608948974611",
+      "source": "이미디어",
+      "image": "http://www.bing.com/th?id=ONUT.4ge_u6pYj9MsF91iQzMdWg&pid=News",
+      "category": "교육",
+      "publishedAt": "2026-10-10T01:29:00.000Z",
+      "collectedAt": "2026-10-10T13:57:23.539Z",
+      "thumb": "/thumbs/c439aa8fa622.png"
+    },
     {
       "id": "a87ac692b46c",
       "kind": "news",
@@ -2462,20 +2477,6 @@
       "publishedAt": "2026-10-07T19:35:00.000Z",
       "collectedAt": "2026-10-08T08:13:56.046Z",
       "thumb": "/thumbs/7de5f1c439ce.jpg"
-    },
-    {
-      "id": "e84de514cc7d",
-      "kind": "news",
-      "lang": "ko",
-      "title": "대전대 정수정 교수, 면역세포 '호중구' 연구 성과 국제학술지 논문 2편 발표",
-      "summary": "우리 몸을 지키는 면역세포가 때로는 질병의 발생과 진행에도 관여한다는 사실에 주목한 연구가 잇따라…",
-      "detail": "우리 몸을 지키는 면역세포가 때로는 질병의 발생과 진행에도 관여한다는 사실에 주목한 연구가 잇따라 성과를 내고 있다. 대전대학교 한의과대학 정수정 교수는 면역세포인 '호중구'의 역할을 규명한 연구 논문 2편을 올해 8월과 9월 국제학술지에 발표했다.…",
-      "link": "https://www.imaeil.com/page/view/2026100816211083817",
-      "source": "매일신문",
-      "category": "의학·바이오",
-      "publishedAt": "2026-10-07T19:21:00.000Z",
-      "collectedAt": "2026-10-08T08:13:56.046Z",
-      "thumb": "/thumbs/e84de514cc7d.png"
     }
   ]
 }

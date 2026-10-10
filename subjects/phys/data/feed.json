@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-10T12:57:18.010Z",
+  "updatedAt": "2026-10-10T13:57:23.592Z",
   "items": [
+    {
+      "id": "851dd046b936",
+      "kind": "video",
+      "lang": "en",
+      "title": "What is edge dislocation?",
+      "summary": "We demonstrated a crystal lattice of atoms using bubbles",
+      "link": "https://www.youtube.com/shorts/j9p3Sn8ROL4",
+      "source": "Veritasium",
+      "image": "https://i3.ytimg.com/vi/j9p3Sn8ROL4/hqdefault.jpg",
+      "views": 1212960,
+      "category": "인기",
+      "publishedAt": "2026-10-09T13:00:03.000Z",
+      "collectedAt": "2026-10-10T13:57:23.592Z",
+      "titleKo": "가장자리 전위란 무엇입니까?",
+      "summaryKo": "우리는 거품을 사용하여 원자의 결정 격자를 시연했습니다",
+      "translator": "google",
+      "thumb": "/thumbs/851dd046b936.jpg"
+    },
     {
       "id": "50779fbc8a20",
       "kind": "news",
@@ -2475,23 +2493,6 @@
       "summaryKo": "일반적으로 극성을 띠고 급격히 변화하는 분자…",
       "translator": "google",
       "thumb": "/thumbs/bsky-3mxc7ebsxf22n.webp"
-    },
-    {
-      "id": "bsky-3mxc6qdwxfp2n",
-      "kind": "news",
-      "lang": "en",
-      "title": "Can the US dodge a dystopia in which political appointees micromanage science?",
-      "summary": "Congress has put a hold on a rule proposed by the…",
-      "link": "https://bsky.app/profile/physicstoday.aip.org/post/3mxc6qdwxfp2n",
-      "source": "Bluesky Physics Today",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ha7rj6xz2t4h6vw3c2fyfskr/bafkreickhgmdtlghxqhambyzegqllidycx3igef7lymbg5esjcvlwirtn4",
-      "category": "인기",
-      "publishedAt": "2026-10-07T14:46:03.087Z",
-      "collectedAt": "2026-10-07T15:42:20.229Z",
-      "titleKo": "미국은 정치적 지명자가 과학을 세세하게 관리하는 디스토피아를 피할 수 있습니까?",
-      "summaryKo": "의회는 의회가 제안한 규칙을 보류했습니다",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mxc6qdwxfp2n.webp"
     }
   ]
 }
