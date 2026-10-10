@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-10-10T06:57:36.242Z",
+  "updatedAt": "2026-10-10T07:56:51.060Z",
   "items": [
+    {
+      "id": "f5451cbd570c",
+      "kind": "news",
+      "lang": "ko",
+      "title": "한로에 만나는 미꾸라지, 왜 ‘가을 물고기’라 불릴까?",
+      "summary": "안녕하세요!",
+      "detail": "안녕하세요! 국립생태원의 척척박사, 펭이예요 자연의 리듬을 따라 절기와 함께 생태 이야기를 전해드리는 〈책으로 보는 생태〉 시간입니다! 아침에 밖으로 나서면 얼마 전보다 공기가 한층 차가워진 게 느껴져요. 풀잎 끝에는 차가운 이슬이 맺히고 산과 들도…",
+      "link": "https://blog.naver.com/nie_korea/224434898881?fromRss=true&trackingCode=rss",
+      "source": "네이버 블로그 국립생태원",
+      "category": "인기",
+      "publishedAt": "2026-10-08T01:30:00.000Z",
+      "collectedAt": "2026-10-10T07:56:51.060Z",
+      "thumb": "/thumbs/f5451cbd570c.png"
+    },
+    {
+      "id": "68edb1bf3900",
+      "kind": "news",
+      "lang": "ko",
+      "title": "[국립생태원XGrace J] 바다에 버려진 설카타육지거북, 그 운명은?",
+      "summary": "<두 번째 봄〉 시즌2 1부, 설카타육지거북 이야기 지난해에 이어 〈두 번째 봄〉이 다시 찾아왔어요",
+      "detail": "<두 번째 봄〉 시즌2 1부, 설카타육지거북 이야기 지난해에 이어 〈두 번째 봄〉이 다시 찾아왔어요. 이번 시즌에서는 국립생태원 사이테스(CITES)동물 보호시설에서 새로운 삶을 시작한 동물들의 이야기를 전합니다. ※ CITES동물 보호시설은 불법…",
+      "link": "https://blog.naver.com/nie_korea/224434940454?fromRss=true&trackingCode=rss",
+      "source": "네이버 블로그 국립생태원",
+      "category": "인기",
+      "publishedAt": "2026-10-08T01:03:38.000Z",
+      "collectedAt": "2026-10-10T07:56:51.060Z",
+      "thumb": "/thumbs/68edb1bf3900.png"
+    },
     {
       "id": "bsky-3mxiu6xytti24",
       "kind": "news",
@@ -2443,37 +2471,6 @@
       "publishedAt": "2026-10-05T13:14:00.000Z",
       "collectedAt": "2026-10-08T08:13:56.046Z",
       "thumb": "/thumbs/7bd0c1553bfe.png"
-    },
-    {
-      "id": "6ba5936089dc",
-      "kind": "news",
-      "lang": "ko",
-      "title": "녹조류 호기심, 20년 뒤 뇌 비밀 열쇠로···광유전학 개척 美·獨 3인 노벨생리의학상",
-      "summary": "스웨덴 카롤린스카연구소 노벨위원회는 5일(현지시간) 2026년 노벨 생리의학상 수상자로 칼…",
-      "detail": "스웨덴 카롤린스카연구소 노벨위원회는 5일(현지시간) 2026년 노벨 생리의학상 수상자로 칼 다이서로스(Karl Deisseroth) 미국 스탠퍼드대 교수, 페터 헤게만(Peter Hegemann) 독일 훔볼트대 교수, 게오르크 나겔(Georg…",
-      "link": "http://www.hellodd.com/news/articleView.html?idxno=113393",
-      "source": "헬로디디",
-      "category": "의학·바이오",
-      "publishedAt": "2026-10-05T10:41:41.000Z",
-      "collectedAt": "2026-10-08T08:13:56.046Z",
-      "thumb": "/thumbs/6ba5936089dc.png"
-    },
-    {
-      "id": "1c6da7a1cd89",
-      "kind": "video",
-      "lang": "ko",
-      "title": "국내에 몇마리 없다는 심장이 터질것 같은 초미니토끼! 얘는 키워야겠습니다 ㅠ",
-      "summary": "",
-      "detail": "",
-      "link": "https://www.youtube.com/watch?v=ZgD_4Mw5Vxo",
-      "source": "TV생물도감",
-      "image": "https://i3.ytimg.com/vi/ZgD_4Mw5Vxo/hqdefault.jpg",
-      "views": 443755,
-      "category": "인기",
-      "publishedAt": "2026-10-01T09:30:36.000Z",
-      "collectedAt": "2026-10-08T08:13:56.046Z",
-      "summaryKo": "",
-      "thumb": "/thumbs/1c6da7a1cd89.jpg"
     }
   ]
 }

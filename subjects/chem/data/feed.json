@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-10-10T06:57:36.205Z",
+  "updatedAt": "2026-10-10T07:56:51.052Z",
   "items": [
+    {
+      "id": "559ef9f6670d",
+      "kind": "news",
+      "lang": "en",
+      "title": "Light‐Driven Control of Polar Order in Ferroelectric Nematic Liquid Crystals",
+      "summary": "Light-responsive ferroelectric nematics are achieved by…",
+      "detail": "Light-responsive ferroelectric nematics are achieved by molecularly matching azobenzene photo-switches to the polar packing motif of DIO.…",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.4556976?af=R",
+      "source": "Angewandte Chemie",
+      "image": "https://onlinelibrary.wiley.com/cms/asset/78b967e3-1062-49fb-ba3b-49b76eeab189/anie75213-gra-0001-m.png",
+      "category": "연구",
+      "publishedAt": "2026-10-10T06:05:11.000Z",
+      "collectedAt": "2026-10-10T07:56:51.052Z",
+      "titleKo": "강유전성 네마틱 액정의 극성 순서의 광 구동 제어",
+      "summaryKo": "빛에 반응하는 강유전성 네마틱은 다음과 같이 달성됩니다",
+      "translator": "google",
+      "detailKo": "빛에 반응하는 강유전성 네마틱은 아조벤젠 광 스위치를 DIO의 극성 패킹 모티프에 분자적으로 일치시켜 달성됩니다.…",
+      "thumb": "/thumbs/559ef9f6670d.png"
+    },
+    {
+      "id": "d7baf0483c29",
+      "kind": "news",
+      "lang": "en",
+      "title": "Nature of C─N Coupling in Urea Electrosynthesis for Catalyst Design",
+      "summary": "Charge-locking asymmetric site polarization on Ln–Cu…",
+      "detail": "Charge-locking asymmetric site polarization on Ln–Cu alloys promotes net C→N electron transfer for selective urea electrosynthesis, with…",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.1100520?af=R",
+      "source": "Angewandte Chemie",
+      "image": "https://onlinelibrary.wiley.com/cms/asset/721436b4-cafb-4876-afb5-51aa983e350e/anie75255-gra-0001-m.png",
+      "category": "연구",
+      "publishedAt": "2026-10-10T06:02:13.000Z",
+      "collectedAt": "2026-10-10T07:56:51.052Z",
+      "titleKo": "촉매 설계를 위한 요소 전기합성의 C─N 결합 특성",
+      "summaryKo": "Ln-Cu의 전하 잠금 비대칭 사이트 분극…",
+      "translator": "google",
+      "detailKo": "Ln-Cu 합금의 전하 잠금 비대칭 위치 분극은 선택적 요소 전기합성을 위한 순 C→N 전자 이동을 촉진합니다.",
+      "thumb": "/thumbs/d7baf0483c29.png"
+    },
     {
       "id": "bsky-3mxipfdb2622r",
       "kind": "news",
@@ -2414,37 +2452,6 @@
       "collectedAt": "2026-10-07T03:31:07.623Z",
       "summaryKo": "",
       "thumb": "/thumbs/fd2db00d8465.jpg"
-    },
-    {
-      "id": "58f765afab1f",
-      "kind": "video",
-      "lang": "ko",
-      "title": "킬러? 수성구에서는 기본(+교재)",
-      "summary": "",
-      "detail": "",
-      "link": "https://www.youtube.com/watch?v=uGwHdV4F5oM",
-      "source": "탑사이언스",
-      "image": "https://i2.ytimg.com/vi/uGwHdV4F5oM/hqdefault.jpg",
-      "views": 1987,
-      "category": "인기",
-      "publishedAt": "2026-09-11T08:37:09.000Z",
-      "collectedAt": "2026-10-07T03:31:07.623Z",
-      "summaryKo": "",
-      "thumb": "/thumbs/58f765afab1f.jpg"
-    },
-    {
-      "id": "59d9af4ea0e0",
-      "kind": "news",
-      "lang": "ko",
-      "title": "“비싼 이리듐 대신 망간 사용”…1000시간 끄떡없는 ‘수전해 촉매’ 나왔다",
-      "summary": "값비싼 희귀금속 이리듐을 대신해 매장량이 풍부한 망간으로 그린수소를 생산할 수 있는 고성능 수전해…",
-      "detail": "값비싼 희귀금속 이리듐을 대신해 매장량이 풍부한 망간으로 그린수소를 생산할 수 있는 고성능 수전해 촉매가 개발됐다. UNIST(울산과학기술원)는 에너지화학공학과 류정기·이준희 교수 연구팀이 망간 산화물에 희토류 원소인 네오디뮴(Nd)을 첨가해 반응…",
-      "link": "https://biz.heraldcorp.com/article/10895290",
-      "source": "헤럴드경제",
-      "category": "소재·에너지",
-      "publishedAt": "2026-10-06T13:28:00.000Z",
-      "collectedAt": "2026-10-07T02:31:24.650Z",
-      "thumb": "/thumbs/59d9af4ea0e0.png"
     }
   ]
 }
