@@ -1,6 +1,51 @@
 {
-  "updatedAt": "2026-10-10T04:57:10.033Z",
+  "updatedAt": "2026-10-10T05:57:03.927Z",
   "items": [
+    {
+      "id": "08547e157baa",
+      "kind": "news",
+      "lang": "ko",
+      "title": "인스타 사진 속 수련이 신종이었다…콜롬비아 거대수련, 발견 직후 '위급' 평가 왜?",
+      "summary": "영국 큐 왕립식물원이 9일(현지시간) 콜롬비아 이니리다 지역의 거대수련을 신종 '빅토리아…",
+      "detail": "영국 큐 왕립식물원이 9일(현지시간) 콜롬비아 이니리다 지역의 거대수련을 신종 '빅토리아 콜롬비아나'로 기재했다고 발표했다. 인스타그램 사진과 위성 영상이 단서가 됐으며, 야생 개체는 30~50개체로 추정돼 연구팀이 IUCN '위급' 등급 평가를…",
+      "link": "https://www.famtimes.co.kr/news/articleView.html?idxno=701844",
+      "source": "에프이타임스",
+      "image": "http://www.bing.com/th?id=ONUT.RjFxoAauU_UHeg3y_IP-dQ&pid=News",
+      "category": "생태·환경",
+      "publishedAt": "2026-10-09T16:17:00.000Z",
+      "collectedAt": "2026-10-10T05:57:03.927Z",
+      "thumb": "/thumbs/08547e157baa.png"
+    },
+    {
+      "id": "c65ca697894e",
+      "kind": "news",
+      "lang": "ko",
+      "title": "국립생물자원관, 드론·AI 카메라 활용 ‘야생 멧돼지 실시간 AI 감시기술’ 개발",
+      "summary": "기후에너지환경부 소속 국립생물자원관(관장 유호)은 생활주변 멧돼지 출몰에 따른 인명·재산 피해를…",
+      "detail": "기후에너지환경부 소속 국립생물자원관(관장 유호)은 생활주변 멧돼지 출몰에 따른 인명·재산 피해를 예방하기 위해 AI 기반의 ‘야생 멧돼지 실시간 감시기술’을 개발했다. 기존 신고 접수 후 사후 출동 방식에서 벗어나 위험 지역을 사전에 감시하고 현장…",
+      "link": "https://www.boannews.com/news/articleView.html?idxno=146260",
+      "source": "보안뉴스",
+      "image": "http://www.bing.com/th?id=ONUT.0D-ZEPddyDrmXYTem__oBg&pid=News",
+      "category": "생태·환경",
+      "publishedAt": "2026-10-08T06:37:00.000Z",
+      "collectedAt": "2026-10-10T05:57:03.927Z",
+      "thumb": "/thumbs/c65ca697894e.png"
+    },
+    {
+      "id": "5168694d26ad",
+      "kind": "news",
+      "lang": "ko",
+      "title": "거제도 흙 속에서 찾은 새로운 생물, ‘한국애지네’국내 2종만 알려졌던 애지네류에서 신종 발견",
+      "summary": "전 세계적으로 약 200종의 애지네류가 알려져 있으며, 국내에는 그동안 애지네와 동양애지네 2종만…",
+      "detail": "전 세계적으로 약 200종의 애지네류가 알려져 있으며, 국내에는 그동안 애지네와 동양애지네 2종만 기록돼 있었다. 이번에 거제도에서 신종이 발견되면서 우리나라에 서식하는 애지네류의 종 다양성이 한층 높다는 사실이 확인됐다.",
+      "link": "http://www.ecolaw.co.kr/news/articleView.html?idxno=120289",
+      "source": "환경법률신문",
+      "image": "http://www.bing.com/th?id=ONUT.PxkFU_HGKcsms1pSe1KwDg&pid=News",
+      "category": "생태·환경",
+      "publishedAt": "2026-10-07T17:00:00.000Z",
+      "collectedAt": "2026-10-10T05:57:03.927Z",
+      "thumb": "/thumbs/5168694d26ad.png"
+    },
     {
       "id": "a9ec27a12673",
       "kind": "news",
@@ -44,7 +89,7 @@
       "category": "의학·바이오",
       "publishedAt": "2026-10-08T02:17:00.000Z",
       "collectedAt": "2026-10-10T04:57:10.033Z",
-      "thumb": null
+      "thumb": "/thumbs/fb5900a4b509.png"
     },
     {
       "id": "bsky-3mxcwci4nc22f",
@@ -2422,49 +2467,6 @@
       "publishedAt": "2026-10-07T22:51:54.000Z",
       "collectedAt": "2026-10-08T07:17:24.423Z",
       "thumb": "/thumbs/db47265dc751.png"
-    },
-    {
-      "id": "570f4659ae7b",
-      "kind": "news",
-      "lang": "ko",
-      "title": "두나무 \"업비트 계정·API 키 대여 요청은 신종 사기\"…투자자 주의 당부",
-      "summary": "가상자산 거래소 업비트를 운영하는 두나무가 오늘(8일) '",
-      "link": "https://www.msn.com/ko-kr/news/other/%EB%91%90%EB%82%98%EB%AC%B4-%EC%97%85%EB%B9%84%ED%8A%B8-%EA%B3%84%EC%A0%95-api-%ED%82%A4-%EB%8C%80%EC%97%AC-%EC%9A%94%EC%B2%AD%EC%9D%80-%EC%8B%A0%EC%A2%85-%EC%82%AC%EA%B8%B0-%ED%88%AC%EC%9E%90%EC%9E%90-%EC%A3%BC%EC%9D%98-%EB%8B%B9%EB%B6%80/ar-AA2dNfAE",
-      "source": "SBS Biz",
-      "category": "생태·환경",
-      "publishedAt": "2026-10-07T22:45:50.000Z",
-      "collectedAt": "2026-10-08T07:17:24.423Z",
-      "thumb": "/thumbs/570f4659ae7b.png"
-    },
-    {
-      "id": "c338a93b5873",
-      "kind": "news",
-      "lang": "ko",
-      "title": "감염병 억제 걸림돌 '콜드체인' 극복한 mRNA 백신",
-      "summary": "상온에서 2개월간 보관해도 안정성을 유지하는 메신저리보핵산 (mRNA) 백신 기술이 개발됐다",
-      "detail": "상온에서 2개월간 보관해도 안정성을 유지하는 메신저리보핵산 (mRNA) 백신 기술이 개발됐다. 백신 유통 비용을 최대 86% 절감해 백신의 접근성을 높이는 동시에 감염병을 억제하는 데 어려움으로 작용하는 '콜드체인' 문제를 해결하는 데 기여할 것으로…",
-      "link": "https://www.dongascience.com/ko/news/80261",
-      "source": "동아사이언스",
-      "image": "http://www.bing.com/th?id=ONUT.GXB-Os5Cz6DzLz0YMHJ4rg&pid=News",
-      "category": "의학·바이오",
-      "publishedAt": "2026-10-07T18:45:00.000Z",
-      "collectedAt": "2026-10-08T07:17:24.423Z",
-      "thumb": "/thumbs/c338a93b5873.jpg"
-    },
-    {
-      "id": "c72e5cd6303f",
-      "kind": "news",
-      "lang": "ko",
-      "title": "인천시, 남동유수지 일대 습지보호지역 등록 추진···멸종위기종 저어새 보호",
-      "summary": "시 관계자의 설명을 종합하면, 승기천 습지보호지역 지정 절차는 현재 남동구와 연수구 등 관계기관…",
-      "detail": "시 관계자의 설명을 종합하면, 승기천 습지보호지역 지정 절차는 현재 남동구와 연수구 등 관계기관 협의 과정에 놓여 있다. 이후 기후에너지환경부 등 정부 기관 협의를 거쳐 내부에서 '지정 추진'으로 결정될 시, 주민설명회나 공청회 등 진행 절차를…",
-      "link": "https://www.incheontoday.com/news/articleView.html?idxno=324647",
-      "source": "인천투데이",
-      "image": "http://www.bing.com/th?id=ONUT.jniv7IM6K-6oC_Q1U7iflw&pid=News",
-      "category": "생태·환경",
-      "publishedAt": "2026-10-07T18:15:00.000Z",
-      "collectedAt": "2026-10-08T07:17:24.423Z",
-      "thumb": "/thumbs/c72e5cd6303f.jpg"
     }
   ]
 }

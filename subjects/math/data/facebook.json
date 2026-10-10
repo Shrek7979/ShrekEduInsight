@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-10T01:00:47.289Z",
+  "updatedAt": "2026-10-10T06:00:58.278Z",
   "items": [
+    {
+      "id": "fb-f27cdff41b6e",
+      "kind": "news",
+      "lang": "en",
+      "title": "Chemical intuition augmented with computational power.",
+      "summary": "Wolfram's tools for chemical education make abstract…",
+      "link": "https://www.facebook.com/wolframresearch/posts/pfbid0KhYRrzUG3qrJB9ftyBEsLRfQLe86sX1ohYWPqh4F4YptZLfSEBjJzydKS8oXgm26l",
+      "source": "Facebook Wolfram Research",
+      "category": "인기",
+      "publishedAt": "2026-10-09T17:00:35.482Z",
+      "thumb": "/social/fb/fb-f27cdff41b6e.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-10T06:00:58.278Z",
+      "titleKo": "계산 능력으로 강화된 화학적 직관.",
+      "summaryKo": "Wolfram의 화학 교육용 도구는 추상적…",
+      "translator": "google"
+    },
     {
       "id": "fb-dafa3c331100",
       "kind": "video",

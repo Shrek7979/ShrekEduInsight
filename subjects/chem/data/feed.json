@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-10T04:57:09.974Z",
+  "updatedAt": "2026-10-10T05:57:03.785Z",
   "items": [
+    {
+      "id": "bsky-3mxipfdb2622r",
+      "kind": "news",
+      "lang": "en",
+      "title": "‘I was using a methanol/liquid nitrogen bath to cool a reaction to -100°C…’, begins Chemistry World business editor Phillip Broadwith.",
+      "summary": "Read on & share some of your own low-stakes mistakes by…",
+      "link": "https://bsky.app/profile/chemistryworld.com/post/3mxipfdb2622r",
+      "source": "Bluesky Chemistry World",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6v2nwmzy4dozxcftobscktc3/bafkreihuaqjytoccktejqlpynfsthlrzkqwlrkbg53k5qgubv2setxjdwy",
+      "likes": "1",
+      "category": "인기",
+      "publishedAt": "2026-10-10T05:00:05.328Z",
+      "collectedAt": "2026-10-10T05:57:03.785Z",
+      "titleKo": "'저는 반응물을 -100°C로 냉각하기 위해 메탄올/액체 질소 욕조를 사용하고 있었습니다...'라고 Chemistry World 비즈니스 편집자 Phillip Broadwith가 시작합니다.",
+      "summaryKo": "다음을 통해 위험도가 낮은 실수를 읽고 공유하세요",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxipfdb2622r.webp"
+    },
     {
       "id": "bsky-3mxhszatgzc24",
       "kind": "news",
@@ -2427,21 +2445,6 @@
       "publishedAt": "2026-10-06T13:28:00.000Z",
       "collectedAt": "2026-10-07T02:31:24.650Z",
       "thumb": "/thumbs/59d9af4ea0e0.png"
-    },
-    {
-      "id": "193e1e450422",
-      "kind": "news",
-      "lang": "ko",
-      "title": "한국재료硏 \"초박막 코팅으로 수전해 촉매 성능 향상 성공\"",
-      "summary": "홍정명 기자 = 한국재료연구원(KIMS)은 에너지·환경재료연구본부 수소·전지재료연구센터 양주찬 박사…",
-      "detail": "홍정명 기자 = 한국재료연구원(KIMS)은 에너지·환경재료연구본부 수소·전지재료연구센터 양주찬 박사 연구팀이 포항공과대학교 기계공학과 안지환 교수 연구팀과 공동으로 수전해 촉매 표면에 5나노미터(㎚) 두께의 초박막 코팅으로 촉매 성능과 내구성을…",
-      "link": "https://www.newsis.com/view/NISX20261007_0003816923",
-      "source": "뉴시스",
-      "image": "http://www.bing.com/th?id=ONUT.HmbXUqvKKF6eajUkhcfhfw&pid=News",
-      "category": "소재·에너지",
-      "publishedAt": "2026-10-06T13:15:00.000Z",
-      "collectedAt": "2026-10-07T01:31:07.245Z",
-      "thumb": "/thumbs/193e1e450422.jpg"
     }
   ]
 }
