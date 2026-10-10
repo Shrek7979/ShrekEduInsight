@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-10-10T00:57:00.110Z",
+  "updatedAt": "2026-10-10T01:56:55.461Z",
   "items": [
+    {
+      "id": "de118ee72870",
+      "kind": "news",
+      "lang": "ko",
+      "title": "경희대, 佛 파스칼과 '양자응용연구센터' 설립…공동연구 본격화",
+      "summary": "이예인 인턴 기자 = 경희대학교는 프랑스 양자컴퓨팅 기업 파스칼(Pasqal)과 공동 연구센터를…",
+      "detail": "이예인 인턴 기자 = 경희대학교는 프랑스 양자컴퓨팅 기업 파스칼(Pasqal)과 공동 연구센터를 설립하고 양자물질 공동연구에 나섰다고 8일 밝혔다.경희대와 파스칼은 지난 6월 업무협약(MOU)을 체결한 데 이어 8월 '중성원자 기반…",
+      "link": "https://www.newsis.com/view/NISX20261008_0003818526",
+      "source": "뉴시스",
+      "image": "http://www.bing.com/th?id=ONUT.r-PdbNyo5JjIisYKWOdzvw&pid=News",
+      "category": "양자·첨단",
+      "publishedAt": "2026-10-08T04:10:00.000Z",
+      "collectedAt": "2026-10-10T01:56:55.461Z",
+      "thumb": "/thumbs/de118ee72870.jpg"
+    },
     {
       "id": "bsky-3mxi6vpcqwl2n",
       "kind": "news",
@@ -2478,21 +2493,6 @@
       "publishedAt": "2026-10-06T22:12:00.000Z",
       "collectedAt": "2026-10-07T08:17:31.325Z",
       "thumb": "/thumbs/9ec352a46b73.jpg"
-    },
-    {
-      "id": "499cde58329d",
-      "kind": "news",
-      "lang": "ko",
-      "title": "[위클리오늘] 경상국립대 김주형 교수 연구팀, 은 나노입자 특성과 에너지 저장장치 성능의 상관관계 종합 분석",
-      "summary": "경상국립대는 신소재공학부(세라믹공학전공) 김주형 교수 연구팀이 은 나노입자(Silver…",
-      "detail": "경상국립대는 신소재공학부(세라믹공학전공) 김주형 교수 연구팀이 은 나노입자(Silver Nanoparticles, Ag NPs)의 입자 크기·형태·표면 화학·분산 특성이 에너지 저장장치의 전기화학적 성능과 어떻게 연결되는지를 소재 합성부터 소자…",
-      "link": "https://www.weeklytoday.com/news/articleView.html?idxno=797259",
-      "source": "위클리오늘",
-      "image": "http://www.bing.com/th?id=ONUT.uzFRe0pG6odMc5bpmnGr1A&pid=News",
-      "category": "양자·첨단",
-      "publishedAt": "2026-10-06T19:31:00.000Z",
-      "collectedAt": "2026-10-07T08:17:31.325Z",
-      "thumb": "/thumbs/499cde58329d.png"
     }
   ]
 }
