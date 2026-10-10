@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-10T14:57:00.548Z",
+  "updatedAt": "2026-10-10T15:57:31.063Z",
   "items": [
+    {
+      "id": "8d4185dfc12c",
+      "kind": "news",
+      "lang": "ko",
+      "title": "이종호 과기정통부 장관, 경기과학고 방문…\"인재 지원 아끼지 않겠다\"",
+      "summary": "'과학기술·디지털, 대한민국의 미래' 주제 경기과고 재학생 대상 강연 [아이뉴스24 안세준 기자]…",
+      "detail": "'과학기술·디지털, 대한민국의 미래' 주제 경기과고 재학생 대상 강연 [아이뉴스24 안세준 기자] 이종호 과학기술정보통신부 장관이 경기과학고등학교를 방문해 미래 인재 발굴과 성장 지원에 정책 노력을 아끼지 않겠다고 다짐했다. 이종호 과학기술정보통신부…",
+      "link": "https://www.inews24.com/view/wrlted/1584190",
+      "source": "아이뉴스24",
+      "category": "교육",
+      "publishedAt": "2026-10-10T02:10:00.000Z",
+      "collectedAt": "2026-10-10T15:57:31.063Z",
+      "thumb": "/thumbs/8d4185dfc12c.jpg"
+    },
     {
       "id": "bsky-3mxc6qdwxfp2n",
       "kind": "news",
@@ -2474,24 +2488,6 @@
       "summaryKo": "바다 원숭이가 방금 우리에게 새로운 사실을 보여줬습니다",
       "translator": "google",
       "thumb": "/thumbs/bsky-3mxcbeenkgc2u.webp"
-    },
-    {
-      "id": "bsky-3mxcaqvsm4s23",
-      "kind": "news",
-      "lang": "en",
-      "title": "Last month, Dor Minzer and his graduate students rushed to post a milestone result in…",
-      "summary": "theoretical computer science, hoping to get ahead of a…",
-      "link": "https://bsky.app/profile/quantamagazine.org/post/3mxcaqvsm4s23",
-      "source": "Bluesky Quanta Magazine",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vfktz6qe6vy7serr3wqutpzt/bafkreiffd4jxaqrza2qjqhdm7hvghfbdmfeoxarz3hv2mwcb6zde5yktde",
-      "likes": "2",
-      "category": "인기",
-      "publishedAt": "2026-10-07T15:22:09.318Z",
-      "collectedAt": "2026-10-07T15:42:20.229Z",
-      "titleKo": "지난달 Dor Minzer와 그의 대학원생들은 획기적인 결과를 게시하기 위해 서두르고 있습니다.",
-      "summaryKo": "이론적 컴퓨터 과학, 앞서 나가기를 희망하며…",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mxcaqvsm4s23.webp"
     }
   ]
 }

@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-10-10T14:57:00.477Z",
+  "updatedAt": "2026-10-10T15:57:31.014Z",
   "items": [
+    {
+      "id": "7de5f1c439ce",
+      "kind": "news",
+      "lang": "ko",
+      "title": "[OBS 뉴스 오늘2] '암살자(들)' 수사·법정으로…멸종위기종 '부캉이' 인기 여전",
+      "summary": "【앵커】배우 신변 위협과 정치권 공방",
+      "detail": "【앵커】배우 신변 위협과 정치권 공방. 영화 암살자들을 둘러싼 논란이 격화되면서 그 파장이 수사와 법정으로 향하고 있습니다.권상희 시사문화평론가 모시고 관련 이야기 나눠보겠습니다.[질문1]'암살자(들)' 제작진 고발 종로서 배당…수사 착수제작진…",
+      "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1539887",
+      "source": "OBS경인TV",
+      "image": "http://www.bing.com/th?id=ONUT.rdFZ2JlTlY3lzsIg-rqVwg&pid=News",
+      "category": "생태·환경",
+      "publishedAt": "2026-10-08T09:34:00.000Z",
+      "collectedAt": "2026-10-10T15:57:31.014Z",
+      "thumb": "/thumbs/7de5f1c439ce.jpg"
+    },
     {
       "id": "bsky-3mxjniz4wt72d",
       "kind": "news",
@@ -2463,23 +2478,6 @@
       "summaryKo": "부정적인 규제 지역은 다양한 것을 발견합니다…",
       "translator": "google",
       "thumb": "/thumbs/bsky-3mxdylixkxe2y.webp"
-    },
-    {
-      "id": "bsky-3mxdyjxsyau2f",
-      "kind": "news",
-      "lang": "en",
-      "title": "Visualizing dynamics in living plant cells at single transcript resolution is limited by…",
-      "summary": "high background fluorescence",
-      "link": "https://bsky.app/profile/plosbiology.org/post/3mxdyjxsyau2f",
-      "source": "Bluesky PLOS Biology",
-      "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:5522ztebtekoor5efelihqhb/bafkreibmc5xhdxegpjmoqyxskmxifsqqvq5sblezb2qslz2c5bpcp5mkfe",
-      "category": "인기",
-      "publishedAt": "2026-10-08T08:00:25.886Z",
-      "collectedAt": "2026-10-08T08:13:56.046Z",
-      "titleKo": "단일 전사체 해상도에서 살아있는 식물 세포의 역학을 시각화하는 것은 다음으로 제한됩니다.",
-      "summaryKo": "높은 배경 형광",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mxdyjxsyau2f.webp"
     }
   ]
 }

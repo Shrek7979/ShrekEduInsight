@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-10T14:57:00.482Z",
+  "updatedAt": "2026-10-10T15:57:31.120Z",
   "items": [
+    {
+      "id": "8d4185dfc12c",
+      "kind": "news",
+      "lang": "ko",
+      "title": "이종호 과기정통부 장관, 경기과학고 방문…\"인재 지원 아끼지 않겠다\"",
+      "summary": "'과학기술·디지털, 대한민국의 미래' 주제 경기과고 재학생 대상 강연 [아이뉴스24 안세준 기자]…",
+      "detail": "'과학기술·디지털, 대한민국의 미래' 주제 경기과고 재학생 대상 강연 [아이뉴스24 안세준 기자] 이종호 과학기술정보통신부 장관이 경기과학고등학교를 방문해 미래 인재 발굴과 성장 지원에 정책 노력을 아끼지 않겠다고 다짐했다. 이종호 과학기술정보통신부…",
+      "link": "https://www.inews24.com/view/wrlted/1584190",
+      "source": "아이뉴스24",
+      "category": "교육",
+      "publishedAt": "2026-10-10T02:10:00.000Z",
+      "collectedAt": "2026-10-10T15:57:31.120Z",
+      "thumb": "/thumbs/8d4185dfc12c.jpg"
+    },
     {
       "id": "559ef9f6670d",
       "kind": "news",
@@ -2435,23 +2449,6 @@
       "collectedAt": "2026-10-07T03:31:07.623Z",
       "summaryKo": "",
       "thumb": "/thumbs/c4bbc68510b3.jpg"
-    },
-    {
-      "id": "fd2db00d8465",
-      "kind": "video",
-      "lang": "ko",
-      "title": "PV=nRT, 보일/샤를 법칙(+교재)",
-      "summary": "",
-      "detail": "",
-      "link": "https://www.youtube.com/watch?v=I4xQUkgjD-g",
-      "source": "탑사이언스",
-      "image": "https://i2.ytimg.com/vi/I4xQUkgjD-g/hqdefault.jpg",
-      "views": 2480,
-      "category": "인기",
-      "publishedAt": "2026-09-18T13:31:18.000Z",
-      "collectedAt": "2026-10-07T03:31:07.623Z",
-      "summaryKo": "",
-      "thumb": "/thumbs/fd2db00d8465.jpg"
     }
   ]
 }
