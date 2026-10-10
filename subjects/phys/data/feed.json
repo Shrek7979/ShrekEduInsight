@@ -1,6 +1,25 @@
 {
-  "updatedAt": "2026-10-10T02:48:30.139Z",
+  "updatedAt": "2026-10-10T02:57:02.981Z",
   "items": [
+    {
+      "id": "3f19968fce2d",
+      "kind": "video",
+      "lang": "en",
+      "title": "CERN Built the Opposite of an Atomic Bomb",
+      "summary": "",
+      "detail": "",
+      "link": "https://www.youtube.com/watch?v=2zPRAej9h3o",
+      "source": "The Action Lab",
+      "image": "https://i3.ytimg.com/vi/2zPRAej9h3o/hqdefault.jpg",
+      "views": 906018,
+      "category": "인기",
+      "publishedAt": "2026-09-12T15:02:12.000Z",
+      "collectedAt": "2026-10-10T02:57:02.981Z",
+      "titleKo": "CERN은 원자폭탄의 반대편을 건설했습니다",
+      "summaryKo": "",
+      "translator": "google",
+      "thumb": "/thumbs/3f19968fce2d.jpg"
+    },
     {
       "id": "03f0e430086e",
       "kind": "news",
@@ -2480,20 +2499,6 @@
       "summaryKo": "& 프랑스는 가볍고 강한 오픈 셀을 만들었습니다…",
       "translator": "google",
       "thumb": "/thumbs/bsky-3mxbn3x74o22n.webp"
-    },
-    {
-      "id": "6cae57d3a4ed",
-      "kind": "news",
-      "lang": "ko",
-      "title": "AI 패권, '산업판'으로···1GW 전력·핵융합·핵잠수함·피지컬AI '동시 질주'",
-      "summary": "AI 경쟁이 알고리즘과 반도체를 넘어 전력·에너지·제조·로봇으로 빠르게 넓어지고…",
-      "detail": "AI 경쟁이 알고리즘과 반도체를 넘어 전력·에너지·제조·로봇으로 빠르게 넓어지고 있다.6일(현지시간) 미국 기업들이 앞다퉈 AI 패권 확보를 위한 소식들을 쏟아냈다. AI 데이터센터 기업은 최대 1GW 전력을 확보하기 위해 핀란드로 향했고, 핵융합…",
-      "link": "http://www.hellodd.com/news/articleView.html?idxno=113430",
-      "source": "헬로디디",
-      "category": "양자·첨단",
-      "publishedAt": "2026-10-07T09:20:00.000Z",
-      "collectedAt": "2026-10-07T15:42:20.229Z",
-      "thumb": "/thumbs/6cae57d3a4ed.png"
     }
   ]
 }
