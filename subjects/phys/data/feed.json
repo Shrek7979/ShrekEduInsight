@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-10T17:56:57.315Z",
+  "updatedAt": "2026-10-10T18:57:44.996Z",
   "items": [
+    {
+      "id": "bsky-3mxk2xz4kan2e",
+      "kind": "news",
+      "lang": "en",
+      "title": "Viruses evolve at an \"insanely high” pace, said microbiologist Philip Kranzusch.",
+      "summary": "And yet, weirdly, our immune defenses share many…",
+      "link": "https://bsky.app/profile/quantamagazine.org/post/3mxk2xz4kan2e",
+      "source": "Bluesky Quanta Magazine",
+      "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:vfktz6qe6vy7serr3wqutpzt/bafkreice7u2lwf2pi6c466w36kj26if3shtgiwrkwtfmmtwhdmesz4nike",
+      "likes": "9",
+      "category": "인기",
+      "publishedAt": "2026-10-10T18:00:03.110Z",
+      "collectedAt": "2026-10-10T18:57:44.996Z",
+      "titleKo": "미생물학자인 Philip Kranzusch는 바이러스가 \"엄청나게 빠른\" 속도로 진화한다고 말했습니다.",
+      "summaryKo": "그런데 이상하게도 우리의 면역 방어는 많은 것을 공유합니다",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxk2xz4kan2e.webp"
+    },
     {
       "id": "8d4185dfc12c",
       "kind": "news",
@@ -2470,24 +2488,6 @@
       "translator": "google",
       "detailKo": "Veritasium의 사명은 항상 진실에 도달하는 것, 즉 사물이 작동하는 방식과 이유를 이해하는 것이었습니다. 우리는 다양한 것을 좋아합니다…",
       "thumb": "/thumbs/8c2118d7492c.jpg"
-    },
-    {
-      "id": "bsky-3mxcbeenkgc2u",
-      "kind": "news",
-      "lang": "en",
-      "title": "The math of turbulence has intrigued scientists for over a century.",
-      "summary": "Sea monkeys just showed us something new about how it…",
-      "link": "https://bsky.app/profile/quantamagazine.org/post/3mxcbeenkgc2u",
-      "source": "Bluesky Quanta Magazine",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vfktz6qe6vy7serr3wqutpzt/bafkreig3zjlcb2lcmcodoiqch22kpcuvmnjr4a3ybg67dtabwg3dwdsa4q",
-      "likes": "2",
-      "category": "인기",
-      "publishedAt": "2026-10-07T15:33:02.401Z",
-      "collectedAt": "2026-10-07T15:42:20.229Z",
-      "titleKo": "난류의 수학은 한 세기가 넘도록 과학자들의 흥미를 끌었습니다.",
-      "summaryKo": "바다 원숭이가 방금 우리에게 새로운 사실을 보여줬습니다",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mxcbeenkgc2u.webp"
     }
   ]
 }
