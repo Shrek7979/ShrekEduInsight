@@ -1,6 +1,25 @@
 {
-  "updatedAt": "2026-10-10T21:57:18.056Z",
+  "updatedAt": "2026-10-10T22:57:35.588Z",
   "items": [
+    {
+      "id": "5ddbd731e7a4",
+      "kind": "video",
+      "lang": "en",
+      "title": "What if you try to sandwich a cube between two portals?",
+      "summary": "",
+      "detail": "",
+      "link": "https://www.youtube.com/shorts/31kyER-8dak",
+      "source": "minutephysics",
+      "image": "https://i4.ytimg.com/vi/31kyER-8dak/hqdefault.jpg",
+      "views": 34834,
+      "category": "인기",
+      "publishedAt": "2026-10-10T19:00:33.000Z",
+      "collectedAt": "2026-10-10T22:57:35.588Z",
+      "titleKo": "두 포털 사이에 큐브를 끼우려고 하면 어떻게 되나요?",
+      "summaryKo": "",
+      "translator": "google",
+      "thumb": "/thumbs/5ddbd731e7a4.jpg"
+    },
     {
       "id": "bsky-3mxkfkcgqm52p",
       "kind": "video",
@@ -2480,24 +2499,6 @@
       "summaryKo": "이제 중국과 유럽의 두 독립 그룹이…",
       "translator": "google",
       "thumb": "/thumbs/bsky-3mxcee6b7mk2n.webp"
-    },
-    {
-      "id": "f2cd61a9341f",
-      "kind": "news",
-      "lang": "en",
-      "title": "Nuclear clocks finally see the light",
-      "summary": "New timekeeping tools could revolutionize studies of…",
-      "detail": "New timekeeping tools could revolutionize studies of fundamental physics The post Nuclear clocks finally see the light appeared first on…",
-      "link": "https://physicsworld.com/a/nuclear-clocks-finally-see-the-light/",
-      "source": "Physics World",
-      "category": "해외",
-      "publishedAt": "2026-10-07T16:00:48.000Z",
-      "collectedAt": "2026-10-07T20:49:17.134Z",
-      "titleKo": "핵시계가 마침내 빛을 본다",
-      "summaryKo": "새로운 시간 계측 도구는 다음과 같은 연구에 혁명을 일으킬 수 있습니다",
-      "translator": "google",
-      "detailKo": "새로운 시간 측정 도구는 기초 물리학 연구에 혁명을 일으킬 수 있습니다. 핵 시계 이후 마침내 빛이 처음으로 나타났습니다.",
-      "thumb": "/thumbs/f2cd61a9341f.jpg"
     }
   ]
 }
