@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-10-10T02:57:02.981Z",
+  "updatedAt": "2026-10-10T03:57:15.126Z",
   "items": [
+    {
+      "id": "1ec037daafda",
+      "kind": "video",
+      "lang": "en",
+      "title": "Why Does -1/12 Keep Appearing Everywhere In Physics?",
+      "summary": "",
+      "detail": "",
+      "link": "https://www.youtube.com/watch?v=w6229Ivy_Lo",
+      "source": "PBS Space Time",
+      "image": "https://i4.ytimg.com/vi/w6229Ivy_Lo/hqdefault.jpg",
+      "views": 367048,
+      "category": "인기",
+      "publishedAt": "2026-10-08T20:15:02.000Z",
+      "collectedAt": "2026-10-10T03:57:15.126Z",
+      "titleKo": "-1/12가 물리학의 모든 곳에 계속 나타나는 이유는 무엇입니까?",
+      "summaryKo": "",
+      "translator": "google",
+      "thumb": "/thumbs/1ec037daafda.jpg"
+    },
+    {
+      "id": "6cae57d3a4ed",
+      "kind": "news",
+      "lang": "ko",
+      "title": "AI 패권, '산업판'으로···1GW 전력·핵융합·핵잠수함·피지컬AI '동시 질주'",
+      "summary": "AI 경쟁이 알고리즘과 반도체를 넘어 전력·에너지·제조·로봇으로 빠르게 넓어지고…",
+      "detail": "AI 경쟁이 알고리즘과 반도체를 넘어 전력·에너지·제조·로봇으로 빠르게 넓어지고 있다.6일(현지시간) 미국 기업들이 앞다퉈 AI 패권 확보를 위한 소식들을 쏟아냈다. AI 데이터센터 기업은 최대 1GW 전력을 확보하기 위해 핀란드로 향했고, 핵융합…",
+      "link": "http://www.hellodd.com/news/articleView.html?idxno=113430",
+      "source": "헬로디디",
+      "category": "양자·첨단",
+      "publishedAt": "2026-10-07T09:20:00.000Z",
+      "collectedAt": "2026-10-10T03:57:15.126Z",
+      "thumb": "/thumbs/6cae57d3a4ed.png"
+    },
     {
       "id": "3f19968fce2d",
       "kind": "video",
@@ -2463,42 +2496,6 @@
       "summaryKo": "두 가지 새로운 열량계를 평가할 수 있는 기회…",
       "translator": "google",
       "thumb": "/thumbs/bsky-3mxbxzeosek2d.webp"
-    },
-    {
-      "id": "e4d5ddb70ff0",
-      "kind": "news",
-      "lang": "en",
-      "title": "Collisions between dipolar molecules ‘switch off’ at low energies",
-      "summary": "Discovery validates quantum picture of polarity and has…",
-      "detail": "Discovery validates quantum picture of polarity and has implications for ultracold chemistry The post Collisions between dipolar molecules…",
-      "link": "https://physicsworld.com/a/collisions-between-dipolar-molecules-switch-off-at-low-energies/",
-      "source": "Physics World",
-      "category": "해외",
-      "publishedAt": "2026-10-07T11:00:44.000Z",
-      "collectedAt": "2026-10-07T15:42:20.229Z",
-      "titleKo": "낮은 에너지에서 쌍극자 분자 사이의 충돌이 '꺼짐'",
-      "summaryKo": "발견은 극성의 양자 그림을 검증하고…",
-      "translator": "google",
-      "detailKo": "발견은 극성의 양자 그림을 검증하고 초저온 화학에 영향을 미칩니다. 쌍극자 분자 사이의 충돌 이후…",
-      "thumb": "/thumbs/e4d5ddb70ff0.jpg"
-    },
-    {
-      "id": "bsky-3mxbn3x74o22n",
-      "kind": "news",
-      "lang": "en",
-      "title": "By combining architected metals with a lightweight polymer foam, researchers in Australia…",
-      "summary": "& France created lightweight, strong, open-cell…",
-      "link": "https://bsky.app/profile/physicsworld.bsky.social/post/3mxbn3x74o22n",
-      "source": "Bluesky Physics World",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:chuorfc5xbxvtvn53cqjvmov/bafkreib47olnctnksnhjov5rbezpdnlbvdxqwk47ifv2xo4l52u2uwnzai",
-      "likes": "14",
-      "category": "인기",
-      "publishedAt": "2026-10-07T09:30:25.040Z",
-      "collectedAt": "2026-10-07T15:42:20.229Z",
-      "titleKo": "호주 연구진은 건축 금속과 경량 폴리머 폼을 결합하여…",
-      "summaryKo": "& 프랑스는 가볍고 강한 오픈 셀을 만들었습니다…",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mxbn3x74o22n.webp"
     }
   ]
 }
