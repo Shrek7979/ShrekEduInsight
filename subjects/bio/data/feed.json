@@ -1,6 +1,52 @@
 {
-  "updatedAt": "2026-10-10T07:56:51.060Z",
+  "updatedAt": "2026-10-10T08:57:12.363Z",
   "items": [
+    {
+      "id": "1afcdb90621b",
+      "kind": "news",
+      "lang": "ko",
+      "title": "유전자 하나로 암 성장·전이·면역회피까지…서울대병원, 삼중음성유방암 새 전략 제시",
+      "summary": "서울대병원 연구팀이 유전자 하나로 삼중음성유방암의 성장과 전이는 물론 면역회피까지 동시에 억제하는…",
+      "detail": "서울대병원 연구팀이 유전자 하나로 삼중음성유방암의 성장과 전이는 물론 면역회피까지 동시에 억제하는 효과를 확인했다. 재발이 빠르고 사용할 수 있는 표적치료제가 제한적인 삼중음성유방암의 새로운 치료 전략으로 주목된다.김효수 서울대병원 의생명연구원…",
+      "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261008010002418",
+      "source": "아시아투데이",
+      "image": "http://www.bing.com/th?id=ONUT.jrDfaE-f3WxP-MAe2PFiQA&pid=News",
+      "category": "의학·바이오",
+      "publishedAt": "2026-10-08T03:51:00.000Z",
+      "collectedAt": "2026-10-10T08:57:12.363Z",
+      "thumb": "/thumbs/1afcdb90621b.jpg"
+    },
+    {
+      "id": "6ba5936089dc",
+      "kind": "news",
+      "lang": "ko",
+      "title": "녹조류 호기심, 20년 뒤 뇌 비밀 열쇠로···광유전학 개척 美·獨 3인 노벨생리의학상",
+      "summary": "스웨덴 카롤린스카연구소 노벨위원회는 5일(현지시간) 2026년 노벨 생리의학상 수상자로 칼…",
+      "detail": "스웨덴 카롤린스카연구소 노벨위원회는 5일(현지시간) 2026년 노벨 생리의학상 수상자로 칼 다이서로스(Karl Deisseroth) 미국 스탠퍼드대 교수, 페터 헤게만(Peter Hegemann) 독일 훔볼트대 교수, 게오르크 나겔(Georg…",
+      "link": "http://www.hellodd.com/news/articleView.html?idxno=113393",
+      "source": "헬로디디",
+      "category": "의학·바이오",
+      "publishedAt": "2026-10-05T10:41:41.000Z",
+      "collectedAt": "2026-10-10T08:57:12.363Z",
+      "thumb": "/thumbs/6ba5936089dc.png"
+    },
+    {
+      "id": "1c6da7a1cd89",
+      "kind": "video",
+      "lang": "ko",
+      "title": "국내에 몇마리 없다는 심장이 터질것 같은 초미니토끼! 얘는 키워야겠습니다 ㅠ",
+      "summary": "",
+      "detail": "",
+      "link": "https://www.youtube.com/watch?v=ZgD_4Mw5Vxo",
+      "source": "TV생물도감",
+      "image": "https://i3.ytimg.com/vi/ZgD_4Mw5Vxo/hqdefault.jpg",
+      "views": 472469,
+      "category": "인기",
+      "publishedAt": "2026-10-01T09:30:36.000Z",
+      "collectedAt": "2026-10-10T08:57:12.363Z",
+      "summaryKo": "",
+      "thumb": "/thumbs/1c6da7a1cd89.jpg"
+    },
     {
       "id": "f5451cbd570c",
       "kind": "news",
@@ -2423,54 +2469,6 @@
       "publishedAt": "2026-10-07T13:13:00.000Z",
       "collectedAt": "2026-10-08T08:13:56.046Z",
       "thumb": "/thumbs/9108204cfff7.jpg"
-    },
-    {
-      "id": "be2c4747bdb2",
-      "kind": "news",
-      "lang": "en",
-      "title": "An extinct crocodilian was found among rocks that built the Great Sphinx",
-      "summary": "Herugavialis is the new name for a fossil found in the…",
-      "detail": "Herugavialis is the new name for a fossil found in the same rocks that built the Great Sphinx. The reptile is a unique branch of the…",
-      "link": "https://www.sciencenews.org/article/extinct-crocodilian-rocks-great-sphinx",
-      "source": "Science News",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/091826_JB_ancientcroc_main.jpg?w=800",
-      "category": "해외",
-      "publishedAt": "2026-10-06T23:05:00.000Z",
-      "collectedAt": "2026-10-08T08:13:56.046Z",
-      "titleKo": "대스핑크스를 만든 암석에서 멸종된 악어가 발견되었습니다",
-      "summaryKo": "헤루가비아리스(Herugavialis)는 이 지역에서 발견된 화석의 새로운 이름입니다",
-      "translator": "google",
-      "detailKo": "Herugavialis는 대스핑크스를 만든 동일한 암석에서 발견된 화석의 새로운 이름입니다. 파충류는 파충류의 독특한 가지입니다…",
-      "thumb": "/thumbs/be2c4747bdb2.jpg"
-    },
-    {
-      "id": "40d208aa43a9",
-      "kind": "news",
-      "lang": "ko",
-      "title": "노벨 생리의학상 수상 기쁨 나누는 칼 다이서로스 교수",
-      "summary": "5일(현지 시간) 미 캘리포니아주 스탠퍼드대학교에서 칼 다이서로스(오른쪽) 교수가 2026 노벨…",
-      "detail": "5일(현지 시간) 미 캘리포니아주 스탠퍼드대학교에서 칼 다이서로스(오른쪽) 교수가 2026 노벨 생리의학상 수상에 동료와 포옹하며 기쁨을 나누고 있다. 올해 노벨 생리의학상은 다이서로스를 비롯해 빛을 이용, 특정 신경세포의 활동을 선택적으로 조절하는…",
-      "link": "https://www.newsis.com/view/NISI20261006_0002255894",
-      "source": "뉴시스",
-      "image": "http://www.bing.com/th?id=ONUT.zQRZIZxnHDlgy-_CAyibVw&pid=News",
-      "category": "연구",
-      "publishedAt": "2026-10-06T01:44:00.000Z",
-      "collectedAt": "2026-10-08T08:13:56.046Z",
-      "thumb": "/thumbs/40d208aa43a9.jpg"
-    },
-    {
-      "id": "7bd0c1553bfe",
-      "kind": "news",
-      "lang": "ko",
-      "title": "[속보]올해 노벨생리의학상에 ‘광유전학 개척’ 3명···다이서로스·헤게만·나겔, 뇌 속 움직임 규명 공로",
-      "summary": "올해 노벨생리의학상 수상의 영예는 광유전학 원리를 발견한 과학자 3명에게 돌아갔다",
-      "detail": "올해 노벨생리의학상 수상의 영예는 광유전학 원리를 발견한 과학자 3명에게 돌아갔다. 이들의 연구는 뇌 속에서 신경세포가 기억과 감정, 행동을 어떻게 형성하는지 알 수 있게 하는 방법론이 됐다. 스웨덴 카롤린스카연구소 노벨위원회는 5일(현지시간) 올해…",
-      "link": "https://www.khan.co.kr/article/202610051839001",
-      "source": "경향신문",
-      "category": "의학·바이오",
-      "publishedAt": "2026-10-05T13:14:00.000Z",
-      "collectedAt": "2026-10-08T08:13:56.046Z",
-      "thumb": "/thumbs/7bd0c1553bfe.png"
     }
   ]
 }

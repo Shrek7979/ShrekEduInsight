@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-10T07:56:51.101Z",
+  "updatedAt": "2026-10-10T08:57:12.428Z",
   "items": [
+    {
+      "id": "a01b08a7b250",
+      "kind": "news",
+      "lang": "ko",
+      "title": "[이번주투자] 60% 이상은 지원금…양자컴퓨팅‧산업안전AI 눈길",
+      "summary": "심전도 기반 AI 헬스케어 스타트업 웨이비나는 서울대기술지주에서 2억원 시드 투자를 유치하고 팁스에…",
+      "detail": "심전도 기반 AI 헬스케어 스타트업 웨이비나는 서울대기술지주에서 2억원 시드 투자를 유치하고 팁스에 선정됐다. 10초 안팎의 심전도 측정만으로 혈액 바이오마커 30종 이상을 예측하는 AI를 개발한다. 서울대병원 등에서 확보한 심전도-혈액 매칭 데이터…",
+      "link": "https://startuprecipe.co.kr/archives/5836812",
+      "source": "startuprecipe",
+      "category": "양자·첨단",
+      "publishedAt": "2026-10-09T03:37:00.000Z",
+      "collectedAt": "2026-10-10T08:57:12.428Z",
+      "thumb": "/thumbs/a01b08a7b250.jpg"
+    },
     {
       "id": "1ec037daafda",
       "kind": "video",
@@ -2478,24 +2492,6 @@
       "summaryKo": "중요해요.” 무료 임시 전시회입니다…",
       "translator": "google",
       "thumb": null
-    },
-    {
-      "id": "bsky-3mxbxzeosek2d",
-      "kind": "news",
-      "lang": "en",
-      "title": "Beam tests boost detector technologies 🔬 The recent beam tests offered the first…",
-      "summary": "opportunity to evaluate two new calorimeter…",
-      "link": "https://bsky.app/profile/cern.bsky.social/post/3mxbxzeosek2d",
-      "source": "Bluesky CERN",
-      "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2vrfekwr4jo7zufnlt7qlrqq/bafkreichszn46zhqyy6drqjsxd6bkrrqvm5biqz54uxv5phieq67hcdeja",
-      "likes": "20",
-      "category": "인기",
-      "publishedAt": "2026-10-07T12:45:49.682Z",
-      "collectedAt": "2026-10-07T15:42:20.229Z",
-      "titleKo": "빔 테스트는 감지기 기술을 향상시킵니다 🔬 최근 빔 테스트는 최초로…",
-      "summaryKo": "두 가지 새로운 열량계를 평가할 수 있는 기회…",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mxbxzeosek2d.webp"
     }
   ]
 }
