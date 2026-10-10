@@ -1,6 +1,51 @@
 {
-  "updatedAt": "2026-10-10T03:57:15.283Z",
+  "updatedAt": "2026-10-10T04:57:10.033Z",
   "items": [
+    {
+      "id": "a9ec27a12673",
+      "kind": "news",
+      "lang": "ko",
+      "title": "숙명여대·성균관대 공동연구팀, AMC9005로 노화 근감소증 개선 기전 규명",
+      "summary": "노화와 근위축 질환 치료 후보물질로 주목받는 'AMC9005'의 작용 원리가 숙명여대와 성균관대…",
+      "detail": "노화와 근위축 질환 치료 후보물질로 주목받는 'AMC9005'의 작용 원리가 숙명여대와 성균관대 공동 연구진에 의해 밝혀졌다. 연구팀은 이 화합물이 미토콘드리아의 기능 회복을 통해 근육 대사 조절에 영향을 미치며, 근육 손실을 억제하고 근력을…",
+      "link": "https://www.kyosu.net/news/articleView.html?idxno=211022",
+      "source": "교수신문",
+      "image": "http://www.bing.com/th?id=ONUT.scSbXLIA21xpEfixlnz7hQ&pid=News",
+      "category": "의학·바이오",
+      "publishedAt": "2026-10-08T10:57:00.000Z",
+      "collectedAt": "2026-10-10T04:57:10.033Z",
+      "thumb": "/thumbs/a9ec27a12673.jpg"
+    },
+    {
+      "id": "703487092e36",
+      "kind": "news",
+      "lang": "ko",
+      "title": "호남권생물자원관, 거제도 토양에서 신종 '애지네류' 확인",
+      "summary": "박상수 기자 = 기후에너지환경부 산하 국립호남권생물자원관은 섬 지역 생물다양성 조사 과정에서 경남…",
+      "detail": "박상수 기자 = 기후에너지환경부 산하 국립호남권생물자원관은 섬 지역 생물다양성 조사 과정에서 경남 거제도 토양에 서식하는 신종 애지네류를 확인하고, ‘한국애지네’로 명명했다고 8일 밝혔다.애지네류는 몸길이가 2~8㎜에 불과한 작은 절지동물이다.…",
+      "link": "https://www.newsis.com/view/NISX20261008_0003819011",
+      "source": "뉴시스",
+      "image": "http://www.bing.com/th?id=ONUT.73hxcmOmRXb7ng-S7HWU7Q&pid=News",
+      "category": "생태·환경",
+      "publishedAt": "2026-10-08T06:18:00.000Z",
+      "collectedAt": "2026-10-10T04:57:10.033Z",
+      "thumb": "/thumbs/703487092e36.jpg"
+    },
+    {
+      "id": "fb5900a4b509",
+      "kind": "news",
+      "lang": "ko",
+      "title": "항생제 먹는 동안 단 음식, 장내세균 손상 키울까…네이처 연구로 본 복용 수칙 5가지",
+      "summary": "미국 MSK·뉴욕대 연구진이 지난달 30일 네이처에 발표한 연구에서, 항생제 치료 중 단 음식을…",
+      "detail": "미국 MSK·뉴욕대 연구진이 지난달 30일 네이처에 발표한 연구에서, 항생제 치료 중 단 음식을 많이 먹은 혈액암 환자일수록 장내세균 다양성이 더 크게 줄었다. 관찰연구여서 인과는 확인되지 않았고 일반인 적용은 아직 미지수다.",
+      "link": "https://www.famtimes.co.kr/news/articleView.html?idxno=701678",
+      "source": "에프이타임스",
+      "image": "http://www.bing.com/th?id=ONUT.jfHbyqdH3AB1nSxt2KR9iw&pid=News",
+      "category": "의학·바이오",
+      "publishedAt": "2026-10-08T02:17:00.000Z",
+      "collectedAt": "2026-10-10T04:57:10.033Z",
+      "thumb": null
+    },
     {
       "id": "bsky-3mxcwci4nc22f",
       "kind": "news",
@@ -2420,50 +2465,6 @@
       "publishedAt": "2026-10-07T18:15:00.000Z",
       "collectedAt": "2026-10-08T07:17:24.423Z",
       "thumb": "/thumbs/c72e5cd6303f.jpg"
-    },
-    {
-      "id": "8e9f06026e18",
-      "kind": "news",
-      "lang": "ko",
-      "title": "단국대 연구팀, 우유 단백질 활용 생분해성 신경 재생 소재 개발",
-      "summary": "연구팀은 이런 한계를 극복하기 위해 우유의 주요 단백질인 카제인 (casein)을 활용한 신경 재생…",
-      "detail": "연구팀은 이런 한계를 극복하기 위해 우유의 주요 단백질인 카제인 (casein)을 활용한 신경 재생 소재를 개발했다. 카제인과 생체적합성 고분자인 폴리염화비닐 (PVA)을 기반으로 홍합 접착 단백질에서 착안한 DOPA를 적용해 'MDP-DOPA…",
-      "link": "https://www.yna.co.kr/view/AKR20261008106500063",
-      "source": "연합뉴스",
-      "category": "연구",
-      "publishedAt": "2026-10-07T17:00:00.000Z",
-      "collectedAt": "2026-10-08T07:17:24.423Z",
-      "thumb": "/thumbs/8e9f06026e18.jpg"
-    },
-    {
-      "id": "5168694d26ad",
-      "kind": "news",
-      "lang": "ko",
-      "title": "거제도 흙 속에서 찾은 새로운 생물, ‘한국애지네’국내 2종만 알려졌던 애지네류에서 신종 발견",
-      "summary": "전 세계적으로 약 200종의 애지네류가 알려져 있으며, 국내에는 그동안 애지네와 동양애지네 2종만…",
-      "detail": "전 세계적으로 약 200종의 애지네류가 알려져 있으며, 국내에는 그동안 애지네와 동양애지네 2종만 기록돼 있었다. 이번에 거제도에서 신종이 발견되면서 우리나라에 서식하는 애지네류의 종 다양성이 한층 높다는 사실이 확인됐다.",
-      "link": "http://www.ecolaw.co.kr/news/articleView.html?idxno=120289",
-      "source": "환경법률신문",
-      "image": "http://www.bing.com/th?id=ONUT.PxkFU_HGKcsms1pSe1KwDg&pid=News",
-      "category": "생태·환경",
-      "publishedAt": "2026-10-07T17:00:00.000Z",
-      "collectedAt": "2026-10-08T07:17:24.423Z",
-      "thumb": "/thumbs/5168694d26ad.png"
-    },
-    {
-      "id": "c65ca697894e",
-      "kind": "news",
-      "lang": "ko",
-      "title": "국립생물자원관, 드론·AI 카메라 활용 ‘야생 멧돼지 실시간 AI 감시기술’ 개발",
-      "summary": "기후에너지환경부 소속 국립생물자원관(관장 유호)은 생활주변 멧돼지 출몰에 따른 인명·재산 피해를…",
-      "detail": "기후에너지환경부 소속 국립생물자원관(관장 유호)은 생활주변 멧돼지 출몰에 따른 인명·재산 피해를 예방하기 위해 AI 기반의 ‘야생 멧돼지 실시간 감시기술’을 개발했다. 기존 신고 접수 후 사후 출동 방식에서 벗어나 위험 지역을 사전에 감시하고 현장…",
-      "link": "https://www.boannews.com/news/articleView.html?idxno=146260",
-      "source": "보안뉴스",
-      "image": "http://www.bing.com/th?id=ONUT.0D-ZEPddyDrmXYTem__oBg&pid=News",
-      "category": "생태·환경",
-      "publishedAt": "2026-10-07T16:38:00.000Z",
-      "collectedAt": "2026-10-08T07:17:24.423Z",
-      "thumb": "/thumbs/c65ca697894e.png"
     }
   ]
 }
