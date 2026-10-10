@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-09T23:57:13.686Z",
+  "updatedAt": "2026-10-10T00:57:00.110Z",
   "items": [
+    {
+      "id": "bsky-3mxi6vpcqwl2n",
+      "kind": "news",
+      "lang": "en",
+      "title": "Simple counting questions help mathematicians study the objects that live inside exotic number systems.",
+      "summary": "New Math Revives Geometry’s Oldest Problems | Quanta…",
+      "link": "https://bsky.app/profile/quantamagazine.org/post/3mxi6vpcqwl2n",
+      "source": "Bluesky Quanta Magazine",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vfktz6qe6vy7serr3wqutpzt/bafkreigdu3mkn7rab2oraemowt42ssablubkhtaojo75ugptzsfrgesdxy",
+      "likes": "7",
+      "category": "인기",
+      "publishedAt": "2026-10-10T00:05:01.206Z",
+      "collectedAt": "2026-10-10T00:57:00.110Z",
+      "titleKo": "간단한 계산 질문은 수학자들이 이국적인 숫자 체계 안에 있는 물체를 연구하는 데 도움이 됩니다.",
+      "summaryKo": "새로운 수학으로 기하학의 가장 오래된 문제를 되살리다 | 양자…",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxi6vpcqwl2n.webp"
+    },
     {
       "id": "bsky-3mxhsql44h526",
       "kind": "video",
@@ -2475,21 +2493,6 @@
       "publishedAt": "2026-10-06T19:31:00.000Z",
       "collectedAt": "2026-10-07T08:17:31.325Z",
       "thumb": "/thumbs/499cde58329d.png"
-    },
-    {
-      "id": "733e398be52c",
-      "kind": "news",
-      "lang": "ko",
-      "title": "경희대, 파스칼과 양자물질 공동연구 본격화… 한·프 양자기술 협력 확대",
-      "summary": "경희대와 프랑스 양자컴퓨팅 기업 파스칼이 한·프 첨단기술 협력 행사에서 양자물질 공동연구 현황을…",
-      "detail": "경희대와 프랑스 양자컴퓨팅 기업 파스칼이 한·프 첨단기술 협력 행사에서 양자물질 공동연구 현황을 발표했다. 양측은 MOU 체결 뒤 중성원자 기반 양자응용연구센터를 세우고, 양자시뮬레이션과 물질 연구를 함께 진행하며 산업 활용 가능성도 모색한다.",
-      "link": "https://www.seoul.co.kr/news/society/2026/10/07/20261007500217",
-      "source": "서울신문",
-      "image": "http://www.bing.com/th?id=ONUT.xKr8Q8KNz4NeW--79uZp_g&pid=News",
-      "category": "양자·첨단",
-      "publishedAt": "2026-10-06T18:45:00.000Z",
-      "collectedAt": "2026-10-07T08:17:31.325Z",
-      "thumb": "/thumbs/733e398be52c.webp"
     }
   ]
 }
