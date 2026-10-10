@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-10-10T09:57:32.541Z",
+  "updatedAt": "2026-10-10T10:57:35.234Z",
   "items": [
+    {
+      "id": "da79774b10ad",
+      "kind": "news",
+      "lang": "ko",
+      "title": "국립부산과학관, 탄자니아에 봉사단 16명 파견…‘과학교육·위생 개선’ 총력",
+      "summary": "국립부산과학관이 탄자니아 잔지바르 지역 학교의 과학교육 역량을 높이고 위생 환경을 개선하기 위한…",
+      "detail": "국립부산과학관이 탄자니아 잔지바르 지역 학교의 과학교육 역량을 높이고 위생 환경을 개선하기 위한 제4차 해외 봉사단원 16명을 선발한다.이번 파견은 한국국제협력단(KOICA) 공적개발원조(ODA) 사업인 ‘탄자니아 잔지바르 중등학교 과학실험교육…",
+      "link": "https://www.greened.kr/news/articleView.html?idxno=351583",
+      "source": "녹색경제신문",
+      "image": "http://www.bing.com/th?id=ONUT.0sYurW5Qe9H1wfkLHKd4zw&pid=News",
+      "category": "교육",
+      "publishedAt": "2026-10-07T13:10:00.000Z",
+      "collectedAt": "2026-10-10T10:57:35.234Z",
+      "thumb": "/thumbs/da79774b10ad.jpg"
+    },
     {
       "id": "e77db94729ff",
       "kind": "news",
@@ -2460,20 +2475,6 @@
       "publishedAt": "2026-10-07T19:19:00.000Z",
       "collectedAt": "2026-10-08T08:13:56.046Z",
       "thumb": "/thumbs/a316bbdeb32d.png"
-    },
-    {
-      "id": "346292fb1f05",
-      "kind": "news",
-      "lang": "ko",
-      "title": "세계 무대서 메달 6개…광주과학고 새 역사",
-      "summary": "광주과학고 학생들이 올해 국제과학올림피아드에서 메달 6개를 거머쥐며 학교 수상 기록을 새로 썼다",
-      "detail": "광주과학고 학생들이 올해 국제과학올림피아드에서 메달 6개를 거머쥐며 학교 수상 기록을 새로 썼다. 화학과 지구과학, 천문·천체물리 등 서로 다른 분야에 출전한 학생 4명이 모두 메달을 획득하면서 개교 이래 가장 많은 국제올림피아드 수상 실적을…",
-      "link": "https://www.gjdream.com/news/articleView.html?idxno=673296",
-      "source": "광주드림",
-      "category": "대회·행사",
-      "publishedAt": "2026-10-07T17:15:00.000Z",
-      "collectedAt": "2026-10-08T08:13:56.046Z",
-      "thumb": "/thumbs/346292fb1f05.jpg"
     }
   ]
 }
