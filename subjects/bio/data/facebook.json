@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-10T11:00:07.049Z",
+  "updatedAt": "2026-10-10T12:59:44.099Z",
   "items": [
+    {
+      "id": "fb-f6462f673640",
+      "kind": "news",
+      "lang": "en",
+      "title": "In JBC press| Regulation of Müller glial reprogramming by the stress response protein REDD1 and its limitations in preventing retinal…",
+      "summary": "degeneration",
+      "link": "https://www.facebook.com/asbmb/posts/pfbid02gsPg8qLRxGnf1tbCgo37xTRmNLnGHFAvYtEzCB9uwHVojuBvaKZCLmE2Dqq6NJn8l",
+      "source": "Facebook ASBMB",
+      "category": "인기",
+      "publishedAt": "2026-10-10T12:02:33.452Z",
+      "thumb": "/social/fb/fb-f6462f673640.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-10T12:59:44.099Z",
+      "titleKo": "JBC 언론에서 | Regulation of Müller glial reprogramming by the stress response protein REDD1 and its limitations in preventing retinal…",
+      "summaryKo": "퇴화",
+      "translator": "google"
+    },
     {
       "id": "fb-fb163e1df0c0",
       "kind": "news",
@@ -16,6 +33,23 @@
       "collectedAt": "2026-10-09T20:59:51.459Z",
       "titleKo": "ASHG 저자의 통찰력: 출판을 통해 인간 유전학을 발전시킵니다.",
       "summaryKo": "AJHG 저자이자 연구원인 Sarah Vergult 박사를 만나보세요",
+      "translator": "google"
+    },
+    {
+      "id": "fb-7f8d3857290c",
+      "kind": "news",
+      "lang": "en",
+      "title": "Looking for the research that matters most to you?",
+      "summary": "",
+      "link": "https://www.facebook.com/societyforneuroscience/posts/pfbid02NmSnR9g4mdzvjS3NDRH6E8ZHbahw5wbtBETjHQQsxGrAVkA4fRnNXGRp7BJqMyZMl",
+      "source": "Facebook Society for Neuroscience",
+      "category": "인기",
+      "publishedAt": "2026-10-09T19:59:44.003Z",
+      "thumb": "/social/fb/fb-7f8d3857290c.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-10T12:59:44.099Z",
+      "titleKo": "당신에게 가장 중요한 연구를 찾고 계십니까?",
+      "summaryKo": "",
       "translator": "google"
     },
     {
@@ -493,7 +527,7 @@
       ],
       "collectedAt": "2026-10-09T15:59:48.926Z",
       "titleKo": "글쎄, 우리는 유사분열 비디오를 업데이트했고 이제 업데이트된 감수분열 비디오를 공개할 시간이었습니다!",
-      "summaryKo": "scr을 찾을 수 있습니다.",
+      "summaryKo": "scr을 찾으면 됩니다.",
       "translator": "google"
     },
     {

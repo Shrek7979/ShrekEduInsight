@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-10-10T11:56:51.684Z",
+  "updatedAt": "2026-10-10T12:57:17.877Z",
   "items": [
+    {
+      "id": "a87ac692b46c",
+      "kind": "news",
+      "lang": "ko",
+      "title": "바다 건너 한 교실로…인천 섬마을 꼬마 과학자들, 특별한 과학수업",
+      "summary": "서해 최북단 백령도부터 연평도, 대청도, 덕적도, 자월도까지",
+      "detail": "서해 최북단 백령도부터 연평도, 대청도, 덕적도, 자월도까지. 바다를 사이에 두고 떨어져 사는 섬마을 어린이들이 매주 화요일 한 교실에 모였다. 배를 타고 이동한 것은 아니다. 각자의 자리에서 노트북 화면으로 서로를 연결하고 과학 원리를 배웠다.",
+      "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3037080",
+      "source": "기호일보",
+      "image": "http://www.bing.com/th?id=ONUT.JwFWRfUmlFLv9exdc3IbJA&pid=News",
+      "category": "교육",
+      "publishedAt": "2026-10-09T19:07:00.000Z",
+      "collectedAt": "2026-10-10T12:57:17.877Z",
+      "thumb": "/thumbs/a87ac692b46c.jpg"
+    },
     {
       "id": "da79774b10ad",
       "kind": "news",
@@ -2461,20 +2476,6 @@
       "publishedAt": "2026-10-07T19:21:00.000Z",
       "collectedAt": "2026-10-08T08:13:56.046Z",
       "thumb": "/thumbs/e84de514cc7d.png"
-    },
-    {
-      "id": "a316bbdeb32d",
-      "kind": "news",
-      "lang": "ko",
-      "title": "유전자 하나로 세 가지 항암효과··· 유방암 성장·전이 억제에 암세포 포식까지 촉진",
-      "summary": "전체 유방암 중 약 20%를 차지하는 ‘삼중음성유방암’은 쓸 수 있는 표적치료제가 한정적이어서…",
-      "detail": "전체 유방암 중 약 20%를 차지하는 ‘삼중음성유방암’은 쓸 수 있는 표적치료제가 한정적이어서 치료가 어려웠다. 이 유형의 유방암에 몸속에 원래 존재하는 유전자 하나를 전달해 암세포의 성장·전이를 억제하면서 암세포를 잡아먹는 대식세포의 기능까지…",
-      "link": "https://www.khan.co.kr/article/202610081619011",
-      "source": "경향신문",
-      "category": "의학·바이오",
-      "publishedAt": "2026-10-07T19:19:00.000Z",
-      "collectedAt": "2026-10-08T08:13:56.046Z",
-      "thumb": "/thumbs/a316bbdeb32d.png"
     }
   ]
 }
