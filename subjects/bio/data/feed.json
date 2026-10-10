@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-10-10T15:57:31.014Z",
+  "updatedAt": "2026-10-10T16:57:26.175Z",
   "items": [
+    {
+      "id": "bsky-3mxjuigmkap2y",
+      "kind": "news",
+      "lang": "en",
+      "title": "Visualizing RNA dynamics in living plant cells at single transcript resolution is limited by high background fluorescence.",
+      "summary": "This study develops a high signal-to-noise imaging…",
+      "link": "https://bsky.app/profile/plosbiology.org/post/3mxjuigmkap2y",
+      "source": "Bluesky PLOS Biology",
+      "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:5522ztebtekoor5efelihqhb/bafkreidt646zratkrkqfwxepl5ydlzu2mlkxumr6iqqjljjc22ebxidso4",
+      "likes": "10",
+      "category": "인기",
+      "publishedAt": "2026-10-10T16:03:57.757Z",
+      "collectedAt": "2026-10-10T16:57:26.175Z",
+      "titleKo": "단일 전사체 해상도에서 살아있는 식물 세포의 RNA 역학을 시각화하는 것은 높은 배경 형광으로 인해 제한됩니다.",
+      "summaryKo": "이 연구는 높은 신호 대 잡음비 이미징을 개발합니다…",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxjuigmkap2y.webp"
+    },
+    {
+      "id": "a316bbdeb32d",
+      "kind": "news",
+      "lang": "ko",
+      "title": "유전자 하나로 세 가지 항암효과··· 유방암 성장·전이 억제에 암세포 포식까지 촉진",
+      "summary": "전체 유방암 중 약 20%를 차지하는 ‘삼중음성유방암’은 쓸 수 있는 표적치료제가 한정적이어서…",
+      "detail": "전체 유방암 중 약 20%를 차지하는 ‘삼중음성유방암’은 쓸 수 있는 표적치료제가 한정적이어서 치료가 어려웠다. 이 유형의 유방암에 몸속에 원래 존재하는 유전자 하나를 전달해 암세포의 성장·전이를 억제하면서 암세포를 잡아먹는 대식세포의 기능까지…",
+      "link": "https://www.khan.co.kr/article/202610081619011",
+      "source": "경향신문",
+      "category": "의학·바이오",
+      "publishedAt": "2026-10-08T09:19:00.000Z",
+      "collectedAt": "2026-10-10T16:57:26.175Z",
+      "thumb": "/thumbs/a316bbdeb32d.png"
+    },
     {
       "id": "7de5f1c439ce",
       "kind": "news",
@@ -2444,40 +2476,6 @@
       "publishedAt": "2026-10-05T15:39:00.000Z",
       "collectedAt": "2026-10-08T08:24:10.301Z",
       "thumb": "/thumbs/6d79e4683790.jpg"
-    },
-    {
-      "id": "bsky-3mxdys7antq2v",
-      "kind": "news",
-      "lang": "en",
-      "title": "Researchers often select antibodies based on previous use or peer recommendations.",
-      "summary": "This study shows that poor validation contributes to…",
-      "link": "https://bsky.app/profile/plosbiology.org/post/3mxdys7antq2v",
-      "source": "Bluesky PLOS Biology",
-      "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:5522ztebtekoor5efelihqhb/bafkreiflakhuomkpshdzyvcwn3tzb45ox7r5kidschxddkx7erahgz2ulq",
-      "category": "인기",
-      "publishedAt": "2026-10-08T08:05:02.123Z",
-      "collectedAt": "2026-10-08T08:13:56.046Z",
-      "titleKo": "연구자들은 종종 이전 사용이나 동료 권장 사항을 기반으로 항체를 선택합니다.",
-      "summaryKo": "이 연구는 잘못된 검증이 다음 사항에 기여한다는 것을 보여줍니다",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mxdys7antq2v.webp"
-    },
-    {
-      "id": "bsky-3mxdylixkxe2y",
-      "kind": "news",
-      "lang": "en",
-      "title": "Analysis of cancer mutations introduced into the <i>Drosophila melanogaster</i> Notch…",
-      "summary": "negative regulatory region uncovers a diversity of…",
-      "link": "https://bsky.app/profile/elife.bsky.social/post/3mxdylixkxe2y",
-      "source": "Bluesky eLife",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4irghgzlsjk6ugrekoqyl7km/bafkreiaqpl3kxdxpdh42t37jpcpsccmcb7n656beigdtvecp747knudahi",
-      "category": "인기",
-      "publishedAt": "2026-10-08T08:01:17.324Z",
-      "collectedAt": "2026-10-08T08:13:56.046Z",
-      "titleKo": "<i>Drosophila melanogaster</i> Notch에 도입된 암 돌연변이 분석…",
-      "summaryKo": "부정적인 규제 지역은 다양한 것을 발견합니다…",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mxdylixkxe2y.webp"
     }
   ]
 }
