@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-10-10T08:57:12.363Z",
+  "updatedAt": "2026-10-10T09:57:32.541Z",
   "items": [
+    {
+      "id": "e77db94729ff",
+      "kind": "news",
+      "lang": "ko",
+      "title": "정밀의료 표적 찾았는데도 반응은 왜 다를까 유전체 치료 반응률 7.0%에 그쳐",
+      "summary": "A",
+      "detail": "A. 연구 브리핑정밀 종양학은 암세포의 분자적 특징을 찾아 이에 맞는 치료제를 선택하는 방식이다. 만성골수성백혈병, 유방암, 비소세포폐암, NTRK 융합 양성 암 등에서는 특정 유전자 변화와 표적 치료제가 연결돼 큰 효과가 나타난 사례가 있다.[1]…",
+      "link": "https://www.msn.com/ko-kr/%EA%B3%BC%ED%95%99/%EC%83%9D%ED%99%94%ED%95%99/%EC%A0%95%EB%B0%80%EC%9D%98%EB%A3%8C-%ED%91%9C%EC%A0%81-%EC%B0%BE%EC%95%98%EB%8A%94%EB%8D%B0%EB%8F%84-%EB%B0%98%EC%9D%91%EC%9D%80-%EC%99%9C-%EB%8B%A4%EB%A5%BC%EA%B9%8C-%EC%9C%A0%EC%A0%84%EC%B2%B4-%EC%B9%98%EB%A3%8C-%EB%B0%98%EC%9D%91%EB%A5%A0-7-0-%EC%97%90-%EA%B7%B8%EC%B3%90/ar-AA2dWQyp",
+      "source": "HiDoc",
+      "image": "http://www.bing.com/th?id=ONUT.Qv_wcpC3KIVTcVYiI6CFww&pid=News",
+      "category": "의학·바이오",
+      "publishedAt": "2026-10-10T01:15:00.000Z",
+      "collectedAt": "2026-10-10T09:57:32.541Z",
+      "thumb": "/thumbs/e77db94729ff.jpg"
+    },
+    {
+      "id": "be2c4747bdb2",
+      "kind": "news",
+      "lang": "en",
+      "title": "An extinct crocodilian was found among rocks that built the Great Sphinx",
+      "summary": "Herugavialis is the new name for a fossil found in the…",
+      "detail": "Herugavialis is the new name for a fossil found in the same rocks that built the Great Sphinx. The reptile is a unique branch of the…",
+      "link": "https://www.sciencenews.org/article/extinct-crocodilian-rocks-great-sphinx",
+      "source": "Science News",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/091826_JB_ancientcroc_main.jpg?w=800",
+      "category": "해외",
+      "publishedAt": "2026-10-06T23:05:00.000Z",
+      "collectedAt": "2026-10-10T09:57:32.541Z",
+      "titleKo": "대스핑크스를 만든 암석에서 멸종된 악어가 발견되었습니다",
+      "summaryKo": "헤루가비알리스(Herugavialis)는 이 지역에서 발견된 화석의 새로운 이름입니다",
+      "translator": "google",
+      "detailKo": "Herugavialis는 대스핑크스를 만든 동일한 암석에서 발견된 화석의 새로운 이름입니다. 파충류는 파충류의 독특한 가지입니다…",
+      "thumb": "/thumbs/be2c4747bdb2.webp"
+    },
     {
       "id": "1afcdb90621b",
       "kind": "news",
@@ -2440,35 +2474,6 @@
       "publishedAt": "2026-10-07T17:15:00.000Z",
       "collectedAt": "2026-10-08T08:13:56.046Z",
       "thumb": "/thumbs/346292fb1f05.jpg"
-    },
-    {
-      "id": "d47eb929bef1",
-      "kind": "news",
-      "lang": "ko",
-      "title": "\"지하철 1호선 신종 빌런 등장\" 출입문에 폰 세워두고 춤추며 촬영",
-      "summary": "한눈에 보는 오늘 : 사회 - 뉴스 : 서울 지하철 1호선에서 출입문 앞에 휴대전화를 세워놓고…",
-      "detail": "한눈에 보는 오늘 : 사회 - 뉴스 : 서울 지하철 1호선에서 출입문 앞에 휴대전화를 세워놓고 노래에 맞춰 춤을 추는 한 승객의 모습이 포착됐다. 지난 7일 JTBC '사건반장'에서는 최근 지하철 1호선에서 황당한 장면을 목격했다는 제보가 소개됐다.…",
-      "link": "https://news.nate.com/view/20261008n14286",
-      "source": "네이트 뉴스",
-      "image": "http://www.bing.com/th?id=ONUT.JnYRsAmbhHXSl1NEAIp-sg&pid=News",
-      "category": "생태·환경",
-      "publishedAt": "2026-10-07T14:27:00.000Z",
-      "collectedAt": "2026-10-08T08:13:56.046Z",
-      "thumb": "/thumbs/d47eb929bef1.jpg"
-    },
-    {
-      "id": "9108204cfff7",
-      "kind": "news",
-      "lang": "ko",
-      "title": "알지노믹스, 국제학술대회서 ‘촉매 기반 RNA 교정’ 기술 경쟁력 공개",
-      "summary": "알지노믹스, 국제학술대회서 ‘촉매 기반 RNA 교정’ 기술 경쟁력 공개, 한국분자·세포생물학회…",
-      "detail": "알지노믹스, 국제학술대회서 ‘촉매 기반 RNA 교정’ 기술 경쟁력 공개, 한국분자·세포생물학회 ‘2026 KSMCB 국제학술대회’서 발표 이성욱 대표, RNA 치료제 차별점·파이프라인·사업화 전략 소개 ...",
-      "link": "https://www.hankyung.com/article/202610080347i",
-      "source": "한국경제",
-      "category": "대회·행사",
-      "publishedAt": "2026-10-07T13:13:00.000Z",
-      "collectedAt": "2026-10-08T08:13:56.046Z",
-      "thumb": "/thumbs/9108204cfff7.jpg"
     }
   ]
 }
