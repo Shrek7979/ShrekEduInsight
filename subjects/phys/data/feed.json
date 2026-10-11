@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-10-11T01:49:35.397Z",
+  "updatedAt": "2026-10-11T01:57:08.704Z",
   "items": [
+    {
+      "id": "0431fa350814",
+      "kind": "news",
+      "lang": "ko",
+      "title": "GIST-日 RIKEN, 양자 과학 공동연구 '글로벌 파트너랩' 출범",
+      "summary": "이창우 기자 = 광주과학기술원(GIST)에 자리한 기초과학연구원(IBS) 양자 변환 연구단이 일본…",
+      "detail": "이창우 기자 = 광주과학기술원(GIST)에 자리한 기초과학연구원(IBS) 양자 변환 연구단이 일본 이화학연구소(RIKEN)와 양자 과학 분야 장기 국제공동연구를 위한 협력연구실을 출범시켰다. 양측의 정밀 공간 계측과 초고속 시간 계측 기술을 결합해…",
+      "link": "https://www.fnnews.com/news/202610081326021612",
+      "source": "파이낸셜뉴스",
+      "image": "http://www.bing.com/th?id=ONUT.ShGdJod32UA5J1Ff_dUC8Q&pid=News",
+      "category": "양자·첨단",
+      "publishedAt": "2026-10-08T06:26:00.000Z",
+      "collectedAt": "2026-10-11T01:57:08.704Z",
+      "thumb": "/thumbs/0431fa350814.jpg"
+    },
     {
       "id": "174ccc46e5f3",
       "kind": "news",
@@ -2484,24 +2499,6 @@
       "publishedAt": "2026-10-07T12:14:00.000Z",
       "collectedAt": "2026-10-08T07:17:24.498Z",
       "thumb": "/thumbs/2e3fcb14dbfd.jpg"
-    },
-    {
-      "id": "bsky-3mxd5xugro32t",
-      "kind": "news",
-      "lang": "en",
-      "title": "Every telescope during the century before 1980 used glass plate photography.",
-      "summary": "Stored in stable conditions and not piled up with…",
-      "link": "https://bsky.app/profile/quantamagazine.org/post/3mxd5xugro32t",
-      "source": "Bluesky Quanta Magazine",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vfktz6qe6vy7serr3wqutpzt/bafkreigckpep4l6l2tdhv5zjqr6uujxs2qqnd627mt3qk4ycn6iqjyrpry",
-      "likes": "13",
-      "category": "인기",
-      "publishedAt": "2026-10-08T00:05:01.261Z",
-      "collectedAt": "2026-10-08T00:56:54.973Z",
-      "titleKo": "1980년 이전 세기의 모든 망원경은 유리판 사진을 사용했습니다.",
-      "summaryKo": "안정된 상태로 보관하고 쌓이지 않게…",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mxd5xugro32t.webp"
     }
   ]
 }

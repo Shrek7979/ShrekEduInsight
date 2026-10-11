@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-10-11T01:49:35.424Z",
+  "updatedAt": "2026-10-11T01:57:08.794Z",
   "items": [
+    {
+      "id": "8d69a65fda7b",
+      "kind": "news",
+      "lang": "ko",
+      "title": "\"신규 암 환자 8명 중 1명은 바이러스·세균 탓\"",
+      "summary": "전세계에서 새롭게 발생하는 암 환자 8명 중 1명은 바이러스나 세균 등 '감염병'이 원인인 것으로…",
+      "detail": "전세계에서 새롭게 발생하는 암 환자 8명 중 1명은 바이러스나 세균 등 '감염병'이 원인인 것으로 나타났다. 백신이나 치료제로 미리 막을 수 있는 암이 전 세계에서 연간 230만 건 이상 발생하는 셈이다.세계보건기구(WHO) 산하…",
+      "link": "https://zdnet.co.kr/view/?no=20261011093759",
+      "source": "지디넷코리아",
+      "category": "의학·바이오",
+      "publishedAt": "2026-10-10T13:08:00.000Z",
+      "collectedAt": "2026-10-11T01:57:08.794Z",
+      "thumb": "/thumbs/8d69a65fda7b.jpg"
+    },
+    {
+      "id": "716b10a35bc2",
+      "kind": "news",
+      "lang": "ko",
+      "title": "요즘 난리 난 한글날 기념! <알고보면 재미있는 한글이름 생물>",
+      "summary": "다가오는 10월 9일은 한글을 기념하는 한글날입니다!",
+      "detail": "다가오는 10월 9일은 한글을 기념하는 한글날입니다! 그런데 우리 주변의 생물 이름을 살펴보면 생김새나 특징을 재미있게 담아낸 이름부터 이름에 얽힌 흥미로운 이야기가 있는 경우까지! 다양한 우리말 이름을 만나볼 수 있는데요~ 오늘은 한글날을 맞아…",
+      "link": "https://blog.naver.com/nibr_bio/224435508363?fromRss=true&trackingCode=rss",
+      "source": "네이버 블로그 국립생물자원관",
+      "category": "인기",
+      "publishedAt": "2026-10-08T09:29:45.000Z",
+      "collectedAt": "2026-10-11T01:57:08.794Z",
+      "thumb": "/thumbs/716b10a35bc2.png"
+    },
     {
       "id": "97f5aaa2d011",
       "kind": "news",
@@ -2455,36 +2483,6 @@
       "publishedAt": "2026-10-08T02:10:00.000Z",
       "collectedAt": "2026-10-08T10:57:28.143Z",
       "thumb": "/thumbs/f6f998748ab4.jpg"
-    },
-    {
-      "id": "a5435d11cf91",
-      "kind": "news",
-      "lang": "ko",
-      "title": "RNA·유전자 통한 이상운동질환 치료 개발·연구 활발",
-      "summary": "이상운동질환 치료에 RNA 간섭(RNAi), 안티센스 올리고뉴클레오타이드(ASO) 등 RNA…",
-      "detail": "이상운동질환 치료에 RNA 간섭(RNAi), 안티센스 올리고뉴클레오타이드(ASO) 등 RNA 치료제와 유전자 대체·유전자편집을 포함한 유전자 치료 활용이 시도되고 있다. 파킨슨병에서는 SNCA를 겨냥한 RNAi가 임상 1상에 진입했고, 희귀질환에서는…",
-      "link": "https://www.medipana.com/news/articleView.html?idxno=418936",
-      "source": "메디파나 뉴스",
-      "image": "http://www.bing.com/th?id=ONUT.-YVKKweCEMtJ_IPbWtWvSg&pid=News",
-      "category": "의학·바이오",
-      "publishedAt": "2026-10-08T00:04:00.000Z",
-      "collectedAt": "2026-10-08T09:57:29.425Z",
-      "thumb": "/thumbs/a5435d11cf91.png"
-    },
-    {
-      "id": "9f177bcef862",
-      "kind": "news",
-      "lang": "ko",
-      "title": "국립청소년우주센터·고흥교육지원청 맞손…우주과학 교육·진로체험 확대",
-      "summary": "송주원 기자 = 한국청소년활동진흥원이 운영하는 국립청소년우주센터는 전남 고흥교육지원청과 지역…",
-      "detail": "송주원 기자 = 한국청소년활동진흥원이 운영하는 국립청소년우주센터는 전남 고흥교육지원청과 지역 교육혁신 및 청소년 교육 기회 확대를 위한 업무협약을 체결했다고 8일 밝혔다.이번 협약은 고흥지역의 교육 여건과 특성을 반영한 교육혁신 모델을 개발하고 ...",
-      "link": "https://www.newspim.com/news/view/20261008000234",
-      "source": "뉴스핌",
-      "image": "http://www.bing.com/th?id=ONUT.L0ZaKNpgwfhaPk7oBtzSdQ&pid=News",
-      "category": "대회·행사",
-      "publishedAt": "2026-10-07T13:46:00.000Z",
-      "collectedAt": "2026-10-08T09:57:29.425Z",
-      "thumb": "/thumbs/9f177bcef862.png"
     }
   ]
 }
