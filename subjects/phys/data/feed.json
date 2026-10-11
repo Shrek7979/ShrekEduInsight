@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-10T23:57:39.836Z",
+  "updatedAt": "2026-10-11T00:57:26.709Z",
   "items": [
+    {
+      "id": "cea04d0f8e36",
+      "kind": "news",
+      "lang": "ko",
+      "title": "후발주자였던 대한민국이 무모한 도전을 거쳐 세계 최상위 기술 보유국이 되기까지, 인공 태양 핵융합 기술 발전의 놀라운 비밀 ...",
+      "summary": "“AI에 필요한 전기, 감당할 수 있을까요?” AI 기술이 확산할수록 전력 수요도 폭발적으로 늘고…",
+      "detail": "“AI에 필요한 전기, 감당할 수 있을까요?” AI 기술이 확산할수록 전력 수요도 폭발적으로 늘고 있다. 특히 AI 데이터센터 하나가 도시 하나의 전력 소비량과 맞먹는다는 분석까지 나오며 전력 공급에 대한 우려가 커지고 있다. 하지만 이를 해결할…",
+      "link": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%ED%9B%84%EB%B0%9C%EC%A3%BC%EC%9E%90%EC%98%80%EB%8D%98-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%B4-%EB%AC%B4%EB%AA%A8%ED%95%9C-%EB%8F%84%EC%A0%84%EC%9D%84-%EA%B1%B0%EC%B3%90-%EC%84%B8%EA%B3%84-%EC%B5%9C%EC%83%81%EC%9C%84-%EA%B8%B0%EC%88%A0-%EB%B3%B4%EC%9C%A0%EA%B5%AD%EC%9D%B4-%EB%90%98%EA%B8%B0%EA%B9%8C%EC%A7%80-%EC%9D%B8%EA%B3%B5-%ED%83%9C%EC%96%91-%ED%95%B5%EC%9C%B5%ED%95%A9-%EA%B8%B0%EC%88%A0-%EB%B0%9C%EC%A0%84%EC%9D%98-%EB%86%80%EB%9D%BC%EC%9A%B4-%EB%B9%84%EB%B0%80-%EB%AA%B0%EC%95%84%EB%B3%BC%EA%B5%90%EC%96%91/vi-AA2dBckr",
+      "source": "EBS 교양",
+      "category": "양자·첨단",
+      "publishedAt": "2026-10-05T03:00:08.000Z",
+      "collectedAt": "2026-10-11T00:57:26.709Z",
+      "thumb": "/thumbs/cea04d0f8e36.png"
+    },
     {
       "id": "09c1f834a010",
       "kind": "video",
@@ -2491,21 +2505,6 @@
       "publishedAt": "2026-10-07T12:01:00.000Z",
       "collectedAt": "2026-10-08T00:56:54.973Z",
       "thumb": "/thumbs/c3b632cf1244.png"
-    },
-    {
-      "id": "d231780ec545",
-      "kind": "news",
-      "lang": "ko",
-      "title": "자파타 퀀텀, IBM 네트워크 합류…양자 응용 개발 협력 확대",
-      "summary": "양자컴퓨팅 기업 자파타 퀀텀(Zapata Quantum)이 아이비엠(IBM)의 양자컴퓨팅 생태계에…",
-      "detail": "양자컴퓨팅 기업 자파타 퀀텀(Zapata Quantum)이 아이비엠(IBM)의 양자컴퓨팅 생태계에 합류해 실제 산업과 연구 분야에서 활용할 수 있는 양자 응용 분야 발굴과 개발에 나선다. 자파타 퀀텀은 아이비엠의 양자컴퓨터와 자사가 축적한 활용 사례…",
-      "link": "https://www.quantumtimes.net/news/articleView.html?idxno=57103",
-      "source": "quantumtimes",
-      "image": "http://www.bing.com/th?id=ONUT.aewKNkMqr1wnnYxqW-2xfA&pid=News",
-      "category": "양자·첨단",
-      "publishedAt": "2026-10-07T11:40:00.000Z",
-      "collectedAt": "2026-10-08T00:56:54.973Z",
-      "thumb": "/thumbs/d231780ec545.jpg"
     }
   ]
 }
