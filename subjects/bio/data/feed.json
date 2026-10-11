@@ -1,6 +1,35 @@
 {
-  "updatedAt": "2026-10-11T02:57:24.638Z",
+  "updatedAt": "2026-10-11T03:57:23.214Z",
   "items": [
+    {
+      "id": "5fe7213b9470",
+      "kind": "news",
+      "lang": "ko",
+      "title": "멸종위기종 거북, 100살 나이에 첫 번식 성공",
+      "summary": "마미는 100살의 나이에 첫 번식에 성공했다",
+      "detail": "마미는 100살의 나이에 첫 번식에 성공했다. 해당 거북 종 중 가장 나이가 많은 초산 개체로 기록되기도 했다. 마미의 짝인 수컷 거북 '아브라조'도 100살에 가까운 나이로 추정되고 있다. 두 거북은 2022년 처음 짝짓기를 시도했는데, 세 차례…",
+      "link": "https://view.asiae.co.kr/article/2026100818591197228",
+      "source": "아시아경제",
+      "image": "http://www.bing.com/th?id=ONUT.mKC1lC7YvMi2u3Qasl8jCw&pid=News",
+      "category": "생태·환경",
+      "publishedAt": "2026-10-08T12:14:00.000Z",
+      "collectedAt": "2026-10-11T03:57:23.214Z",
+      "thumb": "/thumbs/5fe7213b9470.jpg"
+    },
+    {
+      "id": "f6f998748ab4",
+      "kind": "news",
+      "lang": "ko",
+      "title": "지구 거대 철광층 비밀 밝혔다...이유는 남극 해저 퇴적물 속 미생물",
+      "summary": "지구 표면에서 가장 흔히 발견되는 금속이자, 거대한 층을 이루고 있는 철",
+      "detail": "지구 표면에서 가장 흔히 발견되는 금속이자, 거대한 층을 이루고 있는 철. 하지만 어떤 이유에서 막대한 철광층이 만들어졌는지 수수께끼가 풀리지 않았던 가운데 그 비밀을 국내연구진이 빛이 닿지 않는 남극 빙붕 아래에서 규명해냈다.고대 지구에서 막대한…",
+      "link": "http://www.hellodd.com/news/articleView.html?idxno=113414",
+      "source": "헬로디디",
+      "category": "연구",
+      "publishedAt": "2026-10-08T02:10:00.000Z",
+      "collectedAt": "2026-10-11T03:57:23.214Z",
+      "thumb": "/thumbs/f6f998748ab4.jpg"
+    },
     {
       "id": "2aa638c26b8f",
       "kind": "video",
@@ -2456,35 +2485,6 @@
       "publishedAt": "2026-10-07T08:57:00.000Z",
       "collectedAt": "2026-10-08T13:57:53.184Z",
       "thumb": "/thumbs/573d5d183333.jpg"
-    },
-    {
-      "id": "fc897ff895bf",
-      "kind": "news",
-      "lang": "ko",
-      "title": "'빛으로 뇌세포 조절' 과학자 3명 노벨 생리의학상",
-      "summary": "빛으로 세포의 활동을 조절하는 '광유전학'을 개척한 미국과 독일 과학자 3명이 올해 노벨…",
-      "detail": "빛으로 세포의 활동을 조절하는 '광유전학'을 개척한 미국과 독일 과학자 3명이 올해 노벨 생리의학상을 받는다.스웨덴 카롤린스카 연구소 노벨위원회는 5일(현지시간) 칼 다이서로스 미국 스탠퍼드대 교수, 페터 헤게만 독일 베를린 훔볼트대 교수, 게오르크…",
-      "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=246247",
-      "source": "세이프타임즈",
-      "image": "http://www.bing.com/th?id=ONUT.LXSGmnbO_pW1s4jT39rQ-A&pid=News",
-      "category": "의학·바이오",
-      "publishedAt": "2026-10-06T06:27:00.000Z",
-      "collectedAt": "2026-10-08T12:57:26.924Z",
-      "thumb": "/thumbs/fc897ff895bf.jpg"
-    },
-    {
-      "id": "52bedbbbec6a",
-      "kind": "news",
-      "lang": "ko",
-      "title": "거제도 흙 속에서 발견된 신종 생물...이름은 '한국애지네'",
-      "summary": "국립호남권생물자원관은 섬 지역 생물다양성 조사 과정에서 경남 거제도 토양에 서식하는 애지네류를…",
-      "detail": "국립호남권생물자원관은 섬 지역 생물다양성 조사 과정에서 경남 거제도 토양에 서식하는 애지네류를 신종으로 확인하고, '한국애지네'로 명명했다고 밝혔습니다. 애지네류는 몸길이가 2~8mm에 불과한 작은 절지동물입니다. 겉보기에는 지네를 닮았지만 입…",
-      "link": "https://news.ikbc.co.kr/article/view/kbc202610080044",
-      "source": "KBC광주방송",
-      "category": "생태·환경",
-      "publishedAt": "2026-10-07T18:37:00.000Z",
-      "collectedAt": "2026-10-08T11:57:37.850Z",
-      "thumb": "/thumbs/52bedbbbec6a.jpg"
     }
   ]
 }
