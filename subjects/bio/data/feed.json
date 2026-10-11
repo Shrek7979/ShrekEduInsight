@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-11T07:56:56.517Z",
+  "updatedAt": "2026-10-11T08:57:29.143Z",
   "items": [
+    {
+      "id": "991377382dfa",
+      "kind": "news",
+      "lang": "en",
+      "title": "Scientists accidentally discover a genetic code that breaks the rules of life",
+      "summary": "Scientists accidentally discovered a microscopic…",
+      "detail": "Scientists accidentally discovered a microscopic organism with a genetic code that breaks a rule researchers thought was nearly universal.…",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261007233136.htm",
+      "source": "ScienceDaily",
+      "category": "해외",
+      "publishedAt": "2026-10-08T13:31:39.000Z",
+      "collectedAt": "2026-10-11T08:57:29.143Z",
+      "titleKo": "과학자들이 우연히 생명의 규칙을 어기는 유전암호를 발견했습니다.",
+      "summaryKo": "과학자들이 우연히 미세한 것을 발견했습니다…",
+      "translator": "google",
+      "detailKo": "과학자들은 연구자들이 거의 보편적이라고 생각했던 규칙을 깨뜨리는 유전 암호를 가진 미세한 유기체를 우연히 발견했습니다.…",
+      "thumb": "/thumbs/991377382dfa.webp"
+    },
     {
       "id": "a4761dbebe56",
       "kind": "news",
@@ -2467,23 +2485,6 @@
       "publishedAt": "2026-10-08T01:51:00.000Z",
       "collectedAt": "2026-10-08T15:57:04.923Z",
       "thumb": "/thumbs/fbc99f917e7e.png"
-    },
-    {
-      "id": "e1a47382b76d",
-      "kind": "news",
-      "lang": "en",
-      "title": "Editorial Expression of Concern: Maternal gut bacteria promote neurodevelopmental…",
-      "summary": "",
-      "detail": "",
-      "link": "https://www.nature.com/articles/s41586-026-11070-w",
-      "source": "Nature",
-      "category": "해외",
-      "publishedAt": "2026-10-08T00:00:00.000Z",
-      "collectedAt": "2026-10-08T15:57:04.923Z",
-      "titleKo": "편집 우려 표현: 산모의 장내 세균이 신경 발달을 촉진합니다…",
-      "summaryKo": "",
-      "translator": "google",
-      "thumb": "/thumbs/e1a47382b76d.png"
     }
   ]
 }
