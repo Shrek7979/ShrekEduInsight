@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T12:00:01.711Z",
+  "updatedAt": "2026-10-11T12:59:34.831Z",
   "items": [
     {
       "id": "fb-c8ccab42dd50",
@@ -53,18 +53,18 @@
       "translator": "google"
     },
     {
-      "id": "fb-a7f083d470c0",
+      "id": "fb-0a1c8394e421",
       "kind": "news",
       "lang": "en",
       "title": "This year's Nobel Prize in Chemistry was awarded for research which helps chemists make just one of a molecule's pair of mirror images This…",
       "summary": "is hugely useful in making",
-      "link": "https://www.facebook.com/compoundchem/posts/pfbid02EvFvKfaXAdTVjc8hxRgpGREaQorHz39tYobUHqsTB1k97hYFoHvk7d35qsik1o8vl",
+      "link": "https://www.facebook.com/compoundchem/posts/pfbid0BNcjQVxAKQuiuq9mf9GJpdgqw6u9mDZp5qmzpktnoXf4qGJQjSM8rNZWdAdmeAWkl",
       "source": "Facebook Compound Interest",
       "category": "인기",
-      "publishedAt": "2026-10-08T12:58:58.588Z",
-      "thumb": "/social/fb/fb-a7f083d470c0.jpg",
+      "publishedAt": "2026-10-08T12:59:03.566Z",
+      "thumb": "/social/fb/fb-0a1c8394e421.jpg",
       "refs": [],
-      "collectedAt": "2026-10-10T12:59:30.839Z",
+      "collectedAt": "2026-10-11T12:59:34.831Z",
       "titleKo": "올해의 노벨 화학상은 화학자들이 분자의 거울상 쌍 중 하나만 만드는 데 도움을 주는 연구에 수여되었습니다. 이…",
       "summaryKo": "만드는데 엄청 유용해요",
       "translator": "google"
@@ -271,23 +271,6 @@
       "collectedAt": "2026-10-05T15:39:12.540Z",
       "titleKo": "이게 지금 내 경력인가요?",
       "summaryKo": "SciComm을 뒤로 하고 떠나야 합니까?",
-      "translator": "google"
-    },
-    {
-      "id": "fb-2a2ca9e9bedc",
-      "kind": "news",
-      "lang": "en",
-      "title": "NEW VIDEO",
-      "summary": "",
-      "link": "https://www.facebook.com/periodicvideos/posts/pfbid0Cj91eDc7pFBjUz2cmfyHK8czi31ZiwzLBkEnjBvbi3tcrRmVVpXdnLcmakQGjGaxl",
-      "source": "Facebook Periodic Videos",
-      "category": "인기",
-      "publishedAt": "2026-09-11T12:00:00.000Z",
-      "thumb": "/social/fb/fb-2a2ca9e9bedc.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-11T10:59:42.335Z",
-      "titleKo": "새 비디오",
-      "summaryKo": "",
       "translator": "google"
     }
   ]

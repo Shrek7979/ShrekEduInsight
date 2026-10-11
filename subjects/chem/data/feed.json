@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-11T11:57:37.722Z",
+  "updatedAt": "2026-10-11T12:57:25.454Z",
   "items": [
+    {
+      "id": "bsky-3mxlymcjmmc2x",
+      "kind": "news",
+      "lang": "en",
+      "title": "\"It’s time we rethink what outreach in organic chemistry can look like.",
+      "summary": "We often focus on K–12 students, as we should",
+      "link": "https://bsky.app/profile/cenmag.bsky.social/post/3mxlymcjmmc2x",
+      "source": "Bluesky C&EN",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u4u4yeik2uube2g6ov7wr35p/bafkreiads7xe2evon5n4wlcomxhtcnubayuj3jkqw6qivic27iwqzaumta",
+      "likes": "8",
+      "category": "인기",
+      "publishedAt": "2026-10-11T12:23:02.333Z",
+      "collectedAt": "2026-10-11T12:57:25.454Z",
+      "titleKo": "\"이제 우리는 유기화학 분야의 지원이 어떤 모습일 수 있는지 다시 생각해 볼 때입니다.",
+      "summaryKo": "우리는 종종 K-12 학생에게 초점을 맞춥니다",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxlymcjmmc2x.webp"
+    },
     {
       "id": "751c14202d9b",
       "kind": "news",
@@ -2454,21 +2472,6 @@
       "publishedAt": "2026-10-06T18:36:00.000Z",
       "collectedAt": "2026-10-07T08:23:55.386Z",
       "thumb": "/thumbs/9a914d7f32b1.jpg"
-    },
-    {
-      "id": "c04e8d52dbc4",
-      "kind": "news",
-      "lang": "ko",
-      "title": "울산과학대 화학공학과, 창의설계대회 7개 팀 수상",
-      "summary": "대전 도시철도 2호선 트램의 급전방식 등 주요 쟁점이 올해 안에 결론 날 수 있을지 관심이 쏠린다",
-      "detail": "대전 도시철도 2호선 트램의 급전방식 등 주요 쟁점이 올해 안에 결론 날 수 있을지 관심이 쏠린다. 허태정 대전시장이 민선 8기 당시 변경된 급전방식 등을 다시 점검한 뒤 가능한 연내 대전시의 입장을 정리해 발표하겠다는 뜻을 밝혔기 때문이다. 허…",
-      "link": "https://www.joongdo.co.kr/web/view.php?key=20261007010001729",
-      "source": "중도일보",
-      "image": "http://www.bing.com/th?id=ONUT.ZVg8wLbjigwigiO4jbbBfw&pid=News",
-      "category": "대회·행사",
-      "publishedAt": "2026-10-06T17:14:00.000Z",
-      "collectedAt": "2026-10-07T08:23:55.386Z",
-      "thumb": "/thumbs/c04e8d52dbc4.jpg"
     }
   ]
 }
