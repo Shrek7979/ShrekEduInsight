@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-10-11T20:57:33.153Z",
+  "updatedAt": "2026-10-11T21:57:55.249Z",
   "items": [
+    {
+      "id": "df55742467a9",
+      "kind": "news",
+      "lang": "ko",
+      "title": "화학물질 사고에도 안심할 수 있도록… 대구시, 현장 제염·제독 훈련 실시",
+      "summary": "[정필=양건영 의학전문기자 kspa@jeongpil.com] 대구광역시는 지난 10월 8일…",
+      "detail": "[정필=양건영 의학전문기자 kspa@jeongpil.com] 대구광역시는 지난 10월 8일 대구소방교육훈련센터에서 ‘2026년 화학재난 대비 제염·제독 훈련’을 실시했다. 대구시가 주최하고 경북대학교병원이 주관한 이번 훈련은 화학물질 누출 사고 발생…",
+      "link": "http://jeongpil.com/2707036",
+      "source": "정필",
+      "image": "http://www.bing.com/th?id=ONUT.gVAiaLKO4yirEf6aKv5HCA&pid=News",
+      "category": "환경·안전",
+      "publishedAt": "2026-10-10T22:22:00.000Z",
+      "collectedAt": "2026-10-11T21:57:55.249Z",
+      "thumb": "/thumbs/df55742467a9.jpg"
+    },
     {
       "id": "bsky-3mxmkulihzc2x",
       "kind": "news",
@@ -2460,21 +2475,6 @@
       "translator": "google",
       "detailKo": "OpenSauce 2026에서 촬영됨 @sauceplusofficial @ExtractionsAndIre",
       "thumb": "/thumbs/5baef2633a7a.jpg"
-    },
-    {
-      "id": "c41051d73b8c",
-      "kind": "news",
-      "lang": "ko",
-      "title": "[과기원NOW] UNIST, 그린수소 생산단가 낮출 망간 촉매 개발 外",
-      "summary": "불법주정차 발생 건수를 최대 99% 줄이는 인공지능 (AI) 관리 시스템이 개발됐다",
-      "detail": "불법주정차 발생 건수를 최대 99% 줄이는 인공지능 (AI) 관리 시스템이 개발됐다. 단속 인력과 행정 업무 등에 드는 비용을 시스템 적용 지점 당 연간 약 2000만 원 절감할 수 있다. 한국건설기술연구원 (건설연)은 불법주정차를 실시간으로…",
-      "link": "https://www.dongascience.com/ko/news/80244",
-      "source": "동아사이언스",
-      "image": "http://www.bing.com/th?id=ONUT.cqmBsJMbuapuGGyvKlPN4A&pid=News",
-      "category": "소재·에너지",
-      "publishedAt": "2026-10-06T20:02:00.000Z",
-      "collectedAt": "2026-10-07T08:23:55.386Z",
-      "thumb": "/thumbs/c41051d73b8c.png"
     }
   ]
 }

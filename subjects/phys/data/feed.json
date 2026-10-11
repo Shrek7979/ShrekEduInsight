@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-11T20:57:33.153Z",
+  "updatedAt": "2026-10-11T21:57:55.071Z",
   "items": [
+    {
+      "id": "bsky-3mxmwiwqsy72n",
+      "kind": "news",
+      "lang": "en",
+      "title": "What processes ensure that a liver cell will stay a liver cell as it progresses through an organism’s development process?",
+      "summary": "How Does Life Unfold?",
+      "link": "https://bsky.app/profile/quantamagazine.org/post/3mxmwiwqsy72n",
+      "source": "Bluesky Quanta Magazine",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vfktz6qe6vy7serr3wqutpzt/bafkreifsrsdp4fd4icl3wcazhv6xwd3xcnaysak4o4rgaxcagjbppcrcoa",
+      "likes": "4",
+      "category": "인기",
+      "publishedAt": "2026-10-11T21:18:01.559Z",
+      "collectedAt": "2026-10-11T21:57:55.071Z",
+      "titleKo": "유기체의 발달 과정을 통해 간 세포가 진행되는 동안 간 세포가 간 세포로 유지되도록 보장하는 과정은 무엇입니까?",
+      "summaryKo": "인생은 어떻게 전개되는가?",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxmwiwqsy72n.webp"
+    },
     {
       "id": "02a007ecd142",
       "kind": "news",
@@ -2500,21 +2518,6 @@
       "publishedAt": "2026-10-07T17:15:00.000Z",
       "collectedAt": "2026-10-08T07:17:24.498Z",
       "thumb": "/thumbs/346292fb1f05.jpg"
-    },
-    {
-      "id": "4320193b9c38",
-      "kind": "news",
-      "lang": "ko",
-      "title": "광주과학고, 국제과학올림피아드서 금 4·은 1·동 1개 획득",
-      "summary": "광주과학고등학교가 올해 열린 화학·지구과학·천문 등 3개 국제올림피아드에서 금메달 4개와 은·동메달…",
-      "detail": "광주과학고등학교가 올해 열린 화학·지구과학·천문 등 3개 국제올림피아드에서 금메달 4개와 은·동메달 각각 1개씩을 획득, 개교 이래 최고 성적을 거뒀다고 8일 밝혔다. 광주과학고에 따르면 지난 7월 10일부터 19일까지 우즈베키스탄 ..",
-      "link": "https://www.fnnews.com/news/202610081325571730",
-      "source": "파이낸셜뉴스",
-      "image": "http://www.bing.com/th?id=ONUT.USBw1wZDQq4a8R4Rd1b1Jw&pid=News",
-      "category": "대회·행사",
-      "publishedAt": "2026-10-07T16:25:00.000Z",
-      "collectedAt": "2026-10-08T07:17:24.498Z",
-      "thumb": "/thumbs/4320193b9c38.jpg"
     }
   ]
 }
