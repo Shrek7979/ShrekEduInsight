@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T03:57:23.223Z",
+  "updatedAt": "2026-10-11T04:57:03.066Z",
   "items": [
     {
       "id": "bd686a49aab6",
@@ -15,59 +15,6 @@
       "publishedAt": "2026-10-10T15:32:00.000Z",
       "collectedAt": "2026-10-11T03:57:23.223Z",
       "thumb": "/thumbs/bd686a49aab6.jpg"
-    },
-    {
-      "id": "2bd72e4f6dd4",
-      "kind": "video",
-      "lang": "ko",
-      "title": "저라면 이 문제 풀고 들어갑니다 (수능 13번 대비)",
-      "summary": "",
-      "detail": "",
-      "link": "https://www.youtube.com/watch?v=JLFxJzdq1Kc",
-      "source": "수능수학 어피셜",
-      "image": "https://i3.ytimg.com/vi/JLFxJzdq1Kc/hqdefault.jpg",
-      "views": 30452,
-      "category": "인기",
-      "publishedAt": "2026-10-03T10:48:29.000Z",
-      "collectedAt": "2026-10-11T03:57:23.223Z",
-      "summaryKo": "",
-      "thumb": "/thumbs/2bd72e4f6dd4.jpg"
-    },
-    {
-      "id": "51feef5f1bf4",
-      "kind": "video",
-      "lang": "en",
-      "title": "The Phone Number puzzle",
-      "summary": "",
-      "detail": "",
-      "link": "https://www.youtube.com/shorts/ausLKMojXaY",
-      "source": "3Blue1Brown",
-      "image": "https://i2.ytimg.com/vi/ausLKMojXaY/hqdefault.jpg",
-      "views": 680792,
-      "category": "문제·증명",
-      "publishedAt": "2026-09-25T13:35:02.000Z",
-      "collectedAt": "2026-10-11T03:57:23.223Z",
-      "titleKo": "전화번호 퍼즐",
-      "summaryKo": "",
-      "translator": "google",
-      "thumb": "/thumbs/51feef5f1bf4.jpg"
-    },
-    {
-      "id": "6fbc43ff5b63",
-      "kind": "video",
-      "lang": "ko",
-      "title": "수능 전까지, 딱 이 3가지만 죽어라 하세요 (+추석특강)",
-      "summary": "",
-      "detail": "",
-      "link": "https://www.youtube.com/watch?v=VzMQKAQGavk",
-      "source": "수능수학 어피셜",
-      "image": "https://i3.ytimg.com/vi/VzMQKAQGavk/hqdefault.jpg",
-      "views": 25782,
-      "category": "인기",
-      "publishedAt": "2026-09-16T06:34:14.000Z",
-      "collectedAt": "2026-10-11T03:57:23.223Z",
-      "summaryKo": "",
-      "thumb": "/thumbs/6fbc43ff5b63.jpg"
     },
     {
       "id": "ef66cef27095",
