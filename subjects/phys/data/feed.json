@@ -1,6 +1,25 @@
 {
-  "updatedAt": "2026-10-11T17:57:01.121Z",
+  "updatedAt": "2026-10-11T18:57:23.346Z",
   "items": [
+    {
+      "id": "bsky-3mxmlh4aaeg2i",
+      "kind": "video",
+      "lang": "en",
+      "title": "Scientists are decoding the secrets of how water freezes.",
+      "summary": "",
+      "link": "https://bsky.app/profile/quantamagazine.org/post/3mxmlh4aaeg2i",
+      "source": "Bluesky Quanta Magazine",
+      "image": "https://video.bsky.app/watch/did%3Aplc%3Avfktz6qe6vy7serr3wqutpzt/bafkreife7d4dwxcpxb2tciwvzk7pljdvbssa5lhvgriwfesdzhb5ehp2ei/thumbnail.jpg",
+      "likes": "10",
+      "category": "인기",
+      "publishedAt": "2026-10-11T18:00:09.035Z",
+      "collectedAt": "2026-10-11T18:57:23.346Z",
+      "titleKo": "과학자들은 물이 어떻게 얼는지에 대한 비밀을 해독하고 있습니다.",
+      "summaryKo": "",
+      "translator": "google",
+      "detail": "",
+      "thumb": "/thumbs/bsky-3mxmlh4aaeg2i.jpg"
+    },
     {
       "id": "59f06d2372e1",
       "kind": "news",
@@ -2497,20 +2516,6 @@
       "publishedAt": "2026-10-07T15:44:00.000Z",
       "collectedAt": "2026-10-08T07:17:24.498Z",
       "thumb": "/thumbs/1f9323c9777d.jpg"
-    },
-    {
-      "id": "02a007ecd142",
-      "kind": "news",
-      "lang": "ko",
-      "title": "\"핵융합 원료 잡는다\"… 日 미레소, 베릴륨 설비 착공",
-      "summary": "일본 핵융합 스타트업 미레소가 차세대 발전에 필수인 희소금속 베릴륨을 연간 100톤 생산하기 위한…",
-      "detail": "일본 핵융합 스타트업 미레소가 차세대 발전에 필수인 희소금속 베릴륨을 연간 100톤 생산하기 위한 파일럿 설비 착공에 돌입했다. 일본 일간공업신문 뉴스위치는 8일 미레소가 아오모리현 대평양금속 부지에 시험 시설을 짓고 오는 2027년부터 저온 정제…",
-      "link": "https://www.g-enews.com/article/Global-Biz/2026/10/202610081210399974e7e8286d56_1",
-      "source": "글로벌이코노믹",
-      "category": "양자·첨단",
-      "publishedAt": "2026-10-07T15:13:00.000Z",
-      "collectedAt": "2026-10-08T07:17:24.498Z",
-      "thumb": "/thumbs/02a007ecd142.jpg"
     }
   ]
 }
