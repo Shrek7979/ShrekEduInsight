@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-10-11T21:57:55.071Z",
+  "updatedAt": "2026-10-11T22:57:22.893Z",
   "items": [
+    {
+      "id": "4d04d3bed3b9",
+      "kind": "news",
+      "lang": "ko",
+      "title": "광주과학고, 국제과학올림피아드 4명 메달…학교 역대 최다",
+      "summary": "광주과학고등학교 (교장 고준상)는 올해 열린 국제화학올림피아드 (IChO), 국제지구과학올림피아드…",
+      "detail": "광주과학고등학교 (교장 고준상)는 올해 열린 국제화학올림피아드 (IChO), 국제지구과학올림피아드 (IESO), 국제천문및천체물리올림피아드 (IOAA)에 한국 대표로 출전한 재학생 4명이 금메달 4개, 은메달 1개, 동메달 1개를 획득해 학교 역사상…",
+      "link": "https://www.ddnnews.kr/news/articleView.html?idxno=24560",
+      "source": "ddnnews.kr",
+      "image": "http://www.bing.com/th?id=ONUT.HeX4yo6dX-5qdvi395AZvQ&pid=News",
+      "category": "대회·행사",
+      "publishedAt": "2026-10-11T09:55:00.000Z",
+      "collectedAt": "2026-10-11T22:57:22.893Z",
+      "thumb": "/thumbs/4d04d3bed3b9.jpg"
+    },
     {
       "id": "bsky-3mxmwiwqsy72n",
       "kind": "news",
@@ -2504,20 +2519,6 @@
       "publishedAt": "2026-10-08T04:15:42.000Z",
       "collectedAt": "2026-10-08T07:17:24.498Z",
       "thumb": "/thumbs/e4220441bc68.jpg"
-    },
-    {
-      "id": "346292fb1f05",
-      "kind": "news",
-      "lang": "ko",
-      "title": "세계 무대서 메달 6개…광주과학고 새 역사",
-      "summary": "광주과학고 학생들이 올해 국제과학올림피아드에서 메달 6개를 거머쥐며 학교 수상 기록을 새로 썼다",
-      "detail": "광주과학고 학생들이 올해 국제과학올림피아드에서 메달 6개를 거머쥐며 학교 수상 기록을 새로 썼다. 화학과 지구과학, 천문·천체물리 등 서로 다른 분야에 출전한 학생 4명이 모두 메달을 획득하면서 개교 이래 가장 많은 국제올림피아드 수상 실적을…",
-      "link": "https://www.gjdream.com/news/articleView.html?idxno=673296",
-      "source": "광주드림",
-      "category": "대회·행사",
-      "publishedAt": "2026-10-07T17:15:00.000Z",
-      "collectedAt": "2026-10-08T07:17:24.498Z",
-      "thumb": "/thumbs/346292fb1f05.jpg"
     }
   ]
 }
