@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-10T23:02:34.151Z",
+  "updatedAt": "2026-10-10T23:57:39.688Z",
   "items": [
+    {
+      "id": "debbe23f23bc",
+      "kind": "video",
+      "lang": "ko",
+      "title": "놀랍게도 우리나라에 실존하는 생물입니다! 진짜 투망쳐서 사냥하는 괴생명체!!",
+      "summary": "",
+      "detail": "",
+      "link": "https://www.youtube.com/watch?v=bi-YI5_Dz_E",
+      "source": "TV생물도감",
+      "image": "https://i3.ytimg.com/vi/bi-YI5_Dz_E/hqdefault.jpg",
+      "views": 181840,
+      "category": "인기",
+      "publishedAt": "2026-10-03T02:00:07.000Z",
+      "collectedAt": "2026-10-10T23:57:39.688Z",
+      "summaryKo": "",
+      "thumb": "/thumbs/debbe23f23bc.jpg"
+    },
     {
       "id": "bsky-3mxkktroqpz2n",
       "kind": "news",
@@ -2471,20 +2488,6 @@
       "summaryKo": "헨리 B",
       "translator": "google",
       "thumb": "/thumbs/bsky-3mxc3dadcbs2z.webp"
-    },
-    {
-      "id": "664fa728a592",
-      "kind": "news",
-      "lang": "ko",
-      "title": "입·기도에 흔한 세균, 오히려 폐렴 막는다?",
-      "summary": "입과 기도에서 흔히 발견되는 세균이 폐의 면역세포를 미리 ‘훈련’시켜 폐렴을 일으키는 세균을 더욱…",
-      "detail": "입과 기도에서 흔히 발견되는 세균이 폐의 면역세포를 미리 ‘훈련’시켜 폐렴을 일으키는 세균을 더욱 효과적으로 제거하도록 만들 수 있다는 연구 결과가 나왔다.미국 콜로라도대 안슈츠 의과대학 연구팀은 건강한 사람의 구강과 호흡기에서 흔히 발견되는 세균인…",
-      "link": "https://www.msn.com/ko-kr/news/other/%EC%9E%85-%EA%B8%B0%EB%8F%84%EC%97%90-%ED%9D%94%ED%95%9C-%EC%84%B8%EA%B7%A0-%EC%98%A4%ED%9E%88%EB%A0%A4-%ED%8F%90%EB%A0%B4-%EB%A7%89%EB%8A%94%EB%8B%A4/ar-AA2dNI9T",
-      "source": "알파경제",
-      "category": "의학·바이오",
-      "publishedAt": "2026-10-08T00:29:13.000Z",
-      "collectedAt": "2026-10-08T08:57:02.311Z",
-      "thumb": "/thumbs/664fa728a592.png"
     }
   ]
 }
