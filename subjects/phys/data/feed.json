@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-10-11T01:57:08.704Z",
+  "updatedAt": "2026-10-11T02:57:24.473Z",
   "items": [
+    {
+      "id": "add62bdc4154",
+      "kind": "video",
+      "lang": "en",
+      "title": "The Simple Idea Behind Physics’ Most Terrifying Equation",
+      "summary": "",
+      "detail": "",
+      "link": "https://www.youtube.com/watch?v=eQ-fl8PdSrU",
+      "source": "Physics Explained",
+      "image": "https://i2.ytimg.com/vi/eQ-fl8PdSrU/hqdefault.jpg",
+      "views": 107187,
+      "category": "인기",
+      "publishedAt": "2026-10-01T19:00:16.000Z",
+      "collectedAt": "2026-10-11T02:57:24.473Z",
+      "titleKo": "물리학의 가장 무서운 방정식 뒤에 숨겨진 간단한 아이디어",
+      "summaryKo": "",
+      "translator": "google",
+      "thumb": "/thumbs/add62bdc4154.jpg"
+    },
+    {
+      "id": "dc4b2188f47b",
+      "kind": "video",
+      "lang": "ko",
+      "title": "(2022개정) 10분에 정리하는 역학과 에너지 포물선 운동",
+      "summary": "",
+      "detail": "",
+      "link": "https://www.youtube.com/watch?v=cxMaAZLmHsA",
+      "source": "김광명의 물리세계",
+      "image": "https://i4.ytimg.com/vi/cxMaAZLmHsA/hqdefault.jpg",
+      "views": 3031,
+      "category": "인기",
+      "publishedAt": "2026-09-30T02:53:10.000Z",
+      "collectedAt": "2026-10-11T02:57:24.473Z",
+      "summaryKo": "",
+      "thumb": "/thumbs/dc4b2188f47b.jpg"
+    },
     {
       "id": "0431fa350814",
       "kind": "news",
@@ -2471,34 +2507,6 @@
       "publishedAt": "2026-10-07T13:31:00.000Z",
       "collectedAt": "2026-10-08T07:17:24.498Z",
       "thumb": "/thumbs/c1e7c71d0877.jpg"
-    },
-    {
-      "id": "3311b482fe9a",
-      "kind": "news",
-      "lang": "ko",
-      "title": "전남대 물리학과, 물리 고급 연구인력 양성 ‘학·석사 연계 설명회’",
-      "summary": "전남대학교 자연과학대학 물리학과가 지난 2일 학·석사 연계(대학원) 설명회를 개최했다",
-      "detail": "전남대학교 자연과학대학 물리학과가 지난 2일 학·석사 연계(대학원) 설명회를 개최했다. 이번 프로그램은 앵커사업 1-2과제와 연계하여 물리 고급 연구인력 양성을 위하여 학·석사 연계 과정 및 대학원 진학 유도를 목표로 하여 진행됐다.설명회는 학 ...",
-      "link": "https://www.dhnews.co.kr/news/view/1065575309001722",
-      "source": "대학저널",
-      "category": "연구",
-      "publishedAt": "2026-10-07T13:15:00.000Z",
-      "collectedAt": "2026-10-08T07:17:24.498Z",
-      "thumb": "/thumbs/3311b482fe9a.png"
-    },
-    {
-      "id": "2e3fcb14dbfd",
-      "kind": "news",
-      "lang": "ko",
-      "title": "차세대 배터리 판도 바꾼다…은 나노입자의 비밀",
-      "summary": "경상국립대 김주형 교수 연구팀이 은 나노입자의 특성과 에너지 저장 성능 간의 상관관계를 종합 규명했다",
-      "detail": "경상국립대 김주형 교수 연구팀이 은 나노입자의 특성과 에너지 저장 성능 간의 상관관계를 종합 규명했다. 연구팀은 은 나노입자가 전하 전달 가속화와 전극 구조 안정화 등을 이끄는 메커니즘을 밝히고, 제조 비용 절감과 대량생산 등 상용화를 위한 과제와…",
-      "link": "https://news.jkn.co.kr/post/1011704",
-      "source": "재경일보",
-      "category": "양자·첨단",
-      "publishedAt": "2026-10-07T12:14:00.000Z",
-      "collectedAt": "2026-10-08T07:17:24.498Z",
-      "thumb": "/thumbs/2e3fcb14dbfd.jpg"
     }
   ]
 }
