@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-11T16:56:59.420Z",
+  "updatedAt": "2026-10-11T17:57:01.119Z",
   "items": [
+    {
+      "id": "bsky-3mxmkulihzc2x",
+      "kind": "news",
+      "lang": "en",
+      "title": "The world shrank for a lot of people during the COVID-19 pandemic.",
+      "summary": "For photographer Tian Olivier, that included his…",
+      "link": "https://bsky.app/profile/cenmag.bsky.social/post/3mxmkulihzc2x",
+      "source": "Bluesky C&EN",
+      "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:u4u4yeik2uube2g6ov7wr35p/bafkreieietekwnkilzl6ztw7d22ygljmgvo56k2fc5wopukkhgzkl4lma4",
+      "category": "인기",
+      "publishedAt": "2026-10-11T17:49:47.521Z",
+      "collectedAt": "2026-10-11T17:57:01.119Z",
+      "titleKo": "코로나19 팬데믹으로 인해 많은 사람들이 세상을 축소했습니다.",
+      "summaryKo": "사진작가 Tian Olivier의 경우…",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxmkulihzc2x.webp"
+    },
     {
       "id": "bsky-3mxlymcjmmc2x",
       "kind": "news",
@@ -2458,20 +2475,6 @@
       "publishedAt": "2026-10-06T20:02:00.000Z",
       "collectedAt": "2026-10-07T08:23:55.386Z",
       "thumb": "/thumbs/c41051d73b8c.png"
-    },
-    {
-      "id": "9a914d7f32b1",
-      "kind": "news",
-      "lang": "ko",
-      "title": "수소 꺼낼수록 망가지는 촉매… 포스텍, 열화 원인 찾았다",
-      "summary": "포스텍 윤창원 교수와 서울대 한정우 교수, 한국과학기술연구원 김용민 박사, 포스텍 한승목 박사,…",
-      "detail": "포스텍 윤창원 교수와 서울대 한정우 교수, 한국과학기술연구원 김용민 박사, 포스텍 한승목 박사, 서울대 성기헌 박사과정생(왼쪽부터)이 액상유기수소운반체의 수소 추출 과정에서 촉매 성능을 떨어뜨리는 부산물의 생성 경로를 규명했다. 포스텍 제공 수소…",
-      "link": "https://www.hidomin.com/news/articleView.html?idxno=723974",
-      "source": "경북도민일보",
-      "category": "소재·에너지",
-      "publishedAt": "2026-10-06T18:36:00.000Z",
-      "collectedAt": "2026-10-07T08:23:55.386Z",
-      "thumb": "/thumbs/9a914d7f32b1.jpg"
     }
   ]
 }
