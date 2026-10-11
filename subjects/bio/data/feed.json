@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-10-11T00:57:26.746Z",
+  "updatedAt": "2026-10-11T01:49:35.424Z",
   "items": [
+    {
+      "id": "97f5aaa2d011",
+      "kind": "news",
+      "lang": "ko",
+      "title": "AI 에이전트가 찾은 뇌질환 표적 3개…검증한 1개는 기존 유전자",
+      "summary": "AI 에이전트가 뇌 회로 지식그래프를 추론해 신경질환 신약 표적 3개를 제시했지만 동물실험까지 거친…",
+      "detail": "AI 에이전트가 뇌 회로 지식그래프를 추론해 신경질환 신약 표적 3개를 제시했지만 동물실험까지 거친 표적은 1개에 그친 것으로 나타났다. 검증을 마친 ATP1A3는 공개 표적 데이터베이스에 이미 뇌전증 연관 유전자로 올라 있고, 기존 연관 근거가…",
+      "link": "https://www.e-focus.co.kr/news/articleView.html?idxno=3003024",
+      "source": "이포커스",
+      "category": "의학·바이오",
+      "publishedAt": "2026-10-09T17:40:00.000Z",
+      "collectedAt": "2026-10-11T01:49:35.424Z",
+      "thumb": "/thumbs/97f5aaa2d011.jpg"
+    },
+    {
+      "id": "2ec51db9049e",
+      "kind": "news",
+      "lang": "ko",
+      "title": "청력검사·유전자정보 결합했더니...난청 위험 예측 정확도 높아져",
+      "summary": "청력검사 결과와 유전자정보를 함께 분석하면 감각신경성 난청과 관련된 유전적 위험을 보다 정확하게…",
+      "detail": "청력검사 결과와 유전자정보를 함께 분석하면 감각신경성 난청과 관련된 유전적 위험을 보다 정확하게 파악할 수 있다는 연구 결과가 나왔다. 미국 밴더빌트대 메디컬센터 연구팀은 대규모 유전자 바이오뱅크 자료와 실제 임상 청력검사 결과를 결합한 분석에서…",
+      "link": "https://www.alphabiz.co.kr/news/articleView.html?idxno=191946",
+      "source": "알파경제",
+      "image": "http://www.bing.com/th?id=ONUT.JSqY2LvNQTD0NH-WnzSgbg&pid=News",
+      "category": "의학·바이오",
+      "publishedAt": "2026-10-09T03:12:00.000Z",
+      "collectedAt": "2026-10-11T01:49:35.424Z",
+      "thumb": "/thumbs/2ec51db9049e.jpg"
+    },
+    {
+      "id": "d53959fc52c6",
+      "kind": "news",
+      "lang": "ko",
+      "title": "거식증 원인, 뇌 아닌 지방세포에도 있다?...유전자 변이 4배 많아",
+      "summary": "그 결과 154명 가운데 17명, 약 11%에서 PLIN4 유전자의 희귀 변이가 발견됐다",
+      "detail": "그 결과 154명 가운데 17명, 약 11%에서 PLIN4 유전자의 희귀 변이가 발견됐다. 이는 일반 대조집단에서 확인된 약 3%와 비교해 거의 4배 높은 수준이다. 특히 6명의 환자에서는 PLIN4 단백질의 정상적인 기능을 크게 방해할 것으로…",
+      "link": "https://alphabiz.co.kr/news/articleView.html?idxno=191928",
+      "source": "알파경제",
+      "image": "http://www.bing.com/th?id=ONUT.USpvytEoK4emGuE6ZRcJcQ&pid=News",
+      "category": "의학·바이오",
+      "publishedAt": "2026-10-08T11:07:00.000Z",
+      "collectedAt": "2026-10-11T01:49:35.424Z",
+      "thumb": "/thumbs/d53959fc52c6.jpg"
+    },
     {
       "id": "e0391466fca0",
       "kind": "news",
@@ -2441,49 +2485,6 @@
       "publishedAt": "2026-10-07T13:46:00.000Z",
       "collectedAt": "2026-10-08T09:57:29.425Z",
       "thumb": "/thumbs/9f177bcef862.png"
-    },
-    {
-      "id": "716b10a35bc2",
-      "kind": "news",
-      "lang": "ko",
-      "title": "요즘 난리 난 한글날 기념! <알고보면 재미있는 한글이름 생물>",
-      "summary": "다가오는 10월 9일은 한글을 기념하는 한글날입니다!",
-      "detail": "다가오는 10월 9일은 한글을 기념하는 한글날입니다! 그런데 우리 주변의 생물 이름을 살펴보면 생김새나 특징을 재미있게 담아낸 이름부터 이름에 얽힌 흥미로운 이야기가 있는 경우까지! 다양한 우리말 이름을 만나볼 수 있는데요~ 오늘은 한글날을 맞아…",
-      "link": "https://blog.naver.com/nibr_bio/224435508363?fromRss=true&trackingCode=rss",
-      "source": "네이버 블로그 국립생물자원관",
-      "category": "인기",
-      "publishedAt": "2026-10-08T09:29:45.000Z",
-      "collectedAt": "2026-10-08T09:44:29.558Z",
-      "thumb": "/thumbs/716b10a35bc2.png"
-    },
-    {
-      "id": "7cc90a696e90",
-      "kind": "news",
-      "lang": "ko",
-      "title": "과학고 ‘누리호 키즈’들이 개발한 위성, 누리호 타고 우주로 갔다",
-      "summary": "“발사 1시간 만에 우주에서 우리가 개발한 위성이 보낸 신호가 잡혔어요",
-      "detail": "“발사 1시간 만에 우주에서 우리가 개발한 위성이 보낸 신호가 잡혔어요. 실감이 안 나더라고요. 얼떨떨했습니다.” 지난 7일 발사된 누리호에 탑재된 위성 ‘지비셋(GBSAT)’을 개발한 이태균(23·광주과학기술원 졸업)씨는 8일 기자에게 당시 소감을…",
-      "link": "https://www.joongang.co.kr/article/25468250",
-      "source": "중앙일보",
-      "image": "http://www.bing.com/th?id=ONUT.Xv5ci6sSTK67e60VaapoZg&pid=News",
-      "category": "연구",
-      "publishedAt": "2026-10-07T18:29:00.000Z",
-      "collectedAt": "2026-10-08T09:44:29.558Z",
-      "thumb": "/thumbs/7cc90a696e90.jpg"
-    },
-    {
-      "id": "e9f0d4e01903",
-      "kind": "news",
-      "lang": "ko",
-      "title": "스위스 IOB, ‘광유전학’ 치료 첫 코호트서 안전성 확인…일부 시각 기능 개선",
-      "summary": "스위스 바젤 분자·임상안과연구소(IOB)는 7일(현지시간) ‘광유전학(optogenetic)’…",
-      "detail": "스위스 바젤 분자·임상안과연구소(IOB)는 7일(현지시간) ‘광유전학(optogenetic)’ 치료를 받은 진행성 망막색소변성증 실명 환자 10명 중 7명에서 ‘빛 민감도’가 높아졌고, 검사를 마친 8명 중 4명은 사물을 감지하거나 위치를 찾는…",
-      "link": "https://www.thebionews.net/news/articleView.html?idxno=28857",
-      "source": "더바이오",
-      "category": "의학·바이오",
-      "publishedAt": "2026-10-07T18:27:00.000Z",
-      "collectedAt": "2026-10-08T09:44:29.558Z",
-      "thumb": "/thumbs/e9f0d4e01903.png"
     }
   ]
 }

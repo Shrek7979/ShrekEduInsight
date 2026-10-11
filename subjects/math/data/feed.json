@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-11T00:57:26.738Z",
+  "updatedAt": "2026-10-11T01:49:35.485Z",
   "items": [
+    {
+      "id": "ef66cef27095",
+      "kind": "news",
+      "lang": "en",
+      "title": "Regularity for minimizers of mixed-smoothness variational integrals",
+      "summary": "Regularity for minimizers of mixed-smoothness…",
+      "detail": "Regularity for minimizers of mixed-smoothness variational integrals 10 Oct 2026 13:19 Author Kristensen, J Prosinski, A Strong, A Journal…",
+      "link": "https://www.maths.ox.ac.uk/node/83302",
+      "source": "Oxford Mathematics",
+      "category": "학회·기관",
+      "publishedAt": "2026-10-10T12:19:29.000Z",
+      "collectedAt": "2026-10-11T01:49:35.485Z",
+      "titleKo": "혼합 평활도 변적분의 최소화를 위한 규칙성",
+      "summaryKo": "혼합 부드러움 최소화를 위한 규칙성…",
+      "translator": "google",
+      "detailKo": "혼합 평활도 변적분 최소화를 위한 규칙성 2026년 10월 10일 13:19 작성자 Kristensen, J Prosinski, A Strong, A Journal…",
+      "thumb": "/thumbs/ef66cef27095.png"
+    },
     {
       "id": "0c3094d49de3",
       "kind": "news",

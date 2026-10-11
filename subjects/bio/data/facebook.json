@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T01:00:09.443Z",
+  "updatedAt": "2026-10-11T01:51:53.123Z",
   "items": [
     {
       "id": "fb-c20682f00637",
@@ -16,6 +16,23 @@
       "collectedAt": "2026-10-10T21:59:31.009Z",
       "titleKo": "인간의 부재는 산불에 어떤 영향을 미치나요?",
       "summaryKo": "코로나19 팬데믹이 산불을 어떻게 형성했는지 살펴보세요…",
+      "translator": "google"
+    },
+    {
+      "id": "fb-6006a81810b7",
+      "kind": "news",
+      "lang": "en",
+      "title": "ASBMB Industry Perspectives: Where molecular bioscience research meets innovation.",
+      "summary": "",
+      "link": "https://www.facebook.com/asbmb/posts/pfbid0JUEFm7udW7cHvhELbnWqbbzqkJTKL6TVdGz4QkMFj9bAuMqyMQQdBLF9JebAn4njl",
+      "source": "Facebook ASBMB",
+      "category": "인기",
+      "publishedAt": "2026-10-10T14:51:43.113Z",
+      "thumb": "/social/fb/fb-6006a81810b7.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-11T01:51:53.123Z",
+      "titleKo": "ASBMB 산업 관점: 분자 생명과학 연구가 혁신을 만나는 곳.",
+      "summaryKo": "",
       "translator": "google"
     },
     {
@@ -104,6 +121,23 @@
       "translator": "google"
     },
     {
+      "id": "fb-529bff7e6aca",
+      "kind": "news",
+      "lang": "en",
+      "title": "How do genes and the environment shape our health?",
+      "summary": "In this new activity, students use evidence-based…",
+      "link": "https://www.facebook.com/biointeractive/posts/pfbid02nRLreJJ2nkTuZXGa5Eq8Pz6q8AcQP41tHPAJK4GSE2Yuf2ND58xdavw5gAb5CCpPl",
+      "source": "Facebook HHMI BioInteractive",
+      "category": "인기",
+      "publishedAt": "2026-10-09T01:51:32.014Z",
+      "thumb": "/social/fb/fb-529bff7e6aca.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-11T01:51:53.123Z",
+      "titleKo": "유전자와 환경은 우리의 건강을 어떻게 형성합니까?",
+      "summaryKo": "이 새로운 활동에서 학생들은 증거 기반…",
+      "translator": "google"
+    },
+    {
       "id": "fb-36f20e194602",
       "kind": "news",
       "lang": "en",
@@ -135,23 +169,6 @@
       "collectedAt": "2026-10-09T03:59:57.908Z",
       "titleKo": "e 신경: Iglesias et al. 측면 시상하부에서 뇌실주위 시상으로의 경로가 보상 지향을 조절한다는 것을 보여줍니다.",
       "summaryKo": "특히 f가 있는 쥐의 행동",
-      "translator": "google"
-    },
-    {
-      "id": "fb-fc14b7c463cb",
-      "kind": "news",
-      "lang": "en",
-      "title": "How do genes and the environment shape our health?",
-      "summary": "In this new activity, students use evidence-based…",
-      "link": "https://www.facebook.com/biointeractive/posts/pfbid0iZu9TdNCwDPDpB9oZ6mbbGriPPh3rkB8amfCfdYH72Qzi4w95Nt8Z16669TPZtD4l",
-      "source": "Facebook HHMI BioInteractive",
-      "category": "인기",
-      "publishedAt": "2026-10-08T20:59:31.530Z",
-      "thumb": "/social/fb/fb-fc14b7c463cb.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-09T20:59:51.459Z",
-      "titleKo": "유전자와 환경은 우리의 건강을 어떻게 형성합니까?",
-      "summaryKo": "이 새로운 활동에서 학생들은 증거 기반…",
       "translator": "google"
     },
     {
