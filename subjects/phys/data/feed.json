@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-10-11T10:57:23.995Z",
+  "updatedAt": "2026-10-11T11:57:37.635Z",
   "items": [
+    {
+      "id": "59f06d2372e1",
+      "kind": "news",
+      "lang": "ko",
+      "title": "NTT 도코모, 클래식과 손잡고 일본 기업 양자 컴퓨팅 도입 지원",
+      "summary": "NTT 도코모 비즈니스(NTT DOCOMO BUSINESS, Inc., 구 NTT…",
+      "detail": "NTT 도코모 비즈니스(NTT DOCOMO BUSINESS, Inc., 구 NTT 커뮤니케이션즈(NTT Communications Corporation))와 클래식 테크놀로지스(Classiq Technologies Ltd.)의 일본 법인인 클래식…",
+      "link": "https://www.specialtimes.co.kr/news/articleView.html?idxno=472683",
+      "source": "스페셜타임스",
+      "image": "http://www.bing.com/th?id=ONUT.L1w64lCSV5JrLBzG_kdLuA&pid=News",
+      "category": "양자·첨단",
+      "publishedAt": "2026-10-10T19:01:00.000Z",
+      "collectedAt": "2026-10-11T11:57:37.635Z",
+      "thumb": "/thumbs/59f06d2372e1.jpg"
+    },
     {
       "id": "2b2dd926ca20",
       "kind": "news",
@@ -2496,21 +2511,6 @@
       "publishedAt": "2026-10-07T15:13:00.000Z",
       "collectedAt": "2026-10-08T07:17:24.498Z",
       "thumb": "/thumbs/02a007ecd142.jpg"
-    },
-    {
-      "id": "10120a052b89",
-      "kind": "news",
-      "lang": "ko",
-      "title": "\"양자판 TSMC 키운다\"…美 정부·IBM, 앤더론에 20억달러 베팅",
-      "summary": "|스마트투데이=김나연 기자| 미국 상무부가 IBM에서 분사한 양자 반도체 파운드리 기업…",
-      "detail": "|스마트투데이=김나연 기자| 미국 상무부가 IBM에서 분사한 양자 반도체 파운드리 기업 앤더론(Anderon)에 반도체지원법(CHIPS Act) 연구개발(R&D) 지원금 최대 10억달러를 지급하기로 최종 확정했다.",
-      "link": "https://www.smarttoday.co.kr/ko-kr/articles/112427",
-      "source": "스마트투데이",
-      "image": "http://www.bing.com/th?id=ONUT.R5F2XKcG3j-25t9T9tZdVA&pid=News",
-      "category": "양자·첨단",
-      "publishedAt": "2026-10-07T13:44:00.000Z",
-      "collectedAt": "2026-10-08T07:17:24.498Z",
-      "thumb": "/thumbs/10120a052b89.jpg"
     }
   ]
 }

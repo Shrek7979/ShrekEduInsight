@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-11T10:57:23.830Z",
+  "updatedAt": "2026-10-11T11:57:37.629Z",
   "items": [
+    {
+      "id": "bsky-3mxlvgdgpcr2m",
+      "kind": "news",
+      "lang": "en",
+      "title": "Boosting hyperalignment performance with age-specific templates",
+      "summary": "Boosting hyperalignment performance with age-specific…",
+      "link": "https://bsky.app/profile/elife.bsky.social/post/3mxlvgdgpcr2m",
+      "source": "Bluesky eLife",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4irghgzlsjk6ugrekoqyl7km/bafkreiaqpl3kxdxpdh42t37jpcpsccmcb7n656beigdtvecp747knudahi",
+      "category": "인기",
+      "publishedAt": "2026-10-11T11:26:00.444Z",
+      "collectedAt": "2026-10-11T11:57:37.629Z",
+      "titleKo": "연령별 템플릿으로 초정렬 성능 향상",
+      "summaryKo": "연령별 초정렬 성능 향상…",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxlvgdgpcr2m.webp"
+    },
     {
       "id": "74ebabf2ec3d",
       "kind": "news",
@@ -2469,20 +2486,6 @@
       "summaryKo": "현재 생물학: Norman Ratcliffe &…에서 자세히 알아보세요",
       "translator": "google",
       "thumb": "/thumbs/bsky-3mxetdn7uv72q.webp"
-    },
-    {
-      "id": "580fbbdbf40e",
-      "kind": "news",
-      "lang": "ko",
-      "title": "세포내 반응 조절 '생체분자 응축체' 형성 원리 규명",
-      "summary": "UNIST를 포함한 공동 연구팀이 세포질을 떠다니는 단백질과 RNA 등이 모여 생기는 '생체분자…",
-      "detail": "UNIST를 포함한 공동 연구팀이 세포질을 떠다니는 단백질과 RNA 등이 모여 생기는 '생체분자 응축체'의 형성 원리를 밝혀냈다. 이동욱 UNIST 교수팀과 최수형 홍익대 교수팀, 허수미 DGIST 교수팀은 단백질을 모방한 합성 소재에서 분자에 달린…",
-      "link": "https://www.etnews.com/20261006000096",
-      "source": "전자신문",
-      "category": "의학·바이오",
-      "publishedAt": "2026-10-06T03:23:00.000Z",
-      "collectedAt": "2026-10-08T16:58:17.855Z",
-      "thumb": "/thumbs/580fbbdbf40e.jpg"
     }
   ]
 }
