@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-12T18:57:45.915Z",
+  "updatedAt": "2026-10-12T19:57:38.547Z",
   "items": [
+    {
+      "id": "bsky-3mxpavkbrh22t",
+      "kind": "news",
+      "lang": "en",
+      "title": "There’s still time to vote for “The Joy of Why”!",
+      "summary": "We’ve been nominated for a Signal Award in Best Science…",
+      "link": "https://bsky.app/profile/quantamagazine.org/post/3mxpavkbrh22t",
+      "source": "Bluesky Quanta Magazine",
+      "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:vfktz6qe6vy7serr3wqutpzt/bafkreibp3ey5f6r46v2zbq5zhee5hptmqmhdec2dadvxqkiw7u3fk2kogu",
+      "likes": "5",
+      "category": "인기",
+      "publishedAt": "2026-10-12T19:29:21.605Z",
+      "collectedAt": "2026-10-12T19:57:38.547Z",
+      "titleKo": "아직 “The Joy of Why”에 투표할 시간이 남았습니다!",
+      "summaryKo": "우리는 최고의 과학 부문 Signal Award 후보로 지명되었습니다…",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxpavkbrh22t.webp"
+    },
     {
       "id": "bsky-3mxa2ekvb742c",
       "kind": "news",
@@ -2510,24 +2528,6 @@
       "summaryKo": "Francis Halzen 및 IceCube: 중성미자가 계속 유지되는 이유",
       "translator": "google",
       "thumb": "/thumbs/bsky-3mxeqym2pc22b.webp"
-    },
-    {
-      "id": "6d8be8c0f04b",
-      "kind": "news",
-      "lang": "en",
-      "title": "Optogenetic therapy shows promise for vision restoration",
-      "summary": "Researchers report encouraging findings from the first…",
-      "detail": "Researchers report encouraging findings from the first clinical cohort of blind people treated with optogenetic therapy The post…",
-      "link": "https://physicsworld.com/a/optogenetic-therapy-shows-promise-for-vision-restoration/",
-      "source": "Physics World",
-      "category": "해외",
-      "publishedAt": "2026-10-08T15:00:34.000Z",
-      "collectedAt": "2026-10-08T15:57:04.945Z",
-      "titleKo": "광유전학적 치료는 시력 회복에 대한 가능성을 보여줍니다",
-      "summaryKo": "연구원들은 첫 번째 연구에서 고무적인 결과를 보고했습니다",
-      "translator": "google",
-      "detailKo": "연구자들은 광유전학 치료를 받은 시각 장애인의 첫 번째 임상 코호트에서 고무적인 결과를 보고합니다.",
-      "thumb": "/thumbs/6d8be8c0f04b.jpg"
     }
   ]
 }

@@ -1,6 +1,43 @@
 {
-  "updatedAt": "2026-10-12T18:57:45.952Z",
+  "updatedAt": "2026-10-12T19:57:38.499Z",
   "items": [
+    {
+      "id": "404775c1dcbe",
+      "kind": "video",
+      "lang": "ko",
+      "title": "신종 마약 니타젠 & 사이클로르핀은 어떤 물질일까? 정말 만들기 어려울까?",
+      "summary": "",
+      "detail": "",
+      "link": "https://www.youtube.com/watch?v=L5atx5d7CDE",
+      "source": "화학하악",
+      "image": "https://i1.ytimg.com/vi/L5atx5d7CDE/hqdefault.jpg",
+      "views": 256157,
+      "category": "인기",
+      "publishedAt": "2026-10-05T04:18:28.000Z",
+      "collectedAt": "2026-10-12T19:57:38.499Z",
+      "summaryKo": "",
+      "thumb": "/thumbs/404775c1dcbe.jpg"
+    },
+    {
+      "id": "35e30c4a9ef2",
+      "kind": "video",
+      "lang": "en",
+      "title": "is bacon-fuel a renewable resource?",
+      "summary": "The bacon fat biodiesel saga begins.",
+      "detail": "The bacon fat biodiesel saga begins... but really next time it should be easy, right?",
+      "link": "https://www.youtube.com/shorts/nc-JMJ55NJc",
+      "source": "Reactions",
+      "image": "https://i3.ytimg.com/vi/nc-JMJ55NJc/hqdefault.jpg",
+      "views": 37582,
+      "category": "인기",
+      "publishedAt": "2026-09-18T18:41:49.000Z",
+      "collectedAt": "2026-10-12T19:57:38.499Z",
+      "titleKo": "베이컨 연료는 재생 가능한 자원인가요?",
+      "summaryKo": "베이컨 지방 바이오디젤 전설이 시작됩니다.",
+      "translator": "google",
+      "detailKo": "베이컨 지방 바이오디젤 전설이 시작됩니다... 하지만 다음 번에는 정말 쉬울 텐데요, 그렇죠?",
+      "thumb": "/thumbs/35e30c4a9ef2.jpg"
+    },
     {
       "id": "bsky-3mxp5peauns2k",
       "kind": "news",
@@ -2443,36 +2480,6 @@
       "publishedAt": "2026-10-07T15:44:00.000Z",
       "collectedAt": "2026-10-08T00:56:55.012Z",
       "thumb": "/thumbs/7ddec1e5f46c.jpg"
-    },
-    {
-      "id": "0304187034bd",
-      "kind": "news",
-      "lang": "ko",
-      "title": "장보다 노벨화학상 수상 소식 들은 日 소아이…\"인생 가장 벅찬 날\"",
-      "summary": "올해 노벨화학상 수상자인 소아이 겐소 일본 도쿄이과대학교 교수가 \"내 인생에서 가장 가슴 벅찬…",
-      "detail": "올해 노벨화학상 수상자인 소아이 겐소 일본 도쿄이과대학교 교수가 \"내 인생에서 가장 가슴 벅찬 날\"이라고 소감을 밝혔다. NHK에 따르면 소아이 교수는 7일 오후 10시 도쿄 신주쿠구 도쿄이과대학 기자회견에서 \"이번 수상을 통해 연구의 의미와 위상을…",
-      "link": "https://www.mt.co.kr/world/2026/10/07/2026100722280454456",
-      "source": "머니투데이",
-      "image": "http://www.bing.com/th?id=ONUT.gxvdQeHaIvvOIVNuek5qVQ&pid=News",
-      "category": "연구",
-      "publishedAt": "2026-10-07T15:37:00.000Z",
-      "collectedAt": "2026-10-08T00:56:55.012Z",
-      "thumb": "/thumbs/0304187034bd.jpg"
-    },
-    {
-      "id": "3cf9e12d15fc",
-      "kind": "news",
-      "lang": "ko",
-      "title": "'거울상 분자' 비밀 밝혔다 …\"100년 화학계 난제 해결\"",
-      "summary": "올해 노벨화학상은 좌우가 비슷한 '거울상 분자'에서 원하는 한쪽만 선택적으로 증폭·생성하는 '비대칭…",
-      "detail": "올해 노벨화학상은 좌우가 비슷한 '거울상 분자'에서 원하는 한쪽만 선택적으로 증폭·생성하는 '비대칭 유기합성'의 원리를 개척한 과학자 2명에게 돌아갔다. 거울상 분자의 비대칭 특성을 이용해 의약품 등을 정밀합성하는 길을 열었다는 평가다. 스웨덴…",
-      "link": "https://www.mk.co.kr/news/business/12170892",
-      "source": "매일경제",
-      "image": "http://www.bing.com/th?id=ONUT.ipaGo7LRc-wS0zfV9VhYYw&pid=News",
-      "category": "연구",
-      "publishedAt": "2026-10-07T13:16:00.000Z",
-      "collectedAt": "2026-10-08T00:56:55.012Z",
-      "thumb": "/thumbs/3cf9e12d15fc.jpg"
     }
   ]
 }
