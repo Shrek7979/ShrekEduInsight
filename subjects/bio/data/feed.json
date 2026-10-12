@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-10-12T00:59:04.090Z",
+  "updatedAt": "2026-10-12T01:58:37.236Z",
   "items": [
+    {
+      "id": "290571ddcddd",
+      "kind": "news",
+      "lang": "ko",
+      "title": "고려대 의대 전옥희 교수팀, 장내 미생물 기반 역노화 치료제 개발 착수",
+      "summary": "고려대학교 의과대학은 전옥희 융합의학교실 교수가 산업통상부 바이오산업기술개발사업의 연구책임자로…",
+      "detail": "고려대학교 의과대학은 전옥희 융합의학교실 교수가 산업통상부 바이오산업기술개발사업의 연구책임자로 선정돼 장내 미생물 및 미생물 유래 물질 기반 역노화 치료제 개발에 착수했다고 12일 밝혔다.이번 과제는 국내외 대학·병원·기업 연구진이 참여하는 다기관…",
+      "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7188333",
+      "source": "주간한국",
+      "image": "http://www.bing.com/th?id=ONUT._YXRqMJ8j4U_Hit3nwffHQ&pid=News",
+      "category": "의학·바이오",
+      "publishedAt": "2026-10-11T13:26:00.000Z",
+      "collectedAt": "2026-10-12T01:58:37.236Z",
+      "thumb": "/thumbs/290571ddcddd.png"
+    },
+    {
+      "id": "1a85ba39d0bc",
+      "kind": "news",
+      "lang": "en",
+      "title": "A new way to fight gum disease without wiping out good bacteria",
+      "summary": "Scientists discovered that disrupting the chemical…",
+      "detail": "Scientists discovered that disrupting the chemical messages bacteria use to communicate can push dental plaque toward a healthier microbial…",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261005012230.htm",
+      "source": "ScienceDaily",
+      "category": "해외",
+      "publishedAt": "2026-10-07T03:55:00.000Z",
+      "collectedAt": "2026-10-12T01:58:37.236Z",
+      "titleKo": "좋은 박테리아를 제거하지 않고 잇몸 질환을 퇴치하는 새로운 방법",
+      "summaryKo": "과학자들은 화학 물질을 방해하는 것을 발견했습니다…",
+      "translator": "google",
+      "detailKo": "과학자들은 박테리아가 의사소통을 위해 사용하는 화학적 메시지를 방해하면 치석이 더 건강한 미생물로 변할 수 있다는 사실을 발견했습니다.",
+      "thumb": "/thumbs/1a85ba39d0bc.webp"
+    },
     {
       "id": "01bb7ad2ac69",
       "kind": "news",
@@ -2453,35 +2486,6 @@
       "collectedAt": "2026-10-08T20:57:11.933Z",
       "summaryKo": "",
       "thumb": "/thumbs/b69d896d01dc.jpg"
-    },
-    {
-      "id": "510c87f5b87d",
-      "kind": "news",
-      "lang": "ko",
-      "title": "130만 개 세포의 궤적, DNA 타자기로 풀었다",
-      "summary": "공동 연구팀이 DNA 타자기 기술을 활용해 쥐 배아에서 분열한 130만 개 세포의 궤적과 계통을…",
-      "detail": "공동 연구팀이 DNA 타자기 기술을 활용해 쥐 배아에서 분열한 130만 개 세포의 궤적과 계통을 정밀 복원하는 데 성공했다. 분석 결과 세포 증식 속도가 달라도 최종 세포 유형의 비율은 정밀하게 통제되며, 세포별로 운명이 결정되는 시점에도 차이가…",
-      "link": "https://news.jkn.co.kr/post/1013141",
-      "source": "재경일보",
-      "image": "http://www.bing.com/th?id=ONUT._hQQRcJKFy-6NBXj6-KloQ&pid=News",
-      "category": "의학·바이오",
-      "publishedAt": "2026-10-08T06:59:00.000Z",
-      "collectedAt": "2026-10-08T19:57:06.386Z",
-      "thumb": "/thumbs/510c87f5b87d.jpg"
-    },
-    {
-      "id": "dc46840a88ea",
-      "kind": "news",
-      "lang": "ko",
-      "title": "'DNA 타자기'로 생명의 탄생 추적…쥐 배아 세포 가계도 완성",
-      "summary": "제이 셴두어 미국 워싱턴대 의대 유전체과학과 교수와 청샹 추 미국 다트머스대 교수 연구팀은 쥐의…",
-      "detail": "제이 셴두어 미국 워싱턴대 의대 유전체과학과 교수와 청샹 추 미국 다트머스대 교수 연구팀은 쥐의 수정란이 둘로 나뉘는 시점으로 장기를 갖춘 몸의 형태가 만들어지는 13.5일째까지 130만 개 세포의 궤적을 기록하는 데 성공했다고 9일 밝혔다. 김해동…",
-      "link": "https://www.yna.co.kr/view/AKR20261008134000017",
-      "source": "연합뉴스",
-      "category": "의학·바이오",
-      "publishedAt": "2026-10-08T06:00:00.000Z",
-      "collectedAt": "2026-10-08T19:57:06.386Z",
-      "thumb": "/thumbs/dc46840a88ea.jpg"
     }
   ]
 }

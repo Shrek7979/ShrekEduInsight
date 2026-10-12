@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-10-12T00:59:04.098Z",
+  "updatedAt": "2026-10-12T01:58:37.420Z",
   "items": [
+    {
+      "id": "63df8c9bc471",
+      "kind": "news",
+      "lang": "ko",
+      "title": "천안시, 대피장소 지정 초등학교 대상 ‘화학물질 안전교육’",
+      "summary": "기사의 본문 내용은 이 글자크기로 변경됩니다",
+      "detail": "기사의 본문 내용은 이 글자크기로 변경됩니다. [메가충청뉴스] 천안시는 이달 말까지 관내 초등학교를 대상으로 ‘찾아가는 화학물질 안전교육’을 실시한다고 12일 밝혔다. 이번 교육은 화학사고 발생 시 학생들의 안전을 확보하고 초기 대처 능력을 높이고자…",
+      "link": "https://www.megaccnews.com/news/articleView.html?idxno=6814",
+      "source": "megaccnews",
+      "image": "http://www.bing.com/th?id=ONUT.loPQVTQ5wwpckCHcgdzgtA&pid=News",
+      "category": "환경·안전",
+      "publishedAt": "2026-10-11T13:35:00.000Z",
+      "collectedAt": "2026-10-12T01:58:37.420Z",
+      "thumb": "/thumbs/63df8c9bc471.jpg"
+    },
+    {
+      "id": "c0ec66c24930",
+      "kind": "news",
+      "lang": "ko",
+      "title": "효성화학, 유럽서 미래 소재 ‘포케톤’ 소개",
+      "summary": "효성화학이 유럽 플라스틱 가공 산업 전시회에 참여, 미래 소재 포케톤(POKETONE)을 시장에…",
+      "detail": "효성화학이 유럽 플라스틱 가공 산업 전시회에 참여, 미래 소재 포케톤(POKETONE)을 시장에 소개한다. 12일 효성화학은 이날부터 16일(현지시간)까지 독일 프리드리히스하펜에서 열리는 국제 플라스틱 가공 전시회 ‘파쿠마(Fakuma) 2026’에…",
+      "link": "https://biz.heraldcorp.com/article/10899237",
+      "source": "헤럴드경제",
+      "category": "소재·에너지",
+      "publishedAt": "2026-10-11T13:15:00.000Z",
+      "collectedAt": "2026-10-12T01:58:37.420Z",
+      "thumb": "/thumbs/c0ec66c24930.jpg"
+    },
+    {
+      "id": "bfcc5cab7e6c",
+      "kind": "news",
+      "lang": "ko",
+      "title": "효성화학, '파쿠마 2026' 에서 전기차·로보틱스 소재 선보인다",
+      "summary": "김지헌 기자= 효성화학이 전기차와 휴머노이드 로봇 등 미래산업에 활용되는 고기능 플라스틱 소재…",
+      "detail": "김지헌 기자= 효성화학이 전기차와 휴머노이드 로봇 등 미래산업에 활용되는 고기능 플라스틱 소재 '포케톤(POKETONE)'을 앞세워 유럽 시장 공략에 나선다.효성화학은 12일부터 16일(현지시간)까지 독일 프리드리히스하펜에서 열리는 국제 플라스 ...",
+      "link": "https://www.newspim.com/news/view/20261012000354",
+      "source": "뉴스핌",
+      "image": "http://www.bing.com/th?id=ONUT.3jDJTRgSLEknx1yjAur_1Q&pid=News",
+      "category": "소재·에너지",
+      "publishedAt": "2026-10-11T08:51:00.000Z",
+      "collectedAt": "2026-10-12T01:58:37.420Z",
+      "thumb": "/thumbs/bfcc5cab7e6c.png"
+    },
     {
       "id": "ef5040247b55",
       "kind": "news",
@@ -2424,52 +2468,6 @@
       "translator": "google",
       "detailKo": "알데히드로부터 복합당을 만드는 것은 어렵습니다. 이제 로듐 촉매 삼중 카르보닐화 캐스케이드가 개발되었습니다.",
       "thumb": "/thumbs/78d8b1c5c056.png"
-    },
-    {
-      "id": "cfd262d90d6c",
-      "kind": "news",
-      "lang": "en",
-      "title": "Controlling reactions via nucleophile sorting",
-      "summary": "Controlling the regio-, chemo-, and enantioselectivity…",
-      "detail": "Controlling the regio-, chemo-, and enantioselectivity of vicinal addition across olefins remains a challenging process. Now, a…",
-      "link": "https://www.nature.com/articles/s41557-026-02268-6",
-      "source": "Nature Chemistry",
-      "category": "연구",
-      "publishedAt": "2026-10-07T00:00:00.000Z",
-      "collectedAt": "2026-10-07T15:42:20.216Z",
-      "titleKo": "친핵체 분류를 통한 반응 제어",
-      "summaryKo": "위치 선택성, 화학 선택성, 거울상 선택성 제어…",
-      "translator": "google",
-      "detailKo": "올레핀 전반에 걸친 인접 첨가의 위치-, 화학- 및 거울상 선택성을 제어하는 ​​것은 여전히 ​​어려운 과정입니다. 이제…",
-      "thumb": "/thumbs/cfd262d90d6c.png"
-    },
-    {
-      "id": "921da0567797",
-      "kind": "news",
-      "lang": "ko",
-      "title": "“사는 지역 따라 배울 기회 달라져선 안 돼”…최혁진, AI·과학교육 격차 해소 촉구",
-      "summary": "국회 과학기술정보방송통신위원회 최혁진 국회의원은 6일 열린 과방위 국정감사 첫날 질의에서 “사는…",
-      "detail": "국회 과학기술정보방송통신위원회 최혁진 국회의원은 6일 열린 과방위 국정감사 첫날 질의에서 “사는 지역에 따라 배우고 체험할 기회가 달라져서는 안 된다”며 AI·과학교육의 지역 격차 문제를 강하게 제기했다.",
-      "link": "https://www.pressian.com/pages/articles/2026100719095362039",
-      "source": "프레시안",
-      "category": "교육",
-      "publishedAt": "2026-10-06T22:19:00.000Z",
-      "collectedAt": "2026-10-07T15:42:20.216Z",
-      "thumb": "/thumbs/921da0567797.jpg"
-    },
-    {
-      "id": "d4013ad43cd0",
-      "kind": "news",
-      "lang": "ko",
-      "title": "대구소방, 화학사고 전문대원 양성…유해물질 업체 780곳 관리",
-      "summary": "대구에는 유해화학물질 취급업체가 약 780곳에 달한다",
-      "detail": "대구에는 유해화학물질 취급업체가 약 780곳에 달한다. 화학사고는 발생 건수가 많지 않아도 초동 대응이 늦으면 인명피해와 오염 확산으로 번질 수 있다. 대구소방이 이에 대비해 현장에서 곧바로 대응할 전문대원 양성에 나선다.대구소방안전본부가 지난…",
-      "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4086528",
-      "source": "경북일보",
-      "category": "환경·안전",
-      "publishedAt": "2026-10-06T20:49:00.000Z",
-      "collectedAt": "2026-10-07T15:42:20.216Z",
-      "thumb": "/thumbs/d4013ad43cd0.jpg"
     }
   ]
 }

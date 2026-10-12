@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-11T12:01:37.397Z",
+  "updatedAt": "2026-10-12T02:02:31.842Z",
   "items": [
+    {
+      "id": "fb-2814dac6696c",
+      "kind": "video",
+      "lang": "en",
+      "title": "Muhammad plugs in his guitar and plays one of maths' most influential hits.",
+      "summary": "",
+      "link": "https://www.facebook.com/reel/1726337855137765/",
+      "source": "Facebook Oxford Mathematics",
+      "category": "인기",
+      "publishedAt": "2026-10-11T15:01:28.743Z",
+      "thumb": "/social/fb/fb-2814dac6696c.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-12T02:02:31.842Z",
+      "titleKo": "무함마드는 기타를 연결하고 수학에서 가장 영향력 있는 히트곡 중 하나를 연주합니다.",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-bc49ce3128ea",
       "kind": "news",
