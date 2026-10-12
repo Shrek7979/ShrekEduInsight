@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-12T15:57:33.452Z",
+  "updatedAt": "2026-10-12T16:57:42.176Z",
   "items": [
+    {
+      "id": "bsky-3mxoy62vg422k",
+      "kind": "news",
+      "lang": "en",
+      "title": "Meet the companies rethinking how we make medicines, food, materials, and more: 10Start Ups To Watch chemsky 🧪",
+      "summary": "",
+      "link": "https://bsky.app/profile/cenmag.bsky.social/post/3mxoy62vg422k",
+      "source": "Bluesky C&EN",
+      "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:u4u4yeik2uube2g6ov7wr35p/bafkreiccub7de3uiz7aqfsfi6wsgbi6mwklu6wx5mpcs2dvpe4zq6wi6ny",
+      "category": "인기",
+      "publishedAt": "2026-10-12T16:53:03.784Z",
+      "collectedAt": "2026-10-12T16:57:42.176Z",
+      "titleKo": "의약품, 식품, 재료 등을 만드는 방법을 재고하는 회사를 만나보세요: 10Start Ups To Watch chemsky 🧪",
+      "summaryKo": "",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxoy62vg422k.webp"
+    },
     {
       "id": "45d1ed5d23ef",
       "kind": "news",
@@ -2453,24 +2470,6 @@
       "summaryKo": "분자의 거울상 쌍 🪞 다음에 유용합니다…",
       "translator": "google",
       "thumb": "/thumbs/bsky-3mxcryogcq22d.webp"
-    },
-    {
-      "id": "3846355b9f99",
-      "kind": "news",
-      "lang": "en",
-      "title": "The 2026 Nobel Prize in Chemistry: Making single mirror images of molecules",
-      "summary": "The 2026 Nobel Prize in Chemistry was awarded to Henri…",
-      "detail": "The 2026 Nobel Prize in Chemistry was awarded to Henri Kagan and Kenso Soai for the discovery of non-linear effects and autocatalysis…",
-      "link": "https://www.compoundchem.com/2026/10/07/2026nobelchemistry/?utm_source=rss&utm_medium=rss&utm_campaign=2026nobelchemistry",
-      "source": "Compound Interest",
-      "category": "해외",
-      "publishedAt": "2026-10-07T20:21:52.000Z",
-      "collectedAt": "2026-10-07T20:49:17.186Z",
-      "titleKo": "2026년 노벨 화학상: 분자의 단일 거울상 만들기",
-      "summaryKo": "2026년 노벨 화학상은 앙리에게 수여되었습니다",
-      "translator": "google",
-      "detailKo": "2026년 노벨 화학상은 비선형 효과와 자가촉매 현상을 발견한 공로로 헨리 카간(Henri Kagan)과 켄소 소아이(Kenso Soai)에게 수여되었습니다.",
-      "thumb": "/thumbs/3846355b9f99.png"
     }
   ]
 }

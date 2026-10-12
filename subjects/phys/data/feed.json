@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-12T15:57:33.436Z",
+  "updatedAt": "2026-10-12T16:57:42.194Z",
   "items": [
+    {
+      "id": "88cf10e23762",
+      "kind": "news",
+      "lang": "en",
+      "title": "Sound waves come in quantum jumps",
+      "summary": "First observation of fundamental quantization in…",
+      "detail": "First observation of fundamental quantization in mechanical vibrations could have applications in quantum error correction and protein…",
+      "link": "https://physicsworld.com/a/sound-waves-come-in-quantum-jumps/",
+      "source": "Physics World",
+      "category": "해외",
+      "publishedAt": "2026-10-12T16:00:15.000Z",
+      "collectedAt": "2026-10-12T16:57:42.194Z",
+      "titleKo": "음파는 양자 점프로 온다",
+      "summaryKo": "기본 양자화의 첫 번째 관찰…",
+      "translator": "google",
+      "detailKo": "기계적 진동의 기본 양자화에 대한 최초의 관찰은 양자 오류 수정 및 단백질 분야에 응용될 수 있습니다.",
+      "thumb": "/thumbs/88cf10e23762.png"
+    },
     {
       "id": "bsky-3mxopywj2nk2c",
       "kind": "news",
@@ -2507,23 +2525,6 @@
       "summaryKo": "고에너지 우주 중성미자의 발견",
       "translator": "google",
       "thumb": "/thumbs/bsky-3mxa2ekvb742c.webp"
-    },
-    {
-      "id": "bsky-3mxemftpz6723",
-      "kind": "news",
-      "lang": "en",
-      "title": "GPS spoofing, the practice of falsifying location data, is becoming more common and harder to prevent, writes @sarah-wells.bsky.social`.",
-      "summary": "Researchers have proposed and tested a new approach…",
-      "link": "https://bsky.app/profile/physicstoday.aip.org/post/3mxemftpz6723",
-      "source": "Bluesky Physics Today",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ha7rj6xz2t4h6vw3c2fyfskr/bafkreievlmr4lwxskjmh573yemxbvzoiqx7ylm3sg65k5vmqxrw2lpic7y",
-      "category": "인기",
-      "publishedAt": "2026-10-08T13:56:02.400Z",
-      "collectedAt": "2026-10-08T13:57:53.261Z",
-      "titleKo": "위치 데이터를 위조하는 관행인 GPS 스푸핑이 점점 더 일반화되고 예방하기가 더 어려워지고 있다고 @sarah-wells.bsky.social`에 적었습니다.",
-      "summaryKo": "연구원들은 새로운 접근 방식을 제안하고 테스트했습니다…",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mxemftpz6723.webp"
     }
   ]
 }
