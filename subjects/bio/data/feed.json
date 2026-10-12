@@ -1,6 +1,49 @@
 {
-  "updatedAt": "2026-10-12T08:57:22.534Z",
+  "updatedAt": "2026-10-12T09:49:02.235Z",
   "items": [
+    {
+      "id": "1705d6ddc472",
+      "kind": "news",
+      "lang": "ko",
+      "title": "암세포에 압력 갑자기 증가하면 전이 빨라진다···IBS, MRI로 원리 규명",
+      "summary": "암세포에 가해지는 압력이 급격히 증가하면 암세포의 이동성과 침습성이 높아져 전이에 유리한 상태로…",
+      "detail": "암세포에 가해지는 압력이 급격히 증가하면 암세포의 이동성과 침습성이 높아져 전이에 유리한 상태로 변할 수 있다는 사실이 밝혀졌다. 기초과학연구원(IBS·원장 장석복)은 나노의학 연구단의 천진우 단장(연세대 언더우드 특훈교수)과 전영욱 미국…",
+      "link": "http://www.hellodd.com/news/articleView.html?idxno=113468",
+      "source": "헬로디디",
+      "category": "의학·바이오",
+      "publishedAt": "2026-10-12T07:50:00.000Z",
+      "collectedAt": "2026-10-12T09:49:02.235Z",
+      "thumb": "/thumbs/1705d6ddc472.png"
+    },
+    {
+      "id": "48be754c64db",
+      "kind": "news",
+      "lang": "ko",
+      "title": "훼손된 땅은 덜 중요할까... 멸종위기종에겐 귀한 집",
+      "summary": "자연이 얼마나 온전하게 남아 있는지만 따져 보전 대상을 정하면 멸종위기종에 중요한 서식지를 놓칠 수…",
+      "detail": "자연이 얼마나 온전하게 남아 있는지만 따져 보전 대상을 정하면 멸종위기종에 중요한 서식지를 놓칠 수 있다는 연구 결과가 나왔다. 생태계 상태가 좋은 지역이 멸종위기종 보전에도 중요하다고 단정할 수 없고, 반대로 상대적으로 훼손된 지역이 특정 종의…",
+      "link": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%ED%9B%BC%EC%86%90%EB%90%9C-%EB%95%85%EC%9D%80-%EB%8D%9C-%EC%A4%91%EC%9A%94%ED%95%A0%EA%B9%8C-%EB%A9%B8%EC%A2%85%EC%9C%84%EA%B8%B0%EC%A2%85%EC%97%90%EA%B2%90-%EA%B7%80%ED%95%9C-%EC%A7%91/ar-AA2e3hrl",
+      "source": "뉴스펭귄",
+      "image": "http://www.bing.com/th?id=ONUT.pwPTJvtWtT8HnGAbCD4SLQ&pid=News",
+      "category": "생태·환경",
+      "publishedAt": "2026-10-12T02:15:58.000Z",
+      "collectedAt": "2026-10-12T09:49:02.235Z",
+      "thumb": "/thumbs/48be754c64db.jpg"
+    },
+    {
+      "id": "f7454bf1e65c",
+      "kind": "news",
+      "lang": "ko",
+      "title": "대장암 세포의 '면역세포 감시망' 회피 원리 규명",
+      "summary": "고려대학교 김성은 교수와 경희대학교 김권일 교수 공동 연구팀이 대장암 세포가 아연을 이용해…",
+      "detail": "고려대학교 김성은 교수와 경희대학교 김권일 교수 공동 연구팀이 대장암 세포가 아연을 이용해 면역세포의 감시망을 피하는 작동 원리를 규명했다고 밝혔다.우리 몸의 면역세포 중 하나인 ‘대식세포’는 몸속을 순찰하며 암세포나 병균을 찾아내 잡아먹는 일종의…",
+      "link": "https://www.koreahealthlog.com/news/articleView.html?idxno=59393",
+      "source": "코리아헬스로그",
+      "category": "의학·바이오",
+      "publishedAt": "2026-10-11T18:37:00.000Z",
+      "collectedAt": "2026-10-12T09:49:02.235Z",
+      "thumb": "/thumbs/f7454bf1e65c.png"
+    },
     {
       "id": "a2554f24d7e8",
       "kind": "news",
@@ -2409,51 +2452,6 @@
       "translator": "google",
       "detailKo": "생물학적 진화는 과학계에서 널리 받아들여지고 있습니다. 즉, 많은 사람과 조직, 특히…",
       "thumb": "/thumbs/697c582dcfc6.jpg"
-    },
-    {
-      "id": "56ca0bf89620",
-      "kind": "news",
-      "lang": "ko",
-      "title": "경북 학생들 과학 호기심 빛났다… 전국과학전람회 특상 10편",
-      "summary": "‘제72회 전국과학전람회’에 참가한 경산과학고등학교 ‘리처드파이한입만’ 팀 학생들이 ‘떨어지는…",
-      "detail": "‘제72회 전국과학전람회’에 참가한 경산과학고등학교 ‘리처드파이한입만’ 팀 학생들이 ‘떨어지는 벚꽃잎은 왜 잡기 어려울까? 유체 속 원반형 물체의 낙하 운동 탐구’ 작품 앞에서 기념촬영을 하고 있다. 경상북도교육청과학원 제공 일상의 작은 호기심에서…",
-      "link": "https://www.hidomin.com/news/articleView.html?idxno=724003",
-      "source": "경북도민일보",
-      "image": "http://www.bing.com/th?id=ONUT.ECviHwIVvEjeqr4sOSONzw&pid=News",
-      "category": "대회·행사",
-      "publishedAt": "2026-10-07T13:16:00.000Z",
-      "collectedAt": "2026-10-09T05:57:46.232Z",
-      "thumb": "/thumbs/56ca0bf89620.jpg"
-    },
-    {
-      "id": "4abf0f67c4d0",
-      "kind": "news",
-      "lang": "ko",
-      "title": "도촌초 학생팀, 전국과학전람회서 손목 부담 줄인 수공구 연구로 특상",
-      "summary": "봉화교육지원청은 제72회 전국과학전람회에서 도촌초등학교 학생팀이 특상을 수상했다고 6일 밝혔다.이번…",
-      "detail": "봉화교육지원청은 제72회 전국과학전람회에서 도촌초등학교 학생팀이 특상을 수상했다고 6일 밝혔다.이번 수상은 봉화과학발명교육센터 소속 교사의 지도 아래 도촌초등학교 학생 탐구팀 '마스터 이글스'(6학년 강예준, 5학년 노찬영)가 이뤄낸 성과다.학생팀은…",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3715546",
-      "source": "국제뉴스",
-      "image": "http://www.bing.com/th?id=ONUT.QMKRkQKVJSs49vmAAdIZNQ&pid=News",
-      "category": "대회·행사",
-      "publishedAt": "2026-10-07T11:58:00.000Z",
-      "collectedAt": "2026-10-09T05:57:46.232Z",
-      "thumb": "/thumbs/4abf0f67c4d0.png"
-    },
-    {
-      "id": "3fc96ac93575",
-      "kind": "news",
-      "lang": "ko",
-      "title": "도민 70% 이상 ‘영재학교 필요성-전북과학고 지정 공감’",
-      "summary": "전북도민 10명 중 7명 이상은 ‘영재학교 필요하다’에 동의하는 것으로 나타났다",
-      "detail": "전북도민 10명 중 7명 이상은 ‘영재학교 필요하다’에 동의하는 것으로 나타났다. 전북교육청은 지난 9월 18일부터 2일까지 총 890명을 대상으로 ‘전북과학고의 카이스트 부설 영재학교 전환에 관한 인식조사’를 진행했다. 조사 결과 ‘영재학교 설립…",
-      "link": "http://www.jjn.co.kr/news/articleView.html?idxno=1053961",
-      "source": "전북중앙",
-      "image": "http://www.bing.com/th?id=ONUT.z0H9_9E_i53zT9KvlTmpmA&pid=News",
-      "category": "교육",
-      "publishedAt": "2026-10-07T10:13:00.000Z",
-      "collectedAt": "2026-10-09T05:57:46.232Z",
-      "thumb": "/thumbs/3fc96ac93575.png"
     }
   ]
 }

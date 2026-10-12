@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-10-12T08:57:22.732Z",
+  "updatedAt": "2026-10-12T09:49:02.091Z",
   "items": [
+    {
+      "id": "7db59d952cb2",
+      "kind": "news",
+      "lang": "ko",
+      "title": "불 없이 빛으로, 유기용매 없이 물로···상온서 '분자 스펀지' 합성",
+      "summary": "국내 연구진이 불 대신 빛, 유기용매 대신 물로 기체를 빨아들이는 '분자 스펀지'를 만들어냈다",
+      "detail": "국내 연구진이 불 대신 빛, 유기용매 대신 물로 기체를 빨아들이는 '분자 스펀지'를 만들어냈다. 상온에서도 원하는 구조와 기능을 갖춘 소재를 만드는데 도움이 될것으로 기대된다.포항공과대학교(POSTECH·총장 김성근)는 서대하 화학과 교수 연구팀이…",
+      "link": "http://www.hellodd.com/news/articleView.html?idxno=113462",
+      "source": "헬로디디",
+      "category": "연구",
+      "publishedAt": "2026-10-12T07:30:00.000Z",
+      "collectedAt": "2026-10-12T09:49:02.091Z",
+      "thumb": "/thumbs/7db59d952cb2.png"
+    },
+    {
+      "id": "bsky-3mxby5ciwdp25",
+      "kind": "news",
+      "lang": "en",
+      "title": "Today is World Octopus Day 🐙 Did you know that octopuses have blue blood?",
+      "summary": "This graphic looks at what makes it blue, as well as…",
+      "link": "https://bsky.app/profile/compoundchem.com/post/3mxby5ciwdp25",
+      "source": "Bluesky Compound Interest",
+      "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:elgkp22tjscka4ij6kqibtvt/bafkreifvngzcayiw36ggimj3jeosrbngchgyumlm2nd266in7bqlbfwznq",
+      "likes": "254",
+      "category": "인기",
+      "publishedAt": "2026-10-07T12:48:01.356Z",
+      "collectedAt": "2026-10-12T09:49:02.091Z",
+      "titleKo": "오늘은 세계 문어의 날입니다🐙 문어가 푸른 피를 가지고 있다는 사실을 알고 계셨나요?",
+      "summaryKo": "이 그래픽은 무엇이 파란색을 만드는지 보여줍니다",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxby5ciwdp25.webp"
+    },
     {
       "id": "53ece952d1a3",
       "kind": "news",
@@ -2420,41 +2452,6 @@
       "translator": "google",
       "detailKo": "그래서 쿠마린을 화학적으로 변환하여 형광성을 갖게 하고 아마도 좀 더 잘 분리해야 할 것 같지만 다음 아이디어는…",
       "thumb": "/thumbs/4394e4d6ec3a.jpg"
-    },
-    {
-      "id": "bsky-3mxcbfxyyyc2p",
-      "kind": "news",
-      "lang": "en",
-      "title": "So desirable are chiral molecules as pharmaceutically active compounds that scientists…",
-      "summary": "employ whatever methods they can and continually…",
-      "link": "https://bsky.app/profile/cenmag.bsky.social/post/3mxcbfxyyyc2p",
-      "source": "Bluesky C&EN",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u4u4yeik2uube2g6ov7wr35p/bafkreid23hb2k4sumzxkfoz6mnfyb5xnbweimwl4rbo7aiktpvboi27bve",
-      "category": "인기",
-      "publishedAt": "2026-10-07T15:33:56.270Z",
-      "collectedAt": "2026-10-07T15:42:20.216Z",
-      "titleKo": "과학자들이 제약학적으로 활성인 화합물로서 키랄 분자가 매우 바람직하기 때문에…",
-      "summaryKo": "가능한 모든 방법을 사용하고 지속적으로…",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mxcbfxyyyc2p.webp"
-    },
-    {
-      "id": "bsky-3mxcbeuhgnc2p",
-      "kind": "news",
-      "lang": "en",
-      "title": "The concept of chirality is a central one in chemistry.",
-      "summary": "Chiral chemicals, in which two structures are mirror…",
-      "link": "https://bsky.app/profile/cenmag.bsky.social/post/3mxcbeuhgnc2p",
-      "source": "Bluesky C&EN",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u4u4yeik2uube2g6ov7wr35p/bafkreifysaqhrhni2thdtmjyv6cymk6uozfri2kegjxu246erm22jronbi",
-      "likes": "2",
-      "category": "인기",
-      "publishedAt": "2026-10-07T15:33:18.993Z",
-      "collectedAt": "2026-10-07T15:42:20.216Z",
-      "titleKo": "키랄성의 개념은 화학의 핵심 개념입니다.",
-      "summaryKo": "두 구조가 거울인 키랄 화학물질…",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mxcbeuhgnc2p.webp"
     }
   ]
 }
