@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-12T11:00:48.967Z",
+  "updatedAt": "2026-10-12T12:00:44.999Z",
   "items": [
+    {
+      "id": "fb-2b7d1eda85c2",
+      "kind": "news",
+      "lang": "en",
+      "title": "Want the latest updates from the magazine section of eLife?",
+      "summary": "",
+      "link": "https://www.facebook.com/elifesciences/posts/pfbid0ssWSCiRwXc3HM4o5W75VseeFvr1nqmiSpMXgJs4sXc6gCJvHindtEScU2P4ptGcCl",
+      "source": "Facebook eLife",
+      "category": "인기",
+      "publishedAt": "2026-10-12T11:00:13.641Z",
+      "thumb": "/social/fb/fb-2b7d1eda85c2.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-12T12:00:44.999Z",
+      "titleKo": "eLife 잡지 섹션의 최신 업데이트를 원하시나요?",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-8edce80c4663",
       "kind": "news",
