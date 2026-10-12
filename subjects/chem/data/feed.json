@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-12T03:59:06.600Z",
+  "updatedAt": "2026-10-12T04:59:04.594Z",
   "items": [
+    {
+      "id": "07e7fe81718b",
+      "kind": "news",
+      "lang": "ko",
+      "title": "효성화학, 유럽 플라스틱 전시회서 고기능 소재 '포케톤' 선봬",
+      "summary": "이로운넷 = 최봉애 기자 효성화학이 유럽 플라스틱 가공 산업 전시회에 참여, 미래 소재…",
+      "detail": "이로운넷 = 최봉애 기자 효성화학이 유럽 플라스틱 가공 산업 전시회에 참여, 미래 소재 포케톤(POKETONE)을 시장에 소개한다.효성화학은 12일부터 16일(현지시간)까지 독일 프리드리히스하펜에서 열리는 국제 플라스틱 가공 전시회…",
+      "link": "https://www.eroun.net/news/articleView.html?idxno=92096",
+      "source": "이로운넷",
+      "category": "소재·에너지",
+      "publishedAt": "2026-10-11T15:52:00.000Z",
+      "collectedAt": "2026-10-12T04:59:04.594Z",
+      "thumb": "/thumbs/07e7fe81718b.jpg"
+    },
     {
       "id": "78d8b1c5c056",
       "kind": "news",
@@ -2455,21 +2469,6 @@
       "translator": "google",
       "detailKo": "이중 가닥 RNA(dsRNA)는 선천성 면역 체계에서 중요한 역할을 하지만 질병에서는 잘못 조절되어 다음과 같은 증상을 유발할 수 있습니다.",
       "thumb": "/thumbs/94cf4e1e5a22.png"
-    },
-    {
-      "id": "e39ed30b21e4",
-      "kind": "news",
-      "lang": "ko",
-      "title": "[종합] 노벨 화학상, 생명체 '한쪽 거울상 분자' 선택 원리 밝힌 카강·소아이",
-      "summary": "장일현 특파원 = 올해 노벨 화학상은 생명체가 왜 수많은 거울상 분자 가운데 한쪽만 선택해…",
-      "detail": "장일현 특파원 = 올해 노벨 화학상은 생명체가 왜 수많은 거울상 분자 가운데 한쪽만 선택해 사용하는지를 설명하는 길을 연 과학자 2명에게 돌아갔다. 의약품·향수를 비롯한 각종 기능성 물질을 원하는 형태로 합성할 수 있는 기반을 마련 ...",
-      "link": "https://www.newspim.com/news/view/20261007001607",
-      "source": "뉴스핌",
-      "image": "http://www.bing.com/th?id=ONUT.EWj4Ftsoc4fRu6cfK7A7pw&pid=News",
-      "category": "연구",
-      "publishedAt": "2026-10-07T06:48:00.000Z",
-      "collectedAt": "2026-10-07T15:42:20.216Z",
-      "thumb": "/thumbs/e39ed30b21e4.png"
     }
   ]
 }

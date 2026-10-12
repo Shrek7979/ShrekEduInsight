@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-10-12T03:59:06.571Z",
+  "updatedAt": "2026-10-12T04:59:04.556Z",
   "items": [
+    {
+      "id": "0232f7504026",
+      "kind": "news",
+      "lang": "ko",
+      "title": "올림피아드교육, ‘올림피아드 수학 페스타’ Stage 3 서술형 문항 및 교재 경연 개최",
+      "summary": "위즈코프 산하 올림피아드교육이 진행하는 ‘올림피아드 수학 페스타’(이하 올수페)가 세 번째 단계인…",
+      "detail": "위즈코프 산하 올림피아드교육이 진행하는 ‘올림피아드 수학 페스타’(이하 올수페)가 세 번째 단계인 ‘Stage 3 서술형 문항 및 교재 경연’을 오는 10월 19일부터 30일까지 개최한다. 올수페는 올림피아드교육의 인출학습 기반 공부법을 바탕으로…",
+      "link": "https://edu.donga.com/news/articleView.html?idxno=112691",
+      "source": "에듀동아",
+      "image": "http://www.bing.com/th?id=ONUT.FZYOd4f4fgiwR8xzKNuJ9g&pid=News",
+      "category": "대회·행사",
+      "publishedAt": "2026-10-11T16:20:00.000Z",
+      "collectedAt": "2026-10-12T04:59:04.556Z",
+      "thumb": "/thumbs/0232f7504026.jpg"
+    },
+    {
+      "id": "f4214536f10c",
+      "kind": "news",
+      "lang": "ko",
+      "title": "부천시, ‘수능탈출 문화주간’ 마련 운영",
+      "summary": "부천시는 대학수학능력시험을 앞두고 마지막까지 최선을 다하고 있는 고3 수험생들을 응원하고 수능 이후…",
+      "detail": "부천시는 대학수학능력시험을 앞두고 마지막까지 최선을 다하고 있는 고3 수험생들을 응원하고 수능 이후 학업 스트레스를 해소할 수 있도록 ‘수능탈출 문화주간’을 운영한다고 12일 밝혔다.",
+      "link": "https://www.kgdm.co.kr/news/articleView.html?idxno=2015204",
+      "source": "경기도민일보",
+      "image": "http://www.bing.com/th?id=ONUT.jYz6HKH4z1PhuEILX1noJA&pid=News",
+      "category": "입시",
+      "publishedAt": "2026-10-11T16:00:00.000Z",
+      "collectedAt": "2026-10-12T04:59:04.556Z",
+      "thumb": "/thumbs/f4214536f10c.png"
+    },
     {
       "id": "7ae9d118e240",
       "kind": "news",
@@ -658,21 +688,6 @@
       "publishedAt": "2026-10-08T06:46:00.000Z",
       "collectedAt": "2026-10-09T22:57:26.671Z",
       "thumb": "/thumbs/bf318250af2e.jpg"
-    },
-    {
-      "id": "32d2329d1d47",
-      "kind": "news",
-      "lang": "ko",
-      "title": "”9월 ‘물영어’에 방심했다간 낭패…수능 난도 상승 대비해야”[교육in]",
-      "summary": "“9월 모의평가 성적표를 보고 영어 공부에 소홀했다가는 수능에서 낭패를 볼 수 있습니다.” 김병진…",
-      "detail": "“9월 모의평가 성적표를 보고 영어 공부에 소홀했다가는 수능에서 낭패를 볼 수 있습니다.” 김병진 이투스 교육평가연구소장은 9일 이데일리와의 인터뷰에서 이같이 말했다. 지난달 치러진 2027학년도 대학수학능력시험(수능) 9월 모의평가(모평)에서…",
-      "link": "https://www.edaily.co.kr/News/Read?newsId=01515366645611608",
-      "source": "이데일리",
-      "image": "http://www.bing.com/th?id=ONUT.pEDLODOE9WNmO-lAhjY_DQ&pid=News",
-      "category": "입시",
-      "publishedAt": "2026-10-09T09:00:00.000Z",
-      "collectedAt": "2026-10-09T21:57:15.857Z",
-      "thumb": "/thumbs/32d2329d1d47.jpg"
     },
     {
       "id": "b10ec4f24d1b",
