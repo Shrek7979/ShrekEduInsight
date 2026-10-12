@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-12T17:57:40.882Z",
+  "updatedAt": "2026-10-12T18:57:45.915Z",
   "items": [
+    {
+      "id": "bsky-3mxa2ekvb742c",
+      "kind": "news",
+      "lang": "en",
+      "title": "Congratulations to Francis Halzen, winner of the 2026 @nobelprize.org in Physics, for contributions to @icecubeneutrino.bsky.social and the…",
+      "summary": "discovery of high-energy cosmic neutrinos",
+      "link": "https://bsky.app/profile/apsphysics.aps.org/post/3mxa2ekvb742c",
+      "source": "Bluesky APS Physics",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:heemoqq7cssrx5ixyxwd52y6/bafkreiapm57vo6pojnwbqc4kb4jtwmu4y52nn364jg4dhbwoex46lbjy6e",
+      "likes": "11",
+      "category": "인기",
+      "publishedAt": "2026-10-06T18:22:33.273Z",
+      "collectedAt": "2026-10-12T18:57:45.915Z",
+      "titleKo": "@icecubeneutrino.bsky.social 및…",
+      "summaryKo": "고에너지 우주 중성미자의 발견",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxa2ekvb742c.webp"
+    },
     {
       "id": "bsky-3mxemftpz6723",
       "kind": "news",
@@ -2510,21 +2528,6 @@
       "translator": "google",
       "detailKo": "연구자들은 광유전학 치료를 받은 시각 장애인의 첫 번째 임상 코호트에서 고무적인 결과를 보고합니다.",
       "thumb": "/thumbs/6d8be8c0f04b.jpg"
-    },
-    {
-      "id": "190c02b4739a",
-      "kind": "news",
-      "lang": "ko",
-      "title": "[서학!스타] 아이온큐, 美 국방부 양자컴퓨터 검증 '최종 단계' 진입…최대 3억 달러 계약에 쏠리는 시선",
-      "summary": "미국 양자컴퓨팅 기업 아이온큐(IonQ·NYSE: IONQ)가 미국 국방고등연구계획국(DARPA)의…",
-      "detail": "미국 양자컴퓨팅 기업 아이온큐(IonQ·NYSE: IONQ)가 미국 국방고등연구계획국(DARPA)의 양자컴퓨팅 기술 검증 프로그램에서 새로운 단계에 진입했다. 최대 3억 달러(약 4,000억 원대) 규모의 계약을 바탕으로 대규모 양자컴퓨터 상용화를…",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=613710",
-      "source": "CBC뉴스",
-      "image": "http://www.bing.com/th?id=ONUT.8OoQYI1gtlYnOnxEM7IH5w&pid=News",
-      "category": "양자·첨단",
-      "publishedAt": "2026-10-08T02:25:00.000Z",
-      "collectedAt": "2026-10-08T14:57:42.341Z",
-      "thumb": "/thumbs/190c02b4739a.jpg"
     }
   ]
 }
