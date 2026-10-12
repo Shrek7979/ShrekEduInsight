@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-12T02:58:48.079Z",
+  "updatedAt": "2026-10-12T03:59:06.600Z",
   "items": [
+    {
+      "id": "78d8b1c5c056",
+      "kind": "news",
+      "lang": "en",
+      "title": "A triple carbonylation cascade converts aldehydes into threofuranoses",
+      "summary": "The construction of complex sugars from aldehydes is…",
+      "detail": "The construction of complex sugars from aldehydes is difficult. Now, a rhodium-catalysed triple-carbonylation cascade is developed that…",
+      "link": "https://www.nature.com/articles/s41557-026-02284-6",
+      "source": "Nature Chemistry",
+      "category": "연구",
+      "publishedAt": "2026-10-07T00:00:00.000Z",
+      "collectedAt": "2026-10-12T03:59:06.600Z",
+      "titleKo": "삼중 카르보닐화 계단식은 알데히드를 트레오푸라노스로 전환시킵니다.",
+      "summaryKo": "알데히드로부터 복합당을 만드는 과정은…",
+      "translator": "google",
+      "detailKo": "알데히드로부터 복합당을 만드는 것은 어렵습니다. 이제 로듐 촉매 삼중 카르보닐화 캐스케이드가 개발되었습니다.",
+      "thumb": "/thumbs/78d8b1c5c056.png"
+    },
     {
       "id": "be370c2084b8",
       "kind": "news",
@@ -2452,20 +2470,6 @@
       "publishedAt": "2026-10-07T06:48:00.000Z",
       "collectedAt": "2026-10-07T15:42:20.216Z",
       "thumb": "/thumbs/e39ed30b21e4.png"
-    },
-    {
-      "id": "4368d92f88dd",
-      "kind": "news",
-      "lang": "ko",
-      "title": "[2026 노벨상] 화학상…제약 설계에 획기적 발견한 이들에게",
-      "summary": "카강 소아이 교수가 이 수수께끼의 해법을 발견했고 그 공로로 2026년 노벨화학상을 수상했다고…",
-      "detail": "카강 소아이 교수가 이 수수께끼의 해법을 발견했고 그 공로로 2026년 노벨화학상을 수상했다고 아카데미 측은 부연했다. 이들의 발견은 제약 제조와 같은 분야에서 사용되는 반응을 설계하는 화학자들에게 매우 중요한 의미를 지닌다고 강조했다.",
-      "link": "https://www.inews24.com/view/mp/2012937",
-      "source": "아이뉴스24",
-      "category": "연구",
-      "publishedAt": "2026-10-07T04:01:00.000Z",
-      "collectedAt": "2026-10-07T15:42:20.216Z",
-      "thumb": "/thumbs/4368d92f88dd.jpg"
     }
   ]
 }

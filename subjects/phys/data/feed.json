@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-10-12T02:58:48.151Z",
+  "updatedAt": "2026-10-12T03:59:06.557Z",
   "items": [
+    {
+      "id": "8c7e5297a107",
+      "kind": "news",
+      "lang": "ko",
+      "title": "나주시 인공태양 연구시설 연계 '핵융합 산학연 클러스터' 조성 박차",
+      "summary": "코리아 방송= [김보관 기자]전남광주통합특별시 나주시가 첨단 기술과 장비를 한자리에서 선보이며…",
+      "detail": "코리아 방송= [김보관 기자]전남광주통합특별시 나주시가 첨단 기술과 장비를 한자리에서 선보이며 인공태양 연구시설을 중심으로 연구와 산업, 기업이 연결되는 핵융합 에너지 생태계의 가능성을 보여줬다.",
+      "link": "https://www.hnlife.kr/news/articleView.html?idxno=346099",
+      "source": "hnlife.kr",
+      "image": "http://www.bing.com/th?id=ONUT.IvovYQYsPdTseH2zrlYoBA&pid=News",
+      "category": "양자·첨단",
+      "publishedAt": "2026-10-06T02:30:00.000Z",
+      "collectedAt": "2026-10-12T03:59:06.557Z",
+      "thumb": "/thumbs/8c7e5297a107.jpg"
+    },
     {
       "id": "848a9ea53c71",
       "kind": "news",
@@ -2500,20 +2515,6 @@
       "publishedAt": "2026-10-07T17:25:00.000Z",
       "collectedAt": "2026-10-08T08:13:55.955Z",
       "thumb": "/thumbs/26e179baba3c.jpg"
-    },
-    {
-      "id": "fe2f6ac08f35",
-      "kind": "news",
-      "lang": "ko",
-      "title": "퀀텀레일, 양자보안 전담 개발팀 구성",
-      "summary": "컨슈머타임스=전은정 기자 | 퀀텀레일이 차세대 양자보안 솔루션 개발을 위한 전담팀을 구성했다고 8일…",
-      "detail": "컨슈머타임스=전은정 기자 | 퀀텀레일이 차세대 양자보안 솔루션 개발을 위한 전담팀을 구성했다고 8일 밝혔다.전담팀에는 국가보안기술연구소 출신 개발자와 금융권·보안회사 출신 전문가를 영입했다. 기존 유심·인증 기술에 블록체인(Blockchain),…",
-      "link": "https://www.cstimes.com/news/articleView.html?idxno=723334",
-      "source": "컨슈머타임스",
-      "category": "양자·첨단",
-      "publishedAt": "2026-10-07T15:05:00.000Z",
-      "collectedAt": "2026-10-08T08:13:55.955Z",
-      "thumb": "/thumbs/fe2f6ac08f35.png"
     }
   ]
 }

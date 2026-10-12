@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-10-12T02:58:48.150Z",
+  "updatedAt": "2026-10-12T03:59:06.556Z",
   "items": [
+    {
+      "id": "dd1f4790bd32",
+      "kind": "news",
+      "lang": "ko",
+      "title": "대장암, 아연 흡수해 면역세포 속인다… 국내 연구진 규명",
+      "summary": "대장암 세포가 필수 영양소인 '아연'을 흡수해 우리 몸의 면역 감시망을 피하는 작동 원리가 국내…",
+      "detail": "대장암 세포가 필수 영양소인 '아연'을 흡수해 우리 몸의 면역 감시망을 피하는 작동 원리가 국내 연구진에 의해 밝혀졌다.암세포가 면역세포의 공격을 회피하는 경로를 차단해 대장암 치료 효과를 높일 수 있는 새로운 단서가 마련됐다.고려대 김성은 교수와…",
+      "link": "https://www.dongbuknews.com/news/articleView.html?idxno=6796",
+      "source": "dongbuknews.com",
+      "category": "의학·바이오",
+      "publishedAt": "2026-10-11T13:48:00.000Z",
+      "collectedAt": "2026-10-12T03:59:06.556Z",
+      "thumb": "/thumbs/dd1f4790bd32.jpg"
+    },
+    {
+      "id": "bsky-3mxfeoagxnb26",
+      "kind": "news",
+      "lang": "en",
+      "title": "During an eruption, occasional lava fountains aren’t unusual.",
+      "summary": "But it’s rare to see repeated fountains — distinct…",
+      "link": "https://bsky.app/profile/sciencenews.bsky.social/post/3mxfeoagxnb26",
+      "source": "Bluesky Science News",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mhjqpvjvyzpj4pso7ux2tekh/bafkreiaybll6lu6et2xkorocbmdmlifxzdoo2mudedhdqd3zbxmsktntey",
+      "likes": "3",
+      "category": "인기",
+      "publishedAt": "2026-10-08T21:10:13.244Z",
+      "collectedAt": "2026-10-12T03:59:06.556Z",
+      "titleKo": "폭발 중에 가끔 용암 분수가 나타나는 것은 드문 일이 아닙니다.",
+      "summaryKo": "하지만 반복되는 분수를 보는 경우는 거의 없습니다",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxfeoagxnb26.webp"
+    },
     {
       "id": "e55e72dfa3bb",
       "kind": "news",
@@ -2440,41 +2472,6 @@
       "publishedAt": "2026-10-07T06:37:00.000Z",
       "collectedAt": "2026-10-08T22:56:56.143Z",
       "thumb": "/thumbs/8bb963f661a0.png"
-    },
-    {
-      "id": "bsky-3mwldnj2azk2f",
-      "kind": "news",
-      "lang": "en",
-      "title": "In our newest issue, we interview Jennifer Mather, whose work involves cephalopod behaviour and human–animal interactions at the University…",
-      "summary": "of Lethbridge",
-      "link": "https://bsky.app/profile/currentbiology.bsky.social/post/3mwldnj2azk2f",
-      "source": "Bluesky Current Biology",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iwhwhmcrfrlmpme5ybe6tdoh/bafkreiee7nbabftlxhngxnltottk5fwkgpeswzi4sdr4g56y62tb2sq6zu",
-      "likes": "7",
-      "category": "인기",
-      "publishedAt": "2026-09-28T12:42:42.518Z",
-      "collectedAt": "2026-10-08T22:56:56.143Z",
-      "titleKo": "최신 호에서는 대학에서 두족류 행동과 인간과 동물의 상호 작용을 연구하는 Jennifer Mather를 인터뷰합니다.",
-      "summaryKo": "레스브리지의",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mwldnj2azk2f.png"
-    },
-    {
-      "id": "bsky-3mxffrnccnj23",
-      "kind": "news",
-      "lang": "en",
-      "title": "Simple math formula predicts when AI chatbots will go rogue.",
-      "summary": "Learn more in Patterns: Neil F",
-      "link": "https://bsky.app/profile/cellpress.bsky.social/post/3mxffrnccnj23",
-      "source": "Bluesky Cell Press",
-      "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dbehouwmds4bxla5z5glados/bafkreifpc4c6yiugagbcxvsjgxbyg7axm34eegplc7xlte6hu4mkyscsla",
-      "category": "인기",
-      "publishedAt": "2026-10-08T21:30:01.800Z",
-      "collectedAt": "2026-10-08T21:57:15.555Z",
-      "titleKo": "간단한 수학 공식은 AI 챗봇이 언제 불량해질지 예측합니다.",
-      "summaryKo": "패턴: Neil F에서 자세히 알아보세요",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mxffrnccnj23.webp"
     }
   ]
 }
