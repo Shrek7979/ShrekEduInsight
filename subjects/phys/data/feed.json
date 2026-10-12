@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-10-12T12:58:12.771Z",
+  "updatedAt": "2026-10-12T13:57:47.245Z",
   "items": [
+    {
+      "id": "7c0d83b68213",
+      "kind": "news",
+      "lang": "en",
+      "title": "Ask me anything: Tania Kendrick – ‘There’s something really satisfying when everything…",
+      "summary": "Tania Kendrick is a civil servant in the UK’s Cabinet…",
+      "detail": "Tania Kendrick is a civil servant in the UK’s Cabinet Office The post Ask me anything: Tania Kendrick – ‘There’s something really…",
+      "link": "https://physicsworld.com/a/ask-me-anything-tania-kendrick-theres-something-really-satisfying-when-everything-starts-to-click/",
+      "source": "Physics World",
+      "category": "해외",
+      "publishedAt": "2026-10-12T13:00:19.000Z",
+      "collectedAt": "2026-10-12T13:57:47.245Z",
+      "titleKo": "무엇이든 물어보세요: 타니아 켄드릭(Tania Kendrick) – '모든 것이 만족스러울 때 뭔가가 정말 만족스럽습니다...",
+      "summaryKo": "Tania Kendrick은 영국 내각의 공무원입니다",
+      "translator": "google",
+      "detailKo": "Tania Kendrick은 영국 내각부 공무원입니다. 게시물 무엇이든 물어보세요: Tania Kendrick - '정말 뭔가가 있습니다…",
+      "thumb": "/thumbs/7c0d83b68213.jpg"
+    },
+    {
+      "id": "d515e747fea7",
+      "kind": "news",
+      "lang": "ko",
+      "title": "AI 데이터센터 전력난..과연 핵융합이 돌파구 될까(?)",
+      "summary": "인공지능(AI) 경쟁의 승부처가 반도체와 데이터에서 전력으로 옮겨가고 있다",
+      "detail": "인공지능(AI) 경쟁의 승부처가 반도체와 데이터에서 전력으로 옮겨가고 있다. AI 모델을 학습시키고 서비스를 운영하는 데이터센터가 급증하면서 막대한 전력을 안정적으로 공급할 수 있는지가 국가 경쟁력의 새로운 변수로 떠오른 것이다. 한국 정부는 최근…",
+      "link": "https://www.dailycar.co.kr/content/news.html?type=view&autoId=62739",
+      "source": "데일리카",
+      "category": "양자·첨단",
+      "publishedAt": "2026-10-06T04:28:00.000Z",
+      "collectedAt": "2026-10-12T13:57:47.245Z",
+      "thumb": "/thumbs/d515e747fea7.webp"
+    },
     {
       "id": "7dcff9c05297",
       "kind": "news",
@@ -2489,39 +2521,6 @@
       "translator": "google",
       "detailKo": "대화형 슬라이드 퍼즐로 야생동물 사진을 재구성할 수 있나요? 포스트 물리학과 야생동물 보호: 슬라이드 퍼즐이 등장했다…",
       "thumb": "/thumbs/96dce17f95f0.jpg"
-    },
-    {
-      "id": "c9881fec8601",
-      "kind": "news",
-      "lang": "ko",
-      "title": "대전, 양자기술 산업화 모색…13일 연구·창업 전문가 한자리에",
-      "summary": "대전시(시장 허태정)가 대덕연구개발특구의 연구 역량을 양자기술 산업화와 스타트업 육성으로 연결하기…",
-      "detail": "대전시(시장 허태정)가 대덕연구개발특구의 연구 역량을 양자기술 산업화와 스타트업 육성으로 연결하기 위한 협력 방안을 모색한다. 양자산업 클러스터 조성부터 위성 기반 양자통신, 에너지 진단·센싱까지 기술의 산업적 활용 가능성을 논의하는 자리가 ...",
-      "link": "https://www.timenews.co.kr/article/1707468",
-      "source": "timenews.co.kr",
-      "image": "http://www.bing.com/th?id=ONUT.DsqeeIoh0pDFkjqwqbw4LQ&pid=News",
-      "category": "양자·첨단",
-      "publishedAt": "2026-10-08T01:38:00.000Z",
-      "collectedAt": "2026-10-08T12:57:26.896Z",
-      "thumb": "/thumbs/c9881fec8601.png"
-    },
-    {
-      "id": "19d84972d882",
-      "kind": "news",
-      "lang": "en",
-      "title": "Disordered environments around tumour cells can promote cancer spread",
-      "summary": "A biophysics model describing how cancers spread within…",
-      "detail": "A biophysics model describing how cancers spread within the human body could help researchers developing new cancer therapies The post…",
-      "link": "https://physicsworld.com/a/disordered-environments-around-tumour-cells-can-promote-cancer-spread/",
-      "source": "Physics World",
-      "category": "해외",
-      "publishedAt": "2026-10-08T11:00:42.000Z",
-      "collectedAt": "2026-10-08T11:57:37.474Z",
-      "titleKo": "종양 세포 주변의 무질서한 환경은 암 확산을 촉진할 수 있습니다",
-      "summaryKo": "암이 어떻게 퍼지는지 설명하는 생물물리학 모델…",
-      "translator": "google",
-      "detailKo": "암이 인체 내에서 어떻게 퍼지는지 설명하는 생물물리학 모델은 연구자들이 새로운 암 치료법을 개발하는 데 도움이 될 수 있습니다.",
-      "thumb": "/thumbs/19d84972d882.jpg"
     }
   ]
 }

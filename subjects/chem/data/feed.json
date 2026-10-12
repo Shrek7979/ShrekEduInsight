@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-10-12T12:58:12.679Z",
+  "updatedAt": "2026-10-12T13:57:47.301Z",
   "items": [
+    {
+      "id": "bsky-3mxomylfecc25",
+      "kind": "news",
+      "lang": "en",
+      "title": "There are no plans to transfer production of the mainly off-patent, export-focused production from Grangemouth to other Syngenta sites, as…",
+      "summary": "the company says they are cheaply produced elsewhere by…",
+      "link": "https://bsky.app/profile/chemistryworld.com/post/3mxomylfecc25",
+      "source": "Bluesky Chemistry World",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6v2nwmzy4dozxcftobscktc3/bafkreifkjjysesoj2qw77kmeh4iiryjwymrfamfsku3wgcy4sihjrs7vge",
+      "category": "인기",
+      "publishedAt": "2026-10-12T13:33:08.597Z",
+      "collectedAt": "2026-10-12T13:57:47.301Z",
+      "titleKo": "주로 특허가 만료된 수출 중심 생산 시설을 Grangemouth에서 다른 Syngenta 현장으로 이전할 계획은 없습니다.",
+      "summaryKo": "회사에서는 다른 곳에서 저렴하게 생산한다고 합니다..",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxomylfecc25.webp"
+    },
+    {
+      "id": "8ae83e2d0dfa",
+      "kind": "news",
+      "lang": "en",
+      "title": "Comment: Gratitude in action—how ACS inspires us to advocacy",
+      "summary": "",
+      "detail": "",
+      "link": "https://cen.acs.org/acs-news/comment-gratitude-action-acs-inspires/104/web/2026/10?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
+      "source": "C&EN",
+      "category": "해외",
+      "publishedAt": "2026-10-12T13:00:33.000Z",
+      "collectedAt": "2026-10-12T13:57:47.301Z",
+      "titleKo": "의견: 행동에 대한 감사 - ACS가 우리에게 옹호 활동을 영감을 주는 방법",
+      "summaryKo": "",
+      "translator": "google",
+      "thumb": "/thumbs/8ae83e2d0dfa.webp"
+    },
     {
       "id": "2a0624b0202d",
       "kind": "news",
@@ -2412,44 +2446,6 @@
       "collectedAt": "2026-10-07T20:49:17.186Z",
       "summaryKo": "",
       "thumb": "/thumbs/ab20ae5dcc9b.jpg"
-    },
-    {
-      "id": "1567abe65bbb",
-      "kind": "video",
-      "lang": "en",
-      "title": "IRON (new video) - Periodic Table of Videos",
-      "summary": "",
-      "detail": "",
-      "link": "https://www.youtube.com/watch?v=jZZcgnKl_Gg",
-      "source": "Periodic Videos",
-      "image": "https://i3.ytimg.com/vi/jZZcgnKl_Gg/hqdefault.jpg",
-      "views": 307403,
-      "category": "인기",
-      "publishedAt": "2026-09-11T10:18:40.000Z",
-      "collectedAt": "2026-10-07T20:49:17.186Z",
-      "titleKo": "IRON(새 동영상) - 동영상 주기율표",
-      "summaryKo": "",
-      "translator": "google",
-      "thumb": "/thumbs/1567abe65bbb.jpg"
-    },
-    {
-      "id": "bf6f1e9eaead",
-      "kind": "video",
-      "lang": "en",
-      "title": "i turned an ostrich egg into a leather bag",
-      "summary": "",
-      "detail": "",
-      "link": "https://www.youtube.com/shorts/sObIiR8FX5o",
-      "source": "Reactions",
-      "image": "https://i4.ytimg.com/vi/sObIiR8FX5o/hqdefault.jpg",
-      "views": 41016,
-      "category": "인기",
-      "publishedAt": "2026-09-04T19:07:02.000Z",
-      "collectedAt": "2026-10-07T20:49:17.186Z",
-      "titleKo": "나는 타조알을 가죽 가방으로 만들었어요",
-      "summaryKo": "",
-      "translator": "google",
-      "thumb": "/thumbs/bf6f1e9eaead.jpg"
     }
   ]
 }
