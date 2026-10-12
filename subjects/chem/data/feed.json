@@ -1,6 +1,52 @@
 {
-  "updatedAt": "2026-10-12T01:58:37.420Z",
+  "updatedAt": "2026-10-12T02:58:48.079Z",
   "items": [
+    {
+      "id": "be370c2084b8",
+      "kind": "news",
+      "lang": "ko",
+      "title": "화학사고 60% 중소기업 현장의 안전 처방",
+      "summary": "화학사고 15건 가운데 9건이 중소기업에서 일어났다",
+      "detail": "화학사고 15건 가운데 9건이 중소기업에서 일어났다. 올해 지역 내 사고의 60%가 중소기업에 집중되면서 인력 교체와 관리 경험 단절로 생길 수 있는 현장 위험을 줄일 실질적인 지원이 요구된다.금강유역환경청은 13일 LG화학 청주공장과 덕산테코피아…",
+      "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2445631",
+      "source": "충청일보",
+      "category": "환경·안전",
+      "publishedAt": "2026-10-11T19:58:00.000Z",
+      "collectedAt": "2026-10-12T02:58:48.079Z",
+      "thumb": "/thumbs/be370c2084b8.png"
+    },
+    {
+      "id": "8feb111aa0a2",
+      "kind": "news",
+      "lang": "ko",
+      "title": "노벨 화학상 수상 '금속-유기 골격체' 친환경 합성법 찾았다",
+      "summary": "에너지를 별도로 공급하지 않아도 공기 중 이산화탄소나 수증기 등 성분을 흡수하는 신소재 '금속-유기…",
+      "detail": "에너지를 별도로 공급하지 않아도 공기 중 이산화탄소나 수증기 등 성분을 흡수하는 신소재 '금속-유기 골격체(MOF)'를 합성하는 새로운 방식이 개발됐다. 고온에서 유기용매를 이용하는 기존 합성 방식을 개선해 에너지를 절감한 친환경 합성법이다.…",
+      "link": "https://www.dongascience.com/ko/news/80286",
+      "source": "동아사이언스",
+      "image": "http://www.bing.com/th?id=ONUT.BkRWF_4l0yncqhtev7p-Vw&pid=News",
+      "category": "소재·에너지",
+      "publishedAt": "2026-10-11T14:17:00.000Z",
+      "collectedAt": "2026-10-12T02:58:48.079Z",
+      "thumb": "/thumbs/8feb111aa0a2.png"
+    },
+    {
+      "id": "bsky-3mxbom5ac2a2v",
+      "kind": "news",
+      "lang": "en",
+      "title": "Controlling reactions via nucleophile sorting",
+      "summary": "Controlling reactions via nucleophile sorting",
+      "link": "https://bsky.app/profile/natchem.nature.com/post/3mxbom5ac2a2v",
+      "source": "Bluesky Nature Chemistry",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fuecfqxsooravf3ciimrwr72/bafkreibkjx4xbpftygdaup2c5otfqu5rfolg7jvltzldk2iahgwxdypsve",
+      "category": "인기",
+      "publishedAt": "2026-10-07T09:57:21.000Z",
+      "collectedAt": "2026-10-12T02:58:48.079Z",
+      "titleKo": "친핵체 분류를 통한 반응 제어",
+      "summaryKo": "친핵체 분류를 통한 반응 제어",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxbom5ac2a2v.webp"
+    },
     {
       "id": "63df8c9bc471",
       "kind": "news",
@@ -2420,54 +2466,6 @@
       "publishedAt": "2026-10-07T04:01:00.000Z",
       "collectedAt": "2026-10-07T15:42:20.216Z",
       "thumb": "/thumbs/4368d92f88dd.jpg"
-    },
-    {
-      "id": "93c8534dbdcb",
-      "kind": "news",
-      "lang": "ko",
-      "title": "“SK하이닉스 노동자 산재 신청…삼성전자 금지한 화학물질 사용”",
-      "summary": "이상수 반올림 상임활동가는 7일 “삼성이 세척제 용도로 금지한 발암물질 시클로헥사논을 SK하이닉스는…",
-      "detail": "이상수 반올림 상임활동가는 7일 “삼성이 세척제 용도로 금지한 발암물질 시클로헥사논을 SK하이닉스는 연간 5천 톤 넘게 쓰고 있다”면서 “SK하이닉스가 대외적으로 내세우는 화학물질규제제도(RSC)는 내용이 모호하고, 제대로 운영되는지도 의문”이라고…",
-      "link": "https://www.lawleader.co.kr/news/articleView.html?idxno=20112",
-      "source": "로리더",
-      "image": "http://www.bing.com/th?id=ONUT.C7qmofjRuAENN2NgTaokGQ&pid=News",
-      "category": "교육",
-      "publishedAt": "2026-10-07T02:45:00.000Z",
-      "collectedAt": "2026-10-07T15:42:20.216Z",
-      "thumb": "/thumbs/93c8534dbdcb.jpg"
-    },
-    {
-      "id": "f0d2d7ad796f",
-      "kind": "news",
-      "lang": "ko",
-      "title": "재료연구원, 초박막 코팅 수전해 촉매 기술 개발",
-      "summary": "한국재료연구원이 초박막 표면 코팅 기술을 적용해 수전해 촉매의 성능과 내구성 상충 문제를 동시에…",
-      "detail": "한국재료연구원이 초박막 표면 코팅 기술을 적용해 수전해 촉매의 성능과 내구성 상충 문제를 동시에 해결했다. 기존 촉매 대비 1.9배 높은 성능을 달성하면서 1,000시간 장기 안정성을 입증했으며, 간단한 공정으로 산업용 수전해 시스템으로 확장 가능한…",
-      "link": "https://www.e4ds.com/sub_view.asp?idx=23766",
-      "source": "e4ds",
-      "image": "http://www.bing.com/th?id=ONUT.x8nBlkaR64HF4K934_3rzQ&pid=News",
-      "category": "소재·에너지",
-      "publishedAt": "2026-10-07T02:29:00.000Z",
-      "collectedAt": "2026-10-07T15:42:20.216Z",
-      "thumb": "/thumbs/f0d2d7ad796f.jpg"
-    },
-    {
-      "id": "78d8b1c5c056",
-      "kind": "news",
-      "lang": "en",
-      "title": "A triple carbonylation cascade converts aldehydes into threofuranoses",
-      "summary": "The construction of complex sugars from aldehydes is…",
-      "detail": "The construction of complex sugars from aldehydes is difficult. Now, a rhodium-catalysed triple-carbonylation cascade is developed that…",
-      "link": "https://www.nature.com/articles/s41557-026-02284-6",
-      "source": "Nature Chemistry",
-      "category": "연구",
-      "publishedAt": "2026-10-07T00:00:00.000Z",
-      "collectedAt": "2026-10-07T15:42:20.216Z",
-      "titleKo": "삼중 카르보닐화 계단식은 알데히드를 트레오푸라노스로 전환시킵니다.",
-      "summaryKo": "알데히드로부터 복합당을 만드는 과정은…",
-      "translator": "google",
-      "detailKo": "알데히드로부터 복합당을 만드는 것은 어렵습니다. 이제 로듐 촉매 삼중 카르보닐화 캐스케이드가 개발되었습니다.",
-      "thumb": "/thumbs/78d8b1c5c056.png"
     }
   ]
 }
