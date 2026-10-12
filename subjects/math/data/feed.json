@@ -1,6 +1,51 @@
 {
-  "updatedAt": "2026-10-12T04:59:04.556Z",
+  "updatedAt": "2026-10-12T05:59:25.975Z",
   "items": [
+    {
+      "id": "adce182f0d3c",
+      "kind": "news",
+      "lang": "ko",
+      "title": "[위클리오늘] 강원도교육청, 2027학년도 대학수학능력시험 대비 강원 모의평가 문제지 배부",
+      "summary": "강원도교육청은 시민의 일상과 맞닿은 다양한 정책과 사업을 추진하고 있다",
+      "detail": "강원도교육청은 시민의 일상과 맞닿은 다양한 정책과 사업을 추진하고 있다. 오늘 발표된 주요 소식을 한데 모았다. 2027학년도 대학수학능력시험 대비 강원 모의평가 문제지 배부강원특별자치도교육청(교육감 강삼영)은 12일(월), 2027학년도…",
+      "link": "https://www.weeklytoday.com/news/articleView.html?idxno=797641",
+      "source": "위클리오늘",
+      "image": "http://www.bing.com/th?id=ONUT.8HxJhQLWHRDL_nRednQZTQ&pid=News",
+      "category": "입시",
+      "publishedAt": "2026-10-11T17:15:00.000Z",
+      "collectedAt": "2026-10-12T05:59:25.975Z",
+      "thumb": "/thumbs/adce182f0d3c.jpg"
+    },
+    {
+      "id": "57a8b310d586",
+      "kind": "video",
+      "lang": "ko",
+      "title": "평가원 교육과정 취지에 맞는 문제",
+      "summary": "#수능수학 #정병훈 #shorts #공부자극 #수학 #대치동수학",
+      "link": "https://www.youtube.com/shorts/_BYT4VBn3VI",
+      "source": "[정병훈T ] 요리조리 수학",
+      "image": "https://i4.ytimg.com/vi/_BYT4VBn3VI/hqdefault.jpg",
+      "views": 58830,
+      "category": "인기",
+      "publishedAt": "2026-10-06T13:00:04.000Z",
+      "collectedAt": "2026-10-12T05:59:25.975Z",
+      "thumb": "/thumbs/57a8b310d586.jpg"
+    },
+    {
+      "id": "f2b18dfd5602",
+      "kind": "video",
+      "lang": "ko",
+      "title": "수능장에서 성선설 vs 성악설, 평가원의 진짜 의도",
+      "summary": "#수능수학 #정병훈 #shorts #공부자극 #수학 #대치동수학",
+      "link": "https://www.youtube.com/shorts/lqo_Vq_eJUM",
+      "source": "[정병훈T ] 요리조리 수학",
+      "image": "https://i1.ytimg.com/vi/lqo_Vq_eJUM/hqdefault.jpg",
+      "views": 35668,
+      "category": "인기",
+      "publishedAt": "2026-10-04T13:00:36.000Z",
+      "collectedAt": "2026-10-12T05:59:25.975Z",
+      "thumb": "/thumbs/f2b18dfd5602.jpg"
+    },
     {
       "id": "0232f7504026",
       "kind": "news",

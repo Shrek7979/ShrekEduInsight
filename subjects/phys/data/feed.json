@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-10-12T04:59:04.475Z",
+  "updatedAt": "2026-10-12T05:59:25.855Z",
   "items": [
+    {
+      "id": "3e1c2ab198cd",
+      "kind": "news",
+      "lang": "ko",
+      "title": "'AI 넘어 양자컴퓨팅으로'…엔비디아(NVDA.O), 美 과학·양자컴퓨팅에 약 1조원 이상 투자",
+      "summary": "엔비디아가 미국의 과학 연구와 양자컴퓨팅, 에너지 안보 역량 강화를 위해 향후 5년간 10억달러…",
+      "detail": "엔비디아가 미국의 과학 연구와 양자컴퓨팅, 에너지 안보 역량 강화를 위해 향후 5년간 10억달러 (약 1조 3,435억원)를 투입한다.",
+      "link": "https://www.alphabiz.co.kr/news/articleView.html?idxno=192041",
+      "source": "알파경제",
+      "image": "http://www.bing.com/th?id=ONUT.D5Nj2B1cruNGDom_ME9kRQ&pid=News",
+      "category": "양자·첨단",
+      "publishedAt": "2026-10-11T17:25:00.000Z",
+      "collectedAt": "2026-10-12T05:59:25.855Z",
+      "thumb": "/thumbs/3e1c2ab198cd.jpg"
+    },
     {
       "id": "8c7e5297a107",
       "kind": "news",
@@ -2501,20 +2516,6 @@
       "publishedAt": "2026-10-07T19:33:00.000Z",
       "collectedAt": "2026-10-08T08:13:55.955Z",
       "thumb": "/thumbs/677d98632fca.jpg"
-    },
-    {
-      "id": "26e179baba3c",
-      "kind": "news",
-      "lang": "ko",
-      "title": "퀀텀레일, 양자보안 전담팀 신설…국보연·금융권 출신 영입해 솔루션 개발 속도",
-      "summary": "퀀텀레일이 차세대 양자보안 기술 경쟁력을 강화하기 위해 자체 전담 개발 조직을 신설했다고 8일 밝혔다",
-      "detail": "퀀텀레일이 차세대 양자보안 기술 경쟁력을 강화하기 위해 자체 전담 개발 조직을 신설했다고 8일 밝혔다. 회사는 국가보안기술연구소 출신 개발자를 비롯해 금융권과 보안업계 전문 인력을 대거 영입하며 전열을 정비했다.신설된 전담팀은 기존 유심과 인증…",
-      "link": "https://www.widedaily.com/news/articleView.html?idxno=301818",
-      "source": "와이드경제",
-      "category": "양자·첨단",
-      "publishedAt": "2026-10-07T17:25:00.000Z",
-      "collectedAt": "2026-10-08T08:13:55.955Z",
-      "thumb": "/thumbs/26e179baba3c.jpg"
     }
   ]
 }

@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-10-12T04:59:04.512Z",
+  "updatedAt": "2026-10-12T05:59:25.791Z",
   "items": [
+    {
+      "id": "ddd56a097526",
+      "kind": "news",
+      "lang": "ko",
+      "title": "화순전남대병원, 면역세포 항암기능 높이는 기술 제시",
+      "summary": "박기웅 기자 = 화순전남대학교병원은 윤미선 방사선종양학과 교수와 조덕 삼성서울병원 교수 공동…",
+      "detail": "박기웅 기자 = 화순전남대학교병원은 윤미선 방사선종양학과 교수와 조덕 삼성서울병원 교수 공동 연구팀이 암세포를 공격하는 면역세포인 자연살해세포(NK세포)의 항암 기능과 지속성을 높이는 전략을 제시했다고 12일 밝혔다.병원측에 따르면 연구팀은 유전자…",
+      "link": "https://www.newsis.com/view/NISX20261012_0003822096",
+      "source": "뉴시스",
+      "image": "http://www.bing.com/th?id=ONUT.h5eybmB_uEnhIdPocyQFOQ&pid=News",
+      "category": "의학·바이오",
+      "publishedAt": "2026-10-11T16:23:00.000Z",
+      "collectedAt": "2026-10-12T05:59:25.791Z",
+      "thumb": "/thumbs/ddd56a097526.jpg"
+    },
+    {
+      "id": "bsky-3mxfhhbzyx225",
+      "kind": "news",
+      "lang": "en",
+      "title": "Explore Cell Press research covered in the newspapers, broadcasts, and more in our \"In the news\" collection:",
+      "summary": "",
+      "link": "https://bsky.app/profile/cellpress.bsky.social/post/3mxfhhbzyx225",
+      "source": "Bluesky Cell Press",
+      "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dbehouwmds4bxla5z5glados/bafkreigx5jh5hmk3qecay7ss5yyk6iefnud5v76zobwwbyajyiq2fmhpia",
+      "category": "인기",
+      "publishedAt": "2026-10-08T22:00:01.773Z",
+      "collectedAt": "2026-10-12T05:59:25.791Z",
+      "titleKo": "\"뉴스 속\" 컬렉션에서 신문, 방송 등에서 다룬 Cell Press 연구를 살펴보세요.",
+      "summaryKo": "",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxfhhbzyx225.webp"
+    },
     {
       "id": "3924fa320137",
       "kind": "news",
@@ -2442,40 +2474,6 @@
       "publishedAt": "2026-10-08T12:05:00.000Z",
       "collectedAt": "2026-10-09T00:57:12.241Z",
       "thumb": "/thumbs/4dfa43816e01.jpg"
-    },
-    {
-      "id": "88d9fec43311",
-      "kind": "news",
-      "lang": "ko",
-      "title": "새총 원리로 노동자 손목 지킨 봉화 초등생들…전국과학전람회 '특상'",
-      "summary": "봉화교육지원청 (교육장 성태동)은 제72회 전국과학전람회에 출전한 도촌초등학교 탐구팀 '마스터…",
-      "detail": "봉화교육지원청 (교육장 성태동)은 제72회 전국과학전람회에 출전한 도촌초등학교 탐구팀 '마스터 이글스' (6학년 강예준·5학년 노찬영)가 대회 최고 영예 중 하나인 특상을 품에 안았다고 7일 밝혔다.",
-      "link": "https://www.imaeil.com/page/view/2026100713494659603",
-      "source": "매일신문",
-      "image": "http://www.bing.com/th?id=ONUT.Vf0nlD1x7sH4lAyghgwg5g&pid=News",
-      "category": "대회·행사",
-      "publishedAt": "2026-10-07T07:15:00.000Z",
-      "collectedAt": "2026-10-08T23:57:29.684Z",
-      "thumb": "/thumbs/88d9fec43311.jpg"
-    },
-    {
-      "id": "5b0aa9c581c2",
-      "kind": "news",
-      "lang": "en",
-      "title": "Surprisingly Complex Waves Reveal the Brain’s Inner Workings",
-      "summary": "Unexpected patterns traveling across the human brain…",
-      "detail": "Unexpected patterns traveling across the human brain may be reorganizing its activity in real time.",
-      "link": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
-      "source": "Quanta Magazine",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/Thought-Geometry-cr.Mark-Belan-Default.webp",
-      "category": "해외",
-      "publishedAt": "2026-09-30T14:52:12.000Z",
-      "collectedAt": "2026-10-08T23:57:29.684Z",
-      "titleKo": "놀랍도록 복잡한 파동이 뇌의 내부 작용을 드러냅니다",
-      "summaryKo": "인간의 뇌를 여행하는 예상치 못한 패턴…",
-      "translator": "google",
-      "detailKo": "인간의 뇌를 여행하는 예상치 못한 패턴이 실시간으로 활동을 재구성할 수 있습니다.",
-      "thumb": "/thumbs/5b0aa9c581c2.jpg"
     }
   ]
 }
