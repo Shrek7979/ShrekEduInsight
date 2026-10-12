@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T08:04:12.679Z",
+  "updatedAt": "2026-10-12T13:02:15.308Z",
   "items": [
     {
       "id": "fb-2814dac6696c",
@@ -19,18 +19,18 @@
       "translator": "google"
     },
     {
-      "id": "fb-4572955c69c8",
+      "id": "fb-ca047242894e",
       "kind": "news",
       "lang": "en",
       "title": "Chemical intuition augmented with computational power.",
       "summary": "Wolfram's tools for chemical education make abstract…",
-      "link": "https://www.facebook.com/wolframresearch/posts/pfbid0KXPRZrCXEDMi1WC5RVK3hHroCdz8Rvq6akdUxutFh9PKfd4zkyJa7hKZWZmwAFPfl",
+      "link": "https://www.facebook.com/wolframresearch/posts/pfbid02PNq8kX8M5ZUvyPcvEG95f6DP4NNzH3zf3hm9VTt18YnEtcM6AhA26MCAZ9C7GBFQl",
       "source": "Facebook Wolfram Research",
       "category": "인기",
-      "publishedAt": "2026-10-10T08:03:50.949Z",
-      "thumb": "/social/fb/fb-4572955c69c8.jpg",
+      "publishedAt": "2026-10-10T13:01:54.036Z",
+      "thumb": "/social/fb/fb-ca047242894e.jpg",
       "refs": [],
-      "collectedAt": "2026-10-12T08:04:12.679Z",
+      "collectedAt": "2026-10-12T13:02:15.308Z",
       "titleKo": "계산 능력으로 강화된 화학적 직관.",
       "summaryKo": "Wolfram의 화학 교육용 도구는 추상적…",
       "translator": "google"

@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-12T11:58:00.746Z",
+  "updatedAt": "2026-10-12T12:58:12.771Z",
   "items": [
+    {
+      "id": "7dcff9c05297",
+      "kind": "news",
+      "lang": "ko",
+      "title": "국립군산대, 화학 소재 양자 분야 인재 키운다",
+      "summary": "국립군산대학교가 새만금과 수도권을 잇는 초광역 협력으로 화학 소재 양자 분야의 인재 양성에 나선다",
+      "link": "https://www.dhnews.co.kr/news/view/1065590225250725",
+      "source": "대학저널",
+      "image": "http://www.bing.com/th?id=ONUT.rX6qDT1jtEh04pOiATzdqA&pid=News",
+      "category": "양자·첨단",
+      "publishedAt": "2026-10-11T17:18:00.000Z",
+      "collectedAt": "2026-10-12T12:58:12.771Z",
+      "thumb": "/thumbs/7dcff9c05297.jpg"
+    },
     {
       "id": "d271b745ca42",
       "kind": "news",
@@ -2508,20 +2522,6 @@
       "translator": "google",
       "detailKo": "암이 인체 내에서 어떻게 퍼지는지 설명하는 생물물리학 모델은 연구자들이 새로운 암 치료법을 개발하는 데 도움이 될 수 있습니다.",
       "thumb": "/thumbs/19d84972d882.jpg"
-    },
-    {
-      "id": "d515e747fea7",
-      "kind": "news",
-      "lang": "ko",
-      "title": "AI 데이터센터 전력난..과연 핵융합이 돌파구 될까(?)",
-      "summary": "인공지능(AI) 경쟁의 승부처가 반도체와 데이터에서 전력으로 옮겨가고 있다",
-      "detail": "인공지능(AI) 경쟁의 승부처가 반도체와 데이터에서 전력으로 옮겨가고 있다. AI 모델을 학습시키고 서비스를 운영하는 데이터센터가 급증하면서 막대한 전력을 안정적으로 공급할 수 있는지가 국가 경쟁력의 새로운 변수로 떠오른 것이다. 한국 정부는 최근…",
-      "link": "https://www.dailycar.co.kr/content/news.html?type=view&autoId=62739",
-      "source": "데일리카",
-      "category": "양자·첨단",
-      "publishedAt": "2026-10-06T04:28:00.000Z",
-      "collectedAt": "2026-10-08T11:57:37.474Z",
-      "thumb": "/thumbs/d515e747fea7.webp"
     }
   ]
 }

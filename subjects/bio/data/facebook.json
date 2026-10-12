@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T12:00:44.999Z",
+  "updatedAt": "2026-10-12T13:00:50.869Z",
   "items": [
     {
       "id": "fb-2b7d1eda85c2",
@@ -53,6 +53,23 @@
       "translator": "google"
     },
     {
+      "id": "fb-787f31e4b13e",
+      "kind": "news",
+      "lang": "en",
+      "title": "Looking for the research that matters most to you?",
+      "summary": "",
+      "link": "https://www.facebook.com/societyforneuroscience/posts/pfbid02NbHn81QKx832H9nQE7hRS31aYFjahGJtU7EiXGdR3ZMnytPcGHnTSiNmnFFSSfyCl",
+      "source": "Facebook Society for Neuroscience",
+      "category": "인기",
+      "publishedAt": "2026-10-10T13:00:50.826Z",
+      "thumb": "/social/fb/fb-787f31e4b13e.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-12T13:00:50.869Z",
+      "titleKo": "당신에게 가장 중요한 연구를 찾고 계십니까?",
+      "summaryKo": "",
+      "translator": "google"
+    },
+    {
       "id": "fb-f6462f673640",
       "kind": "news",
       "lang": "en",
@@ -84,23 +101,6 @@
       "collectedAt": "2026-10-09T20:59:51.459Z",
       "titleKo": "ASHG 저자의 통찰력: 출판을 통해 인간 유전학을 발전시킵니다.",
       "summaryKo": "AJHG 저자이자 연구원인 Sarah Vergult 박사를 만나보세요",
-      "translator": "google"
-    },
-    {
-      "id": "fb-7f8d3857290c",
-      "kind": "news",
-      "lang": "en",
-      "title": "Looking for the research that matters most to you?",
-      "summary": "",
-      "link": "https://www.facebook.com/societyforneuroscience/posts/pfbid02NmSnR9g4mdzvjS3NDRH6E8ZHbahw5wbtBETjHQQsxGrAVkA4fRnNXGRp7BJqMyZMl",
-      "source": "Facebook Society for Neuroscience",
-      "category": "인기",
-      "publishedAt": "2026-10-09T19:59:44.003Z",
-      "thumb": "/social/fb/fb-7f8d3857290c.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-10T12:59:44.099Z",
-      "titleKo": "당신에게 가장 중요한 연구를 찾고 계십니까?",
-      "summaryKo": "",
       "translator": "google"
     },
     {
@@ -578,7 +578,7 @@
       ],
       "collectedAt": "2026-10-11T15:59:49.991Z",
       "titleKo": "글쎄, 우리는 유사분열 비디오를 업데이트했고 이제 업데이트된 감수분열 비디오를 공개할 시간이었습니다!",
-      "summaryKo": "scr을 찾을 수 있습니다.",
+      "summaryKo": "scr을 찾으면 됩니다.",
       "translator": "google"
     }
   ]

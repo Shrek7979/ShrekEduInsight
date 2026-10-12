@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-10-12T11:58:00.692Z",
+  "updatedAt": "2026-10-12T12:58:12.709Z",
   "items": [
+    {
+      "id": "bsky-3mxmflhd3dr2z",
+      "kind": "news",
+      "lang": "en",
+      "title": "Symbiotic rhizobia form nitrogen-fixing partnerships with plant roots.",
+      "summary": "This study by @albinteulet.bsky.social &…",
+      "link": "https://bsky.app/profile/plosbiology.org/post/3mxmflhd3dr2z",
+      "source": "Bluesky PLOS Biology",
+      "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:5522ztebtekoor5efelihqhb/bafkreibotfmtghzzn5c2frmordqf44e2lul5es7dhxof6dxvhd24kp2lq4",
+      "likes": "23",
+      "category": "인기",
+      "publishedAt": "2026-10-11T16:15:12.405Z",
+      "collectedAt": "2026-10-12T12:58:12.709Z",
+      "titleKo": "공생적 rhizobia는 식물 뿌리와 질소 고정 파트너십을 형성합니다.",
+      "summaryKo": "@albinteulet.bsky.social &의 이 연구는…",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxmflhd3dr2z.webp"
+    },
+    {
+      "id": "bsky-3mxmfc7ra7r2y",
+      "kind": "news",
+      "lang": "en",
+      "title": "How are the temporal patterns of sounds represented across the auditory system at millisecond scale?",
+      "summary": "This study shows that distinct click-train patterns…",
+      "link": "https://bsky.app/profile/plosbiology.org/post/3mxmfc7ra7r2y",
+      "source": "Bluesky PLOS Biology",
+      "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:5522ztebtekoor5efelihqhb/bafkreiggugy22p277l25ffdftntdd2jwydsi3py76gbrdkiacwlmfryfru",
+      "likes": "6",
+      "category": "인기",
+      "publishedAt": "2026-10-11T16:10:02.326Z",
+      "collectedAt": "2026-10-12T12:58:12.709Z",
+      "titleKo": "소리의 시간적 패턴은 청각 시스템 전반에 걸쳐 밀리초 규모로 어떻게 표현됩니까?",
+      "summaryKo": "이 연구는 뚜렷한 클릭 트레인 패턴이 있음을 보여줍니다",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxmfc7ra7r2y.webp"
+    },
     {
       "id": "d34a91618311",
       "kind": "video",
@@ -2408,43 +2444,6 @@
       "publishedAt": "2026-10-08T17:00:00.000Z",
       "collectedAt": "2026-10-09T10:57:17.839Z",
       "thumb": "/thumbs/bd0f921e1cf2.jpg"
-    },
-    {
-      "id": "2ff0ac4beb04",
-      "kind": "video",
-      "lang": "en",
-      "title": "Spiders Getting Increasingly More Heinous | Lindsay Nikole",
-      "summary": "Some people love spiders, most people hate them",
-      "detail": "Some people love spiders, most people hate them. Journey down the spider iceberg, from adorable peacock spiders to the cordyceps spider…",
-      "link": "https://www.youtube.com/watch?v=sd8i4Q6PFZI",
-      "source": "Lindsay Nikole",
-      "image": "https://i4.ytimg.com/vi/sd8i4Q6PFZI/hqdefault.jpg",
-      "views": 1140236,
-      "category": "인기",
-      "publishedAt": "2026-10-03T20:00:20.000Z",
-      "collectedAt": "2026-10-09T09:57:17.167Z",
-      "titleKo": "점점 더 흉악해지는 거미 | 린제이 니콜",
-      "summaryKo": "어떤 사람들은 거미를 좋아하지만, 대부분의 사람들은 거미를 싫어합니다",
-      "translator": "google",
-      "detailKo": "어떤 사람들은 거미를 좋아하지만 대부분의 사람들은 거미를 싫어합니다. 사랑스러운 공작거미부터 동충하초 거미까지 거미 빙산을 따라 여행하세요…",
-      "thumb": "/thumbs/2ff0ac4beb04.jpg"
-    },
-    {
-      "id": "4ed4465a9581",
-      "kind": "video",
-      "lang": "ko",
-      "title": "물리면 사망! 독으로 사람도 제압한다는 코모도왕도마뱀이 한국에 밀수되었습니다 ㄷㄷ",
-      "summary": "",
-      "detail": "",
-      "link": "https://www.youtube.com/watch?v=lg1NzeN1W6g",
-      "source": "TV생물도감",
-      "image": "https://i1.ytimg.com/vi/lg1NzeN1W6g/hqdefault.jpg",
-      "views": 682121,
-      "category": "인기",
-      "publishedAt": "2026-09-29T09:30:01.000Z",
-      "collectedAt": "2026-10-09T09:57:17.167Z",
-      "summaryKo": "",
-      "thumb": "/thumbs/4ed4465a9581.jpg"
     }
   ]
 }
