@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-12T19:57:38.547Z",
+  "updatedAt": "2026-10-12T20:57:53.825Z",
   "items": [
+    {
+      "id": "bsky-3mxeq3o3ts22b",
+      "kind": "news",
+      "lang": "en",
+      "title": "In a clinical trial first, an international research team has demonstrated that optogenetic therapy is safe to use and shows potential for…",
+      "summary": "restoring visual function in patients with blindness…",
+      "link": "https://bsky.app/profile/physicsworld.bsky.social/post/3mxeq3o3ts22b",
+      "source": "Bluesky Physics World",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:chuorfc5xbxvtvn53cqjvmov/bafkreibxsnpif4yf26iehwmnwhajivv7frs3c7qrdh3glouokbyu2zjf6y",
+      "likes": "11",
+      "category": "인기",
+      "publishedAt": "2026-10-08T15:01:55.935Z",
+      "collectedAt": "2026-10-12T20:57:53.825Z",
+      "titleKo": "첫 번째 임상 시험에서 국제 연구팀은 광유전학 치료법이 사용하기에 안전하고 다음과 같은 가능성을 보여주었다는 사실을 입증했습니다.",
+      "summaryKo": "실명 환자의 시각 기능 회복…",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxeq3o3ts22b.webp"
+    },
     {
       "id": "bsky-3mxpavkbrh22t",
       "kind": "news",
@@ -2510,24 +2528,6 @@
       "publishedAt": "2026-10-06T09:54:00.000Z",
       "collectedAt": "2026-10-08T17:57:23.001Z",
       "thumb": "/thumbs/cca7f3bd6f94.jpg"
-    },
-    {
-      "id": "bsky-3mxeqym2pc22b",
-      "kind": "news",
-      "lang": "en",
-      "title": "In our latest podcast we explore why neutrinos are the subject of so many physics Nobel prizes 🧪⚛️",
-      "summary": "Francis Halzen and IceCube: why neutrinos keep…",
-      "link": "https://bsky.app/profile/physicsworld.bsky.social/post/3mxeqym2pc22b",
-      "source": "Bluesky Physics World",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:chuorfc5xbxvtvn53cqjvmov/bafkreiaiv6jhgj56usr6vamuwr52sxvs5nltt3wwsqizlufsbmbacdrw74",
-      "likes": "2",
-      "category": "인기",
-      "publishedAt": "2026-10-08T15:18:06.880Z",
-      "collectedAt": "2026-10-08T15:57:04.945Z",
-      "titleKo": "최신 팟캐스트에서는 중성미자가 왜 그렇게 많은 물리학 노벨상의 주제인지 알아봅니다 🧪⚛️",
-      "summaryKo": "Francis Halzen 및 IceCube: 중성미자가 계속 유지되는 이유",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mxeqym2pc22b.webp"
     }
   ]
 }
