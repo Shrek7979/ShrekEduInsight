@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-12T21:57:33.109Z",
+  "updatedAt": "2026-10-12T22:57:11.309Z",
   "items": [
+    {
+      "id": "bsky-3mxpj7q7az22k",
+      "kind": "news",
+      "lang": "en",
+      "title": "Since its founding in 1964, the ACS Committee on Chemical Technical Professionals has worked to support, advance, and recognize chemical…",
+      "summary": "technical professionals (CTPs) through advocacy,…",
+      "link": "https://bsky.app/profile/cenmag.bsky.social/post/3mxpj7q7az22k",
+      "source": "Bluesky C&EN",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u4u4yeik2uube2g6ov7wr35p/bafkreibe2maoxejelmtw7entn6a5ig7vcw2e42wtjjtmmol7hzcq5tdacy",
+      "likes": "1",
+      "category": "인기",
+      "publishedAt": "2026-10-12T21:58:13.292Z",
+      "collectedAt": "2026-10-12T22:57:11.309Z",
+      "titleKo": "1964년 창립 이래 ACS 화학 기술 전문가 위원회는 화학 기술 전문가를 지원하고, 발전시키고, 인정하기 위해 노력해 왔습니다.",
+      "summaryKo": "옹호를 통한 기술 전문가(CTP),…",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxpj7q7az22k.webp"
+    },
     {
       "id": "404775c1dcbe",
       "kind": "video",
@@ -2465,21 +2483,6 @@
       "publishedAt": "2026-10-07T16:39:00.000Z",
       "collectedAt": "2026-10-08T00:56:55.012Z",
       "thumb": "/thumbs/b96c53f886c5.jpg"
-    },
-    {
-      "id": "7ddec1e5f46c",
-      "kind": "news",
-      "lang": "ko",
-      "title": "日 2년연속·10번째 노벨화학상…속보·호외 \"日화학 수준 입증\"(종합)",
-      "summary": "日 2년연속·10번째 노벨화학상…속보·호외 \"日화학 수준 입증\"(종합) 日노벨상 3년 연속…",
-      "detail": "日 2년연속·10번째 노벨화학상…속보·호외 \"日화학 수준 입증\"(종합) 日노벨상 3년 연속 수상…개인은 31번째·니혼히단쿄 포함 32번째 영예 日언론 \"일본의 쾌거\"…다카이치, 축하 전화 \"자랑스럽다\" (도쿄=연합뉴스) 조성미 특파원 = 올해 노벨…",
-      "link": "https://www.fnnews.com/news/202610072243188582",
-      "source": "파이낸셜뉴스",
-      "image": "http://www.bing.com/th?id=ONUT.WuAcXFmiJRGp0oTV1lScCA&pid=News",
-      "category": "연구",
-      "publishedAt": "2026-10-07T15:44:00.000Z",
-      "collectedAt": "2026-10-08T00:56:55.012Z",
-      "thumb": "/thumbs/7ddec1e5f46c.jpg"
     }
   ]
 }

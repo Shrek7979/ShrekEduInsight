@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-10-12T21:57:32.992Z",
+  "updatedAt": "2026-10-12T22:57:11.130Z",
   "items": [
+    {
+      "id": "bsky-3mxpkuyywaj2l",
+      "kind": "news",
+      "lang": "en",
+      "title": "Heterotypic interfacial tension between oncogenic and wild-type populations forms the mechanical basis of tissue-specific oncogenesis in…",
+      "summary": "epithelia",
+      "link": "https://bsky.app/profile/elife.bsky.social/post/3mxpkuyywaj2l",
+      "source": "Bluesky eLife",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4irghgzlsjk6ugrekoqyl7km/bafkreiaqpl3kxdxpdh42t37jpcpsccmcb7n656beigdtvecp747knudahi",
+      "category": "인기",
+      "publishedAt": "2026-10-12T22:28:00.601Z",
+      "collectedAt": "2026-10-12T22:57:11.130Z",
+      "titleKo": "발암성 집단과 야생형 집단 사이의 이형 계면 장력은 조직 특이적 종양 발생의 기계적 기초를 형성합니다.",
+      "summaryKo": "상피",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxpkuyywaj2l.webp"
+    },
+    {
+      "id": "40e2bd20227e",
+      "kind": "video",
+      "lang": "ko",
+      "title": "만져본다 vs 절대 못 만진다",
+      "summary": "",
+      "detail": "",
+      "link": "https://www.youtube.com/shorts/Ng-ET7vwQiU",
+      "source": "에그박사",
+      "image": "https://i3.ytimg.com/vi/Ng-ET7vwQiU/hqdefault.jpg",
+      "views": 324322,
+      "category": "인기",
+      "publishedAt": "2026-09-22T03:00:38.000Z",
+      "collectedAt": "2026-10-12T22:57:11.130Z",
+      "summaryKo": "",
+      "thumb": "/thumbs/40e2bd20227e.jpg"
+    },
     {
       "id": "2bf378a42250",
       "kind": "news",
@@ -2421,38 +2455,6 @@
       "publishedAt": "2026-10-07T03:50:00.000Z",
       "collectedAt": "2026-10-10T02:57:03.033Z",
       "thumb": "/thumbs/53931325d07a.jpg"
-    },
-    {
-      "id": "9b91df9c344c",
-      "kind": "video",
-      "lang": "ko",
-      "title": "이 친구, 한 번에 맞힐 수 있어?",
-      "summary": "나무늘보부터 토코투칸까지, 동물 친구들의 특징을 모아봤어요 🦥🌳",
-      "link": "https://www.youtube.com/shorts/TGBiK4KBmH8",
-      "source": "에그박사",
-      "image": "https://i1.ytimg.com/vi/TGBiK4KBmH8/hqdefault.jpg",
-      "views": 40454,
-      "category": "인기",
-      "publishedAt": "2026-10-07T05:00:29.000Z",
-      "collectedAt": "2026-10-10T02:48:30.033Z",
-      "thumb": "/thumbs/9b91df9c344c.jpg"
-    },
-    {
-      "id": "4c9904bc4ddb",
-      "kind": "video",
-      "lang": "ko",
-      "title": "부산을 떠나지 않는 부캉이",
-      "summary": "",
-      "detail": "",
-      "link": "https://www.youtube.com/shorts/8uUDB0U0kJ0",
-      "source": "에그박사",
-      "image": "https://i1.ytimg.com/vi/8uUDB0U0kJ0/hqdefault.jpg",
-      "views": 27450,
-      "category": "인기",
-      "publishedAt": "2026-10-01T01:17:42.000Z",
-      "collectedAt": "2026-10-10T02:48:30.033Z",
-      "summaryKo": "",
-      "thumb": "/thumbs/4c9904bc4ddb.jpg"
     }
   ]
 }
