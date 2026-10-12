@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-12T14:58:01.620Z",
+  "updatedAt": "2026-10-12T15:57:33.582Z",
   "items": [
+    {
+      "id": "bsky-3mxosoxr6ij2m",
+      "kind": "news",
+      "lang": "en",
+      "title": "📅 We're exhibiting at ASHG26 🧬 next week!",
+      "summary": "Visit us at stand 1502 to chat about our publishing…",
+      "link": "https://bsky.app/profile/elife.bsky.social/post/3mxosoxr6ij2m",
+      "source": "Bluesky eLife",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4irghgzlsjk6ugrekoqyl7km/bafkreihqwrqdkiwd274apkwdopffuhs7sr3gsqs6u2lchhyjtmmdhn7ueu",
+      "category": "인기",
+      "publishedAt": "2026-10-12T15:15:07.926Z",
+      "collectedAt": "2026-10-12T15:57:33.582Z",
+      "titleKo": "📅 다음주 ASHG26🧬에 전시합니다!",
+      "summaryKo": "우리의 출판에 대해 이야기하려면 1502번 스탠드를 방문하세요…",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxosoxr6ij2m.webp"
+    },
     {
       "id": "2c09f3a82421",
       "kind": "news",
@@ -2439,25 +2456,6 @@
       "summaryKo": "이제 화성 지진이 바위를 보낼 수 있다는 확실한 증거가 있습니다…",
       "translator": "google",
       "thumb": "/thumbs/bsky-3mxcpzarjsx2g.webp"
-    },
-    {
-      "id": "387d13808688",
-      "kind": "news",
-      "lang": "en",
-      "title": "Here’s a look at the Nobel Prizes for science",
-      "summary": "An icy window into the cosmos, a light switch for the…",
-      "detail": "An icy window into the cosmos, a light switch for the brain and solving the mystery of mirror image molecules all took home the top prize.",
-      "link": "https://www.sciencenews.org/article/nobel-2026-physics-chemistry-medicine",
-      "source": "Science News",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/100826_NO_2026NobelRoundup_main.jpg?w=800",
-      "category": "해외",
-      "publishedAt": "2026-10-09T13:00:00.000Z",
-      "collectedAt": "2026-10-09T13:57:33.041Z",
-      "titleKo": "노벨 과학상을 살펴보자",
-      "summaryKo": "우주로 통하는 얼음창, 전등 스위치…",
-      "translator": "google",
-      "detailKo": "우주를 들여다보는 얼음창, 뇌를 위한 전등 스위치, 거울상 분자의 미스터리 해결 모두가 최우수상을 받았습니다.",
-      "thumb": "/thumbs/387d13808688.webp"
     }
   ]
 }

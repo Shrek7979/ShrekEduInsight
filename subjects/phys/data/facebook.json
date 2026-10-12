@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T15:00:10.006Z",
+  "updatedAt": "2026-10-12T16:00:09.853Z",
   "items": [
     {
       "id": "fb-059e98097984",
@@ -84,6 +84,23 @@
       "collectedAt": "2026-10-11T19:59:37.587Z",
       "titleKo": "최신 팟캐스트에서 우리는 왜 중성미자가 수많은 물리학 노벨상의 주제인지 알아봅니다.",
       "summaryKo": "",
+      "translator": "google"
+    },
+    {
+      "id": "fb-f6f379f6cf9d",
+      "kind": "news",
+      "lang": "en",
+      "title": "This year's Nobel Prize in Chemistry was awarded for research which helps chemists make just one of a molecule's pair of mirror images This…",
+      "summary": "is hugely useful in making",
+      "link": "https://www.facebook.com/compoundchem/posts/pfbid02FE4SbAszAfhg3VmNATaVwhhWTJYVGLNHS6X3y7Nh31m7YaNLegb3k3gudBRY37vvl",
+      "source": "Facebook American Physical Society",
+      "category": "인기",
+      "publishedAt": "2026-10-08T15:59:39.825Z",
+      "thumb": "/social/fb/fb-f6f379f6cf9d.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-12T16:00:09.853Z",
+      "titleKo": "올해의 노벨 화학상은 화학자들이 분자의 거울상 쌍 중 하나만 만드는 데 도움을 주는 연구에 수여되었습니다. 이…",
+      "summaryKo": "만드는데 엄청 유용해요",
       "translator": "google"
     },
     {
