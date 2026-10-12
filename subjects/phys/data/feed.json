@@ -1,6 +1,43 @@
 {
-  "updatedAt": "2026-10-12T20:57:53.825Z",
+  "updatedAt": "2026-10-12T21:57:33.071Z",
   "items": [
+    {
+      "id": "1632a9afd917",
+      "kind": "video",
+      "lang": "en",
+      "title": "I Had No Idea I'd Lose Everything...",
+      "summary": "",
+      "detail": "",
+      "link": "https://www.youtube.com/shorts/Z-qxCB0t6-4",
+      "source": "Physics Girl",
+      "image": "https://i3.ytimg.com/vi/Z-qxCB0t6-4/hqdefault.jpg",
+      "views": 916912,
+      "category": "인기",
+      "publishedAt": "2026-10-10T22:59:33.000Z",
+      "collectedAt": "2026-10-12T21:57:33.071Z",
+      "titleKo": "모든 것을 잃을 줄은 몰랐습니다...",
+      "summaryKo": "",
+      "translator": "google",
+      "thumb": "/thumbs/1632a9afd917.jpg"
+    },
+    {
+      "id": "bsky-3mxeqym2pc22b",
+      "kind": "news",
+      "lang": "en",
+      "title": "In our latest podcast we explore why neutrinos are the subject of so many physics Nobel prizes 🧪⚛️",
+      "summary": "Francis Halzen and IceCube: why neutrinos keep…",
+      "link": "https://bsky.app/profile/physicsworld.bsky.social/post/3mxeqym2pc22b",
+      "source": "Bluesky Physics World",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:chuorfc5xbxvtvn53cqjvmov/bafkreiaiv6jhgj56usr6vamuwr52sxvs5nltt3wwsqizlufsbmbacdrw74",
+      "likes": "6",
+      "category": "인기",
+      "publishedAt": "2026-10-08T15:18:06.880Z",
+      "collectedAt": "2026-10-12T21:57:33.071Z",
+      "titleKo": "최신 팟캐스트에서는 중성미자가 왜 그렇게 많은 물리학 노벨상의 주제인지 알아봅니다 🧪⚛️",
+      "summaryKo": "Francis Halzen 및 IceCube: 중성미자가 계속 유지되는 이유",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxeqym2pc22b.webp"
+    },
     {
       "id": "bsky-3mxeq3o3ts22b",
       "kind": "news",
@@ -2498,36 +2535,6 @@
       "publishedAt": "2026-10-06T12:56:00.000Z",
       "collectedAt": "2026-10-08T19:57:06.456Z",
       "thumb": "/thumbs/ad4a1c10e460.png"
-    },
-    {
-      "id": "35c617de64c0",
-      "kind": "news",
-      "lang": "ko",
-      "title": "기관 커스터디, 양자내성 전환에도 승인·감사 체계 유지",
-      "summary": "프로젝트 일레븐은 스트롱포인트를 공개하고 Zcash Foundation을 초기 개발 파트너로 명시했다",
-      "detail": "프로젝트 일레븐은 스트롱포인트를 공개하고 Zcash Foundation을 초기 개발 파트너로 명시했다. 회사는 여러 서명 방식과 기관 통제 기능을 제시했지만 독립적인 보안 검증 결과는 확인되지 않았다.",
-      "link": "https://www.tokenpost.kr/news/blockchain/420008",
-      "source": "토큰포스트",
-      "image": "http://www.bing.com/th?id=ONUT.m4iynezYKpiJZZ1yhkK30A&pid=News",
-      "category": "양자·첨단",
-      "publishedAt": "2026-10-08T02:46:00.000Z",
-      "collectedAt": "2026-10-08T17:57:23.001Z",
-      "thumb": "/thumbs/35c617de64c0.jpg"
-    },
-    {
-      "id": "cca7f3bd6f94",
-      "kind": "news",
-      "lang": "ko",
-      "title": "김중남 강릉시장 \"민생지원금 10만원 11월 중순 지급, AI특화 과학고 추진\"",
-      "summary": "핵심요약6일 취임 100일 기자회견 열고 민선 9시 방향 제시 \"시민 목소리 경청…실질적인 변화…",
-      "detail": "핵심요약6일 취임 100일 기자회견 열고 민선 9시 방향 제시 \"시민 목소리 경청…실질적인 변화 만들어 갈 것\" 문화관광 콘텐츠 확장…체류형 관광도시 도약 김중남 강릉시장은 6일 취임 100일 기자회견을 통해 그동안의 성과와 함께 민선 9기…",
-      "link": "https://v.daum.net/v/20261006165402251",
-      "source": "다음 뉴스",
-      "image": "http://www.bing.com/th?id=ONUT.SuLpG0WwxQJFrTIILurljQ&pid=News",
-      "category": "교육",
-      "publishedAt": "2026-10-06T09:54:00.000Z",
-      "collectedAt": "2026-10-08T17:57:23.001Z",
-      "thumb": "/thumbs/cca7f3bd6f94.jpg"
     }
   ]
 }
