@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-10-12T07:59:37.317Z",
+  "updatedAt": "2026-10-12T08:57:22.625Z",
   "items": [
+    {
+      "id": "6077e4857a00",
+      "kind": "news",
+      "lang": "en",
+      "title": "Quantum physicist Ignacio Cirac awarded 2026 Isaac Newton Medal and Prize",
+      "summary": "Cirac is honoured for contributions to modern quantum…",
+      "detail": "Cirac is honoured for contributions to modern quantum information science The post Quantum physicist Ignacio Cirac awarded 2026 Isaac…",
+      "link": "https://physicsworld.com/a/quantum-physicist-ignacio-cirac-awarded-2026-isaac-newton-medal-and-prize/",
+      "source": "Physics World",
+      "category": "해외",
+      "publishedAt": "2026-10-12T08:00:07.000Z",
+      "collectedAt": "2026-10-12T08:57:22.625Z",
+      "titleKo": "양자 물리학자 Ignacio Cirac, 2026년 아이작 뉴턴 메달 및 상 수상",
+      "summaryKo": "Cirac은 현대 양자에 기여한 공로를 인정 받았습니다…",
+      "translator": "google",
+      "detailKo": "Cirac은 현대 양자 정보 과학에 기여한 공로로 영예를 안았습니다. 포스트 양자 물리학자 Ignacio Cirac이 2026 Isaac에게 수여한 상입니다.",
+      "thumb": "/thumbs/6077e4857a00.jpg"
+    },
+    {
+      "id": "2bc455f06267",
+      "kind": "news",
+      "lang": "ko",
+      "title": "동양대, 미래산업과학고 학생 e스포츠 지도자 자격교육",
+      "summary": "동양대학교와 미래산업과학고등학교가 고교 단계의 e스포츠 교육을 대학의 전문교육 및 자격 취득 과정과…",
+      "detail": "동양대학교와 미래산업과학고등학교가 고교 단계의 e스포츠 교육을 대학의 전문교육 및 자격 취득 과정과 연결하는 인재 양성 체계 구축에 나섰다.게임과 e스포츠에 대한 학생들의 관심을 관련 직무 역량과 진로 선택으로 이어지게 하려는 것으로, 학교급별…",
+      "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4086887",
+      "source": "경북일보",
+      "category": "교육",
+      "publishedAt": "2026-10-11T19:53:00.000Z",
+      "collectedAt": "2026-10-12T08:57:22.625Z",
+      "thumb": "/thumbs/2bc455f06267.jpg"
+    },
     {
       "id": "910419769f6e",
       "kind": "news",
@@ -2478,42 +2510,6 @@
       "publishedAt": "2026-10-08T01:24:14.000Z",
       "collectedAt": "2026-10-08T09:44:29.703Z",
       "thumb": "/thumbs/a2aaf6521626.jpg"
-    },
-    {
-      "id": "3120a5519320",
-      "kind": "news",
-      "lang": "en",
-      "title": "Picosecond current pulses probe intrinsic limit for dissipationless transport in…",
-      "summary": "Picosecond current pulses can propagate with zero…",
-      "detail": "Picosecond current pulses can propagate with zero resistance far above the conventionally defined critical current values in type-II…",
-      "link": "https://www.nature.com/articles/s41567-026-03477-z",
-      "source": "Nature Physics",
-      "category": "연구",
-      "publishedAt": "2026-10-08T00:00:00.000Z",
-      "collectedAt": "2026-10-08T09:44:29.703Z",
-      "titleKo": "피코초 전류 펄스는 무소실 전송에 대한 고유 한계를 조사합니다.",
-      "summaryKo": "피코초 전류 펄스는 0으로 전파될 수 있습니다…",
-      "translator": "google",
-      "detailKo": "피코초 전류 펄스는 유형 II에서 기존에 정의된 임계 전류 값보다 훨씬 높은 제로 저항으로 전파될 수 있습니다.",
-      "thumb": "/thumbs/3120a5519320.png"
-    },
-    {
-      "id": "eabd7b3e8fd4",
-      "kind": "news",
-      "lang": "en",
-      "title": "Short-range excitonic correlations and enhanced excitonic susceptibility in…",
-      "summary": "In bulk materials, excitonic condensation is hard to…",
-      "detail": "In bulk materials, excitonic condensation is hard to separate from charge-density-wave formation. Now short-range excitonic correlations…",
-      "link": "https://www.nature.com/articles/s41567-026-03423-z",
-      "source": "Nature Physics",
-      "category": "연구",
-      "publishedAt": "2026-10-08T00:00:00.000Z",
-      "collectedAt": "2026-10-08T09:44:29.703Z",
-      "titleKo": "단거리 여기자 상관 관계 및 향상된 여기자 감수성",
-      "summaryKo": "벌크 재료에서는 엑시톤 축합이 어렵습니다",
-      "translator": "google",
-      "detailKo": "벌크 물질에서 엑시톤 응축은 전하-밀도-파 형성과 분리하기 어렵습니다. 이제 단거리 여기성 상관관계가…",
-      "thumb": "/thumbs/eabd7b3e8fd4.png"
     }
   ]
 }
