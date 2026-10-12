@@ -1,6 +1,35 @@
 {
-  "updatedAt": "2026-10-12T05:59:25.814Z",
+  "updatedAt": "2026-10-12T06:59:04.022Z",
   "items": [
+    {
+      "id": "2ed8267830d6",
+      "kind": "news",
+      "lang": "ko",
+      "title": "국립순천대 대학원 첨단신소재공학과 유철종 학생, 금속재료제조 분야 '대한민국명장' 선정",
+      "summary": "국립순천대(총장 이병운)는 신소재공학과 대학원에 재학 중인 유철종 학생이 금속재료제조 직종에서…",
+      "detail": "국립순천대(총장 이병운)는 신소재공학과 대학원에 재학 중인 유철종 학생이 금속재료제조 직종에서 '2026년 대한민국명장'으로 선정됐다고 밝혔다.유철종 학생은 지난 9월 9일 서울드래곤시티에서 열린 '2026년 숙련기술인의 날' 기념식에서 대한민국명장…",
+      "link": "https://www.veritas-a.com/news/articleView.html?idxno=631446",
+      "source": "베리타스알파",
+      "category": "소재·에너지",
+      "publishedAt": "2026-10-12T06:41:11.000Z",
+      "collectedAt": "2026-10-12T06:59:04.022Z",
+      "thumb": "/thumbs/2ed8267830d6.jpg"
+    },
+    {
+      "id": "1b354ef40b93",
+      "kind": "news",
+      "lang": "ko",
+      "title": "포스텍, 열 대신 빛으로 '분자 스펀지' 만드는 기술 개발",
+      "summary": "높은 온도와 유기용매 없이 빛과 물만으로 기체를 저장하거나 특정 분자를 골라 붙잡을 수 있는 첨단…",
+      "detail": "높은 온도와 유기용매 없이 빛과 물만으로 기체를 저장하거나 특정 분자를 골라 붙잡을 수 있는 첨단 소재를 만드는 새로운 기술이 개발됐다. 포스텍은 화학과 서대하 교수 연구팀이 대구과학기술원(DGIST) 화학물리학과 정낙천 교수 연구팀과 공동으로…",
+      "link": "https://www.hidomin.com/news/articleView.html?idxno=724479",
+      "source": "경북도민일보",
+      "image": "http://www.bing.com/th?id=ONUT.GkkDdooUZi3nrZytCNPb4w&pid=News",
+      "category": "연구",
+      "publishedAt": "2026-10-11T18:04:00.000Z",
+      "collectedAt": "2026-10-12T06:59:04.022Z",
+      "thumb": "/thumbs/1b354ef40b93.jpg"
+    },
     {
       "id": "7dcff9c05297",
       "kind": "news",
@@ -2430,39 +2459,6 @@
       "publishedAt": "2026-10-07T07:32:00.000Z",
       "collectedAt": "2026-10-07T15:42:20.216Z",
       "thumb": "/thumbs/71ea1a0509e6.jpg"
-    },
-    {
-      "id": "ba9f0b44cec7",
-      "kind": "news",
-      "lang": "ko",
-      "title": "일본, 2년 연속·10번째 노벨 화학상...다카이치 \"자랑스럽다\" 축하 전화",
-      "summary": "올해 노벨 화학상 공동 수상자로 소아이 겐소 일본 도쿄이과대 명예교수가 선정되자 일본 주요 매체들은…",
-      "detail": "올해 노벨 화학상 공동 수상자로 소아이 겐소 일본 도쿄이과대 명예교수가 선정되자 일본 주요 매체들은 일제히 수상 소식을 속보로 타전하고, 호외를 발행하며 대서특필했습니다. 요미우리는 \"이번 수상은 지난해 사카구치 시몬 오사카대 교수와 기타가와 스스무…",
-      "link": "https://www.ytn.co.kr/_ln/0104_202610072309140586",
-      "source": "YTN",
-      "category": "연구",
-      "publishedAt": "2026-10-07T07:09:00.000Z",
-      "collectedAt": "2026-10-07T15:42:20.216Z",
-      "thumb": "/thumbs/ba9f0b44cec7.jpg"
-    },
-    {
-      "id": "76d484aec327",
-      "kind": "news",
-      "lang": "en",
-      "title": "Supramolecular Pretargeting Lipid Nanoparticles Based on Host–Guest Recognition…",
-      "summary": "This supramolecular pretargeting strategy exploiting…",
-      "detail": "This supramolecular pretargeting strategy exploiting ultrahigh-affinity CB[7]–ADA recognition enables enhanced tumor accumulation of…",
-      "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.9573178?af=R",
-      "source": "Angewandte Chemie",
-      "image": "https://onlinelibrary.wiley.com/cms/asset/a87fd6e8-51a4-498a-91cc-0c7184c36345/anie75017-gra-0001-m.png",
-      "category": "연구",
-      "publishedAt": "2026-10-07T06:58:49.000Z",
-      "collectedAt": "2026-10-07T15:42:20.216Z",
-      "titleKo": "호스트-게스트 인식을 기반으로 한 초분자 사전 표적화 지질 나노입자…",
-      "summaryKo": "이 초분자 사전 타겟팅 전략은…",
-      "translator": "google",
-      "detailKo": "초고친화도 CB[7]-ADA 인식을 활용하는 이 초분자 사전 표적화 전략은 다음과 같은 종양 축적을 향상시킵니다.",
-      "thumb": "/thumbs/76d484aec327.png"
     }
   ]
 }
