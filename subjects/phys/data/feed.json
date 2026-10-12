@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-10-11T22:57:22.893Z",
+  "updatedAt": "2026-10-11T23:57:39.908Z",
   "items": [
+    {
+      "id": "fe4df39c6325",
+      "kind": "news",
+      "lang": "ko",
+      "title": "광주과학고, 세계 과학무대서 메달 6개…역대 최다",
+      "summary": "광주과학고등학교 학생 4명이 올해 국제과학올림피아드 3개 대회에서 메달 6개를 획득하며 개교 이래…",
+      "detail": "광주과학고등학교 학생 4명이 올해 국제과학올림피아드 3개 대회에서 메달 6개를 획득하며 개교 이래 최다 수상 실적을 기록했다.광주과학고는 한국 대표로 출전한 재학생들이 국제화학올림피아드, 국제지구과학올림피아드, 국제천문및천체물리올림피아드에서…",
+      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=763493",
+      "source": "문화뉴스",
+      "image": "http://www.bing.com/th?id=ONUT.0xTVjEjH7E6iFipI0ZoZfQ&pid=News",
+      "category": "대회·행사",
+      "publishedAt": "2026-10-10T16:00:00.000Z",
+      "collectedAt": "2026-10-11T23:57:39.908Z",
+      "thumb": "/thumbs/fe4df39c6325.jpg"
+    },
     {
       "id": "4d04d3bed3b9",
       "kind": "news",
@@ -2505,20 +2520,6 @@
       "publishedAt": "2026-10-08T04:32:54.000Z",
       "collectedAt": "2026-10-08T07:17:24.498Z",
       "thumb": "/thumbs/bf318250af2e.jpg"
-    },
-    {
-      "id": "e4220441bc68",
-      "kind": "news",
-      "lang": "ko",
-      "title": "2026국제청소년물리토너먼트 '금메달'.. 민사고 경기과고 각 2명 참가",
-      "summary": "2026년 제39회 국제청소년물리토너먼트에서 한국대표팀이 금메달을 획득했다",
-      "detail": "2026년 제39회 국제청소년물리토너먼트에서 한국대표팀이 금메달을 획득했다. 한국대표팀은 주장 김동하(민사고3) 학생을 비롯해 김승현(노스런던컬리지에잇스쿨제주 12) 김한서(경기과고3) 원재현(민사고3) 최시우(경기과고3) 학생 총 5명이 참가했다.…",
-      "link": "https://www.veritas-a.com/news/articleView.html?idxno=631002",
-      "source": "베리타스알파",
-      "category": "교육",
-      "publishedAt": "2026-10-08T04:15:42.000Z",
-      "collectedAt": "2026-10-08T07:17:24.498Z",
-      "thumb": "/thumbs/e4220441bc68.jpg"
     }
   ]
 }
