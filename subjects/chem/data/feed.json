@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-10-11T23:57:39.858Z",
+  "updatedAt": "2026-10-12T00:59:04.098Z",
   "items": [
+    {
+      "id": "ef5040247b55",
+      "kind": "news",
+      "lang": "ko",
+      "title": "\"고가 촉매 없이 수소 생산\"... 오레곤주립대, 그린수소 원가 낮출 신소재 개발",
+      "summary": "오레곤주립대학교 (OSU) 과학자들이 추가적인 고가의 금속 촉매 없이도 빛에 반응해 물에서 수소를…",
+      "detail": "오레곤주립대학교 (OSU) 과학자들이 추가적인 고가의 금속 촉매 없이도 빛에 반응해 물에서 수소를 효율적으로 생성할 수 있는 새로운 광촉매 물질을 개발했다. 특이한 황 기반 화학 반응을 이용한 이 기술은 태양 에너지를 청정 연료로 전환하는 보다…",
+      "link": "https://www.esgbusinessreview.kr/news/articleView.html?idxno=7097",
+      "source": "esgbusinessreview.kr",
+      "image": "http://www.bing.com/th?id=ONUT.tH-WFWIJkcKNqbRsdMBtDA&pid=News",
+      "category": "소재·에너지",
+      "publishedAt": "2026-10-11T12:10:00.000Z",
+      "collectedAt": "2026-10-12T00:59:04.098Z",
+      "thumb": "/thumbs/ef5040247b55.jpg"
+    },
     {
       "id": "df55742467a9",
       "kind": "news",
@@ -2455,26 +2470,6 @@
       "publishedAt": "2026-10-06T20:49:00.000Z",
       "collectedAt": "2026-10-07T15:42:20.216Z",
       "thumb": "/thumbs/d4013ad43cd0.jpg"
-    },
-    {
-      "id": "5baef2633a7a",
-      "kind": "video",
-      "lang": "en",
-      "title": "Finding project ideas?",
-      "summary": "Filmed at OpenSauce 2026 @sauceplusofficial…",
-      "detail": "Filmed at OpenSauce 2026 @sauceplusofficial @ExtractionsAndIre",
-      "link": "https://www.youtube.com/shorts/8VgUT_HNxlA",
-      "source": "Explosions&Fire",
-      "image": "https://i1.ytimg.com/vi/8VgUT_HNxlA/hqdefault.jpg",
-      "views": 35843,
-      "category": "인기",
-      "publishedAt": "2026-10-03T11:43:53.000Z",
-      "collectedAt": "2026-10-07T15:42:20.216Z",
-      "titleKo": "프로젝트 아이디어를 찾으시나요?",
-      "summaryKo": "OpenSauce 2026 @sauceplusofficial에서 촬영되었습니다…",
-      "translator": "google",
-      "detailKo": "OpenSauce 2026에서 촬영됨 @sauceplusofficial @ExtractionsAndIre",
-      "thumb": "/thumbs/5baef2633a7a.jpg"
     }
   ]
 }

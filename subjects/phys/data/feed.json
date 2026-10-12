@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-10-11T23:57:39.908Z",
+  "updatedAt": "2026-10-12T00:59:04.065Z",
   "items": [
+    {
+      "id": "09fb6a5b91d0",
+      "kind": "news",
+      "lang": "ko",
+      "title": "경희대-佛 파스칼, 양자컴퓨팅 혁신 맞손",
+      "summary": "경희대와 파스칼은 지난 6월 업무협약을 체결한 이후 공동연구 조직을 구성하고, 중성원자 기반…",
+      "detail": "경희대와 파스칼은 지난 6월 업무협약을 체결한 이후 공동연구 조직을 구성하고, 중성원자 기반 양자응용연구센터를 설립해 양자물질 연구와 양자컴퓨팅의 융합을 위한 협력 기반을 마련했다. 파스칼의 알렉산드르 도우핀 양자물질 부문 부사장이 연구부센터장으로…",
+      "link": "https://www.asiae.co.kr/article/2026100710265049593",
+      "source": "아시아경제",
+      "image": "http://www.bing.com/th?id=ONUT.w-uBivMQl-idiEZqcZ5dvg&pid=News",
+      "category": "양자·첨단",
+      "publishedAt": "2026-10-11T10:29:00.000Z",
+      "collectedAt": "2026-10-12T00:59:04.065Z",
+      "thumb": "/thumbs/09fb6a5b91d0.jpg"
+    },
     {
       "id": "fe4df39c6325",
       "kind": "news",
@@ -2506,20 +2521,6 @@
       "summaryKo": "이겨야 한다고 생각하세요",
       "translator": "google",
       "thumb": null
-    },
-    {
-      "id": "bf318250af2e",
-      "kind": "news",
-      "lang": "ko",
-      "title": "'역대 최초' 2026국제천문/천체물리올림피아드 ‘5명 전원 금메달’.. 서울과고 2명, 세종영재 대전과고 광주과고 각 1명",
-      "summary": "2026년 제19회 국제천문/천체물리올림피아드(International Olympiad on…",
-      "detail": "2026년 제19회 국제천문/천체물리올림피아드(International Olympiad on Astronomy & Astrophysics, IOAA)에서 한국대표단 5명이 역대 최초로 전원 금메달을 수상했다. 한국대표단은 김건호(서울과고3)…",
-      "link": "https://www.veritas-a.com/news/articleView.html?idxno=631014",
-      "source": "베리타스알파",
-      "category": "대회·행사",
-      "publishedAt": "2026-10-08T04:32:54.000Z",
-      "collectedAt": "2026-10-08T07:17:24.498Z",
-      "thumb": "/thumbs/bf318250af2e.jpg"
     }
   ]
 }
