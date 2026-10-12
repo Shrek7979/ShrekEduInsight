@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-10-12T13:57:47.245Z",
+  "updatedAt": "2026-10-12T14:58:01.503Z",
   "items": [
+    {
+      "id": "bsky-3mxopywj2nk2c",
+      "kind": "news",
+      "lang": "en",
+      "title": "Qualia columns go where curiosity leads.",
+      "summary": "This week, @nattyover.bsky.social asks: Is attention at…",
+      "link": "https://bsky.app/profile/quantamagazine.org/post/3mxopywj2nk2c",
+      "source": "Bluesky Quanta Magazine",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vfktz6qe6vy7serr3wqutpzt/bafkreihja7xafdeerir4u7ky5hiycwweiwwitropxqbko2344c45q47o7a",
+      "likes": "5",
+      "category": "인기",
+      "publishedAt": "2026-10-12T14:27:01.477Z",
+      "collectedAt": "2026-10-12T14:58:01.503Z",
+      "titleKo": "Qualia 컬럼은 호기심이 이끄는 곳으로 이동합니다.",
+      "summaryKo": "이번 주 @nattyover.bsky.social이 질문합니다: 관심이…",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxopywj2nk2c.webp"
+    },
+    {
+      "id": "bsky-3mxegrx6gec2g",
+      "kind": "news",
+      "lang": "en",
+      "title": "A new study showing how tumour cells behave when surrounded by a disordered microenvironment could help cancer researchers by providing a…",
+      "summary": "biophysics model describing how cancers spread within…",
+      "link": "https://bsky.app/profile/physicsworld.bsky.social/post/3mxegrx6gec2g",
+      "source": "Bluesky Physics World",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:chuorfc5xbxvtvn53cqjvmov/bafkreiaphwdudn6nkscdslijbojqvpr3m4r3wwieaaeqemojejcamwcw64",
+      "likes": "7",
+      "category": "인기",
+      "publishedAt": "2026-10-08T12:15:26.232Z",
+      "collectedAt": "2026-10-12T14:58:01.503Z",
+      "titleKo": "무질서한 미세 환경에 둘러싸여 있을 때 종양 세포가 어떻게 행동하는지 보여주는 새로운 연구는 다음을 제공함으로써 암 연구자들에게 도움이 될 수 있습니다.",
+      "summaryKo": "암이 어떻게 퍼지는지 설명하는 생물물리학 모델…",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxegrx6gec2g.webp"
+    },
     {
       "id": "7c0d83b68213",
       "kind": "news",
@@ -2488,39 +2524,6 @@
       "summaryKo": "연구원들은 새로운 접근 방식을 제안하고 테스트했습니다…",
       "translator": "google",
       "thumb": "/thumbs/bsky-3mxemftpz6723.webp"
-    },
-    {
-      "id": "d62007325268",
-      "kind": "news",
-      "lang": "ko",
-      "title": "CHARLTON ARIA ACQUISITIO, 韓 양자기업 KQC와 합병 추진..가치 8000만 달러",
-      "summary": "합병 대상과 구체적인 거래 조건이 처음 공개된 점은 의미가 있어요",
-      "detail": "합병 대상과 구체적인 거래 조건이 처음 공개된 점은 의미가 있어요. 다만 사전 기업가치가 신탁 규모보다 작고, 상환율이 높으면 유입 현금이 크게 줄어들 수 있어요. 재무 미감사와 초기 사업 단계, 희석 부담도 있어 향후 상환 규모와 S-4 공시를…",
-      "link": "https://stock.mk.co.kr/news/view/1172031",
-      "source": "매일경제 증권",
-      "image": "http://www.bing.com/th?id=ONUT.nMIgM30rRChpPWyhAKLBMQ&pid=News",
-      "category": "양자·첨단",
-      "publishedAt": "2026-10-08T01:16:00.000Z",
-      "collectedAt": "2026-10-08T13:57:53.261Z",
-      "thumb": "/thumbs/d62007325268.png"
-    },
-    {
-      "id": "96dce17f95f0",
-      "kind": "news",
-      "lang": "en",
-      "title": "Physics and wildlife conservation: a slide puzzle",
-      "summary": "Can you reconstruct the wildlife photo in our…",
-      "detail": "Can you reconstruct the wildlife photo in our interactive slide puzzle? The post Physics and wildlife conservation: a slide puzzle appeared…",
-      "link": "https://physicsworld.com/a/physics-and-wildlife-conservation-a-slide-puzzle/",
-      "source": "Physics World",
-      "category": "해외",
-      "publishedAt": "2026-10-08T12:00:50.000Z",
-      "collectedAt": "2026-10-08T12:57:26.896Z",
-      "titleKo": "물리학과 야생동물 보호: 슬라이드 퍼즐",
-      "summaryKo": "우리의 야생 동물 사진을 재구성할 수 있습니까?",
-      "translator": "google",
-      "detailKo": "대화형 슬라이드 퍼즐로 야생동물 사진을 재구성할 수 있나요? 포스트 물리학과 야생동물 보호: 슬라이드 퍼즐이 등장했다…",
-      "thumb": "/thumbs/96dce17f95f0.jpg"
     }
   ]
 }

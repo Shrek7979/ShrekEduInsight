@@ -1,6 +1,43 @@
 {
-  "updatedAt": "2026-10-12T13:57:47.226Z",
+  "updatedAt": "2026-10-12T14:58:01.620Z",
   "items": [
+    {
+      "id": "2c09f3a82421",
+      "kind": "news",
+      "lang": "en",
+      "title": "When climate change brings the heat, what happens to a mighty redwood?",
+      "summary": "In heat wave-like temperatures, coast redwoods'…",
+      "detail": "In heat wave-like temperatures, coast redwoods' photosynthesis slows down, which may put one of Earth's most efficient carbon storers in…",
+      "link": "https://www.sciencenews.org/article/climate-change-heat-redwood-temperature",
+      "source": "Science News",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/100726_AS_redwoods_main.jpg?w=800",
+      "category": "해외",
+      "publishedAt": "2026-10-12T14:00:00.000Z",
+      "collectedAt": "2026-10-12T14:58:01.620Z",
+      "titleKo": "기후 변화가 더위를 가져오면 거대한 삼나무에는 어떤 일이 일어날까요?",
+      "summaryKo": "폭염 같은 기온에 코스트 레드우드는…",
+      "translator": "google",
+      "detailKo": "폭염과 같은 온도에서는 코스트 레드우드의 광합성 속도가 느려져 지구에서 가장 효율적인 탄소 저장 장치 중 하나가 될 수 있습니다.",
+      "thumb": "/thumbs/2c09f3a82421.webp"
+    },
+    {
+      "id": "9aaadaf6fdad",
+      "kind": "news",
+      "lang": "en",
+      "title": "Chimp and gorilla brains resist weight loss with age — unlike human brains",
+      "summary": "The relatively short lifespans of non-human great apes…",
+      "detail": "The relatively short lifespans of non-human great apes might explain why their brain mass is maintained in later life",
+      "link": "https://www.nature.com/articles/d41586-026-03158-0",
+      "source": "Nature",
+      "category": "해외",
+      "publishedAt": "2026-10-09T00:00:00.000Z",
+      "collectedAt": "2026-10-12T14:58:01.620Z",
+      "titleKo": "침팬지와 고릴라의 뇌는 인간의 뇌와 달리 나이가 들수록 체중 감소에 저항합니다.",
+      "summaryKo": "인간이 아닌 유인원의 상대적으로 짧은 수명…",
+      "translator": "google",
+      "detailKo": "인간이 아닌 유인원의 상대적으로 짧은 수명은 그들의 뇌량이 노년에도 유지되는 이유를 설명할 수 있습니다.",
+      "thumb": "/thumbs/9aaadaf6fdad.png"
+    },
     {
       "id": "bsky-3mxomijza422p",
       "kind": "news",
@@ -2421,34 +2458,6 @@
       "translator": "google",
       "detailKo": "우주를 들여다보는 얼음창, 뇌를 위한 전등 스위치, 거울상 분자의 미스터리 해결 모두가 최우수상을 받았습니다.",
       "thumb": "/thumbs/387d13808688.webp"
-    },
-    {
-      "id": "6ed3b896dca8",
-      "kind": "news",
-      "lang": "ko",
-      "title": "치료 까다로운 악질 유방암, 이것 넣자 암세포 먹어 치웠다",
-      "summary": "서울대병원, 삼중음성유방암 다중표적 유전자치료 전략 제시 재발이 빠르고 쓸 수 있는 표적치료제가…",
-      "detail": "서울대병원, 삼중음성유방암 다중표적 유전자치료 전략 제시 재발이 빠르고 쓸 수 있는 표적치료제가 한정된 삼중음성유방암은 유방암 중에서도 치료가 까다로워 '악질 유방암'으로 통한다. 그런데 이 유방암에서, 유전자 하나로 암세포의 성장·전이를 억제하는…",
-      "link": "https://www.msn.com/ko-kr/news/other/%EC%B9%98%EB%A3%8C-%EA%B9%8C%EB%8B%A4%EB%A1%9C%EC%9A%B4-%EC%95%85%EC%A7%88-%EC%9C%A0%EB%B0%A9%EC%95%94-%EC%9D%B4%EA%B2%83-%EB%84%A3%EC%9E%90-%EC%95%94%EC%84%B8%ED%8F%AC-%EB%A8%B9%EC%96%B4-%EC%B9%98%EC%9B%A0%EB%8B%A4/ar-AA2dTDAK",
-      "source": "머니투데이",
-      "category": "의학·바이오",
-      "publishedAt": "2026-10-09T05:46:41.000Z",
-      "collectedAt": "2026-10-09T13:57:33.041Z",
-      "thumb": "/thumbs/6ed3b896dca8.png"
-    },
-    {
-      "id": "ea6267ec1432",
-      "kind": "news",
-      "lang": "ko",
-      "title": "인니 산불로 멸종위기종 오랑우탄도 생존 위협…구조 노력",
-      "summary": "인도네시아 대규모 산불로 오랑우탄의 단둘뿐인 야생 서식지 보르네오섬과 수마트라섬 곳곳이 불타면서…",
-      "detail": "인도네시아 대규모 산불로 오랑우탄의 단둘뿐인 야생 서식지 보르네오섬과 수마트라섬 곳곳이 불타면서 멸종 위기종인 오랑우탄의 생존에 큰 타격이 우려된다. 9일(현지시간) AFP 통신에 따르면 유인원 보호단체 '보르네오 오랑우탄 생존 재단'은 지난달 말…",
-      "link": "https://www.yna.co.kr/view/AKR20261009060100084",
-      "source": "연합뉴스",
-      "category": "생태·환경",
-      "publishedAt": "2026-10-09T00:19:00.000Z",
-      "collectedAt": "2026-10-09T12:58:46.030Z",
-      "thumb": "/thumbs/ea6267ec1432.jpg"
     }
   ]
 }
