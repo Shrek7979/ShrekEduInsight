@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-12T14:01:48.797Z",
+  "updatedAt": "2026-10-12T18:01:32.609Z",
   "items": [
+    {
+      "id": "fb-86fc7ef94b26",
+      "kind": "news",
+      "lang": "en",
+      "title": "Everything that’s swept the world since the 2022 release of ChatGPT — “the AI economy”; data centers; chatbots acting as best friends,…",
+      "summary": "doctors, and mathematicians; talk",
+      "link": "https://www.facebook.com/QuantaNews/posts/pfbid0Ac4Qf3fDP3hSS1CkojuesXFRJogdSVRSfv7PM1D1kdeoKScXZYprPwHhhbEpvDahl",
+      "source": "Facebook Quanta Magazine",
+      "category": "인기",
+      "publishedAt": "2026-10-12T17:49:21.459Z",
+      "thumb": "/social/fb/fb-86fc7ef94b26.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-12T18:01:32.609Z",
+      "titleKo": "2022년 ChatGPT 출시 이후 전 세계를 휩쓴 모든 것 — \"AI 경제\" 데이터 센터; 절친한 친구 역할을 하는 챗봇,…",
+      "summaryKo": "의사, 수학자; 말하다",
+      "translator": "google"
+    },
     {
       "id": "fb-2814dac6696c",
       "kind": "video",

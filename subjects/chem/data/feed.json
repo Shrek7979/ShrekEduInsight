@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-10-12T16:57:42.176Z",
+  "updatedAt": "2026-10-12T17:57:40.943Z",
   "items": [
+    {
+      "id": "62e3aefaab8a",
+      "kind": "news",
+      "lang": "en",
+      "title": "2026 Latin American Women in Chemistry Award winners named",
+      "summary": "Winners’ research areas include more-sustainable…",
+      "detail": "Winners’ research areas include more-sustainable aquaculture biomass, autoimmune diseases, and human blood coagulation",
+      "link": "https://cen.acs.org/acs-news/2026-latin-american-women-chemistry/104/web/2026/10?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
+      "source": "C&EN",
+      "category": "해외",
+      "publishedAt": "2026-10-12T17:03:59.000Z",
+      "collectedAt": "2026-10-12T17:57:40.943Z",
+      "titleKo": "2026년 라틴 아메리카 여성 화학상 수상자 선정",
+      "summaryKo": "우승자의 연구 분야에는 보다 지속 가능한…",
+      "translator": "google",
+      "detailKo": "수상자의 연구 분야에는 보다 지속 가능한 양식 바이오매스, 자가면역 질환 및 인간 혈액 응고가 포함됩니다.",
+      "thumb": "/thumbs/62e3aefaab8a.webp"
+    },
+    {
+      "id": "3846355b9f99",
+      "kind": "news",
+      "lang": "en",
+      "title": "The 2026 Nobel Prize in Chemistry: Making single mirror images of molecules",
+      "summary": "The 2026 Nobel Prize in Chemistry was awarded to Henri…",
+      "detail": "The 2026 Nobel Prize in Chemistry was awarded to Henri Kagan and Kenso Soai for the discovery of non-linear effects and autocatalysis…",
+      "link": "https://www.compoundchem.com/2026/10/07/2026nobelchemistry/?utm_source=rss&utm_medium=rss&utm_campaign=2026nobelchemistry",
+      "source": "Compound Interest",
+      "category": "해외",
+      "publishedAt": "2026-10-07T20:21:52.000Z",
+      "collectedAt": "2026-10-12T17:57:40.943Z",
+      "titleKo": "2026년 노벨 화학상: 분자의 단일 거울상 만들기",
+      "summaryKo": "2026년 노벨 화학상은 앙리에게 수여되었습니다",
+      "translator": "google",
+      "detailKo": "2026년 노벨 화학상은 비선형 효과와 자가촉매 현상을 발견한 공로로 헨리 카간(Henri Kagan)과 켄소 소아이(Kenso Soai)에게 수여되었습니다.",
+      "thumb": "/thumbs/3846355b9f99.png"
+    },
     {
       "id": "bsky-3mxoy62vg422k",
       "kind": "news",
@@ -2435,41 +2471,6 @@
       "translator": "google",
       "detailKo": "베이컨 지방 바이오디젤 전설이 시작됩니다... 하지만 다음 번에는 정말 쉬울 텐데요, 그렇죠?",
       "thumb": "/thumbs/35e30c4a9ef2.jpg"
-    },
-    {
-      "id": "7d8e54956777",
-      "kind": "video",
-      "lang": "ko",
-      "title": "[역사 속 화학사전] 굶주림과 싸워온 인류의 역사",
-      "summary": "",
-      "detail": "",
-      "link": "https://www.youtube.com/watch?v=X0lOtdT46vU",
-      "source": "한국화학연구원 KRICT",
-      "image": "https://i1.ytimg.com/vi/X0lOtdT46vU/hqdefault.jpg",
-      "views": 16111,
-      "category": "인기",
-      "publishedAt": "2026-09-18T08:00:02.000Z",
-      "collectedAt": "2026-10-08T00:56:55.012Z",
-      "summaryKo": "",
-      "thumb": "/thumbs/7d8e54956777.jpg"
-    },
-    {
-      "id": "bsky-3mxcryogcq22d",
-      "kind": "news",
-      "lang": "en",
-      "title": "This year's in Chemistry was awarded for research which helps chemists make just one of a…",
-      "summary": "molecule's pair of mirror images 🪞 It's useful in…",
-      "link": "https://bsky.app/profile/compoundchem.com/post/3mxcryogcq22d",
-      "source": "Bluesky Compound Interest",
-      "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:elgkp22tjscka4ij6kqibtvt/bafkreiedq3z6t2yfr5o4iaqiumcdgyt2v5ucapai5342brrnumshsrx3vq",
-      "likes": "11",
-      "category": "인기",
-      "publishedAt": "2026-10-07T20:30:43.338Z",
-      "collectedAt": "2026-10-07T20:49:17.186Z",
-      "titleKo": "올해의 화학 부문은 화학자들이 다음 중 하나를 만드는 데 도움이 되는 연구에 수여되었습니다.",
-      "summaryKo": "분자의 거울상 쌍 🪞 다음에 유용합니다…",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mxcryogcq22d.webp"
     }
   ]
 }

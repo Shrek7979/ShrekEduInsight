@@ -1,6 +1,25 @@
 {
-  "updatedAt": "2026-10-12T16:57:42.163Z",
+  "updatedAt": "2026-10-12T17:57:40.991Z",
   "items": [
+    {
+      "id": "e7124eabfaa9",
+      "kind": "news",
+      "lang": "en",
+      "title": "How Does Life Unfold? A Landscape Metaphor Comes Into Its Own.",
+      "summary": "C.H",
+      "detail": "C.H. Waddington’s powerful image of embryonic stem cells specializing on a rolling landscape has captivated biologists since the 1950s.…",
+      "link": "https://www.quantamagazine.org/how-does-life-unfold-a-landscape-metaphor-comes-into-its-own-20261009/",
+      "source": "Quanta Magazine",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Waddington-cr.MarkBelan-Default.webp",
+      "category": "해외",
+      "publishedAt": "2026-10-09T14:03:07.000Z",
+      "collectedAt": "2026-10-12T17:57:40.991Z",
+      "titleKo": "인생은 어떻게 전개되는가? 풍경의 은유가 그 자체로 나타납니다.",
+      "summaryKo": "C.H",
+      "translator": "google",
+      "detailKo": "C.H. 구불구불한 풍경을 전문으로 하는 배아줄기세포에 대한 Waddington의 강력한 이미지는 1950년대부터 생물학자들의 마음을 사로잡았습니다.…",
+      "thumb": "/thumbs/e7124eabfaa9.jpg"
+    },
     {
       "id": "5fb340e8b066",
       "kind": "news",
@@ -35,7 +54,7 @@
       "titleKo": "박테리아의 텔로머라제 유사 역전사를 통한 항바이러스 면역",
       "summaryKo": "",
       "translator": "google",
-      "thumb": null
+      "thumb": "/thumbs/31b5b2cad0ee.png"
     },
     {
       "id": "387d13808688",
@@ -2437,24 +2456,6 @@
       "translator": "google",
       "detailKo": "결과는 연구자들이 기존 치료법보다 더 안전하고 효과적인 진통제를 개발하는 데 도움이 될 수 있습니다.",
       "thumb": "/thumbs/a73ef49fb182.png"
-    },
-    {
-      "id": "bsky-3mxhfr62gfr2y",
-      "kind": "news",
-      "lang": "en",
-      "title": "Trending Now | This study presents a genome-scale phylogeny of Opisthokonta, the major lineage that includes animals, fungi, and their…",
-      "summary": "unicellular relatives",
-      "link": "https://bsky.app/profile/plosbiology.org/post/3mxhfr62gfr2y",
-      "source": "Bluesky PLOS Biology",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5522ztebtekoor5efelihqhb/bafkreihydnsxisqdnsz3n24qw5t35t2xkrel4srfzsahiqbgaiuhg73dwi",
-      "likes": "1",
-      "category": "인기",
-      "publishedAt": "2026-10-09T16:35:04.136Z",
-      "collectedAt": "2026-10-09T16:57:03.569Z",
-      "titleKo": "지금 인기 급상승 | 이 연구는 동물, 균류 및 그들의…",
-      "summaryKo": "단세포 친척",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mxhfr62gfr2y.png"
     }
   ]
 }

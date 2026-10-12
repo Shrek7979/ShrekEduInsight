@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-12T16:57:42.194Z",
+  "updatedAt": "2026-10-12T17:57:40.882Z",
   "items": [
+    {
+      "id": "bsky-3mxemftpz6723",
+      "kind": "news",
+      "lang": "en",
+      "title": "GPS spoofing, the practice of falsifying location data, is becoming more common and harder to prevent, writes @sarah-wells.bsky.social`.",
+      "summary": "Researchers have proposed and tested a new approach…",
+      "link": "https://bsky.app/profile/physicstoday.aip.org/post/3mxemftpz6723",
+      "source": "Bluesky Physics Today",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ha7rj6xz2t4h6vw3c2fyfskr/bafkreievlmr4lwxskjmh573yemxbvzoiqx7ylm3sg65k5vmqxrw2lpic7y",
+      "likes": "4",
+      "category": "인기",
+      "publishedAt": "2026-10-08T13:56:02.400Z",
+      "collectedAt": "2026-10-12T17:57:40.882Z",
+      "titleKo": "위치 데이터를 위조하는 관행인 GPS 스푸핑이 점점 더 일반화되고 예방하기가 더 어려워지고 있다고 @sarah-wells.bsky.social`에 적었습니다.",
+      "summaryKo": "연구원들은 새로운 접근 방식을 제안하고 테스트했습니다…",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxemftpz6723.webp"
+    },
     {
       "id": "88cf10e23762",
       "kind": "news",
@@ -2507,24 +2525,6 @@
       "publishedAt": "2026-10-08T02:25:00.000Z",
       "collectedAt": "2026-10-08T14:57:42.341Z",
       "thumb": "/thumbs/190c02b4739a.jpg"
-    },
-    {
-      "id": "bsky-3mxa2ekvb742c",
-      "kind": "news",
-      "lang": "en",
-      "title": "Congratulations to Francis Halzen, winner of the 2026 @nobelprize.org in Physics, for contributions to @icecubeneutrino.bsky.social and the…",
-      "summary": "discovery of high-energy cosmic neutrinos",
-      "link": "https://bsky.app/profile/apsphysics.aps.org/post/3mxa2ekvb742c",
-      "source": "Bluesky APS Physics",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:heemoqq7cssrx5ixyxwd52y6/bafkreiapm57vo6pojnwbqc4kb4jtwmu4y52nn364jg4dhbwoex46lbjy6e",
-      "likes": "11",
-      "category": "인기",
-      "publishedAt": "2026-10-06T18:22:33.273Z",
-      "collectedAt": "2026-10-08T14:57:42.341Z",
-      "titleKo": "@icecubeneutrino.bsky.social 및…",
-      "summaryKo": "고에너지 우주 중성미자의 발견",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mxa2ekvb742c.webp"
     }
   ]
 }
