@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-12T09:49:02.091Z",
+  "updatedAt": "2026-10-12T09:57:44.547Z",
   "items": [
+    {
+      "id": "2a0624b0202d",
+      "kind": "news",
+      "lang": "en",
+      "title": "Scientists discover a hidden factor that can make or break chemical reactions",
+      "summary": "Researchers discovered a hidden factor that can…",
+      "detail": "Researchers discovered a hidden factor that can determine whether chemical reactions succeed or fail, and then used it to boost the…",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261008005244.htm",
+      "source": "ScienceDaily",
+      "category": "해외",
+      "publishedAt": "2026-10-12T06:24:46.000Z",
+      "collectedAt": "2026-10-12T09:57:44.547Z",
+      "titleKo": "과학자들이 화학 반응을 일으키거나 파괴할 수 있는 숨겨진 요인을 발견했습니다",
+      "summaryKo": "연구자들은 다음과 같은 숨겨진 요인을 발견했습니다",
+      "translator": "google",
+      "detailKo": "연구원들은 화학 반응의 성공 여부를 결정할 수 있는 숨겨진 요소를 발견하고 이를 사용하여…",
+      "thumb": "/thumbs/2a0624b0202d.webp"
+    },
     {
       "id": "7db59d952cb2",
       "kind": "news",
@@ -2432,26 +2450,6 @@
       "summaryKo": "",
       "translator": "google",
       "thumb": "/thumbs/bf6f1e9eaead.jpg"
-    },
-    {
-      "id": "4394e4d6ec3a",
-      "kind": "video",
-      "lang": "en",
-      "title": "wait is coumarin actually fluorescent?",
-      "summary": "so apparently I need to chemically convert the coumarin…",
-      "detail": "so apparently I need to chemically convert the coumarin to make it fluorescent, and probably isolate it a little better, but my next idea…",
-      "link": "https://www.youtube.com/shorts/1cwGmvm2Jno",
-      "source": "Reactions",
-      "image": "https://i2.ytimg.com/vi/1cwGmvm2Jno/hqdefault.jpg",
-      "views": 236340,
-      "category": "인기",
-      "publishedAt": "2026-08-27T21:09:46.000Z",
-      "collectedAt": "2026-10-07T20:49:17.186Z",
-      "titleKo": "잠깐, 쿠마린은 실제로 형광성인가요?",
-      "summaryKo": "그래서 쿠마린을 화학적으로 변환해야 하는 것 같군요…",
-      "translator": "google",
-      "detailKo": "그래서 쿠마린을 화학적으로 변환하여 형광성을 갖게 하고 아마도 좀 더 잘 분리해야 할 것 같지만 다음 아이디어는…",
-      "thumb": "/thumbs/4394e4d6ec3a.jpg"
     }
   ]
 }

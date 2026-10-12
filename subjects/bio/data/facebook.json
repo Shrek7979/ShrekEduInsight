@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T09:51:59.007Z",
+  "updatedAt": "2026-10-12T10:00:21.766Z",
   "items": [
     {
       "id": "fb-8edce80c4663",
@@ -104,37 +104,37 @@
       "translator": "google"
     },
     {
-      "id": "fb-bb5b0afa43e1",
-      "kind": "news",
-      "lang": "en",
-      "title": "CRY me to sleep",
-      "summary": "",
-      "link": "https://www.facebook.com/elifesciences/posts/pfbid0To9TMhUFsv7zNfndxyPxeu1wxZPeePsWMxf4JxgWM7bURzVFPsfWEnnNUMEJHkoml",
-      "source": "Facebook eLife",
-      "category": "인기",
-      "publishedAt": "2026-10-09T10:51:16.271Z",
-      "thumb": "/social/fb/fb-bb5b0afa43e1.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-10T02:51:48.249Z",
-      "titleKo": "울어서 잠들다",
-      "summaryKo": "",
-      "translator": "google"
-    },
-    {
-      "id": "fb-529bff7e6aca",
+      "id": "fb-0e6f3b7ffe21",
       "kind": "news",
       "lang": "en",
       "title": "How do genes and the environment shape our health?",
       "summary": "In this new activity, students use evidence-based…",
-      "link": "https://www.facebook.com/biointeractive/posts/pfbid02nRLreJJ2nkTuZXGa5Eq8Pz6q8AcQP41tHPAJK4GSE2Yuf2ND58xdavw5gAb5CCpPl",
+      "link": "https://www.facebook.com/biointeractive/posts/pfbid0ishfj8ffwZsGUSm7Nnw1pQq7SzreHWGRWBVtk8d236beotU8xQ5Di3HZ6A11f5Ksl",
       "source": "Facebook HHMI BioInteractive",
       "category": "인기",
-      "publishedAt": "2026-10-09T01:51:32.014Z",
-      "thumb": "/social/fb/fb-529bff7e6aca.jpg",
+      "publishedAt": "2026-10-09T10:00:01.453Z",
+      "thumb": "/social/fb/fb-0e6f3b7ffe21.jpg",
       "refs": [],
-      "collectedAt": "2026-10-11T01:51:53.123Z",
+      "collectedAt": "2026-10-12T10:00:21.766Z",
       "titleKo": "유전자와 환경은 우리의 건강을 어떻게 형성합니까?",
       "summaryKo": "이 새로운 활동에서 학생들은 증거 기반…",
+      "translator": "google"
+    },
+    {
+      "id": "fb-0410698c3a68",
+      "kind": "news",
+      "lang": "en",
+      "title": "CRY me to sleep",
+      "summary": "",
+      "link": "https://www.facebook.com/elifesciences/posts/pfbid0TczT4ZCX4KvYJChJcdVWqVDw5FwG7untrTbrwULVSj6WaaeJgKG3gwa6PaAAV2nol",
+      "source": "Facebook eLife",
+      "category": "인기",
+      "publishedAt": "2026-10-09T09:59:49.967Z",
+      "thumb": "/social/fb/fb-0410698c3a68.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-12T10:00:21.766Z",
+      "titleKo": "울어서 잠들다",
+      "summaryKo": "",
       "translator": "google"
     },
     {

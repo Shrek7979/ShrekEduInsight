@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-12T09:51:42.262Z",
+  "updatedAt": "2026-10-12T10:00:07.326Z",
   "items": [
+    {
+      "id": "fb-c647657307cc",
+      "kind": "news",
+      "lang": "en",
+      "title": "Interested in learning a bit more about the subject of this year’s Nobel Prize-winning research, asymmetric organic synthesis?",
+      "summary": "",
+      "link": "https://www.facebook.com/RoyalSocietyofChemistry/posts/pfbid0nMxc7i5P7ypDMx2DRA5dj6WNLQcfmioL8XtyCeWXz319GYurLTHXBBwxYBjbqDnzl",
+      "source": "Facebook Royal Society of Chemistry",
+      "category": "인기",
+      "publishedAt": "2026-10-12T08:59:55.295Z",
+      "thumb": "/social/fb/fb-c647657307cc.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-12T10:00:07.326Z",
+      "titleKo": "올해 노벨상 수상 연구 주제인 비대칭 유기 합성에 대해 좀 더 알고 싶으십니까?",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-f18f340e4f48",
       "kind": "news",
@@ -150,7 +167,7 @@
       "thumb": "/social/fb/fb-00d877ce2425.jpg",
       "refs": [],
       "collectedAt": "2026-10-08T18:00:14.386Z",
-      "titleKo": "어떤 소금이 아이스크림을 더 빠르게 만들까요?",
+      "titleKo": "어떤 소금이 아이스크림을 더 빨리 만들까요?",
       "summaryKo": "",
       "translator": "google"
     },
