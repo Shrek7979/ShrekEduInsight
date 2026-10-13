@@ -1,6 +1,35 @@
 {
-  "updatedAt": "2026-10-13T04:57:19.608Z",
+  "updatedAt": "2026-10-13T05:57:05.622Z",
   "items": [
+    {
+      "id": "d7d6f036df1e",
+      "kind": "news",
+      "lang": "ko",
+      "title": "천문연, ‘한국우주전파관측망’으로 목성 탐사선 ‘주스’ 위치 쫓는다",
+      "summary": "한국우주전파관측망(KVN)으로 유럽우주국(ESA) 목성 탐사선의 위치를 정밀 추적한다",
+      "detail": "한국우주전파관측망(KVN)으로 유럽우주국(ESA) 목성 탐사선의 위치를 정밀 추적한다. KVN은 서울, 울산, 제주, 평창에 있는 지름 21m 전파망원경 4기로 한국 크기만 한 가상의 큰 망원경을 구현해 우주를 세밀하게 관측할 수 있다.…",
+      "link": "https://www.dongascience.com/ko/news/80306",
+      "source": "동아사이언스",
+      "image": "http://www.bing.com/th?id=ONUT.bkVTVadglz7-YLysZjzgWQ&pid=News",
+      "category": "우주·천문",
+      "publishedAt": "2026-10-12T16:54:00.000Z",
+      "collectedAt": "2026-10-13T05:57:05.622Z",
+      "thumb": "/thumbs/d7d6f036df1e.jpg"
+    },
+    {
+      "id": "a2f5ca95fb3e",
+      "kind": "news",
+      "lang": "ko",
+      "title": "공유신 양산시의원 \"양산과학고등학교 설립 절실\"",
+      "summary": "공 의원은 \"현재 양산은 눈부신 도시 성장세에도 불구하고 과학 분야 특수목적고가 전무하다\"며…",
+      "detail": "공 의원은 \"현재 양산은 눈부신 도시 성장세에도 불구하고 과학 분야 특수목적고가 전무하다\"며 \"우수한 학생들이 더 나은 교육 환경을 찾아 타 지역으로 떠나는 안타까운 현실을 이제는 정말 바꿔야 한다\"고 밝혔다.",
+      "link": "https://www.pressian.com/pages/articles/2026101308512130722",
+      "source": "프레시안",
+      "category": "교육",
+      "publishedAt": "2026-10-12T11:50:00.000Z",
+      "collectedAt": "2026-10-13T05:57:05.622Z",
+      "thumb": null
+    },
     {
       "id": "2ab23a924043",
       "kind": "news",
@@ -2507,46 +2536,6 @@
       "summaryKo": "아인슈타인에 따르면, 당신은 실제로 빛에 갇힐 수도 있습니다",
       "translator": "google",
       "thumb": "/thumbs/ff392a7b97b2.jpg"
-    },
-    {
-      "id": "419f84bf64e0",
-      "kind": "video",
-      "lang": "en",
-      "title": "Are You A Disembodied Brain?",
-      "summary": "Statistically speaking, you are a disembodied brain",
-      "detail": "Statistically speaking, you are a disembodied brain. Boltzmann figured this out.",
-      "link": "https://www.youtube.com/shorts/azfkjHspwEE",
-      "source": "PBS Space Time",
-      "image": "https://i2.ytimg.com/vi/azfkjHspwEE/hqdefault.jpg",
-      "views": 116088,
-      "category": "인기",
-      "publishedAt": "2026-09-30T20:15:09.000Z",
-      "collectedAt": "2026-10-09T03:57:39.613Z",
-      "titleKo": "당신은 육체가 없는 뇌입니까?",
-      "summaryKo": "통계적으로 말하면, 당신은 육체가 없는 뇌입니다",
-      "translator": "google",
-      "detailKo": "통계적으로 말하면, 당신은 육체가 없는 뇌입니다. 볼츠만은 이것을 알아냈습니다.",
-      "thumb": "/thumbs/419f84bf64e0.jpg"
-    },
-    {
-      "id": "2a06d2e68205",
-      "kind": "video",
-      "lang": "en",
-      "title": "What If You Travel To The Edge of The Universe?",
-      "summary": "What happens if you try to get to the edge of the…",
-      "detail": "What happens if you try to get to the edge of the universe? You might end up right back where you started, just not in the way you expect.",
-      "link": "https://www.youtube.com/shorts/M5WZ_7XjGP8",
-      "source": "PBS Space Time",
-      "image": "https://i2.ytimg.com/vi/M5WZ_7XjGP8/hqdefault.jpg",
-      "views": 219628,
-      "category": "인기",
-      "publishedAt": "2026-09-28T20:15:23.000Z",
-      "collectedAt": "2026-10-09T03:57:39.613Z",
-      "titleKo": "우주의 가장자리로 여행을 떠난다면 어떨까요?",
-      "summaryKo": "가장자리에 도달하려고 하면 어떻게 됩니까?",
-      "translator": "google",
-      "detailKo": "우주의 가장자리까지 가려고 하면 어떻게 될까요? 예상했던 방식이 아닐 수도 있지만, 시작한 곳으로 바로 돌아갈 수도 있습니다.",
-      "thumb": "/thumbs/2a06d2e68205.jpg"
     }
   ]
 }

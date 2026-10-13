@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-10-13T04:57:19.568Z",
+  "updatedAt": "2026-10-13T05:57:05.627Z",
   "items": [
+    {
+      "id": "8852d56ff032",
+      "kind": "news",
+      "lang": "ko",
+      "title": "화학사고 발생 시 ‘주민대피·수습복구’ 최우선",
+      "summary": "기후에너지환경부 소속 화학물질안전원 (원장 박봉균)은 천안시와 공동으로 오는 14일 오후 3시…",
+      "detail": "기후에너지환경부 소속 화학물질안전원 (원장 박봉균)은 천안시와 공동으로 오는 14일 오후 3시 천안시청 (천안시 서북구 소재)에서 주민대피와 수습복구에 중점을 둔 ‘화학사고 대응 도상훈련’을 실시한다고 밝혔다.",
+      "link": "http://www.ecolaw.co.kr/news/articleView.html?idxno=120341",
+      "source": "환경법률신문",
+      "image": "http://www.bing.com/th?id=ONUT.DAR-X3wp2zExG2whF0sR_Q&pid=News",
+      "category": "환경·안전",
+      "publishedAt": "2026-10-12T17:01:00.000Z",
+      "collectedAt": "2026-10-13T05:57:05.627Z",
+      "thumb": "/thumbs/8852d56ff032.png"
+    },
     {
       "id": "1a97f89912ac",
       "kind": "news",
@@ -2459,20 +2474,6 @@
       "publishedAt": "2026-10-07T16:25:00.000Z",
       "collectedAt": "2026-10-08T07:17:24.401Z",
       "thumb": "/thumbs/4320193b9c38.jpg"
-    },
-    {
-      "id": "4172631e921a",
-      "kind": "news",
-      "lang": "ko",
-      "title": "김주희 경희대 간호과학대학 교수 연구팀, 모유 속 ‘영원한 화학물질’ 체내 축적 추정 모델 개발",
-      "summary": "기존의 단순 모유 농도 측정을 넘어 영아 개개인의 생리학적 특성에 기반한 노출 위험을 다각도로 정밀…",
-      "detail": "기존의 단순 모유 농도 측정을 넘어 영아 개개인의 생리학적 특성에 기반한 노출 위험을 다각도로 정밀 진단할 수 있는 기틀이 마련됨에 따라, 향후 영유아 환경보호 및 보건 정책 수립에 커다란 전환점이 될 것으로 전망된다. 경희대학교 (총장 김진상)는…",
-      "link": "https://www.dailysmart.co.kr/news/articleView.html?idxno=130812",
-      "source": "스마트경제",
-      "category": "연구",
-      "publishedAt": "2026-10-07T16:21:00.000Z",
-      "collectedAt": "2026-10-08T07:17:24.401Z",
-      "thumb": "/thumbs/4172631e921a.jpg"
     }
   ]
 }
