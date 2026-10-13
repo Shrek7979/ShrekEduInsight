@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-10-13T18:57:41.234Z",
+  "updatedAt": "2026-10-13T19:56:57.959Z",
   "items": [
+    {
+      "id": "05848545ab64",
+      "kind": "news",
+      "lang": "en",
+      "title": "Lasers give surgical implants nanocarbon armor",
+      "summary": "1-step method creates a coating that slays…",
+      "detail": "1-step method creates a coating that slays infection-causing bacteria",
+      "link": "https://cen.acs.org/materials/nanocarbon-coating-polypropylene-suture-medical/104/web/2026/10?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
+      "source": "C&EN",
+      "category": "해외",
+      "publishedAt": "2026-10-13T19:16:37.000Z",
+      "collectedAt": "2026-10-13T19:56:57.959Z",
+      "titleKo": "레이저는 수술용 임플란트에 나노카본 갑옷을 제공합니다.",
+      "summaryKo": "1단계 방법으로 코팅을 생성하여…",
+      "translator": "google",
+      "detailKo": "1단계 방법으로 감염을 유발하는 박테리아를 죽이는 코팅을 만듭니다.",
+      "thumb": "/thumbs/05848545ab64.webp"
+    },
+    {
+      "id": "5acfd6a87efb",
+      "kind": "news",
+      "lang": "en",
+      "title": "Business Watch: States sue Corteva over Vylor PFAS liability, and more",
+      "summary": "Here’s what we’re watching in the chemical and…",
+      "detail": "Here’s what we’re watching in the chemical and pharmaceutical industries this week",
+      "link": "https://cen.acs.org/business/business-watch-states-sue-corteva-vylor-pfas-verbio-etheneolysis/104/web/2026/10?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
+      "source": "C&EN",
+      "category": "해외",
+      "publishedAt": "2026-10-13T18:40:49.000Z",
+      "collectedAt": "2026-10-13T19:56:57.959Z",
+      "titleKo": "비즈니스 감시: 주정부, Vylor PFAS 책임 등에 대해 Corteva를 고소",
+      "summaryKo": "다음은 우리가 화학 분야에서 보고 있는 내용입니다",
+      "translator": "google",
+      "detailKo": "이번 주 화학 및 제약 산업에서 우리가 시청하는 내용은 다음과 같습니다.",
+      "thumb": "/thumbs/5acfd6a87efb.webp"
+    },
     {
       "id": "485e3b4e471f",
       "kind": "news",
@@ -2458,41 +2494,6 @@
       "translator": "google",
       "detailKo": "두 명의 수상자들은 왼손잡이 분자의 세계에서 우리가 어떻게 살 수 있는지를 밝혔습니다.",
       "thumb": "/thumbs/82c7d567abc1.webp"
-    },
-    {
-      "id": "c1b5e4db3a54",
-      "kind": "news",
-      "lang": "en",
-      "title": "Opinion: I gave a chemistry lecture in a bar. It was a revelation",
-      "summary": "I discovered adults eager to learn",
-      "detail": "I discovered adults eager to learn. Let's do more to reach them",
-      "link": "https://cen.acs.org/education/outreach/organic-chemistry-public-outreach-engagement-communication/104/web/2026/10?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
-      "source": "C&EN",
-      "category": "해외",
-      "publishedAt": "2026-10-08T18:45:50.000Z",
-      "collectedAt": "2026-10-08T19:57:06.380Z",
-      "titleKo": "의견: 나는 술집에서 화학 강의를 했다. 그것은 폭로였습니다",
-      "summaryKo": "배우고 싶어하는 어른들을 발견했어요",
-      "translator": "google",
-      "detailKo": "나는 배우고 싶어하는 어른들을 발견했습니다. 그들에게 다가가기 위해 더 많은 노력을 합시다",
-      "thumb": "/thumbs/c1b5e4db3a54.webp"
-    },
-    {
-      "id": "bsky-3mxeslceji22e",
-      "kind": "news",
-      "lang": "en",
-      "title": "Here’s what we’re watching in the chemical and pharmaceutical industries this week: chemsky 🧪",
-      "summary": "Business Watch CJ CheilJedang and ADM to form an amino…",
-      "link": "https://bsky.app/profile/cenmag.bsky.social/post/3mxeslceji22e",
-      "source": "Bluesky C&EN",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u4u4yeik2uube2g6ov7wr35p/bafkreiaxncavjynyyhziaivcm6gdips5bi4675nmqwjtd5fmrggwflzkgq",
-      "category": "인기",
-      "publishedAt": "2026-10-08T15:46:27.992Z",
-      "collectedAt": "2026-10-08T15:57:04.906Z",
-      "titleKo": "이번 주 화학 및 제약 산업에서 우리가 보고 있는 내용은 다음과 같습니다: chemsky 🧪",
-      "summaryKo": "비즈니스워치 CJ제일제당, ADM과 아미노회사 결성…",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mxeslceji22e.webp"
     }
   ]
 }
