@@ -41,7 +41,7 @@ export default function AboutPage() {
             <p className="mt-1 text-[17px] font-bold text-white/85">{TAGLINE}</p>
             <p className="mt-3 break-keep text-[15px] leading-relaxed text-white/70">
               수학·물리·화학·생명과학 선생님을 위한 교육 뉴스 피드입니다. 국내외 뉴스, 인기 영상, SNS 게시물, 수업에 바로 쓸 수
-              있는 주제 카드를 1시간마다 모아 한 화면에서 넘겨 볼 수 있게 했습니다.
+              있는 주제 카드를 12시간마다 모아 한 화면에서 넘겨 볼 수 있게 했습니다.
             </p>
           </header>
 
@@ -62,7 +62,7 @@ export default function AboutPage() {
           </Section>
 
           <Section id="status" title="과목별 업데이트 상태">
-            <p>네 과목 소식을 1시간마다 모으고, 사이트를 열 때마다 그 최신 내용을 가져옵니다.</p>
+            <p>네 과목 소식을 12시간마다 모으고, 사이트를 열 때마다 그 최신 내용을 가져옵니다.</p>
             <ul className="divide-y divide-white/10 rounded-2xl bg-white/[0.04]">
               {SUBJECTS.map((subject) => {
                 const s = status?.find((x) => x.subject.key === subject.key)

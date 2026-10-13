@@ -347,7 +347,7 @@ export function EndCard({ onRestart, empty }: { onRestart: () => void; empty: bo
       <div className="card-surface flex h-full flex-col items-center justify-center gap-4 p-8 text-center sm:rounded-[28px]">
         <p className="text-[13px] font-bold uppercase tracking-[0.2em] text-amber-300/80">{empty ? 'Empty' : 'The End'}</p>
         <h2 className="text-[26px] font-extrabold tracking-tight">{empty ? '아직 카드가 없어요' : '오늘 소식은 여기까지'}</h2>
-        <p className="break-keep leading-relaxed text-white/55">{empty ? '다른 칩을 골라 보세요.' : '1시간마다 새 카드가 들어옵니다.'}</p>
+        <p className="break-keep leading-relaxed text-white/55">{empty ? '다른 칩을 골라 보세요.' : '12시간마다 새 카드가 들어옵니다.'}</p>
         {!empty && (
           <button onClick={onRestart} className="mt-2 flex min-h-[50px] items-center gap-2 rounded-2xl bg-white px-6 font-bold text-neutral-900">
             <ArrowIcon dir="up" className="h-4 w-4" />

@@ -77,7 +77,7 @@ export const SOURCES = [
     ],
   },
 
-  // 블루스카이: 화학 매체·학회 계정의 최근 글 (공개 API 라 GitHub 서버에서도 1시간마다 수집됨)
+  // 블루스카이: 화학 매체·학회 계정의 최근 글 (공개 API 라 GitHub 서버에서도 12시간마다 수집됨)
   { type: 'bluesky', lang: 'en', name: 'Compound Interest', handle: 'compoundchem.com', category: '인기', limit: 3, maxAgeDays: 21 },
   { type: 'bluesky', lang: 'en', name: 'C&EN', handle: 'cenmag.bsky.social', category: '인기', limit: 3, maxAgeDays: 7 },
   { type: 'bluesky', lang: 'en', name: 'Chemistry World', handle: 'chemistryworld.com', category: '인기', limit: 3, maxAgeDays: 7 },

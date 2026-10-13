@@ -1,4 +1,4 @@
-# 약 1시간마다 수학·물리·화학·생명과학 소식을 모아 GitHub Pages 에 배포합니다.
+# 약 12시간마다 수학·물리·화학·생명과학 소식을 모아 GitHub Pages 에 배포합니다.
 # 과목마다 subjects/<과목> 폴더에 그 과목의 수집기·데이터·SNS 그림이 있고, scripts/collect-all.mjs 가 네 과목을 동시에 돌립니다.
 # 저장소 Settings → Pages → Source 를 "GitHub Actions" 로 한 번만 바꿔 주면 됩니다.
 # (선택) Settings → Secrets 에 ANTHROPIC_API_KEY 를 넣으면 해외 기사를 Claude 가 번역·요약하고, 카드마다 '수업 활용'을 붙입니다.
@@ -6,7 +6,7 @@ name: Collect & Publish
 
 on:
   schedule:
-    # GitHub 예약은 자주 밀리거나 건너뛰어짐 → 20분마다 깨워서, 마지막 수집 후 1시간쯤 지났을 때만 실제로 수집
+    # GitHub 예약은 자주 밀리거나 건너뛰어짐 → 20분마다 깨워서, 마지막 수집 후 12시간쯤 지났을 때만 실제로 수집
     - cron: '7,27,47 * * * *'
   workflow_dispatch:
   push:
@@ -35,7 +35,7 @@ jobs:
           # 네 과목 중 가장 오래 전에 수집된 것을 기준으로
           age=$(node -e "const fs=require('fs');const ages=['math','phys','chem','bio'].map(s=>{try{return Date.now()-new Date(JSON.parse(fs.readFileSync('subjects/'+s+'/data/feed.json','utf8')).updatedAt)}catch{return 1e12}});console.log(Math.round(Math.max(...ages)/60000))")
           echo "가장 오래된 과목의 마지막 수집 후 ${age}분"
-          if [ "$age" -ge 50 ]; then echo "run=true" >> "$GITHUB_OUTPUT"; else echo "run=false" >> "$GITHUB_OUTPUT"; fi
+          if [ "$age" -ge 710 ]; then echo "run=true" >> "$GITHUB_OUTPUT"; else echo "run=false" >> "$GITHUB_OUTPUT"; fi
 
   publish:
     needs: due
