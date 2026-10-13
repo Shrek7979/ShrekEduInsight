@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-12T23:59:56.266Z",
+  "updatedAt": "2026-10-13T00:59:42.532Z",
   "items": [
+    {
+      "id": "fb-5ccfc1e67e0f",
+      "kind": "news",
+      "lang": "en",
+      "title": "A federal court has temporarily blocked the Department of Homeland Security (DHS) rule ending “duration of status” for international…",
+      "summary": "students and exchange visitors",
+      "link": "https://www.facebook.com/societyforneuroscience/posts/pfbid02o3GrTSt5uBKY1n6U4uoj8cJnSh2ckdRop3tcUhNzwJqiizGKZR6Q71r4eqRWXb67l",
+      "source": "Facebook Society for Neuroscience",
+      "category": "인기",
+      "publishedAt": "2026-10-12T20:59:42.519Z",
+      "thumb": "/social/fb/fb-5ccfc1e67e0f.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-13T00:59:42.532Z",
+      "titleKo": "연방 법원은 국토안보부(DHS)의 국제 체류 신분 기간 종료 규정을 일시적으로 차단했습니다.",
+      "summaryKo": "학생 및 교환 방문자",
+      "translator": "google"
+    },
     {
       "id": "fb-beedc4506e40",
       "kind": "news",
@@ -138,23 +155,6 @@
       "translator": "google"
     },
     {
-      "id": "fb-0e6f3b7ffe21",
-      "kind": "news",
-      "lang": "en",
-      "title": "How do genes and the environment shape our health?",
-      "summary": "In this new activity, students use evidence-based…",
-      "link": "https://www.facebook.com/biointeractive/posts/pfbid0ishfj8ffwZsGUSm7Nnw1pQq7SzreHWGRWBVtk8d236beotU8xQ5Di3HZ6A11f5Ksl",
-      "source": "Facebook HHMI BioInteractive",
-      "category": "인기",
-      "publishedAt": "2026-10-09T10:00:01.453Z",
-      "thumb": "/social/fb/fb-0e6f3b7ffe21.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-12T10:00:21.766Z",
-      "titleKo": "유전자와 환경은 우리의 건강을 어떻게 형성합니까?",
-      "summaryKo": "이 새로운 활동에서 학생들은 증거 기반…",
-      "translator": "google"
-    },
-    {
       "id": "fb-0410698c3a68",
       "kind": "news",
       "lang": "en",
@@ -169,6 +169,23 @@
       "collectedAt": "2026-10-12T10:00:21.766Z",
       "titleKo": "울어서 잠들다",
       "summaryKo": "",
+      "translator": "google"
+    },
+    {
+      "id": "fb-4b60aa61783f",
+      "kind": "news",
+      "lang": "en",
+      "title": "How do genes and the environment shape our health?",
+      "summary": "In this new activity, students use evidence-based…",
+      "link": "https://www.facebook.com/biointeractive/posts/pfbid02nFBrMA2HyBintp47T18Z2awLuMSBmjBMzHsj8KUhz4HLYZToENqGD35Yp8aHF4DMl",
+      "source": "Facebook HHMI BioInteractive",
+      "category": "인기",
+      "publishedAt": "2026-10-09T00:59:21.261Z",
+      "thumb": "/social/fb/fb-4b60aa61783f.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-13T00:59:42.532Z",
+      "titleKo": "유전자와 환경은 우리의 건강을 어떻게 형성합니까?",
+      "summaryKo": "이 새로운 활동에서 학생들은 증거 기반…",
       "translator": "google"
     },
     {
@@ -595,7 +612,7 @@
       ],
       "collectedAt": "2026-10-12T16:00:27.695Z",
       "titleKo": "글쎄, 우리는 유사분열 비디오를 업데이트했고 이제 업데이트된 감수분열 비디오를 공개할 시간이었습니다!",
-      "summaryKo": "scr을 찾을 수 있습니다.",
+      "summaryKo": "scr을 찾으면 됩니다.",
       "translator": "google"
     }
   ]
