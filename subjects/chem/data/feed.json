@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-13T19:56:57.959Z",
+  "updatedAt": "2026-10-13T20:57:07.600Z",
   "items": [
+    {
+      "id": "bsky-3mxruhdyksk2r",
+      "kind": "news",
+      "lang": "en",
+      "title": "Our contributor Kirk Hunter recalls flamboyant scientific demonstrations to get students excited about chemistry and what inspires…",
+      "summary": "audiences today: chemsky 🧪",
+      "link": "https://bsky.app/profile/cenmag.bsky.social/post/3mxruhdyksk2r",
+      "source": "Bluesky C&EN",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u4u4yeik2uube2g6ov7wr35p/bafkreicqm7rur3o5ks2exffu4f6o2s3qib4oxmqymf4vkkpv7fx66lw4ce",
+      "category": "인기",
+      "publishedAt": "2026-10-13T20:24:39.562Z",
+      "collectedAt": "2026-10-13T20:57:07.600Z",
+      "titleKo": "우리의 기고자 Kirk Hunter는 학생들이 화학과 영감을 받는 것에 대해 흥미를 갖도록 하기 위한 화려한 과학적 시연을 회상합니다.",
+      "summaryKo": "오늘의 관객: 켐스키 🧪",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxruhdyksk2r.webp"
+    },
     {
       "id": "05848545ab64",
       "kind": "news",
@@ -2476,24 +2493,6 @@
       "summaryKo": "사람들을 하나로 모으는 능력.\" 켐스키 🧪",
       "translator": "google",
       "thumb": "/thumbs/bsky-3mxfcwdbicc2e.webp"
-    },
-    {
-      "id": "82c7d567abc1",
-      "kind": "news",
-      "lang": "en",
-      "title": "Podcast: Chirality claims the Chem Nobel (again)",
-      "summary": "The two awardees shed light on how we can live in a…",
-      "detail": "The two awardees shed light on how we can live in a world of left-handed molecules",
-      "link": "https://cen.acs.org/people/nobel-prize/chirality-claims-chem-nobel-2026/104/web/2026/10?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
-      "source": "C&EN",
-      "category": "해외",
-      "publishedAt": "2026-10-08T20:15:56.000Z",
-      "collectedAt": "2026-10-08T20:57:11.904Z",
-      "titleKo": "팟캐스트: 키랄성이 화학 노벨을 주장합니다(다시)",
-      "summaryKo": "두 명의 수상자는 우리가 어떻게 살 수 있는지에 대해 조명했습니다",
-      "translator": "google",
-      "detailKo": "두 명의 수상자들은 왼손잡이 분자의 세계에서 우리가 어떻게 살 수 있는지를 밝혔습니다.",
-      "thumb": "/thumbs/82c7d567abc1.webp"
     }
   ]
 }
