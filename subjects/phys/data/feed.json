@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-10-13T01:57:43.266Z",
+  "updatedAt": "2026-10-13T02:57:20.171Z",
   "items": [
+    {
+      "id": "2ab23a924043",
+      "kind": "news",
+      "lang": "ko",
+      "title": "순천미래과학고, ‘반도체 인재 육성’ 삼성전자 전 부사장 특강",
+      "summary": "순천미래과학고등학교(교장 이희건)가 반도체 분야 전남글로텍학교 선정에 발맞춰 교원들의 산업 이해도를…",
+      "detail": "순천미래과학고등학교(교장 이희건)가 반도체 분야 전남글로텍학교 선정에 발맞춰 교원들의 산업 이해도를 높이고 미래 반도체 실무인재 양성을 위한 교육 역량 강화에 나섰다.순천미래과학고는 지난 9월 30일 교내 도서실에서 삼성전자 DS부문 부사장을 역임한…",
+      "link": "https://www.ihopenews.com/news/articleView.html?idxno=257000",
+      "source": "호남교육신문",
+      "image": "http://www.bing.com/th?id=ONUT.ZFZFEpjoAvv_kUkI_mGUOA&pid=News",
+      "category": "양자·첨단",
+      "publishedAt": "2026-10-12T14:35:00.000Z",
+      "collectedAt": "2026-10-13T02:57:20.171Z",
+      "thumb": "/thumbs/2ab23a924043.jpg"
+    },
+    {
+      "id": "9787f6330320",
+      "kind": "news",
+      "lang": "ko",
+      "title": "대전과학고, 제19회 국제 천문 및 천체물리올림피아드 금메달 쾌거",
+      "summary": "대전과학고등학교는 9월25일부터 5일까지 총 11일간 베트남 하노이에서 개최된 ‘제19회 국제 천문…",
+      "detail": "대전과학고등학교는 9월25일부터 5일까지 총 11일간 베트남 하노이에서 개최된 ‘제19회 국제 천문 및 천체물리올림피아드(IOAA)’에서 3학년 박하윤 학생이 국가대표로 출전하여 금메달을 획득했다고 밝혔다. 국제 천문 및 천체물리올림피아드는 천문학…",
+      "link": "https://www.newsfun.kr/news/articleView.html?idxno=221754",
+      "source": "newsfun.kr",
+      "image": "http://www.bing.com/th?id=ONUT.JUAPavAeoegPEVPqbX4oCg&pid=News",
+      "category": "대회·행사",
+      "publishedAt": "2026-10-12T14:17:00.000Z",
+      "collectedAt": "2026-10-13T02:57:20.171Z",
+      "thumb": "/thumbs/9787f6330320.jpg"
+    },
     {
       "id": "f414d3fe1a4b",
       "kind": "video",
@@ -2517,40 +2547,6 @@
       "translator": "google",
       "detailKo": "우주의 가장자리까지 가려고 하면 어떻게 될까요? 예상했던 방식이 아닐 수도 있지만, 시작한 곳으로 바로 돌아갈 수도 있습니다.",
       "thumb": "/thumbs/2a06d2e68205.jpg"
-    },
-    {
-      "id": "dcec41b2ecd4",
-      "kind": "video",
-      "lang": "ko",
-      "title": "지금까지 잘못 알고 있었던 엔트로피의 진짜 개념",
-      "summary": "",
-      "detail": "",
-      "link": "https://www.youtube.com/shorts/HZUk4yGxqjY",
-      "source": "세모과학",
-      "image": "https://i1.ytimg.com/vi/HZUk4yGxqjY/hqdefault.jpg",
-      "views": 70961,
-      "category": "인기",
-      "publishedAt": "2026-09-27T06:41:15.000Z",
-      "collectedAt": "2026-10-09T03:57:39.613Z",
-      "summaryKo": "",
-      "thumb": "/thumbs/dcec41b2ecd4.jpg"
-    },
-    {
-      "id": "2b938dbd2787",
-      "kind": "video",
-      "lang": "ko",
-      "title": "138억 년 된 우주에도 아직 존재하지 않는 천체",
-      "summary": "",
-      "detail": "",
-      "link": "https://www.youtube.com/shorts/dKiKe2Yd-EA",
-      "source": "세모과학",
-      "image": "https://i1.ytimg.com/vi/dKiKe2Yd-EA/hqdefault.jpg",
-      "views": 247021,
-      "category": "인기",
-      "publishedAt": "2026-10-04T02:02:26.000Z",
-      "collectedAt": "2026-10-09T02:57:19.742Z",
-      "summaryKo": "",
-      "thumb": "/thumbs/2b938dbd2787.jpg"
     }
   ]
 }
