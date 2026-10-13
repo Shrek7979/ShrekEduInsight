@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-10-13T20:57:07.630Z",
+  "updatedAt": "2026-10-13T21:57:28.187Z",
   "items": [
+    {
+      "id": "317377bac027",
+      "kind": "news",
+      "lang": "ko",
+      "title": "국립낙동강생물자원관, 제3회 생물 체험 교구 개발 공모전",
+      "summary": "손차민 기자 = 기후에너지환경부 산하 국립낙동강생물자원관이 생물·환경 교육 현장에서 활용할 수 있는…",
+      "detail": "손차민 기자 = 기후에너지환경부 산하 국립낙동강생물자원관이 생물·환경 교육 현장에서 활용할 수 있는 교구 개발을 위한 아이디어를 찾기 위해 '제3회 생물 체험 교구 개발 공모전'을 개최한다고 14일 밝혔다.공모전은 이날부터 다음 달 9일까지 열리며,…",
+      "link": "https://www.newsis.com/view/NISX20261013_0003824328",
+      "source": "뉴시스",
+      "image": "http://www.bing.com/th?id=ONUT.-7soXG88KPHaqrHEum5pvQ&pid=News",
+      "category": "대회·행사",
+      "publishedAt": "2026-10-13T09:00:00.000Z",
+      "collectedAt": "2026-10-13T21:57:28.187Z",
+      "thumb": "/thumbs/317377bac027.jpg"
+    },
+    {
+      "id": "4ab9fdb0b5b3",
+      "kind": "news",
+      "lang": "en",
+      "title": "This year’s ‘super’ El Niño could wreak ecological havoc worldwide",
+      "summary": "Ecologists are mobilizing to save threatened species…",
+      "detail": "Ecologists are mobilizing to save threatened species and track ecosystems’ responses to record heat",
+      "link": "https://www.science.org/content/article/year-s-super-el-nino-could-wreak-ecological-havoc-worldwide",
+      "source": "Science",
+      "category": "해외",
+      "publishedAt": "2026-10-13T05:17:24.000Z",
+      "collectedAt": "2026-10-13T21:57:28.187Z",
+      "titleKo": "올해의 '슈퍼' 엘니뇨는 전 세계적으로 생태학적 혼란을 가져올 수 있습니다",
+      "summaryKo": "생태학자들은 멸종 위기에 처한 종을 구하기 위해 동원하고 있습니다…",
+      "translator": "google",
+      "detailKo": "생태학자들은 멸종 위기에 처한 종을 구하고 더위 기록에 대한 생태계의 반응을 추적하기 위해 동원하고 있습니다.",
+      "thumb": "/thumbs/4ab9fdb0b5b3.png"
+    },
     {
       "id": "bsky-3mxrtnjxek72c",
       "kind": "news",
@@ -2413,40 +2446,6 @@
       "translator": "google",
       "detailKo": "동물학자들은 동물을 테마로 한 할로윈 장식에 대해 어떻게 생각하나요? 정말 끔찍해요! 그들은 무엇을 잘못하고 있습니까? 그리고 그들이 옳은 것은 무엇입니까?…",
       "thumb": "/thumbs/a516ff4e993e.jpg"
-    },
-    {
-      "id": "f19d539ed0cd",
-      "kind": "video",
-      "lang": "ko",
-      "title": "옛날 옛적, 낙타와 라마가 미국에 살았던 시절의 이야기!",
-      "summary": "",
-      "detail": "",
-      "link": "https://www.youtube.com/watch?v=nm2f8NrsX94",
-      "source": "과학드림",
-      "image": "https://i3.ytimg.com/vi/nm2f8NrsX94/hqdefault.jpg",
-      "views": 220119,
-      "category": "인기",
-      "publishedAt": "2026-10-02T09:00:24.000Z",
-      "collectedAt": "2026-10-11T23:57:39.870Z",
-      "summaryKo": "",
-      "thumb": "/thumbs/f19d539ed0cd.jpg"
-    },
-    {
-      "id": "769972a6ece1",
-      "kind": "video",
-      "lang": "ko",
-      "title": "한강에서 수달을 발견했습니다.",
-      "summary": "",
-      "detail": "",
-      "link": "https://www.youtube.com/shorts/bp8Dng1yCiI",
-      "source": "국립생물자원관",
-      "image": "https://i3.ytimg.com/vi/bp8Dng1yCiI/hqdefault.jpg",
-      "views": 1587,
-      "category": "인기",
-      "publishedAt": "2026-09-23T06:34:15.000Z",
-      "collectedAt": "2026-10-11T23:57:39.870Z",
-      "summaryKo": "",
-      "thumb": "/thumbs/769972a6ece1.jpg"
     }
   ]
 }

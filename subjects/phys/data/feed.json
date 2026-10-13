@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-13T20:57:07.619Z",
+  "updatedAt": "2026-10-13T21:57:28.241Z",
   "items": [
+    {
+      "id": "bsky-3mxrzgap45g2k",
+      "kind": "news",
+      "lang": "en",
+      "title": "In Physical Review Accelerators and Beams, researchers induce and measure “beam-beam crabbing,” when one colliding proton beam subtly tilts…",
+      "summary": "the other — an important effect for high-luminosity…",
+      "link": "https://bsky.app/profile/apsphysics.aps.org/post/3mxrzgap45g2k",
+      "source": "Bluesky APS Physics",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:heemoqq7cssrx5ixyxwd52y6/bafkreibnwahwhbmzawijyyy5irclkwh3hlnroag7an2xbgpehcwhnuzvzy",
+      "category": "인기",
+      "publishedAt": "2026-10-13T21:53:31.239Z",
+      "collectedAt": "2026-10-13T21:57:28.241Z",
+      "titleKo": "Physical Review Accelerators and Beams에서 연구자들은 하나의 충돌하는 양성자 빔이 미묘하게 기울어질 때 \"빔-빔 크랩빙\"을 유도하고 측정합니다.",
+      "summaryKo": "다른 하나는 고휘도에 중요한 효과입니다…",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxrzgap45g2k.png"
+    },
     {
       "id": "a7e0167360d7",
       "kind": "news",
@@ -2502,24 +2519,6 @@
       "publishedAt": "2026-10-07T05:24:00.000Z",
       "collectedAt": "2026-10-09T09:57:17.175Z",
       "thumb": "/thumbs/897e387f994c.png"
-    },
-    {
-      "id": "bsky-3mxglpllbg225",
-      "kind": "video",
-      "lang": "en",
-      "title": "What happens after a particle collision takes place?",
-      "summary": "Why do we need so many collisions?",
-      "link": "https://bsky.app/profile/cern.bsky.social/post/3mxglpllbg225",
-      "source": "Bluesky CERN",
-      "image": "https://video.bsky.app/watch/did%3Aplc%3A2vrfekwr4jo7zufnlt7qlrqq/bafkreieggbbp3n6rrnov5fhdxj2llp6jgja2dco2lbb2idspabrzfylls4/thumbnail.jpg",
-      "likes": "8",
-      "category": "인기",
-      "publishedAt": "2026-10-09T08:48:55.151Z",
-      "collectedAt": "2026-10-09T08:57:39.818Z",
-      "titleKo": "입자 충돌이 발생한 후에는 어떻게 되나요?",
-      "summaryKo": "왜 그렇게 많은 충돌이 필요한가요?",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mxglpllbg225.jpg"
     }
   ]
 }
