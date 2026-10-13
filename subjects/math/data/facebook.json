@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-13T10:01:11.817Z",
+  "updatedAt": "2026-10-13T15:01:15.547Z",
   "items": [
+    {
+      "id": "fb-cd6fc01d8e25",
+      "kind": "news",
+      "lang": "en",
+      "title": "The fourth lecture in James Munro's 'Introduction to University Mathematics' course is all about functions.",
+      "summary": "And for those who asked, it is numbered 'Lecture 3'…",
+      "link": "https://www.facebook.com/OxfordMathematics/posts/pfbid0oJM4BsaFHchCkAYKet97WkmhEnYuFLobFXgPmmDtMhtrtzxqQVjzSafBhj1DL9V7l",
+      "source": "Facebook Oxford Mathematics",
+      "category": "인기",
+      "publishedAt": "2026-10-13T14:06:10.421Z",
+      "thumb": "/social/fb/fb-cd6fc01d8e25.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-13T15:01:15.547Z",
+      "titleKo": "제임스 먼로의 '대학 수학 입문' 과정의 네 번째 강의는 모두 함수에 관한 것입니다.",
+      "summaryKo": "그리고 물어보시는 분들을 위해 '강의 3'이라는 번호를 붙였는데…",
+      "translator": "google"
+    },
     {
       "id": "fb-2814dac6696c",
       "kind": "video",

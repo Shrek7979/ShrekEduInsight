@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-10-13T13:57:46.490Z",
+  "updatedAt": "2026-10-13T14:57:29.196Z",
   "items": [
+    {
+      "id": "93bc2f953089",
+      "kind": "news",
+      "lang": "ko",
+      "title": "[Medical Report] 백혈병 재발 징후, 환자별 유전자 검사로 추적 外",
+      "summary": "조혈모세포이식 후 백혈병 재발 징후를 환자별 유전자 검사로 추적한 연구와 대장 용종절제술 중 출혈이…",
+      "detail": "조혈모세포이식 후 백혈병 재발 징후를 환자별 유전자 검사로 추적한 연구와 대장 용종절제술 중 출혈이 이후 출혈 위험을 가늠하는 신호라는 대규모 분석 결과가 나왔다. 눈 사진으로 심혈관질환 위험을 예측하는 검사 도입과 건강보험 증빙서류 검증 강화,…",
+      "link": "https://www.hkn24.com/news/articleView.html?idxno=351310",
+      "source": "헬스코리아뉴스",
+      "image": "http://www.bing.com/th?id=ONUT.Z8tOs_Qh0IbAd56rS3623Q&pid=News",
+      "category": "의학·바이오",
+      "publishedAt": "2026-10-13T05:42:00.000Z",
+      "collectedAt": "2026-10-13T14:57:29.196Z",
+      "thumb": "/thumbs/93bc2f953089.png"
+    },
     {
       "id": "34d9281ee66a",
       "kind": "news",
@@ -2429,24 +2444,6 @@
       "summaryKo": "",
       "translator": "google",
       "thumb": "/thumbs/e1a47382b76d.png"
-    },
-    {
-      "id": "991377382dfa",
-      "kind": "news",
-      "lang": "en",
-      "title": "Scientists accidentally discover a genetic code that breaks the rules of life",
-      "summary": "Scientists accidentally discovered a microscopic…",
-      "detail": "Scientists accidentally discovered a microscopic organism with a genetic code that breaks a rule researchers thought was nearly universal.…",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261007233136.htm",
-      "source": "ScienceDaily",
-      "category": "해외",
-      "publishedAt": "2026-10-08T13:31:39.000Z",
-      "collectedAt": "2026-10-11T08:57:29.143Z",
-      "titleKo": "과학자들이 우연히 생명의 규칙을 어기는 유전암호를 발견했습니다.",
-      "summaryKo": "과학자들이 우연히 미세한 것을 발견했습니다…",
-      "translator": "google",
-      "detailKo": "과학자들은 연구자들이 거의 보편적이라고 생각했던 규칙을 깨뜨리는 유전 암호를 가진 미세한 유기체를 우연히 발견했습니다.…",
-      "thumb": "/thumbs/991377382dfa.webp"
     }
   ]
 }
