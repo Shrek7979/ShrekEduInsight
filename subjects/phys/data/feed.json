@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-10-13T09:57:07.703Z",
+  "updatedAt": "2026-10-13T10:57:59.354Z",
   "items": [
+    {
+      "id": "1f45503a6381",
+      "kind": "news",
+      "lang": "ko",
+      "title": "세계 13개국, 양자기술 협력 확대…'퀀텀개발그룹' 회의 개최",
+      "summary": "외교부와 과학기술정보통신부는 13일부터 14일까지 서울에서 한국과 미국, 일본, 영국 등 13개국이…",
+      "detail": "외교부와 과학기술정보통신부는 13일부터 14일까지 서울에서 한국과 미국, 일본, 영국 등 13개국이 참여하는 '제6차 퀀텀개발그룹(QDG)' 회의를 개최한다고 밝혔다.퀀텀개발그룹은 2024년 7월 미국 주도로 출범한 국제 협의체다. 양자기술의 책임…",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706772",
+      "source": "디지털투데이",
+      "image": "http://www.bing.com/th?id=ONUT.YR_Hn1sHnP1uD71Wo_74Pg&pid=News",
+      "category": "양자·첨단",
+      "publishedAt": "2026-10-12T20:20:00.000Z",
+      "collectedAt": "2026-10-13T10:57:59.354Z",
+      "thumb": "/thumbs/1f45503a6381.jpg"
+    },
     {
       "id": "cf0370466170",
       "kind": "news",
@@ -2491,21 +2506,6 @@
       "publishedAt": "2026-10-07T00:20:11.000Z",
       "collectedAt": "2026-10-09T06:48:53.954Z",
       "thumb": "/thumbs/a58ebf8c4d67.jpg"
-    },
-    {
-      "id": "1d86b1073e6a",
-      "kind": "news",
-      "lang": "ko",
-      "title": "2026학년도 숭의여고 기간제교사 채용 공고(물리,역사)",
-      "summary": "○ 고용형태 : 기간제교사 (공고문에서 과목별 채용기간 확인 요망) ○ 접수기간 :…",
-      "detail": "○ 고용형태 : 기간제교사 (공고문에서 과목별 채용기간 확인 요망) ○ 접수기간 : 2026년10월08일 ~ 2026년10월14일 ○ 응시방법 : 메일 접수( insa@soongeui.hs.kr) ○ 문의처 : 02-810-7802 <자료…",
-      "link": "https://go.seoul.co.kr/news/prnewsView.php?id=451080",
-      "source": "서울Pn",
-      "image": "http://www.bing.com/th?id=ONUT.aiNYaHiUTmynohUI4qQFrw&pid=News",
-      "category": "교육",
-      "publishedAt": "2026-10-08T22:08:00.000Z",
-      "collectedAt": "2026-10-09T05:57:46.197Z",
-      "thumb": "/thumbs/1d86b1073e6a.png"
     }
   ]
 }

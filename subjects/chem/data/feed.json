@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-13T09:57:07.642Z",
+  "updatedAt": "2026-10-13T10:57:59.436Z",
   "items": [
+    {
+      "id": "fde401402509",
+      "kind": "news",
+      "lang": "ko",
+      "title": "화학물질 안전 관련법 개정사항 기업에 알린다...권역별 설명회 개최",
+      "summary": "화학물질 안전 관련 법 개정 사항 등을 기업 담당자들에게 직접 설명하는 자리가…",
+      "detail": "화학물질 안전 관련 법 개정 사항 등을 기업 담당자들에게 직접 설명하는 자리가 마련됩니다.기후에너지환경부와 한국환경공단은 산업계의 화학물질 안전 관련 제도 이행을 지원하고 기업 담당자의 실무 역량을 강화하기 위해 오는 14일부터 23일까지 전국 3개…",
+      "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4111971",
+      "source": "BBS NEWS",
+      "category": "환경·안전",
+      "publishedAt": "2026-10-12T21:58:00.000Z",
+      "collectedAt": "2026-10-13T10:57:59.436Z",
+      "thumb": "/thumbs/fde401402509.jpg"
+    },
     {
       "id": "84fb7e34edc0",
       "kind": "news",
@@ -2462,23 +2476,6 @@
       "publishedAt": "2026-10-07T20:17:00.000Z",
       "collectedAt": "2026-10-08T09:44:29.842Z",
       "thumb": "/thumbs/bf088b1ded30.jpg"
-    },
-    {
-      "id": "bsky-3mxe3kqvnnc2c",
-      "kind": "news",
-      "lang": "en",
-      "title": "Struggled to translate scientific experience in academia to appeal to industry employers?",
-      "summary": "The third article of the series looks to help you meet…",
-      "link": "https://bsky.app/profile/chemistryworld.com/post/3mxe3kqvnnc2c",
-      "source": "Bluesky Chemistry World",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6v2nwmzy4dozxcftobscktc3/bafkreigluacmqp5wvw5klthilaabm76qfi6fp3hqzfkem5z2thta3exnqu",
-      "category": "인기",
-      "publishedAt": "2026-10-08T08:54:33.618Z",
-      "collectedAt": "2026-10-08T08:57:02.521Z",
-      "titleKo": "업계 고용주의 관심을 끌기 위해 학계의 과학적 경험을 번역하는 데 어려움을 겪고 계십니까?",
-      "summaryKo": "시리즈의 세 번째 기사는 귀하의 만남에 도움이 될 것입니다…",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mxe3kqvnnc2c.webp"
     }
   ]
 }

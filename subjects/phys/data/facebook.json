@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-13T09:59:32.738Z",
+  "updatedAt": "2026-10-13T11:01:05.011Z",
   "items": [
+    {
+      "id": "fb-14385b95a76d",
+      "kind": "news",
+      "lang": "en",
+      "title": "The particle-physics process of string breaking has been modelled on a trapped ion quantum computer",
+      "summary": "",
+      "link": "https://www.facebook.com/physicsworld/posts/pfbid0HLA82yaBX3iynmvPB2qpqfrC7wQiqeau6pm4mcDyk9VpxKGciQ3mQMZkTZprVhR6l",
+      "source": "Facebook Physics World",
+      "category": "인기",
+      "publishedAt": "2026-10-13T10:04:20.830Z",
+      "thumb": "/social/fb/fb-14385b95a76d.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-13T11:01:05.011Z",
+      "titleKo": "끈이 끊어지는 입자물리학 과정은 갇힌 이온 양자 컴퓨터를 기반으로 모델링되었습니다.",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-fd7357a0322e",
       "kind": "news",
