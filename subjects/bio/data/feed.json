@@ -1,6 +1,53 @@
 {
-  "updatedAt": "2026-10-13T06:57:41.964Z",
+  "updatedAt": "2026-10-13T07:56:56.507Z",
   "items": [
+    {
+      "id": "284406840758",
+      "kind": "news",
+      "lang": "ko",
+      "title": "국립해양생물자원관, 중소벤처기업인증원 '노사상생 인증' 사후심사 통과",
+      "summary": "컨슈머타임스=안성렬 기자 | 국립해양생물자원관이 11년간 분규 없이 유지해 온 노사 협력 체계와…",
+      "detail": "컨슈머타임스=안성렬 기자 | 국립해양생물자원관이 11년간 분규 없이 유지해 온 노사 협력 체계와 근로여건 개선 성과를 인정받아 중소벤처기업인증원(KOSRE)의 '노사상생 인증(LMBC)' 사후심사 문턱을 넘었다.기관 차원의 상생 노력은 이미 노동계…",
+      "link": "https://www.cstimes.com/news/articleView.html?idxno=723783",
+      "source": "컨슈머타임스",
+      "image": "http://www.bing.com/th?id=ONUT.FIhywYTY1gQnn-gHNIiw3Q&pid=News",
+      "category": "교육",
+      "publishedAt": "2026-10-12T19:48:00.000Z",
+      "collectedAt": "2026-10-13T07:56:56.507Z",
+      "thumb": "/thumbs/284406840758.jpg"
+    },
+    {
+      "id": "88e72d2a39c0",
+      "kind": "news",
+      "lang": "ko",
+      "title": "2027년 제41회 광주과학전람회 연구활동계획서 16일 17시 마감.. 학생작도 지도교원 통해 접수",
+      "summary": "광주창의융합교육원이 2027년 제41회 광주과학전람회 연구활동계획서를 10월16일 오후5시까지…",
+      "detail": "광주창의융합교육원이 2027년 제41회 광주과학전람회 연구활동계획서를 10월16일 오후5시까지 접수한다. 내년 대회에 출품할 작품의 연구계획을 올해 가을에 공모하는 일정이다. 접수는 9월28일 시작했으며, 학생작도 지도교원을 통해 전자문서 공문으로…",
+      "link": "https://www.hanibnews.com/news/articleView.html?idxno=850",
+      "source": "hanibnews.com",
+      "image": "http://www.bing.com/th?id=ONUT.Qa34ex_UXy8EhoRzmTOCjw&pid=News",
+      "category": "대회·행사",
+      "publishedAt": "2026-10-12T19:07:00.000Z",
+      "collectedAt": "2026-10-13T07:56:56.507Z",
+      "thumb": "/thumbs/88e72d2a39c0.png"
+    },
+    {
+      "id": "1c6da7a1cd89",
+      "kind": "video",
+      "lang": "ko",
+      "title": "국내에 몇마리 없다는 심장이 터질것 같은 초미니토끼! 얘는 키워야겠습니다 ㅠ",
+      "summary": "",
+      "detail": "",
+      "link": "https://www.youtube.com/watch?v=ZgD_4Mw5Vxo",
+      "source": "TV생물도감",
+      "image": "https://i3.ytimg.com/vi/ZgD_4Mw5Vxo/hqdefault.jpg",
+      "views": 513592,
+      "category": "인기",
+      "publishedAt": "2026-10-01T09:30:36.000Z",
+      "collectedAt": "2026-10-13T07:56:56.507Z",
+      "summaryKo": "",
+      "thumb": "/thumbs/1c6da7a1cd89.jpg"
+    },
     {
       "id": "bsky-3mxqflque2m23",
       "kind": "news",
@@ -2396,52 +2443,6 @@
       "publishedAt": "2026-10-08T09:34:00.000Z",
       "collectedAt": "2026-10-10T15:57:31.014Z",
       "thumb": "/thumbs/7de5f1c439ce.jpg"
-    },
-    {
-      "id": "bsky-3mxjniz4wt72d",
-      "kind": "news",
-      "lang": "en",
-      "title": "Apparent cooperativity between human CMV virions introduces errors in conventional methods of calculating multiplicity of infection",
-      "summary": "Apparent cooperativity between human CMV virions…",
-      "link": "https://bsky.app/profile/elife.bsky.social/post/3mxjniz4wt72d",
-      "source": "Bluesky eLife",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4irghgzlsjk6ugrekoqyl7km/bafkreiaqpl3kxdxpdh42t37jpcpsccmcb7n656beigdtvecp747knudahi",
-      "likes": "1",
-      "category": "인기",
-      "publishedAt": "2026-10-10T13:59:00.878Z",
-      "collectedAt": "2026-10-10T14:57:00.477Z",
-      "titleKo": "인간 CMV 비리온 간의 명백한 협력으로 인해 감염 다중도를 계산하는 기존 방법에 오류가 발생합니다.",
-      "summaryKo": "인간 CMV 비리온 간의 명백한 협력…",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mxjniz4wt72d.webp"
-    },
-    {
-      "id": "e84de514cc7d",
-      "kind": "news",
-      "lang": "ko",
-      "title": "대전대 정수정 교수, 면역세포 '호중구' 연구 성과 국제학술지 논문 2편 발표",
-      "summary": "우리 몸을 지키는 면역세포가 때로는 질병의 발생과 진행에도 관여한다는 사실에 주목한 연구가 잇따라…",
-      "detail": "우리 몸을 지키는 면역세포가 때로는 질병의 발생과 진행에도 관여한다는 사실에 주목한 연구가 잇따라 성과를 내고 있다. 대전대학교 한의과대학 정수정 교수는 면역세포인 '호중구'의 역할을 규명한 연구 논문 2편을 올해 8월과 9월 국제학술지에 발표했다.…",
-      "link": "https://www.imaeil.com/page/view/2026100816211083817",
-      "source": "매일신문",
-      "category": "의학·바이오",
-      "publishedAt": "2026-10-08T09:21:00.000Z",
-      "collectedAt": "2026-10-10T14:57:00.477Z",
-      "thumb": "/thumbs/e84de514cc7d.png"
-    },
-    {
-      "id": "9108204cfff7",
-      "kind": "news",
-      "lang": "ko",
-      "title": "알지노믹스, 국제학술대회서 ‘촉매 기반 RNA 교정’ 기술 경쟁력 공개",
-      "summary": "알지노믹스, 국제학술대회서 ‘촉매 기반 RNA 교정’ 기술 경쟁력 공개, 한국분자·세포생물학회…",
-      "detail": "알지노믹스, 국제학술대회서 ‘촉매 기반 RNA 교정’ 기술 경쟁력 공개, 한국분자·세포생물학회 ‘2026 KSMCB 국제학술대회’서 발표 이성욱 대표, RNA 치료제 차별점·파이프라인·사업화 전략 소개 ...",
-      "link": "https://www.hankyung.com/article/202610080347i",
-      "source": "한국경제",
-      "category": "대회·행사",
-      "publishedAt": "2026-10-08T03:12:00.000Z",
-      "collectedAt": "2026-10-10T14:57:00.477Z",
-      "thumb": "/thumbs/9108204cfff7.jpg"
     }
   ]
 }
