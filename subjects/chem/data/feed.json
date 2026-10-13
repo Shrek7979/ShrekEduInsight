@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-10-13T03:57:20.181Z",
+  "updatedAt": "2026-10-13T04:57:19.568Z",
   "items": [
+    {
+      "id": "1a97f89912ac",
+      "kind": "news",
+      "lang": "ko",
+      "title": "“화학 교수가 마약 제조”… 중국서 '브레이킹 배드' 현실판",
+      "summary": "중국에서 전직 화학 교수와 제자뻘 전공자들이 가담한 대형 마약 제조 조직이 붙잡혔습니다",
+      "detail": "중국에서 전직 화학 교수와 제자뻘 전공자들이 가담한 대형 마약 제조 조직이 붙잡혔습니다. 유명 미국 드라마 '브레이킹 배드'가 중국에서 현실이 됐다는 말이 나오고 있습니다. 화학 교사가 마약 제조에 뛰어들며 뒷세계 거물이 된다는 내용이기 때문입니다.…",
+      "link": "https://www.msn.com/ko-kr/news/other/%ED%99%94%ED%95%99-%EA%B5%90%EC%88%98%EA%B0%80-%EB%A7%88%EC%95%BD-%EC%A0%9C%EC%A1%B0-%EC%A4%91%EA%B5%AD%EC%84%9C-%EB%B8%8C%EB%A0%88%EC%9D%B4%ED%82%B9-%EB%B0%B0%EB%93%9C-%ED%98%84%EC%8B%A4%ED%8C%90/ar-AA2e6NGe",
+      "source": "JTBC뉴스",
+      "image": "http://www.bing.com/th?id=ONUT.bvpiF9eg3Vm9c6VG_5m7JQ&pid=News",
+      "category": "교육",
+      "publishedAt": "2026-10-12T21:16:04.000Z",
+      "collectedAt": "2026-10-13T04:57:19.568Z",
+      "thumb": "/thumbs/1a97f89912ac.png"
+    },
     {
       "id": "4e55a615876e",
       "kind": "news",
@@ -2458,21 +2473,6 @@
       "publishedAt": "2026-10-07T16:21:00.000Z",
       "collectedAt": "2026-10-08T07:17:24.401Z",
       "thumb": "/thumbs/4172631e921a.jpg"
-    },
-    {
-      "id": "1f9323c9777d",
-      "kind": "news",
-      "lang": "ko",
-      "title": "인천대, 연평도 ‘과학교육’ 격차 좁힌다…학생 실험부터 현미경 기증까지",
-      "summary": "어린이집·유치원·초등학교·주민자치회 찾아 맞춤형 과학·디지털 프로그램 운영연평초 학생들 양파 세포…",
-      "detail": "어린이집·유치원·초등학교·주민자치회 찾아 맞춤형 과학·디지털 프로그램 운영연평초 학생들 양파 세포 직접 관찰, 실험·스케치 중심 수업으로 탐구 경험 확대인천대학교가 연평도에 직접 찾아가 세대별 과학교육을 진행하고 연평초 전교생에게 광학현미경을…",
-      "link": "https://sports.donga.com/region/article/all/20261008/134807919/1",
-      "source": "스포츠동아",
-      "image": "http://www.bing.com/th?id=ONUT.VaznbmSj6tIqjiU4CQGXbA&pid=News",
-      "category": "교육",
-      "publishedAt": "2026-10-07T15:44:00.000Z",
-      "collectedAt": "2026-10-08T07:17:24.401Z",
-      "thumb": "/thumbs/1f9323c9777d.jpg"
     }
   ]
 }
