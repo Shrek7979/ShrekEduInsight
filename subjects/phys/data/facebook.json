@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-13T07:59:54.050Z",
+  "updatedAt": "2026-10-13T09:00:20.398Z",
   "items": [
+    {
+      "id": "fb-fd7357a0322e",
+      "kind": "news",
+      "lang": "en",
+      "title": "“Good software is often invisible”",
+      "summary": "",
+      "link": "https://www.facebook.com/cern/posts/pfbid037NepppjdSJ1VqM88pFFA2S4W8VqKLGciGniFDZoLhZPEJmUfwTvY57wZNULDMSbql",
+      "source": "Facebook CERN",
+      "category": "인기",
+      "publishedAt": "2026-10-13T08:41:59.256Z",
+      "thumb": "/social/fb/fb-fd7357a0322e.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-13T09:00:20.398Z",
+      "titleKo": "“좋은 소프트웨어는 눈에 띄지 않는 경우가 많습니다”",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-484bb252c529",
       "kind": "news",
