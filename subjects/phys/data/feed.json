@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-10-13T11:58:30.986Z",
+  "updatedAt": "2026-10-13T12:57:41.606Z",
   "items": [
+    {
+      "id": "df76a3ea01eb",
+      "kind": "news",
+      "lang": "en",
+      "title": "Why supporting international colleagues is everyone’s responsibility",
+      "summary": "International members of the research community, from…",
+      "detail": "International members of the research community, from academia to industry, often face additional cultural, social and financial challenges…",
+      "link": "https://physicsworld.com/a/why-supporting-international-colleagues-is-everyones-responsibility/",
+      "source": "Physics World",
+      "category": "해외",
+      "publishedAt": "2026-10-13T12:00:41.000Z",
+      "collectedAt": "2026-10-13T12:57:41.606Z",
+      "titleKo": "국제적인 동료를 지원하는 것이 모두의 책임인 이유",
+      "summaryKo": "연구 커뮤니티의 국제 회원, ..",
+      "translator": "google",
+      "detailKo": "학계에서 산업계에 이르기까지 연구 커뮤니티의 국제 구성원은 종종 추가적인 문화적, 사회적, 재정적 어려움에 직면합니다.",
+      "thumb": "/thumbs/df76a3ea01eb.jpg"
+    },
+    {
+      "id": "bfc5a1ec255b",
+      "kind": "news",
+      "lang": "ko",
+      "title": "경남과학고 영재학교 전환에 찬반 목소리",
+      "summary": "지부는 경남 교원 1100명을 대상으로 6~12일 진행한 인식조사 결과를 들어 영재학교 전환과…",
+      "detail": "지부는 경남 교원 1100명을 대상으로 6~12일 진행한 인식조사 결과를 들어 영재학교 전환과 특목고 확대를 비판했다. 조사 결과를 보면, 응답자의 52.5%가 과학고 신설에 반대, 43.7%가 찬성했다. 영재학교 전환에는 찬성이 45.4%, 반대가…",
+      "link": "https://www.idomin.com/news/articleView.html?idxno=2016853",
+      "source": "경남도민일보",
+      "image": "http://www.bing.com/th?id=ONUT.6rZ0LSCU_Qg67osRdzc0EA&pid=News",
+      "category": "교육",
+      "publishedAt": "2026-10-12T20:55:00.000Z",
+      "collectedAt": "2026-10-13T12:57:41.606Z",
+      "thumb": "/thumbs/bfc5a1ec255b.jpg"
+    },
     {
       "id": "b52f7bd0ba23",
       "kind": "news",
@@ -2476,42 +2509,6 @@
       "collectedAt": "2026-10-09T07:57:24.704Z",
       "summaryKo": "",
       "thumb": "/thumbs/9ea6aea0ef92.jpg"
-    },
-    {
-      "id": "140db192e906",
-      "kind": "video",
-      "lang": "ko",
-      "title": "의외로 잘 모르는 금보다 귀한 자원의 정체ㅣ범준에 물리다",
-      "summary": "",
-      "detail": "",
-      "link": "https://www.youtube.com/watch?v=XErxyEJ1hA0",
-      "source": "범준에 물리다",
-      "image": "https://i1.ytimg.com/vi/XErxyEJ1hA0/hqdefault.jpg",
-      "views": 520177,
-      "category": "인기",
-      "publishedAt": "2026-09-11T11:00:19.000Z",
-      "collectedAt": "2026-10-09T07:57:24.704Z",
-      "summaryKo": "",
-      "thumb": "/thumbs/140db192e906.jpg"
-    },
-    {
-      "id": "7985a7ba8198",
-      "kind": "video",
-      "lang": "en",
-      "title": "So You Want to Understand Quantum Mechanics…",
-      "summary": "",
-      "detail": "",
-      "link": "https://www.youtube.com/watch?v=YSwRqNCeP9k",
-      "source": "PBS Space Time",
-      "image": "https://i2.ytimg.com/vi/YSwRqNCeP9k/hqdefault.jpg",
-      "views": 2047287,
-      "category": "인기",
-      "publishedAt": "2026-09-10T20:15:18.000Z",
-      "collectedAt": "2026-10-09T07:57:24.704Z",
-      "titleKo": "그래서 당신은 양자 역학을 이해하고 싶습니다…",
-      "summaryKo": "",
-      "translator": "google",
-      "thumb": "/thumbs/7985a7ba8198.jpg"
     }
   ]
 }

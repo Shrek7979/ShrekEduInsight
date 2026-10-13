@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-10-13T11:58:30.981Z",
+  "updatedAt": "2026-10-13T12:57:41.594Z",
   "items": [
+    {
+      "id": "bsky-3mxqzcvjyzk2a",
+      "kind": "news",
+      "lang": "en",
+      "title": "For a few days this summer, millions of people living far from the edge of the wilderness were reminded of the combustive power of…",
+      "summary": "wildfires when smoke from uncontrolled infernos burning…",
+      "link": "https://bsky.app/profile/cenmag.bsky.social/post/3mxqzcvjyzk2a",
+      "source": "Bluesky C&EN",
+      "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:u4u4yeik2uube2g6ov7wr35p/bafkreidb3yrxlelpjj4tlz6fdoqpruv27kkwl36axgljfsw4q4346x76r4",
+      "likes": "2",
+      "category": "인기",
+      "publishedAt": "2026-10-13T12:18:59.158Z",
+      "collectedAt": "2026-10-13T12:57:41.594Z",
+      "titleKo": "이번 여름 며칠 동안 광야의 가장자리에서 멀리 떨어진 곳에 사는 수백만 명의 사람들은…",
+      "summaryKo": "통제할 수 없는 지옥에서 연기가 타오르면 산불…",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxqzcvjyzk2a.webp"
+    },
+    {
+      "id": "bfc5a1ec255b",
+      "kind": "news",
+      "lang": "ko",
+      "title": "경남과학고 영재학교 전환에 찬반 목소리",
+      "summary": "지부는 경남 교원 1100명을 대상으로 6~12일 진행한 인식조사 결과를 들어 영재학교 전환과…",
+      "detail": "지부는 경남 교원 1100명을 대상으로 6~12일 진행한 인식조사 결과를 들어 영재학교 전환과 특목고 확대를 비판했다. 조사 결과를 보면, 응답자의 52.5%가 과학고 신설에 반대, 43.7%가 찬성했다. 영재학교 전환에는 찬성이 45.4%, 반대가…",
+      "link": "https://www.idomin.com/news/articleView.html?idxno=2016853",
+      "source": "경남도민일보",
+      "image": "http://www.bing.com/th?id=ONUT.6rZ0LSCU_Qg67osRdzc0EA&pid=News",
+      "category": "교육",
+      "publishedAt": "2026-10-12T20:55:00.000Z",
+      "collectedAt": "2026-10-13T12:57:41.594Z",
+      "thumb": "/thumbs/bfc5a1ec255b.jpg"
+    },
     {
       "id": "fde401402509",
       "kind": "news",
@@ -2446,36 +2479,6 @@
       "publishedAt": "2026-10-08T02:58:00.000Z",
       "collectedAt": "2026-10-08T10:57:28.118Z",
       "thumb": "/thumbs/0df06eeaf091.jpg"
-    },
-    {
-      "id": "9f177bcef862",
-      "kind": "news",
-      "lang": "ko",
-      "title": "국립청소년우주센터·고흥교육지원청 맞손…우주과학 교육·진로체험 확대",
-      "summary": "송주원 기자 = 한국청소년활동진흥원이 운영하는 국립청소년우주센터는 전남 고흥교육지원청과 지역…",
-      "detail": "송주원 기자 = 한국청소년활동진흥원이 운영하는 국립청소년우주센터는 전남 고흥교육지원청과 지역 교육혁신 및 청소년 교육 기회 확대를 위한 업무협약을 체결했다고 8일 밝혔다.이번 협약은 고흥지역의 교육 여건과 특성을 반영한 교육혁신 모델을 개발하고 ...",
-      "link": "https://www.newspim.com/news/view/20261008000234",
-      "source": "뉴스핌",
-      "image": "http://www.bing.com/th?id=ONUT.L0ZaKNpgwfhaPk7oBtzSdQ&pid=News",
-      "category": "교육",
-      "publishedAt": "2026-10-07T13:46:00.000Z",
-      "collectedAt": "2026-10-08T09:57:29.422Z",
-      "thumb": "/thumbs/9f177bcef862.png"
-    },
-    {
-      "id": "bf088b1ded30",
-      "kind": "news",
-      "lang": "ko",
-      "title": "[사진] 유기합성 분야 프랑스·일본 과학자 노벨 화학상 수상",
-      "summary": "스웨덴 왕립과학원이 7일 비대칭 유기 합성에서 비선형 효과와 자가촉매 작용을 발견한 공로를 인정해…",
-      "detail": "스웨덴 왕립과학원이 7일 비대칭 유기 합성에서 비선형 효과와 자가촉매 작용을 발견한 공로를 인정해 프랑스 과학자 앙리 카강과 일본 과학자 소아이 겐소에게 2026년 노벨 화학상을 수여한다고 발표했다.이날 스웨덴 ...",
-      "link": "https://www.dongbangilbo.co.kr/news/articleView.html?idxno=108343",
-      "source": "dongbangilbo",
-      "image": "http://www.bing.com/th?id=ONUT.fyC8X4pcm9FqD4c4LPKPHw&pid=News",
-      "category": "소재·에너지",
-      "publishedAt": "2026-10-07T20:17:00.000Z",
-      "collectedAt": "2026-10-08T09:44:29.842Z",
-      "thumb": "/thumbs/bf088b1ded30.jpg"
     }
   ]
 }
