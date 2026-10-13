@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-13T14:59:35.243Z",
+  "updatedAt": "2026-10-13T15:59:47.943Z",
   "items": [
+    {
+      "id": "fb-0c150ad3dcac",
+      "kind": "video",
+      "lang": "en",
+      "title": "Drug discovery is moving faster.",
+      "summary": "Can you keep pace with confidence?",
+      "link": "https://www.facebook.com/reel/29196233100019101/",
+      "source": "Facebook Royal Society of Chemistry",
+      "category": "인기",
+      "publishedAt": "2026-10-13T15:16:37.237Z",
+      "thumb": "/social/fb/fb-0c150ad3dcac.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-13T15:59:47.943Z",
+      "titleKo": "약물 발견이 더 빠르게 진행되고 있습니다.",
+      "summaryKo": "자신감을 갖고 보조를 맞출 수 있나요?",
+      "translator": "google"
+    },
     {
       "id": "fb-093f8bf26d8f",
       "kind": "news",

@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-10-13T14:57:29.081Z",
+  "updatedAt": "2026-10-13T15:57:23.781Z",
   "items": [
+    {
+      "id": "c375ad218157",
+      "kind": "news",
+      "lang": "ko",
+      "title": "한림대-한국전자기술연구원 ‘양자컴퓨팅 공동연구센터’ 개소",
+      "summary": "한림대가 한국전자기술연구원(KETI)과 함께 양자컴퓨팅 공동연구센터를 개소, AI연계 양자컴퓨팅…",
+      "detail": "한림대가 한국전자기술연구원(KETI)과 함께 양자컴퓨팅 공동연구센터를 개소, AI연계 양자컴퓨팅 연구개발을 본격적으로 추진한다. 양 기관은 13일 한림대 산학협력관에서 ‘한림대–한국전자기술연구원 양자컴퓨팅 공동연구센터’ 개소식을 개최했다. 센터는…",
+      "link": "https://kwnews.co.kr/article/20261013501642",
+      "source": "강원일보",
+      "image": "http://www.bing.com/th?id=ONUT.fsNwEXMwXLRwPBs_S-XJbQ&pid=News",
+      "category": "양자·첨단",
+      "publishedAt": "2026-10-12T21:21:00.000Z",
+      "collectedAt": "2026-10-13T15:57:23.781Z",
+      "thumb": "/thumbs/c375ad218157.jpg"
+    },
+    {
+      "id": "9d98898e38a6",
+      "kind": "video",
+      "lang": "ko",
+      "title": "과학자들은 왜 아직 119번 원소를 만들지 못했을까?",
+      "summary": "",
+      "detail": "",
+      "link": "https://www.youtube.com/watch?v=bYNevR7Ttds",
+      "source": "세모과학",
+      "image": "https://i3.ytimg.com/vi/bYNevR7Ttds/hqdefault.jpg",
+      "views": 683937,
+      "category": "인기",
+      "publishedAt": "2026-09-20T09:45:06.000Z",
+      "collectedAt": "2026-10-13T15:57:23.781Z",
+      "summaryKo": "",
+      "thumb": "/thumbs/9d98898e38a6.jpg"
+    },
     {
       "id": "bsky-3mxraki2oxd2e",
       "kind": "news",
@@ -47,7 +79,7 @@
       "publishedAt": "2026-10-13T12:00:41.000Z",
       "collectedAt": "2026-10-13T12:57:41.606Z",
       "titleKo": "국제적인 동료를 지원하는 것이 모두의 책임인 이유",
-      "summaryKo": "연구 커뮤니티의 국제 회원, ",
+      "summaryKo": "연구 커뮤니티의 국제 회원,",
       "translator": "google",
       "detailKo": "학계에서 산업계에 이르기까지 연구 커뮤니티의 국제 구성원은 종종 추가적인 문화적, 사회적, 재정적 어려움에 직면합니다.",
       "thumb": "/thumbs/df76a3ea01eb.jpg"
@@ -2480,34 +2512,6 @@
       "publishedAt": "2026-10-07T13:08:00.000Z",
       "collectedAt": "2026-10-09T08:57:39.818Z",
       "thumb": "/thumbs/42e8fb5f9fcb.png"
-    },
-    {
-      "id": "2f3377e78fe7",
-      "kind": "news",
-      "lang": "ko",
-      "title": "마이크로블레이저”(microblazar)라는 새로운 유형의 우주 물체",
-      "summary": "연구진은 오랫동안 존재할 것으로 예측되었지만 한 번도 관측되지 않았던 눈부신 천체인…",
-      "detail": "연구진은 오랫동안 존재할 것으로 예측되었지만 한 번도 관측되지 않았던 눈부신 천체인 “마이크로블레이저”(microblazar)의 가장 유력한 후보를 관측했다고 7일(현지시간) ‘라이브 사이언스’가 보도했다. ‘마이크로블레이저’ 관측은 천문학자들에게…",
-      "link": "https://www.newstown.co.kr/news/articleView.html?idxno=717896",
-      "source": "뉴스타운",
-      "category": "우주·천문",
-      "publishedAt": "2026-10-07T04:44:00.000Z",
-      "collectedAt": "2026-10-09T08:57:39.818Z",
-      "thumb": "/thumbs/2f3377e78fe7.jpg"
-    },
-    {
-      "id": "f990749d8985",
-      "kind": "news",
-      "lang": "ko",
-      "title": "경희대 양자물질글로벌연구소 한·프 양자기술 협력 무대 참여",
-      "summary": "경희대학교와 프랑스 양자컴퓨팅 기업 파스칼(Pasqal)의 공동연구 협력이 한·프 첨단기술 협력…",
-      "detail": "경희대학교와 프랑스 양자컴퓨팅 기업 파스칼(Pasqal)의 공동연구 협력이 한·프 첨단기술 협력 행사에서 소개됐다. 경희대 물리학과 손석균 교수(경희대 양자물질글로벌연구소 연구부소장)이 9월 초 프랑스 파리에서 열린 ‘France-Korea I ...",
-      "link": "https://www.dhnews.co.kr/news/view/1065577633480878",
-      "source": "대학저널",
-      "category": "양자·첨단",
-      "publishedAt": "2026-10-07T03:49:00.000Z",
-      "collectedAt": "2026-10-09T07:57:24.704Z",
-      "thumb": "/thumbs/f990749d8985.png"
     }
   ]
 }

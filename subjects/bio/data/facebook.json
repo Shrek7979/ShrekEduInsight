@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-13T14:59:50.378Z",
+  "updatedAt": "2026-10-13T16:00:05.597Z",
   "items": [
+    {
+      "id": "fb-4ac03b17cc06",
+      "kind": "news",
+      "lang": "en",
+      "title": "We're excited to be exhibiting at the ASHG Annual Meeting 2026 in Montréal next week.",
+      "summary": "V",
+      "link": "https://www.facebook.com/elifesciences/posts/pfbid0rQyoM5uUox42mpM2cEcoKvA7boCh45zFrACN8Rv8uNV6MCJVoD9qFHUgkhsFdaQql",
+      "source": "Facebook eLife",
+      "category": "인기",
+      "publishedAt": "2026-10-13T15:16:34.456Z",
+      "thumb": "/social/fb/fb-4ac03b17cc06.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-13T16:00:05.597Z",
+      "titleKo": "우리는 다음 주 몬트리올에서 열리는 ASHG 연례 회의 2026에 전시하게 되어 기쁘게 생각합니다.",
+      "summaryKo": "다섯",
+      "translator": "google"
+    },
     {
       "id": "fb-5ccfc1e67e0f",
       "kind": "news",
@@ -631,20 +648,20 @@
       "translator": "google"
     },
     {
-      "id": "fb-65388a3a1e97",
+      "id": "fb-cc4e1cc7e4a2",
       "kind": "news",
       "lang": "en",
       "title": "Well, we had updated our mitosis video, and it was time to RELEASE our updated meiosis video!",
       "summary": "You'll find the scr",
-      "link": "https://www.facebook.com/AmoebaSisters/posts/pfbid02zCfuirx5GzGcaMCdyQmnPuPXmrc7ou2sDupRTmFZV4PKZJEX9SA46ASEHCPvsVKHl",
+      "link": "https://www.facebook.com/AmoebaSisters/posts/pfbid0vB5CF3kWbxSmuTTLfzARee3zcAEb2unj2XokRaab7HaNMzb9QLHcYpejzVNHq1aml",
       "source": "Facebook The Amoeba Sisters",
       "category": "인기",
       "publishedAt": "2026-09-30T12:00:00.000Z",
-      "thumb": "/social/fb/fb-65388a3a1e97.jpg",
+      "thumb": "/social/fb/fb-cc4e1cc7e4a2.jpg",
       "refs": [
         "I-sucvMV0Ng"
       ],
-      "collectedAt": "2026-10-12T16:00:27.695Z",
+      "collectedAt": "2026-10-13T16:00:05.597Z",
       "titleKo": "글쎄, 우리는 유사분열 비디오를 업데이트했고 이제 업데이트된 감수분열 비디오를 공개할 시간이었습니다!",
       "summaryKo": "scr을 찾을 수 있습니다.",
       "translator": "google"

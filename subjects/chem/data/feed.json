@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-10-13T14:57:29.285Z",
+  "updatedAt": "2026-10-13T15:57:23.797Z",
   "items": [
+    {
+      "id": "94f1eabae5c5",
+      "kind": "news",
+      "lang": "en",
+      "title": "This arbiter protein keeps the balance between X and Y chromosomes",
+      "summary": "Protamine’s role in a sex-selection arms race may be…",
+      "detail": "Protamine’s role in a sex-selection arms race may be why it evolves so quickly",
+      "link": "https://cen.acs.org/biological-chemistry/dna/protamines-sex-chromosomes-arms-race/104/web/2026/10?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
+      "source": "C&EN",
+      "category": "해외",
+      "publishedAt": "2026-10-13T14:43:55.000Z",
+      "collectedAt": "2026-10-13T15:57:23.797Z",
+      "titleKo": "이 중재 단백질은 X 염색체와 Y 염색체 사이의 균형을 유지합니다.",
+      "summaryKo": "성 선택 군비 경쟁에서 프로타민의 역할은 다음과 같습니다",
+      "translator": "google",
+      "detailKo": "성 선택 군비 경쟁에서 프로타민의 역할은 프로타민이 그렇게 빠르게 진화하는 이유일 수 있습니다.",
+      "thumb": "/thumbs/94f1eabae5c5.webp"
+    },
+    {
+      "id": "993a6c02fc54",
+      "kind": "news",
+      "lang": "ko",
+      "title": "전북대 연구팀, 전자빔 활용 수소 생산 광촉매 개발",
+      "summary": "한국연구재단은 전북대학교 유승화·진경환 교수 공동연구팀이 이산화티타늄(TiO2)과 2차원 나노소재…",
+      "detail": "한국연구재단은 전북대학교 유승화·진경환 교수 공동연구팀이 이산화티타늄(TiO2)과 2차원 나노소재 맥신(MXene)을 결합하고 전자빔으로 산소 결함을 제어해 수소 발생률을 높이는 광촉매 기술을 개발했다고 13일 밝혔다.이번 연구는 이산화티타늄과…",
+      "link": "https://www.lawissue.co.kr/view.php?ud=202610132311536808f4ab64559d_12",
+      "source": "로이슈",
+      "image": "http://www.bing.com/th?id=ONUT.bqJMCSo8QHRg85E_NywL2g&pid=News",
+      "category": "소재·에너지",
+      "publishedAt": "2026-10-13T02:12:00.000Z",
+      "collectedAt": "2026-10-13T15:57:23.797Z",
+      "thumb": "/thumbs/993a6c02fc54.jpg"
+    },
     {
       "id": "bsky-3mxr7fxbuus26",
       "kind": "news",
@@ -2459,36 +2492,6 @@
       "translator": "google",
       "detailKo": "Qiuling Song 교수는 학업 여정, 유기 붕소 화학 분야의 획기적인 발전, 자신만의 화학을 구축하는 데 따른 어려움에 대해 되돌아봅니다.",
       "thumb": "/thumbs/485e3b4e471f.png"
-    },
-    {
-      "id": "99b5ca1b975e",
-      "kind": "news",
-      "lang": "ko",
-      "title": "노벨화학상 수상에 기쁜 日…오늘 문학상도 하루키 등 수상 기대",
-      "summary": "김예진 기자 = 지난 7일 일본인이 노벨화학상을 수상하면서 축제 분위기인 일본이 8일 발표될…",
-      "detail": "김예진 기자 = 지난 7일 일본인이 노벨화학상을 수상하면서 축제 분위기인 일본이 8일 발표될 노벨문학상에서도 일본인 수상자가 나오기를 기대하는 분위기다.8일 현지 공영 NHK는 이날 오후 스웨덴 왕립과학원 노벨위원회가 노벨문학상을 발표한다면서,…",
-      "link": "https://www.newsis.com/view/NISX20261008_0003818782",
-      "source": "뉴시스",
-      "image": "http://www.bing.com/th?id=ONUT.YdwV2O86ck9jdPBcoK_Glg&pid=News",
-      "category": "대회·행사",
-      "publishedAt": "2026-10-08T06:08:00.000Z",
-      "collectedAt": "2026-10-08T13:57:53.406Z",
-      "thumb": "/thumbs/99b5ca1b975e.jpg"
-    },
-    {
-      "id": "56e192daf225",
-      "kind": "news",
-      "lang": "ko",
-      "title": "노벨화학상 '비대칭 화학' 연구 주목…\"장기간 연구할 환경 조성돼야\"",
-      "summary": "올해 노벨 화학상 공동 수상자에 앙리 카강 프랑스 파리 남부대학교 명예교수와 소아이 겐소 도쿄…",
-      "detail": "올해 노벨 화학상 공동 수상자에 앙리 카강 프랑스 파리 남부대학교 명예교수와 소아이 겐소 도쿄 이과대학 명예교수가 선정됐습니다. 이 수상 결과는 우리 과학계가 한 연구를 장기간 이어갈 수 있는 환경 조성이란 화두를 던져 눈길을 끕니다.",
-      "link": "https://www.newstomato.com/ReadNews.aspx?no=1316078&inflow=G",
-      "source": "뉴스토마토",
-      "image": "http://www.bing.com/th?id=ONUT.xKsR-IjXb8Rae1PO043D8A&pid=News",
-      "category": "연구",
-      "publishedAt": "2026-10-08T05:22:00.000Z",
-      "collectedAt": "2026-10-08T12:57:26.895Z",
-      "thumb": "/thumbs/56e192daf225.jpg"
     }
   ]
 }
