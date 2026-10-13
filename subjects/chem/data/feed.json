@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-13T16:57:40.562Z",
+  "updatedAt": "2026-10-13T17:57:25.436Z",
   "items": [
+    {
+      "id": "485e3b4e471f",
+      "kind": "news",
+      "lang": "en",
+      "title": "Chem at 10: Qiuling Song",
+      "summary": "Prof",
+      "detail": "Prof. Qiuling Song reflects on her academic journey, her breakthrough in organoboron chemistry, and the challenges of building her own…",
+      "link": "https://www.cell.com/chem/fulltext/S2451-9294(26)00326-8?rss=yes",
+      "source": "Chem (Cell Press)",
+      "category": "연구",
+      "publishedAt": "2026-10-08T00:00:00.000Z",
+      "collectedAt": "2026-10-13T17:57:25.436Z",
+      "titleKo": "10시 화학: Qiuling Song",
+      "summaryKo": "교수",
+      "translator": "google",
+      "detailKo": "Qiuling Song 교수는 학업 여정, 유기 붕소 화학 분야의 획기적인 발전, 자신만의 화학을 구축하는 데 따른 어려움에 대해 되돌아봅니다.",
+      "thumb": "/thumbs/485e3b4e471f.png"
+    },
     {
       "id": "36a024fc73c4",
       "kind": "news",
@@ -2475,23 +2493,6 @@
       "summaryKo": "비즈니스워치 CJ제일제당, ADM과 아미노회사 결성…",
       "translator": "google",
       "thumb": "/thumbs/bsky-3mxeslceji22e.webp"
-    },
-    {
-      "id": "bsky-3mxeq6f2cu22a",
-      "kind": "news",
-      "lang": "en",
-      "title": "Learning another team made a similar breakthrough as you can feel unsettling.",
-      "summary": "When groups in the US & Germany realised they both…",
-      "link": "https://bsky.app/profile/chemistryworld.com/post/3mxeq6f2cu22a",
-      "source": "Bluesky Chemistry World",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6v2nwmzy4dozxcftobscktc3/bafkreihlz6vun7j6mdg4j7v2j74orornly5zd27laxdfefjdwxwkwhogzm",
-      "category": "인기",
-      "publishedAt": "2026-10-08T15:03:27.112Z",
-      "collectedAt": "2026-10-08T15:57:04.906Z",
-      "titleKo": "다른 팀이 비슷한 성과를 거뒀다는 사실을 알게 되면 불안감을 느낄 수도 있습니다.",
-      "summaryKo": "미국과 독일의 그룹이 둘 다 깨달았을 때…",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mxeq6f2cu22a.webp"
     }
   ]
 }

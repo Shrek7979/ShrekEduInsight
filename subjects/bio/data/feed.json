@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-10-13T16:57:40.642Z",
+  "updatedAt": "2026-10-13T17:57:25.454Z",
   "items": [
+    {
+      "id": "992db2a25b3c",
+      "kind": "news",
+      "lang": "en",
+      "title": "To turn invisible, we need to tweak the path light travels",
+      "summary": "Turning invisible is a handy superpower in fiction — we…",
+      "detail": "Turning invisible is a handy superpower in fiction — we don’t see you, Sue Storm! — but the technology to make it work in real life has a…",
+      "link": "https://www.sciencenews.org/article/invisibility-tweak-path-light-cloak",
+      "source": "Science News",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/1126_tech-fic.jpg?w=800",
+      "category": "해외",
+      "publishedAt": "2026-10-13T17:00:00.000Z",
+      "collectedAt": "2026-10-13T17:57:25.454Z",
+      "titleKo": "보이지 않게 하려면 빛이 이동하는 경로를 조정해야 합니다.",
+      "summaryKo": "투명하게 변하는 것은 소설에서 유용한 초능력입니다",
+      "translator": "google",
+      "detailKo": "투명하게 되는 것은 소설에서 편리한 초능력입니다. 우리는 당신을 볼 수 없습니다, Sue Storm! — 하지만 이를 실제 생활에서 작동하게 만드는 기술은…",
+      "thumb": "/thumbs/992db2a25b3c.webp"
+    },
+    {
+      "id": "507de4b5cbe9",
+      "kind": "news",
+      "lang": "ko",
+      "title": "치매 유발 단백질 응집 '핫스팟' 찾았다",
+      "summary": "뇌 신경세포에 존재하는 단백질인 ‘타우‘가 비정상적으로 접히고 응집되는 변화가 일어나는 핵심 부위가…",
+      "detail": "뇌 신경세포에 존재하는 단백질인 ‘타우‘가 비정상적으로 접히고 응집되는 변화가 일어나는 핵심 부위가 규명됐다. 이 부위를 표적 삼으면 알츠하이머병 등 퇴행성 뇌질환을 치료하는 전략을 설계할 수 있을 것으로 기대된다.",
+      "link": "https://www.dongascience.com/ko/news/80296",
+      "source": "동아사이언스",
+      "image": "http://www.bing.com/th?id=ONUT.GR6ycRHPUELu2VdUSfpyoA&pid=News",
+      "category": "의학·바이오",
+      "publishedAt": "2026-10-13T04:45:00.000Z",
+      "collectedAt": "2026-10-13T17:57:25.454Z",
+      "thumb": "/thumbs/507de4b5cbe9.jpg"
+    },
     {
       "id": "bsky-3mxrf43u4ha26",
       "kind": "news",
@@ -2410,44 +2444,6 @@
       "publishedAt": "2026-10-11T09:47:00.000Z",
       "collectedAt": "2026-10-11T22:57:23.021Z",
       "thumb": "/thumbs/be853b9163d8.jpg"
-    },
-    {
-      "id": "e9ca5e5b9174",
-      "kind": "video",
-      "lang": "en",
-      "title": "The End of Oak Street - Was It Terrible? Zoologist and Paleontologist React",
-      "summary": "",
-      "detail": "",
-      "link": "https://www.youtube.com/watch?v=7GFXV4zJ6oo",
-      "source": "Clint's Reptiles",
-      "image": "https://i4.ytimg.com/vi/7GFXV4zJ6oo/hqdefault.jpg",
-      "views": 290811,
-      "category": "인기",
-      "publishedAt": "2026-09-19T12:00:14.000Z",
-      "collectedAt": "2026-10-11T22:57:23.021Z",
-      "titleKo": "오크 스트리트의 끝 - 끔찍했나요? 동물학자 및 고생물학자 반응",
-      "summaryKo": "",
-      "translator": "google",
-      "thumb": "/thumbs/e9ca5e5b9174.jpg"
-    },
-    {
-      "id": "93c3332ab4ad",
-      "kind": "video",
-      "lang": "en",
-      "title": "The Most Beautiful Snake in the World (Also a GREAT Pet)!",
-      "summary": "",
-      "detail": "",
-      "link": "https://www.youtube.com/watch?v=vwYCoRTUR3g",
-      "source": "Clint's Reptiles",
-      "image": "https://i3.ytimg.com/vi/vwYCoRTUR3g/hqdefault.jpg",
-      "views": 131770,
-      "category": "인기",
-      "publishedAt": "2026-09-12T12:00:02.000Z",
-      "collectedAt": "2026-10-11T22:57:23.021Z",
-      "titleKo": "세상에서 가장 아름다운 뱀(또한 훌륭한 애완동물이기도 함)!",
-      "summaryKo": "",
-      "translator": "google",
-      "thumb": "/thumbs/93c3332ab4ad.jpg"
     }
   ]
 }
