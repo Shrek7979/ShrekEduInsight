@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-10-13T12:57:41.606Z",
+  "updatedAt": "2026-10-13T13:57:46.414Z",
   "items": [
+    {
+      "id": "466dc6047b00",
+      "kind": "news",
+      "lang": "ko",
+      "title": "연세대, 스웨덴 카롤린스카 의과대학과 학술협정…보건의료·양자 연구협력",
+      "summary": "연세대는 지난달 30일 스웨덴 카롤린스카 의과대학과 학술교류협정을 체결했다고 13일 밝혔다",
+      "detail": "연세대는 지난달 30일 스웨덴 카롤린스카 의과대학과 학술교류협정을 체결했다고 13일 밝혔다. 1810년 설립된 카롤린스카 의과대학은 의학·보건과학 분야 연구중심대학으로, 노벨 생리의학상 수상자를 선정하는 노벨위원회가 소속돼 있다. 협정식에는 윤동섭…",
+      "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7188716",
+      "source": "주간한국",
+      "image": "http://www.bing.com/th?id=ONUT.-DDP2EVsdspzgQL_svoT-g&pid=News",
+      "category": "양자·첨단",
+      "publishedAt": "2026-10-12T20:09:00.000Z",
+      "collectedAt": "2026-10-13T13:57:46.414Z",
+      "thumb": "/thumbs/466dc6047b00.jpg"
+    },
     {
       "id": "df76a3ea01eb",
       "kind": "news",
@@ -14,7 +29,7 @@
       "publishedAt": "2026-10-13T12:00:41.000Z",
       "collectedAt": "2026-10-13T12:57:41.606Z",
       "titleKo": "국제적인 동료를 지원하는 것이 모두의 책임인 이유",
-      "summaryKo": "연구 커뮤니티의 국제 회원, ..",
+      "summaryKo": "연구 커뮤니티의 국제 회원, .",
       "translator": "google",
       "detailKo": "학계에서 산업계에 이르기까지 연구 커뮤니티의 국제 구성원은 종종 추가적인 문화적, 사회적, 재정적 어려움에 직면합니다.",
       "thumb": "/thumbs/df76a3ea01eb.jpg"
@@ -2492,23 +2507,6 @@
       "collectedAt": "2026-10-09T07:57:24.704Z",
       "summaryKo": "",
       "thumb": "/thumbs/9d98898e38a6.jpg"
-    },
-    {
-      "id": "9ea6aea0ef92",
-      "kind": "video",
-      "lang": "ko",
-      "title": "과학자들은 어떻게 빛의 한계를 넘어 반도체를 더 작게 만들었을까?",
-      "summary": "",
-      "detail": "",
-      "link": "https://www.youtube.com/watch?v=i7hdde-2yxc",
-      "source": "세모과학",
-      "image": "https://i2.ytimg.com/vi/i7hdde-2yxc/hqdefault.jpg",
-      "views": 579140,
-      "category": "인기",
-      "publishedAt": "2026-09-13T09:45:34.000Z",
-      "collectedAt": "2026-10-09T07:57:24.704Z",
-      "summaryKo": "",
-      "thumb": "/thumbs/9ea6aea0ef92.jpg"
     }
   ]
 }

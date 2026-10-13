@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-13T12:57:41.594Z",
+  "updatedAt": "2026-10-13T13:57:46.519Z",
   "items": [
+    {
+      "id": "119efb4abccf",
+      "kind": "news",
+      "lang": "en",
+      "title": "Quiz: How much do you know about the chemistry of erasable pens?",
+      "summary": "Test your knowledge about the processes that make these…",
+      "detail": "Test your knowledge about the processes that make these pen inks appear and disappear",
+      "link": "https://cen.acs.org/physical-chemistry/periodic-graphics-quiz-erasable-pens/104/web/2026/10?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
+      "source": "C&EN",
+      "category": "해외",
+      "publishedAt": "2026-10-13T12:59:39.000Z",
+      "collectedAt": "2026-10-13T13:57:46.519Z",
+      "titleKo": "퀴즈: 지울 수 있는 펜의 화학적 성질에 대해 얼마나 알고 있나요?",
+      "summaryKo": "이러한 작업을 수행하는 프로세스에 대한 지식을 테스트해 보세요",
+      "translator": "google",
+      "detailKo": "펜 잉크가 나타나고 사라지는 과정에 대한 지식을 테스트해 보세요.",
+      "thumb": "/thumbs/119efb4abccf.webp"
+    },
     {
       "id": "bsky-3mxqzcvjyzk2a",
       "kind": "news",
@@ -2465,20 +2483,6 @@
       "publishedAt": "2026-10-08T04:26:04.000Z",
       "collectedAt": "2026-10-08T11:57:37.788Z",
       "thumb": "/thumbs/83d704b5eaab.png"
-    },
-    {
-      "id": "0df06eeaf091",
-      "kind": "news",
-      "lang": "ko",
-      "title": "'노벨화학상' 日소아이 교수 \"암흑 속 불 켜고 길 찾은 기분\"",
-      "summary": "올해 노벨화학상 공동 수상자로 선정된 일본 도쿄이과대의 소아이 겐소(76) 명예교수가 7일 오후…",
-      "detail": "올해 노벨화학상 공동 수상자로 선정된 일본 도쿄이과대의 소아이 겐소(76) 명예교수가 7일 오후 도쿄 신주쿠구 도쿄이과대에서 기자회견을 열고 수상 소감과 감회를 밝혔다.노벨 화학상을 ...",
-      "link": "https://tv.edaily.co.kr/News/NewsRead?NewsId=02870006645610952&Kind=257",
-      "source": "이데일리TV",
-      "category": "연구",
-      "publishedAt": "2026-10-08T02:58:00.000Z",
-      "collectedAt": "2026-10-08T10:57:28.118Z",
-      "thumb": "/thumbs/0df06eeaf091.jpg"
     }
   ]
 }
