@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-10-13T08:57:32.619Z",
+  "updatedAt": "2026-10-13T09:57:07.703Z",
   "items": [
+    {
+      "id": "cf0370466170",
+      "kind": "news",
+      "lang": "ko",
+      "title": "[글로벌이코노믹 사설] 양자기술 경쟁의 핵심은 인력 확보",
+      "summary": "양자 컴퓨터 연구개발(R&D) 경쟁이 뜨겁다",
+      "detail": "양자 컴퓨터 연구개발(R&D) 경쟁이 뜨겁다. 양자 컴퓨터는 미래 산업과 국가 경쟁력의 판도를 바꿀 수 있는 잠재 기술이다.",
+      "link": "https://www.msn.com/ko-kr/news/other/%EA%B8%80%EB%A1%9C%EB%B2%8C%EC%9D%B4%EC%BD%94%EB%85%B8%EB%AF%B9-%EC%82%AC%EC%84%A4-%EC%96%91%EC%9E%90%EA%B8%B0%EC%88%A0-%EA%B2%BD%EC%9F%81%EC%9D%98-%ED%95%B5%EC%8B%AC%EC%9D%80-%EC%9D%B8%EB%A0%A5-%ED%99%95%EB%B3%B4/ar-AA2e7EpK",
+      "source": "글로벌이코노믹",
+      "image": "http://www.bing.com/th?id=ONUT.eExF0Jl4Ma1AT50lZcrhNA&pid=News",
+      "category": "양자·첨단",
+      "publishedAt": "2026-10-13T01:28:00.000Z",
+      "collectedAt": "2026-10-13T09:57:07.703Z",
+      "thumb": "/thumbs/cf0370466170.jpg"
+    },
     {
       "id": "bsky-3mxqn7mfopk2p",
       "kind": "news",
@@ -2491,25 +2506,6 @@
       "publishedAt": "2026-10-08T22:08:00.000Z",
       "collectedAt": "2026-10-09T05:57:46.197Z",
       "thumb": "/thumbs/1d86b1073e6a.png"
-    },
-    {
-      "id": "f096beade0fb",
-      "kind": "video",
-      "lang": "en",
-      "title": "Why it’s so hard to get to Mercury (ft. Scott Manley!)",
-      "summary": "",
-      "detail": "",
-      "link": "https://www.youtube.com/watch?v=0JP-RtM_Eus",
-      "source": "Dr. Becky",
-      "image": "https://i1.ytimg.com/vi/0JP-RtM_Eus/hqdefault.jpg",
-      "views": 115027,
-      "category": "인기",
-      "publishedAt": "2026-10-08T19:00:28.000Z",
-      "collectedAt": "2026-10-09T05:57:46.197Z",
-      "titleKo": "수성에 가는 것이 왜 그렇게 어려운가요(ft. Scott Manley!)",
-      "summaryKo": "",
-      "translator": "google",
-      "thumb": "/thumbs/f096beade0fb.jpg"
     }
   ]
 }

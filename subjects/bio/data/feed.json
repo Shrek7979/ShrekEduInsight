@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-10-13T08:57:32.677Z",
+  "updatedAt": "2026-10-13T09:57:07.603Z",
   "items": [
+    {
+      "id": "f2b4c5dc041b",
+      "kind": "news",
+      "lang": "ko",
+      "title": "동의대 연구팀, 어류 질병 막는 친환경 사료첨가제 개발 가능성 확인",
+      "summary": "동의대 대학원 바이오의약학과 이수정(사진) 박사과정생이 제1저자로 참여한 연구논문이 국제 저명…",
+      "detail": "동의대 대학원 바이오의약학과 이수정(사진) 박사과정생이 제1저자로 참여한 연구논문이 국제 저명 학술지 ‘동물과학 및 생명공학 저널(Journal of Animal Science and Biotechnology)’에 게재됐다. 이번 연구에는 이수정…",
+      "link": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?key=20261013.99017003381",
+      "source": "국제신문",
+      "image": "http://www.bing.com/th?id=ONUT.kM4wiJSJ39PvgcmmVfnLiQ&pid=News",
+      "category": "연구",
+      "publishedAt": "2026-10-12T20:04:00.000Z",
+      "collectedAt": "2026-10-13T09:57:07.603Z",
+      "thumb": "/thumbs/f2b4c5dc041b.png"
+    },
     {
       "id": "91ca01dea47e",
       "kind": "news",
@@ -2422,23 +2437,6 @@
       "summaryKo": "그러나 경구용 백신은 다음과 같은 분야에서 큰 효능을 입증했습니다",
       "translator": "google",
       "thumb": "/thumbs/bsky-3mxki4j7flw26.webp"
-    },
-    {
-      "id": "bsky-3mxkgpif2so2c",
-      "kind": "news",
-      "lang": "en",
-      "title": "How does the absence of humans impact wildfires?",
-      "summary": "A look at how the COVID pandemic shaped wildfire…",
-      "link": "https://bsky.app/profile/cellpress.bsky.social/post/3mxkgpif2so2c",
-      "source": "Bluesky Cell Press",
-      "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dbehouwmds4bxla5z5glados/bafkreibcgdlxd64rurgikqnzx6qc523xsnt6qgmoiiwojmv5bnc6nmxq5i",
-      "category": "인기",
-      "publishedAt": "2026-10-10T21:30:01.964Z",
-      "collectedAt": "2026-10-10T21:57:18.079Z",
-      "titleKo": "인간의 부재는 산불에 어떤 영향을 미치나요?",
-      "summaryKo": "코로나19 팬데믹이 산불을 어떻게 형성했는지 살펴보세요…",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mxkgpif2so2c.webp"
     }
   ]
 }
