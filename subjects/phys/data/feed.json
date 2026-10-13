@@ -1,6 +1,43 @@
 {
-  "updatedAt": "2026-10-13T15:57:23.781Z",
+  "updatedAt": "2026-10-13T16:57:40.570Z",
   "items": [
+    {
+      "id": "a7e0167360d7",
+      "kind": "news",
+      "lang": "en",
+      "title": "Engineering the unknown: building vacuum and cryogenic systems for the quantum frontier",
+      "summary": "Qubit decoherence remains the primary barrier to many…",
+      "detail": "Qubit decoherence remains the primary barrier to many practical quantum devices. This is why vacuum and cryogenic equipment scaling are key…",
+      "link": "https://physicsworld.com/a/engineering-the-unknown-building-vacuum-and-cryogenic-systems-for-the-quantum-frontier/",
+      "source": "Physics World",
+      "category": "해외",
+      "publishedAt": "2026-10-13T16:39:05.000Z",
+      "collectedAt": "2026-10-13T16:57:40.570Z",
+      "titleKo": "미지의 엔지니어링: 양자 개척을 위한 진공 및 극저온 시스템 구축",
+      "summaryKo": "큐비트 결맞음은 여전히 ​​많은 사람들에게 주요 장벽으로 남아 있습니다…",
+      "translator": "google",
+      "detailKo": "큐비트 결맞음은 많은 실제 양자 장치에 대한 주요 장벽으로 남아 있습니다. 이것이 바로 진공 및 극저온 장비 스케일링이 중요한 이유입니다…",
+      "thumb": "/thumbs/a7e0167360d7.jpg"
+    },
+    {
+      "id": "98a21c6a414f",
+      "kind": "video",
+      "lang": "en",
+      "title": "The Absurd Engineering Behind the Internet",
+      "summary": "",
+      "detail": "",
+      "link": "https://www.youtube.com/watch?v=NiCgcUTL9_Q",
+      "source": "Veritasium",
+      "image": "https://i3.ytimg.com/vi/NiCgcUTL9_Q/hqdefault.jpg",
+      "views": 2841400,
+      "category": "인기",
+      "publishedAt": "2026-10-12T17:11:45.000Z",
+      "collectedAt": "2026-10-13T16:57:40.570Z",
+      "titleKo": "인터넷 뒤에 숨은 터무니없는 엔지니어링",
+      "summaryKo": "",
+      "translator": "google",
+      "thumb": "/thumbs/98a21c6a414f.jpg"
+    },
     {
       "id": "c375ad218157",
       "kind": "news",
@@ -2483,35 +2520,6 @@
       "summaryKo": "왜 그렇게 많은 충돌이 필요한가요?",
       "translator": "google",
       "thumb": "/thumbs/bsky-3mxglpllbg225.jpg"
-    },
-    {
-      "id": "508357a397a7",
-      "kind": "news",
-      "lang": "ko",
-      "title": "남극 얼음에 탐지기 심어 우주 중성미자 잡았다…할젠 교수 노벨 물리학상 수상",
-      "summary": "남극 얼음 깊숙이 묻은 거대한 ‘망원경’으로 먼 우주에서 날아온 입자를 잡아낸 과학자가 올해 노벨…",
-      "detail": "남극 얼음 깊숙이 묻은 거대한 ‘망원경’으로 먼 우주에서 날아온 입자를 잡아낸 과학자가 올해 노벨 물리학상을 받았다. 스웨덴 왕립과학원은 지난 6일(현지 시각) 2026년 노벨 물리학상 수상자로 프랜시스 할젠 미국 위스콘신대 매디슨캠퍼스 교수를…",
-      "link": "https://www.kyosu.net/news/articleView.html?idxno=210999",
-      "source": "교수신문",
-      "image": "http://www.bing.com/th?id=ONUT.a1h9fzuK-QMgNLP31Y-fdA&pid=News",
-      "category": "우주·천문",
-      "publishedAt": "2026-10-07T14:05:00.000Z",
-      "collectedAt": "2026-10-09T08:57:39.818Z",
-      "thumb": "/thumbs/508357a397a7.jpg"
-    },
-    {
-      "id": "42e8fb5f9fcb",
-      "kind": "news",
-      "lang": "ko",
-      "title": "경희대·프랑스 파스칼, 양자컴퓨터로 신소재 연구 협력",
-      "summary": "경희대가 프랑스 양자컴퓨팅 기업 파스칼(Pasqal)과 손잡고 양자물질 공동연구에 나섰다",
-      "detail": "경희대가 프랑스 양자컴퓨팅 기업 파스칼(Pasqal)과 손잡고 양자물질 공동연구에 나섰다. 대학의 물질·소자 연구 역량에 기업의 양자컴퓨팅 기술을 접목해 산업계에서 활용할 방안을 찾겠다는 구상이다. 경희대는 물리학과 손석균 교수가 지난 9월 초…",
-      "link": "https://www.segye.com/newsView/20261007519442",
-      "source": "세계일보",
-      "category": "양자·첨단",
-      "publishedAt": "2026-10-07T13:08:00.000Z",
-      "collectedAt": "2026-10-09T08:57:39.818Z",
-      "thumb": "/thumbs/42e8fb5f9fcb.png"
     }
   ]
 }

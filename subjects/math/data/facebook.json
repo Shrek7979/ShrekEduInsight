@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-13T15:01:15.547Z",
+  "updatedAt": "2026-10-13T17:01:21.724Z",
   "items": [
+    {
+      "id": "fb-f284027ad46e",
+      "kind": "news",
+      "lang": "en",
+      "title": "Mathematician Alex Cohen’s recent breakthrough proof extended the fractal uncertainty principle to all dimensions.",
+      "summary": "Get the full story on the latest episode of The Quanta…",
+      "link": "https://www.facebook.com/QuantaNews/posts/pfbid02crmw4rfn3fyFqzapmj93b2yB6FiRGTfib57kwuVTmtnSkFCezu7G4qs432Ku4kjhl",
+      "source": "Facebook Quanta Magazine",
+      "category": "인기",
+      "publishedAt": "2026-10-13T15:01:10.394Z",
+      "thumb": "/social/fb/fb-f284027ad46e.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-13T17:01:21.724Z",
+      "titleKo": "수학자 알렉스 코헨(Alex Cohen)의 최근 획기적인 증거는 프랙탈 불확실성 원리를 모든 차원으로 확장했습니다.",
+      "summaryKo": "The Quanta의 최신 에피소드에서 전체 내용을 확인하세요…",
+      "translator": "google"
+    },
     {
       "id": "fb-cd6fc01d8e25",
       "kind": "news",
@@ -36,18 +53,18 @@
       "translator": "google"
     },
     {
-      "id": "fb-ca047242894e",
+      "id": "fb-3d464957321a",
       "kind": "news",
       "lang": "en",
       "title": "Chemical intuition augmented with computational power.",
       "summary": "Wolfram's tools for chemical education make abstract…",
-      "link": "https://www.facebook.com/wolframresearch/posts/pfbid02PNq8kX8M5ZUvyPcvEG95f6DP4NNzH3zf3hm9VTt18YnEtcM6AhA26MCAZ9C7GBFQl",
+      "link": "https://www.facebook.com/wolframresearch/posts/pfbid0KMERGhvnQmq8q3EUMgNvBtSEYwuQzascp2VN4qff8mxxJXqUDo3AwCYpgeoAwpjgl",
       "source": "Facebook Wolfram Research",
       "category": "인기",
-      "publishedAt": "2026-10-10T13:01:54.036Z",
-      "thumb": "/social/fb/fb-ca047242894e.jpg",
+      "publishedAt": "2026-10-09T17:00:58.978Z",
+      "thumb": "/social/fb/fb-3d464957321a.jpg",
       "refs": [],
-      "collectedAt": "2026-10-12T13:02:15.308Z",
+      "collectedAt": "2026-10-13T17:01:21.724Z",
       "titleKo": "계산 능력으로 강화된 화학적 직관.",
       "summaryKo": "Wolfram의 화학 교육용 도구는 추상적…",
       "translator": "google"
