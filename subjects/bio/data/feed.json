@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-10-13T05:57:05.615Z",
+  "updatedAt": "2026-10-13T06:57:41.964Z",
   "items": [
+    {
+      "id": "bsky-3mxqflque2m23",
+      "kind": "news",
+      "lang": "en",
+      "title": "Nanoscopy reveals heparan sulfate clusters as docking sites for SARS-CoV-2 attachment and entry",
+      "summary": "Nanoscopy reveals heparan sulfate clusters as docking…",
+      "link": "https://bsky.app/profile/elife.bsky.social/post/3mxqflque2m23",
+      "source": "Bluesky eLife",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4irghgzlsjk6ugrekoqyl7km/bafkreiaqpl3kxdxpdh42t37jpcpsccmcb7n656beigdtvecp747knudahi",
+      "likes": "1",
+      "category": "인기",
+      "publishedAt": "2026-10-13T06:26:01.052Z",
+      "collectedAt": "2026-10-13T06:57:41.964Z",
+      "titleKo": "나노현미경을 통해 헤파란 황산염 클러스터가 SARS-CoV-2 부착 및 유입을 위한 도킹 사이트로 밝혀졌습니다.",
+      "summaryKo": "Nanoscopy는 도킹으로 헤파란 황산염 클러스터를 보여줍니다…",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxqflque2m23.webp"
+    },
+    {
+      "id": "1fdaf30eec2a",
+      "kind": "news",
+      "lang": "ko",
+      "title": "[서천 24시] 유승광 서천군수, 박수현 지사·장동혁 의원에 국립해양생물자원관 통합 반대 건의",
+      "summary": "서천군이 정부의 국립해양생물자원관과 한국해양과학기술원 통합 추진에 반대하며 충남도와 국회에 공동…",
+      "detail": "서천군이 정부의 국립해양생물자원관과 한국해양과학기술원 통합 추진에 반대하며 충남도와 국회에 공동 대응을 요청했다. 서천군은 유승광 군수가 지난 9일 서천을 방문한 박수현 충남도지사와 장동혁 국회의원에게 국립해양생물자원관 통합의 문제점을 설명하고…",
+      "link": "https://www.sisajournal.com/news/articleView.html?idxno=389954",
+      "source": "시사저널",
+      "image": "http://www.bing.com/th?id=ONUT.f2bW0Kn-hsCxPUjqba_pbw&pid=News",
+      "category": "교육",
+      "publishedAt": "2026-10-12T17:44:00.000Z",
+      "collectedAt": "2026-10-13T06:57:41.964Z",
+      "thumb": "/thumbs/1fdaf30eec2a.jpg"
+    },
     {
       "id": "1c5cc1482896",
       "kind": "news",
@@ -14,7 +47,7 @@
       "category": "생태·환경",
       "publishedAt": "2026-10-12T17:01:00.000Z",
       "collectedAt": "2026-10-13T05:57:05.615Z",
-      "thumb": null
+      "thumb": "/thumbs/1c5cc1482896.png"
     },
     {
       "id": "17ef02d9b372",
@@ -2409,36 +2442,6 @@
       "publishedAt": "2026-10-08T03:12:00.000Z",
       "collectedAt": "2026-10-10T14:57:00.477Z",
       "thumb": "/thumbs/9108204cfff7.jpg"
-    },
-    {
-      "id": "c439aa8fa622",
-      "kind": "news",
-      "lang": "ko",
-      "title": "희귀 질소 동위원소로 미생물의 질소 제거 추적",
-      "summary": "물속 과잉 질소가 미생물에 의해 얼마나 제거되는지를 보다 정확하게 추적할 수 있는 새로운 방법이…",
-      "detail": "물속 과잉 질소가 미생물에 의해 얼마나 제거되는지를 보다 정확하게 추적할 수 있는 새로운 방법이 개발됐다. 연구진은 매우 희귀한 질소 동위원소 조합을 일종의 ‘자연 지문’으로 활용해, 대기에서 녹아든 질소와 미생물이 만들어낸 질소가스를 구분하는 데…",
-      "link": "http://ecomedia.co.kr/news/newsview.php?ncode=1065608948974611",
-      "source": "이미디어",
-      "image": "http://www.bing.com/th?id=ONUT.4ge_u6pYj9MsF91iQzMdWg&pid=News",
-      "category": "교육",
-      "publishedAt": "2026-10-10T01:29:00.000Z",
-      "collectedAt": "2026-10-10T13:57:23.539Z",
-      "thumb": "/thumbs/c439aa8fa622.png"
-    },
-    {
-      "id": "a87ac692b46c",
-      "kind": "news",
-      "lang": "ko",
-      "title": "바다 건너 한 교실로…인천 섬마을 꼬마 과학자들, 특별한 과학수업",
-      "summary": "서해 최북단 백령도부터 연평도, 대청도, 덕적도, 자월도까지",
-      "detail": "서해 최북단 백령도부터 연평도, 대청도, 덕적도, 자월도까지. 바다를 사이에 두고 떨어져 사는 섬마을 어린이들이 매주 화요일 한 교실에 모였다. 배를 타고 이동한 것은 아니다. 각자의 자리에서 노트북 화면으로 서로를 연결하고 과학 원리를 배웠다.",
-      "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3037080",
-      "source": "기호일보",
-      "image": "http://www.bing.com/th?id=ONUT.JwFWRfUmlFLv9exdc3IbJA&pid=News",
-      "category": "교육",
-      "publishedAt": "2026-10-09T19:07:00.000Z",
-      "collectedAt": "2026-10-10T12:57:17.877Z",
-      "thumb": "/thumbs/a87ac692b46c.jpg"
     }
   ]
 }

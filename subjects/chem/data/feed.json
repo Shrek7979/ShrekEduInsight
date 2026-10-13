@@ -1,6 +1,51 @@
 {
-  "updatedAt": "2026-10-13T05:57:05.627Z",
+  "updatedAt": "2026-10-13T06:57:41.892Z",
   "items": [
+    {
+      "id": "51e6cdff4c2a",
+      "kind": "news",
+      "lang": "ko",
+      "title": "고려대학교 세종캠퍼스 안준성 교수팀, 에너지·센서 응용 가능한 ‘초유연 무기·고분자 복합 섬유’ 개발",
+      "summary": "고려대학교 세종캠퍼스 안준성 교수 연구팀이 한국과학기술원(KAIST) 연구진과의 공동연구를 통해…",
+      "detail": "고려대학교 세종캠퍼스 안준성 교수 연구팀이 한국과학기술원(KAIST) 연구진과의 공동연구를 통해 무기 소재의 우수한 전기적·화학적 기능성을 유지하면서도 자유롭게 변형할 수 있는 초유연 무기·고분자 복합 섬유를 개발했다. 이번 연구는 에너지 변환과…",
+      "link": "https://www.lecturernews.com/news/articleView.html?idxno=211941",
+      "source": "한국강사신문",
+      "image": "http://www.bing.com/th?id=ONUT.w9rZ56LUlc13kxDjGP1WuA&pid=News",
+      "category": "연구",
+      "publishedAt": "2026-10-12T18:50:00.000Z",
+      "collectedAt": "2026-10-13T06:57:41.892Z",
+      "thumb": "/thumbs/51e6cdff4c2a.png"
+    },
+    {
+      "id": "06fb6757c784",
+      "kind": "news",
+      "lang": "ko",
+      "title": "대전과학고 3학년 박하윤, IOAA 금메달",
+      "summary": "대전과학고등학교는 지난달 25일부터 지난 5일까지 베트남 하노이에서 개최된 제19회 국제 천문 및…",
+      "detail": "대전과학고등학교는 지난달 25일부터 지난 5일까지 베트남 하노이에서 개최된 제19회 국제 천문 및 천체물리올림피아드(IOAA)에서 3학년 박하윤 학생이 국가대표로 출전해 금메달을 획득했다고 13일 밝혔다.IOAA는 천문학 및 천체물리 분야에 대한…",
+      "link": "https://www.ggilbo.com/news/articleView.html?idxno=1186586",
+      "source": "금강일보",
+      "image": "http://www.bing.com/th?id=ONUT.mfQ0UP1xfPc7dmT9_8LrfA&pid=News",
+      "category": "교육",
+      "publishedAt": "2026-10-12T18:38:00.000Z",
+      "collectedAt": "2026-10-13T06:57:41.892Z",
+      "thumb": "/thumbs/06fb6757c784.jpg"
+    },
+    {
+      "id": "32d88d53e060",
+      "kind": "news",
+      "lang": "ko",
+      "title": "기계·반도체 등 산업계 화학물질 규제 대응 돕는 전국 순회 설명회 개최",
+      "summary": "기후에너지환경부와 한국환경공단은 기계, 부품, 반도체 등 제조 산업계의 화학물질 안전 제도 이행을…",
+      "detail": "기후에너지환경부와 한국환경공단은 기계, 부품, 반도체 등 제조 산업계의 화학물질 안전 제도 이행을 지원하고 현장 담당자의 실무 역량을 강화하기 위해 10월 14일부터 23일까지 전국 3개 권역에서 순회 설명회를 개최한다.이번 설명회는 지난 5월 개정…",
+      "link": "https://www.mtnews.net/news/articleView.html?idxno=26208",
+      "source": "기계신문",
+      "image": "http://www.bing.com/th?id=ONUT.jvHA3cKvCAha1dRYjPGGgQ&pid=News",
+      "category": "환경·안전",
+      "publishedAt": "2026-10-12T18:02:00.000Z",
+      "collectedAt": "2026-10-13T06:57:41.892Z",
+      "thumb": "/thumbs/32d88d53e060.jpg"
+    },
     {
       "id": "8852d56ff032",
       "kind": "news",
@@ -2430,50 +2475,6 @@
       "publishedAt": "2026-10-07T18:32:00.000Z",
       "collectedAt": "2026-10-08T07:17:24.401Z",
       "thumb": "/thumbs/015c92af1022.jpg"
-    },
-    {
-      "id": "346292fb1f05",
-      "kind": "news",
-      "lang": "ko",
-      "title": "세계 무대서 메달 6개…광주과학고 새 역사",
-      "summary": "광주과학고 학생들이 올해 국제과학올림피아드에서 메달 6개를 거머쥐며 학교 수상 기록을 새로 썼다",
-      "detail": "광주과학고 학생들이 올해 국제과학올림피아드에서 메달 6개를 거머쥐며 학교 수상 기록을 새로 썼다. 화학과 지구과학, 천문·천체물리 등 서로 다른 분야에 출전한 학생 4명이 모두 메달을 획득하면서 개교 이래 가장 많은 국제올림피아드 수상 실적을…",
-      "link": "https://www.gjdream.com/news/articleView.html?idxno=673296",
-      "source": "광주드림",
-      "category": "대회·행사",
-      "publishedAt": "2026-10-07T17:15:00.000Z",
-      "collectedAt": "2026-10-08T07:17:24.401Z",
-      "thumb": "/thumbs/346292fb1f05.jpg"
-    },
-    {
-      "id": "68e73827b643",
-      "kind": "news",
-      "lang": "ko",
-      "title": "[아시아라운드업 20261008] 노벨화학상 일본 소아이 교수 “아직 모르는 재미 있어”",
-      "summary": "1",
-      "detail": "1. 중국 기업, 브라질에 중남미 최장 사장교 건설- 중국 기업들이 브라질에서 중남미 최장 사장교(斜張橋) 건설에 나서며 중남미 인프라 시장에서 영향력을 확대하고 있음. 8일 홍콩 사우스차이나모닝포스트(SCMP)에 따르면 중국 기업 컨소시엄은 브라질…",
-      "link": "https://kor.theasian.asia/archives/417780",
-      "source": "아시아엔 THE AsiaN",
-      "image": "http://www.bing.com/th?id=ONUT.tS4R1uM1kNV15cY9A3Ne_g&pid=News",
-      "category": "연구",
-      "publishedAt": "2026-10-07T17:00:00.000Z",
-      "collectedAt": "2026-10-08T07:17:24.401Z",
-      "thumb": "/thumbs/68e73827b643.jpg"
-    },
-    {
-      "id": "4320193b9c38",
-      "kind": "news",
-      "lang": "ko",
-      "title": "광주과학고, 국제과학올림피아드서 금 4·은 1·동 1개 획득",
-      "summary": "광주과학고등학교가 올해 열린 화학·지구과학·천문 등 3개 국제올림피아드에서 금메달 4개와 은·동메달…",
-      "detail": "광주과학고등학교가 올해 열린 화학·지구과학·천문 등 3개 국제올림피아드에서 금메달 4개와 은·동메달 각각 1개씩을 획득, 개교 이래 최고 성적을 거뒀다고 8일 밝혔다. 광주과학고에 따르면 지난 7월 10일부터 19일까지 우즈베키스탄 ..",
-      "link": "https://www.fnnews.com/news/202610081325571730",
-      "source": "파이낸셜뉴스",
-      "image": "http://www.bing.com/th?id=ONUT.USBw1wZDQq4a8R4Rd1b1Jw&pid=News",
-      "category": "대회·행사",
-      "publishedAt": "2026-10-07T16:25:00.000Z",
-      "collectedAt": "2026-10-08T07:17:24.401Z",
-      "thumb": "/thumbs/4320193b9c38.jpg"
     }
   ]
 }
