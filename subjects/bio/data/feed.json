@@ -1,6 +1,52 @@
 {
-  "updatedAt": "2026-10-14T00:38:58.777Z",
+  "updatedAt": "2026-10-14T05:29:26.238Z",
   "items": [
+    {
+      "id": "bsky-3mxsrcotxm523",
+      "kind": "news",
+      "lang": "en",
+      "title": "The cistrome response to hypoxia in human umbilical vein endothelial cells",
+      "summary": "The cistrome response to hypoxia in human umbilical…",
+      "link": "https://bsky.app/profile/elife.bsky.social/post/3mxsrcotxm523",
+      "source": "Bluesky eLife",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4irghgzlsjk6ugrekoqyl7km/bafkreiaqpl3kxdxpdh42t37jpcpsccmcb7n656beigdtvecp747knudahi",
+      "category": "인기",
+      "publishedAt": "2026-10-14T05:01:01.252Z",
+      "collectedAt": "2026-10-14T05:29:26.238Z",
+      "titleKo": "인간 제대 정맥 내피 세포의 저산소증에 대한 시스트롬 반응",
+      "summaryKo": "인간 제대에서 저산소증에 대한 시스트롬 반응…",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxsrcotxm523.webp"
+    },
+    {
+      "id": "7d42ad002fbe",
+      "kind": "news",
+      "lang": "ko",
+      "title": "유행은 빠르게 탄소는 오래? 옷장에서 시작하는 탄소중립",
+      "summary": "안녕하세요!",
+      "detail": "안녕하세요! 국립생태원의 마스코트, 생태 지킴이 귀요미입니다 이제 날도 선선해진 것을 보니 완연한 가을이 온 것 같아요! 아침저녁에는 제법 쌀쌀하고, 낮에도 얇은 긴팔을 입는 것이 어색하지 않은 요즘인데요. 이제 가벼운 여름옷은 하나둘 정리하고…",
+      "link": "https://blog.naver.com/nie_korea/224440320217?fromRss=true&trackingCode=rss",
+      "source": "네이버 블로그 국립생태원",
+      "category": "인기",
+      "publishedAt": "2026-10-14T01:30:00.000Z",
+      "collectedAt": "2026-10-14T05:29:26.238Z",
+      "thumb": "/thumbs/7d42ad002fbe.png"
+    },
+    {
+      "id": "3aa5dc8215c5",
+      "kind": "news",
+      "lang": "ko",
+      "title": "의정부 부용천서 멸종위기종 '수달' 포착…먹이활동 모습도",
+      "summary": "14일 제보자 등에 따르면 지난 11일 오후 9시 30분께 의정부시 신곡동 신곡새빛정원 인근…",
+      "detail": "14일 제보자 등에 따르면 지난 11일 오후 9시 30분께 의정부시 신곡동 신곡새빛정원 인근 부용천에서 수달이 발견됐다. 제보자는 \"산책 중 하천에서 움직이는 물체를 발견해 자세히 살펴보니 수달이었다\"며 \"수달은 물속을 헤엄치며 먹이활동을 하고…",
+      "link": "https://www.yna.co.kr/view/AKR20261014052500060",
+      "source": "연합뉴스",
+      "image": "http://www.bing.com/th?id=ONUT.lZ6lH7DhS9OV-NV6DtIq1A&pid=News",
+      "category": "생태·환경",
+      "publishedAt": "2026-10-13T13:00:00.000Z",
+      "collectedAt": "2026-10-14T05:29:26.238Z",
+      "thumb": "/thumbs/3aa5dc8215c5.png"
+    },
     {
       "id": "33c4cd91fc47",
       "kind": "news",
@@ -2393,51 +2439,6 @@
       "publishedAt": "2026-10-11T13:59:00.000Z",
       "collectedAt": "2026-10-12T02:58:48.150Z",
       "thumb": "/thumbs/51eaf6096d24.jpg"
-    },
-    {
-      "id": "b04350dd33bf",
-      "kind": "news",
-      "lang": "ko",
-      "title": "대장암 세포는 모두 똑같지 않았다…치료 과정서 서로 다르게 진화",
-      "summary": "항암치료를 받은 전이성 대장암에서도 암세포들이 모두 같은 방식으로 변하지는 않는다는 연구 결과가…",
-      "detail": "항암치료를 받은 전이성 대장암에서도 암세포들이 모두 같은 방식으로 변하지는 않는다는 연구 결과가 나왔다. 세포 분열이 활발한 암세포일수록 항암제와 관련된 유전자 변이가 더 많이 발견된 반면, 증식이 느린 암세포에서는 이러한 변화가 상대적으로 적었다.…",
-      "link": "https://www.nursenews.co.kr/news/articleView.html?idxno=44952",
-      "source": "nursenews",
-      "image": "http://www.bing.com/th?id=ONUT.QkF1E7ge2sUxPpPY4vwvBg&pid=News",
-      "category": "의학·바이오",
-      "publishedAt": "2026-10-11T13:47:00.000Z",
-      "collectedAt": "2026-10-12T02:58:48.150Z",
-      "thumb": "/thumbs/b04350dd33bf.png"
-    },
-    {
-      "id": "180037c02c84",
-      "kind": "news",
-      "lang": "ko",
-      "title": "경복초 장성민, 산불 막는 ‘씨앗캡슐’…전국과학전람회 특상",
-      "summary": "서울 경복초등학교 6학년 장성민 학생(사진)이 산불 확산을 막기 위한 ‘자가소화 씨앗캡슐’을 개발해…",
-      "detail": "서울 경복초등학교 6학년 장성민 학생(사진)이 산불 확산을 막기 위한 ‘자가소화 씨앗캡슐’을 개발해 제72회 전국과학전람회에서 특상을 수상했다. 13개월간 이어진 연구를 통해 창의적인 아이디어를 실험으로 구체화한 성과다.장성민 학생은 ‘씨앗이…",
-      "link": "https://ihopenews.com/news/articleView.html?idxno=256960",
-      "source": "호남교육신문",
-      "image": "http://www.bing.com/th?id=ONUT.tk13AZ1PUhK3YPiMoSHfDw&pid=News",
-      "category": "대회·행사",
-      "publishedAt": "2026-10-11T11:33:00.000Z",
-      "collectedAt": "2026-10-12T02:58:48.150Z",
-      "thumb": "/thumbs/180037c02c84.jpg"
-    },
-    {
-      "id": "290571ddcddd",
-      "kind": "news",
-      "lang": "ko",
-      "title": "고려대 의대 전옥희 교수팀, 장내 미생물 기반 역노화 치료제 개발 착수",
-      "summary": "고려대학교 의과대학은 전옥희 융합의학교실 교수가 산업통상부 바이오산업기술개발사업의 연구책임자로…",
-      "detail": "고려대학교 의과대학은 전옥희 융합의학교실 교수가 산업통상부 바이오산업기술개발사업의 연구책임자로 선정돼 장내 미생물 및 미생물 유래 물질 기반 역노화 치료제 개발에 착수했다고 12일 밝혔다.이번 과제는 국내외 대학·병원·기업 연구진이 참여하는 다기관…",
-      "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7188333",
-      "source": "주간한국",
-      "image": "http://www.bing.com/th?id=ONUT._YXRqMJ8j4U_Hit3nwffHQ&pid=News",
-      "category": "의학·바이오",
-      "publishedAt": "2026-10-11T13:26:00.000Z",
-      "collectedAt": "2026-10-12T01:58:37.236Z",
-      "thumb": "/thumbs/290571ddcddd.png"
     }
   ]
 }
