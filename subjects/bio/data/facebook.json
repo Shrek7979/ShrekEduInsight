@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-14T10:01:25.390Z",
+  "updatedAt": "2026-10-14T15:36:47.742Z",
   "items": [
+    {
+      "id": "fb-8f6b03f54577",
+      "kind": "news",
+      "lang": "en",
+      "title": "This Cell Genomics paper shows how long-read sequencing improves detection and interpretation of structural and repeat variants in autism.",
+      "summary": "Read the paper",
+      "link": "https://www.facebook.com/cellpress/posts/pfbid02iPCV5xLjZYbwsw9opABraji63WpWx7942n8MFuECxjJZ57UKCF6BwH3KnjBvn9oYl",
+      "source": "Facebook Cell Press",
+      "category": "인기",
+      "publishedAt": "2026-10-14T15:09:07.508Z",
+      "thumb": "/social/fb/fb-8f6b03f54577.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-14T15:36:47.742Z",
+      "titleKo": "이 Cell Genomics 논문은 긴 읽기 시퀀싱이 자폐증의 구조적 및 반복적 변종의 감지 및 해석을 어떻게 향상시키는지 보여줍니다.",
+      "summaryKo": "논문 읽기",
+      "translator": "google"
+    },
     {
       "id": "fb-154ee94f9c2f",
       "kind": "news",
@@ -665,22 +682,22 @@
       "translator": "google"
     },
     {
-      "id": "fb-cc4e1cc7e4a2",
+      "id": "fb-0bc2c32a3c47",
       "kind": "news",
       "lang": "en",
       "title": "Well, we had updated our mitosis video, and it was time to RELEASE our updated meiosis video!",
       "summary": "You'll find the scr",
-      "link": "https://www.facebook.com/AmoebaSisters/posts/pfbid0vB5CF3kWbxSmuTTLfzARee3zcAEb2unj2XokRaab7HaNMzb9QLHcYpejzVNHq1aml",
+      "link": "https://www.facebook.com/AmoebaSisters/posts/pfbid02z2WuRigLTRtHbjyvRrkdF9pFjdyGvgWA99MAjn4F1VUaK6XmZZdtBy79ebZv66GPl",
       "source": "Facebook The Amoeba Sisters",
       "category": "인기",
       "publishedAt": "2026-09-30T12:00:00.000Z",
-      "thumb": "/social/fb/fb-cc4e1cc7e4a2.jpg",
+      "thumb": "/social/fb/fb-0bc2c32a3c47.jpg",
       "refs": [
         "I-sucvMV0Ng"
       ],
-      "collectedAt": "2026-10-13T16:00:05.597Z",
+      "collectedAt": "2026-10-14T15:36:47.742Z",
       "titleKo": "글쎄, 우리는 유사분열 비디오를 업데이트했고 이제 업데이트된 감수분열 비디오를 공개할 시간이었습니다!",
-      "summaryKo": "scr을 찾으면 됩니다.",
+      "summaryKo": "scr을 찾을 수 있습니다.",
       "translator": "google"
     }
   ]
