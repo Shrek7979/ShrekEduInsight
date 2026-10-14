@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-14T15:36:47.742Z",
+  "updatedAt": "2026-10-14T19:47:24.715Z",
   "items": [
+    {
+      "id": "fb-79c24c1788f6",
+      "kind": "news",
+      "lang": "en",
+      "title": "\"Placental-like reprogramming associated with HERV elements in early-onset colorectal cancer.\"",
+      "summary": "",
+      "link": "https://www.facebook.com/cellpress/posts/pfbid02jCpAZ5mNVShS88teBTSneEyAE1rebmNn3uvteWXWrVRWfyiKK3pYUh3K3g39uN7dl",
+      "source": "Facebook Cell Press",
+      "category": "인기",
+      "publishedAt": "2026-10-14T16:46:44.045Z",
+      "thumb": "/social/fb/fb-79c24c1788f6.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-14T19:47:24.715Z",
+      "titleKo": "\"조기 발병 대장암에서 HERV 요소와 관련된 태반 유사 재프로그래밍.\"",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-8f6b03f54577",
       "kind": "news",

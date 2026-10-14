@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-14T15:36:33.334Z",
+  "updatedAt": "2026-10-14T19:47:10.715Z",
   "items": [
+    {
+      "id": "fb-d12fb9c298f4",
+      "kind": "news",
+      "lang": "en",
+      "title": "Studying beautiful flavour transitions",
+      "summary": "",
+      "link": "https://www.facebook.com/cern/posts/pfbid0nLm1DBhARpvuRxNbmrYz7s5kfxzisD1aMWkBpe9PakyDEUy6GXNvQm5mMvyQTebVl",
+      "source": "Facebook Periodic Videos",
+      "category": "인기",
+      "publishedAt": "2026-10-14T14:46:49.739Z",
+      "thumb": "/social/fb/fb-d12fb9c298f4.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-14T19:47:10.715Z",
+      "titleKo": "아름다운 풍미 전환 연구",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-0c150ad3dcac",
       "kind": "video",
