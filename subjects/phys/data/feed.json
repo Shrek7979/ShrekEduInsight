@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-10-13T21:57:28.241Z",
+  "updatedAt": "2026-10-14T00:38:58.675Z",
   "items": [
+    {
+      "id": "bsky-3mxsarff7dc26",
+      "kind": "news",
+      "lang": "en",
+      "title": "Our intuitions about numbers might go way beyond what we can prove.",
+      "summary": "What Do Gödel’s Incompleteness Theorems Truly Mean?",
+      "link": "https://bsky.app/profile/quantamagazine.org/post/3mxsarff7dc26",
+      "source": "Bluesky Quanta Magazine",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vfktz6qe6vy7serr3wqutpzt/bafkreih3nblfrmwp54fkddiaxaegla6oegs7aj5n36fepmdumfysdopwcy",
+      "likes": "5",
+      "category": "인기",
+      "publishedAt": "2026-10-14T00:05:01.446Z",
+      "collectedAt": "2026-10-14T00:38:58.675Z",
+      "titleKo": "숫자에 대한 우리의 직관은 우리가 증명할 수 있는 것 이상으로 발전할 수 있습니다.",
+      "summaryKo": "괴델의 불완전성 정리는 실제로 무엇을 의미합니까?",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxsarff7dc26.webp"
+    },
+    {
+      "id": "bsky-3mxglpllbg225",
+      "kind": "video",
+      "lang": "en",
+      "title": "What happens after a particle collision takes place?",
+      "summary": "Why do we need so many collisions?",
+      "link": "https://bsky.app/profile/cern.bsky.social/post/3mxglpllbg225",
+      "source": "Bluesky CERN",
+      "image": "https://video.bsky.app/watch/did%3Aplc%3A2vrfekwr4jo7zufnlt7qlrqq/bafkreieggbbp3n6rrnov5fhdxj2llp6jgja2dco2lbb2idspabrzfylls4/thumbnail.jpg",
+      "likes": "46",
+      "category": "인기",
+      "publishedAt": "2026-10-09T08:48:55.151Z",
+      "collectedAt": "2026-10-14T00:38:58.675Z",
+      "titleKo": "입자 충돌이 발생한 후에는 어떻게 되나요?",
+      "summaryKo": "왜 그렇게 많은 충돌이 필요한가요?",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxglpllbg225.jpg"
+    },
     {
       "id": "bsky-3mxrzgap45g2k",
       "kind": "news",
@@ -2486,39 +2522,6 @@
       "translator": "google",
       "detailKo": "저자: Kaustav Mukherjee, Hatem Barghathi, Adrian Del Maestro 및 Rick MukherjeeMotzkin 스핀 체인은 잘 알려진 수학…",
       "thumb": "/thumbs/b3b2f639b00b.png"
-    },
-    {
-      "id": "5721afb77a59",
-      "kind": "news",
-      "lang": "en",
-      "title": "Exponential Entanglement Advantage in Sensing Correlated Noise",
-      "summary": "Author(s): Yu-Xin Wang (王语馨), Jacob Bringewatt, Alireza…",
-      "detail": "Author(s): Yu-Xin Wang (王语馨), Jacob Bringewatt, Alireza Seif, Anthony J. Brady, Changhun Oh, and Alexey V. GorshkovCorrelated noise…",
-      "link": "http://link.aps.org/doi/10.1103/nmk6-924g",
-      "source": "Physical Review Letters",
-      "category": "연구",
-      "publishedAt": "2026-10-08T10:00:00.000Z",
-      "collectedAt": "2026-10-09T09:57:17.175Z",
-      "titleKo": "상관 잡음 감지 시 지수 얽힘의 이점",
-      "summaryKo": "저자: Yu-Xin Wang(王语馨), Jacob Bringewatt, Alireza…",
-      "translator": "google",
-      "detailKo": "저자: Yu-Xin Wang (王语馨), Jacob Bringewatt, Alireza Seif, Anthony J. Brady, Changhun Oh, Alexey V. Gorshkov상관 잡음…",
-      "thumb": "/thumbs/5721afb77a59.png"
-    },
-    {
-      "id": "897e387f994c",
-      "kind": "news",
-      "lang": "ko",
-      "title": "남극 얼음으로 '유령입자' 잡았다…노벨물리학상 프란시스 할전(종합)",
-      "summary": "올해 노벨 물리학상 단독 수상…남극 얼음을 거대 검출기로 빛·양성자론 추적 힘든 먼 우주…천체물리학…",
-      "detail": "올해 노벨 물리학상 단독 수상…남극 얼음을 거대 검출기로 빛·양성자론 추적 힘든 먼 우주…천체물리학 새 영역 열어 남극의 아이스큐브 중성미자 관측소에서 고에너지 중성미자(뉴트리노) 발견을 이끈 프랜시스 할젠 교수가 올해 노벨 물리학상을 받았다.거대한…",
-      "link": "https://www.news1.kr/it-science/general-science/6312103",
-      "source": "뉴스1",
-      "image": "http://www.bing.com/th?id=ONUT.BLkULOlOw819LA_mdFNaqg&pid=News",
-      "category": "우주·천문",
-      "publishedAt": "2026-10-07T05:24:00.000Z",
-      "collectedAt": "2026-10-09T09:57:17.175Z",
-      "thumb": "/thumbs/897e387f994c.png"
     }
   ]
 }

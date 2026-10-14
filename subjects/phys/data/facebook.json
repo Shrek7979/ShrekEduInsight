@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-13T20:59:41.592Z",
+  "updatedAt": "2026-10-14T00:41:23.385Z",
   "items": [
+    {
+      "id": "fb-59a5d9cc9e70",
+      "kind": "news",
+      "lang": "en",
+      "title": "A study in Physical Review Accelerators and Beams reports the first experimental observation of crabbing induced by beam-beam interactions…",
+      "summary": "in the Large Hadron Collider",
+      "link": "https://www.facebook.com/apsphysics/posts/pfbid02tPydyGjzxF1nbEG578xQt4isM4B9WrwFSupheNRofasYiigo84TLzwcQdYtEsY3vl",
+      "source": "Facebook American Physical Society",
+      "category": "인기",
+      "publishedAt": "2026-10-13T22:40:51.308Z",
+      "thumb": "/social/fb/fb-59a5d9cc9e70.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-14T00:41:23.385Z",
+      "titleKo": "Physical Review Accelerators and Beams에 대한 연구는 빔-빔 상호작용에 의해 유도된 크랩빙에 대한 최초의 실험적 관찰을 보고합니다.",
+      "summaryKo": "대형 강입자 충돌기에서",
+      "translator": "google"
+    },
     {
       "id": "fb-0d16ebb3f406",
       "kind": "news",

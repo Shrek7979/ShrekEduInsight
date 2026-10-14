@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-10-13T21:57:28.210Z",
+  "updatedAt": "2026-10-14T00:38:58.578Z",
   "items": [
+    {
+      "id": "cb2a408e2b11",
+      "kind": "news",
+      "lang": "ko",
+      "title": "군산시, ‘제4회 화학안전주간’ 운영",
+      "summary": "군산시는 화학사고 없는 안전도시를 조성하고 시민의 화학안전 의식을 높이기 위해 10월 26일부터…",
+      "detail": "군산시는 화학사고 없는 안전도시를 조성하고 시민의 화학안전 의식을 높이기 위해 10월 26일부터 ‘제4회 군산시 화학안전주간’을 운영한다고 밝혔다. 이번 행사는 최근 잇따른 화학사고로 커진 시민들의 불안감을 해소하고 사고 발생에 대비한 지역사회의…",
+      "link": "https://www.jbjnews.com/news/articleView.html?idxno=328157",
+      "source": "jbjnews",
+      "image": "http://www.bing.com/th?id=ONUT.LP5DmP3qOO6mQluKdeyMeQ&pid=News",
+      "category": "환경·안전",
+      "publishedAt": "2026-10-13T11:51:00.000Z",
+      "collectedAt": "2026-10-14T00:38:58.578Z",
+      "thumb": "/thumbs/cb2a408e2b11.jpg"
+    },
     {
       "id": "bsky-3mxruhdyksk2r",
       "kind": "news",
@@ -2475,24 +2490,6 @@
       "summaryKo": "과학계에서 가장 인기 있는 상은?",
       "translator": "google",
       "thumb": "/thumbs/bsky-3mxfdbrr5hc2f.webp"
-    },
-    {
-      "id": "bsky-3mxfcwdbicc2e",
-      "kind": "news",
-      "lang": "en",
-      "title": "\"As the American Chemical Society celebrates its 150th anniversary, it is worth reflecting on one of the society's greatest strengths: its…",
-      "summary": "ability to bring people together.\" chemsky 🧪",
-      "link": "https://bsky.app/profile/cenmag.bsky.social/post/3mxfcwdbicc2e",
-      "source": "Bluesky C&EN",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u4u4yeik2uube2g6ov7wr35p/bafkreibgpmvytdqnr7yagvyqcd3ztbicwxzk7jyg53zvkftkzfi4mtfhmm",
-      "likes": "2",
-      "category": "인기",
-      "publishedAt": "2026-10-08T20:38:57.909Z",
-      "collectedAt": "2026-10-08T20:57:11.904Z",
-      "titleKo": "\"미국 화학 학회가 창립 150주년을 기념하면서 학회의 가장 큰 강점 중 하나에 대해 생각해 볼 가치가 있습니다.",
-      "summaryKo": "사람들을 하나로 모으는 능력.\" 켐스키 🧪",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mxfcwdbicc2e.webp"
     }
   ]
 }
