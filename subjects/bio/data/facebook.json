@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-14T19:47:24.715Z",
+  "updatedAt": "2026-10-14T22:00:45.764Z",
   "items": [
+    {
+      "id": "fb-c6162a6505f8",
+      "kind": "news",
+      "lang": "en",
+      "title": "The stubby legs of ancient sled dogs helped people traverse the Arctic for the past 9,000 years.",
+      "summary": "",
+      "link": "https://www.facebook.com/cellpress/posts/pfbid02EcgEsDGJtyeAvHhemD5FupShTGCBXVp6DbFPGPApqjfrQ7rmbt4pubLM8uUgFozgl",
+      "source": "Facebook Cell Press",
+      "category": "인기",
+      "publishedAt": "2026-10-14T21:31:05.825Z",
+      "thumb": "/social/fb/fb-c6162a6505f8.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-14T22:00:45.764Z",
+      "titleKo": "고대 썰매개들의 뭉툭한 다리는 지난 9,000년 동안 사람들이 북극을 횡단하는 데 도움이 되었습니다.",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-79c24c1788f6",
       "kind": "news",
