@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T05:54:12.505Z",
+  "updatedAt": "2026-10-15T10:00:57.436Z",
   "items": [
     {
       "id": "fb-d12fb9c298f4",
@@ -19,6 +19,23 @@
       "translator": "google"
     },
     {
+      "id": "fb-0f4407f4f073",
+      "kind": "news",
+      "lang": "en",
+      "title": "What makes apples sweet or tart?",
+      "summary": "Learn more about the chemistry of apple flavour with…",
+      "link": "https://www.facebook.com/compoundchem/posts/pfbid0Uh2NEcSujDBLDSAgqLUBhCx8j1Vw8RtqLYwN4gHYXQLGhw7XpsWXRPQ1HbAzBPyxl",
+      "source": "Facebook Compound Interest",
+      "category": "인기",
+      "publishedAt": "2026-10-14T10:00:27.565Z",
+      "thumb": "/social/fb/fb-0f4407f4f073.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-15T10:00:57.436Z",
+      "titleKo": "사과를 달콤하거나 시큼하게 만드는 것은 무엇입니까?",
+      "summaryKo": "다음을 통해 사과 맛의 화학적 성질에 대해 자세히 알아보세요.",
+      "translator": "google"
+    },
+    {
       "id": "fb-0c150ad3dcac",
       "kind": "video",
       "lang": "en",
@@ -33,23 +50,6 @@
       "collectedAt": "2026-10-13T15:59:47.943Z",
       "titleKo": "약물 발견이 더 빠르게 진행되고 있습니다.",
       "summaryKo": "자신감을 갖고 보조를 맞출 수 있나요?",
-      "translator": "google"
-    },
-    {
-      "id": "fb-df6594bda44a",
-      "kind": "news",
-      "lang": "en",
-      "title": "What makes apples sweet or tart?",
-      "summary": "Learn more about the chemistry of apple flavour with…",
-      "link": "https://www.facebook.com/compoundchem/posts/pfbid02YEfZ9n5GadHb7tKtmAx2aJB13rrsxB9eQPAmhpheo91CiE6v6omcaGbg8PHFbnmil",
-      "source": "Facebook Compound Interest",
-      "category": "인기",
-      "publishedAt": "2026-10-13T15:00:41.281Z",
-      "thumb": "/social/fb/fb-df6594bda44a.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-14T10:01:12.584Z",
-      "titleKo": "사과를 달콤하거나 시큼하게 만드는 것은 무엇입니까?",
-      "summaryKo": "다음을 통해 사과 맛의 화학적 성질에 대해 자세히 알아보세요.",
       "translator": "google"
     },
     {
