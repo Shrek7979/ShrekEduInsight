@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-14T00:43:07.682Z",
+  "updatedAt": "2026-10-15T15:47:42.008Z",
   "items": [
+    {
+      "id": "fb-6c21161d5958",
+      "kind": "video",
+      "lang": "en",
+      "title": "First term, first day, first lecture.",
+      "summary": "And so it begins",
+      "link": "https://www.facebook.com/reel/2670749800051193/",
+      "source": "Facebook Oxford Mathematics",
+      "category": "인기",
+      "publishedAt": "2026-10-14T15:46:37.926Z",
+      "thumb": "/social/fb/fb-6c21161d5958.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-15T15:47:42.008Z",
+      "titleKo": "첫 학기, 첫날, 첫 강의.",
+      "summaryKo": "그래서 시작됩니다",
+      "translator": "google"
+    },
     {
       "id": "fb-f284027ad46e",
       "kind": "news",
