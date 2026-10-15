@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-15T10:00:59.098Z",
+  "updatedAt": "2026-10-15T11:23:54.465Z",
   "items": [
+    {
+      "id": "fb-83f5a325ce72",
+      "kind": "news",
+      "lang": "en",
+      "title": "One week to go!",
+      "summary": "",
+      "link": "https://www.facebook.com/physicsworld/posts/pfbid0MC9cUMTF89aCSbsF2Z3T4KVqPkBDppT43ahsKdyW5t8RPgtc531G86Ly7LV1114Ul",
+      "source": "Facebook Physics World",
+      "category": "인기",
+      "publishedAt": "2026-10-15T10:23:11.496Z",
+      "thumb": "/social/fb/fb-83f5a325ce72.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-15T11:23:54.465Z",
+      "titleKo": "일주일 남았습니다!",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-039fe681c875",
       "kind": "news",
@@ -33,6 +50,23 @@
       "collectedAt": "2026-10-15T05:54:11.821Z",
       "titleKo": "아름다운 풍미 전환 연구",
       "summaryKo": "",
+      "translator": "google"
+    },
+    {
+      "id": "fb-0f4407f4f073",
+      "kind": "news",
+      "lang": "en",
+      "title": "What makes apples sweet or tart?",
+      "summary": "Learn more about the chemistry of apple flavour with…",
+      "link": "https://www.facebook.com/compoundchem/posts/pfbid0Uh2NEcSujDBLDSAgqLUBhCx8j1Vw8RtqLYwN4gHYXQLGhw7XpsWXRPQ1HbAzBPyxl",
+      "source": "Facebook American Physical Society",
+      "category": "인기",
+      "publishedAt": "2026-10-14T11:23:22.625Z",
+      "thumb": "/social/fb/fb-0f4407f4f073.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-15T11:23:54.465Z",
+      "titleKo": "사과를 달콤하거나 시큼하게 만드는 것은 무엇입니까?",
+      "summaryKo": "다음을 통해 사과 맛의 화학적 성질에 대해 자세히 알아보세요.",
       "translator": "google"
     },
     {
