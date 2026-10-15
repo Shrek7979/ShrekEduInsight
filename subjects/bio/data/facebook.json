@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-10-15T19:31:00.793Z",
+  "updatedAt": "2026-10-15T22:01:11.670Z",
   "items": [
+    {
+      "id": "fb-e739d0fb7c71",
+      "kind": "news",
+      "lang": "en",
+      "title": "Celebrating 5 years of Cell Genomics!",
+      "summary": "Explore our anniversary issue where contributors from…",
+      "link": "https://www.facebook.com/cellpress/posts/pfbid0eSWnQ2Tvq3XVLvS7A9L183SHH1PFDbwBVMRLMLuqW4hyqvv7Ymdu3oc8TokFHxeNl",
+      "source": "Facebook Cell Press",
+      "category": "인기",
+      "publishedAt": "2026-10-15T20:00:27.195Z",
+      "thumb": "/social/fb/fb-e739d0fb7c71.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-15T22:01:11.670Z",
+      "titleKo": "셀지노믹스 5주년을 축하합니다!",
+      "summaryKo": "기고자들이 참여하는 기념호를 살펴보세요…",
+      "translator": "google"
+    },
+    {
+      "id": "fb-a257de3b1733",
+      "kind": "news",
+      "lang": "en",
+      "title": "During Hispanic Heritage Month, ASBMB is highlighting scientists whose research, mentorship and leadership have made lasting contributions…",
+      "summary": "to molecular bioscience",
+      "link": "https://www.facebook.com/asbmb/posts/pfbid02K3ec3Ko7C1sGg4nGtBqPHHLzb6x8X8ZhNcBp9wQHXfRkq9rzC329jgEagxizgJp2l",
+      "source": "Facebook ASBMB",
+      "category": "인기",
+      "publishedAt": "2026-10-15T19:01:01.461Z",
+      "thumb": "/social/fb/fb-a257de3b1733.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-15T22:01:11.670Z",
+      "titleKo": "히스패닉 문화유산의 달 동안 ASBMB는 연구, 멘토링 및 리더십이 지속적인 공헌을 한 과학자들을 강조하고 있습니다.",
+      "summaryKo": "분자생물학에",
+      "translator": "google"
+    },
     {
       "id": "fb-7d7022370cd5",
       "kind": "news",
@@ -16,6 +50,23 @@
       "collectedAt": "2026-10-15T19:31:00.793Z",
       "titleKo": "\"Akkermansia muciniphila는 티로솔 매개 장-자궁 축을 통해 자궁내막염을 예방합니다.\"",
       "summaryKo": "",
+      "translator": "google"
+    },
+    {
+      "id": "fb-6c57eddd5618",
+      "kind": "news",
+      "lang": "en",
+      "title": "How is the energy in food we eat transformed into forms of energy usable by our cells?",
+      "summary": "This interactive and accompanying worksheet, now…",
+      "link": "https://www.facebook.com/biointeractive/posts/pfbid0wu12NxcVk28ETfxBKuLLrofTigRwb3YzHa2VD76Xp27ttWdtDiFChpXhVDyrycmLl",
+      "source": "Facebook HHMI BioInteractive",
+      "category": "인기",
+      "publishedAt": "2026-10-15T16:00:50.296Z",
+      "thumb": "/social/fb/fb-6c57eddd5618.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-15T22:01:11.670Z",
+      "titleKo": "우리가 먹는 음식의 에너지는 어떻게 세포에서 사용할 수 있는 에너지 형태로 변환됩니까?",
+      "summaryKo": "이 대화형 및 동반 워크시트는 이제…",
       "translator": "google"
     },
     {
@@ -152,23 +203,6 @@
       "collectedAt": "2026-10-13T12:01:07.059Z",
       "titleKo": "인간 신경 유기체의 내분비 신호 전달에 대한 분자 세포 아틀라스",
       "summaryKo": "",
-      "translator": "google"
-    },
-    {
-      "id": "fb-5d6dbd975c9c",
-      "kind": "news",
-      "lang": "en",
-      "title": "During Hispanic Heritage Month, ASBMB is highlighting scientists whose research, mentorship and leadership have made lasting contributions…",
-      "summary": "to molecular bioscience",
-      "link": "https://www.facebook.com/asbmb/posts/pfbid02TTvgFkJAQnJb8gcmTb9wvXyV3khzT73HPKf2XJsq3FotUoSnfLtzJ9AsjNUaXVVml",
-      "source": "Facebook ASBMB",
-      "category": "인기",
-      "publishedAt": "2026-10-12T16:59:36.269Z",
-      "thumb": "/social/fb/fb-5d6dbd975c9c.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-13T09:59:46.222Z",
-      "titleKo": "히스패닉 문화유산의 달 동안 ASBMB는 연구, 멘토링 및 리더십이 지속적인 공헌을 한 과학자들을 강조하고 있습니다.",
-      "summaryKo": "분자생물학에",
       "translator": "google"
     },
     {
@@ -765,7 +799,7 @@
       ],
       "collectedAt": "2026-10-15T15:46:04.577Z",
       "titleKo": "글쎄, 우리는 유사분열 비디오를 업데이트했고 이제 업데이트된 감수분열 비디오를 공개할 시간이었습니다!",
-      "summaryKo": "scr을 찾으면 됩니다.",
+      "summaryKo": "scr을 찾을 수 있습니다.",
       "translator": "google"
     }
   ]

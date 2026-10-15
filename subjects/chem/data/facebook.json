@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-15T19:30:48.280Z",
+  "updatedAt": "2026-10-15T22:00:51.452Z",
   "items": [
+    {
+      "id": "fb-7d1a28f9fb43",
+      "kind": "news",
+      "lang": "en",
+      "title": "It’s National Mushroom Day Why do fly agaric mushrooms cause hallucinations, and what does it have to do with reindeer urine?",
+      "summary": "This graphic takes a closer look!",
+      "link": "https://www.facebook.com/compoundchem/posts/pfbid02iwJm4msaLjedvdqBBLh19tVr3C6bbDaXtgkerUXabZCxAhBNjNQW9fYLXfpjEMksl",
+      "source": "Facebook Compound Interest",
+      "category": "인기",
+      "publishedAt": "2026-10-15T20:00:15.649Z",
+      "thumb": "/social/fb/fb-7d1a28f9fb43.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-15T22:00:51.452Z",
+      "titleKo": "전국 버섯의 날입니다. 파리 아가릭 버섯이 환각을 일으키는 이유는 무엇이며 순록 소변과 어떤 관련이 있나요?",
+      "summaryKo": "이 그래픽을 자세히 살펴보세요!",
+      "translator": "google"
+    },
     {
       "id": "fb-562249d64407",
       "kind": "news",
@@ -16,6 +33,23 @@
       "collectedAt": "2026-10-15T19:30:48.280Z",
       "titleKo": "전국 화학 주간(National Chemistry Week)이 다음 주에 시작되며, ACS 녹색 화학 연구소(ACS Green Chemistry Institute)는 10월 1일에 Festival de Química에 참여하여 이를 축하합니다.",
       "summaryKo": "18, 푸에르토리코 올드 산후안",
+      "translator": "google"
+    },
+    {
+      "id": "fb-f0c4fc19fbc1",
+      "kind": "video",
+      "lang": "en",
+      "title": "Here’s how to make better Halloween fog juice.",
+      "summary": "",
+      "link": "https://www.facebook.com/reel/1773479847235678/",
+      "source": "Facebook Reactions",
+      "category": "인기",
+      "publishedAt": "2026-10-15T15:00:51.299Z",
+      "thumb": "/social/fb/fb-f0c4fc19fbc1.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-15T22:00:51.452Z",
+      "titleKo": "더 나은 할로윈 안개 주스를 만드는 방법은 다음과 같습니다.",
+      "summaryKo": "",
       "translator": "google"
     },
     {
