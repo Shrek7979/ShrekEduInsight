@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-15T15:45:52.639Z",
+  "updatedAt": "2026-10-15T19:30:48.280Z",
   "items": [
+    {
+      "id": "fb-562249d64407",
+      "kind": "news",
+      "lang": "en",
+      "title": "National Chemistry Week starts next week, and the ACS Green Chemistry Institute is celebrating by joining the Festival de Química on Oct.",
+      "summary": "18 in Old San Juan, Puerto Ric",
+      "link": "https://www.facebook.com/AmericanChemicalSociety/posts/pfbid02Gs5HNS4KD5t3kCZDXQJEQYMr1zus3CnYq7VNJbR3Ng4PsRRYrfUp4uzpVWvxYPBfl",
+      "source": "Facebook American Chemical Society",
+      "category": "인기",
+      "publishedAt": "2026-10-15T16:30:05.181Z",
+      "thumb": "/social/fb/fb-562249d64407.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-15T19:30:48.280Z",
+      "titleKo": "전국 화학 주간(National Chemistry Week)이 다음 주에 시작되며, ACS 녹색 화학 연구소(ACS Green Chemistry Institute)는 10월 1일에 Festival de Química에 참여하여 이를 축하합니다.",
+      "summaryKo": "18, 푸에르토리코 올드 산후안",
+      "translator": "google"
+    },
     {
       "id": "fb-d12fb9c298f4",
       "kind": "news",

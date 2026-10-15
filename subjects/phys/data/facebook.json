@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-15T15:45:50.764Z",
+  "updatedAt": "2026-10-15T19:30:48.563Z",
   "items": [
+    {
+      "id": "fb-04e8bc53e04a",
+      "kind": "news",
+      "lang": "en",
+      "title": "CERN and Mistral join forces to accelerate AI for science",
+      "summary": "",
+      "link": "https://www.facebook.com/cern/posts/pfbid0iF7qfR2g8nGSheKwrVBe7TgTceQGfXy18iiV65aE9T3in9km9oWKKT6rNrnGNKk4l",
+      "source": "Facebook CERN",
+      "category": "인기",
+      "publishedAt": "2026-10-15T10:30:27.971Z",
+      "thumb": "/social/fb/fb-04e8bc53e04a.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-15T19:30:48.563Z",
+      "titleKo": "CERN과 Mistral이 과학용 AI 가속화를 위해 협력",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-83f5a325ce72",
       "kind": "news",

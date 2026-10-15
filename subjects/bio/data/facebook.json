@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-15T15:46:04.577Z",
+  "updatedAt": "2026-10-15T19:31:00.793Z",
   "items": [
+    {
+      "id": "fb-7d7022370cd5",
+      "kind": "news",
+      "lang": "en",
+      "title": "\"Akkermansia muciniphila protects against endometritis through a tyrosol-mediated gut–uterus axis.\"",
+      "summary": "",
+      "link": "https://www.facebook.com/cellpress/posts/pfbid0tWeA6ZbiXvnD4BFVaBLybXGGKTZMo5EYcPeXARi6MHKRFscHZBBJ2aoMKPng3c1Dl",
+      "source": "Facebook Cell Press",
+      "category": "인기",
+      "publishedAt": "2026-10-15T16:30:20.397Z",
+      "thumb": "/social/fb/fb-7d7022370cd5.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-15T19:31:00.793Z",
+      "titleKo": "\"Akkermansia muciniphila는 티로솔 매개 장-자궁 축을 통해 자궁내막염을 예방합니다.\"",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-393e1b9e42a8",
       "kind": "news",
@@ -748,7 +765,7 @@
       ],
       "collectedAt": "2026-10-15T15:46:04.577Z",
       "titleKo": "글쎄, 우리는 유사분열 비디오를 업데이트했고 이제 업데이트된 감수분열 비디오를 공개할 시간이었습니다!",
-      "summaryKo": "scr을 찾을 수 있습니다.",
+      "summaryKo": "scr을 찾으면 됩니다.",
       "translator": "google"
     }
   ]

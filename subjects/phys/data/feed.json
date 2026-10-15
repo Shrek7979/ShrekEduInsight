@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-15T15:41:16.666Z",
+  "updatedAt": "2026-10-15T19:28:02.940Z",
   "items": [
+    {
+      "id": "5afa8ea3fc97",
+      "kind": "news",
+      "lang": "ko",
+      "title": "핵융합 연구 40년, 세계가 인정한 韓 과학자···장충석 박사 '찬드라세카상' 수상",
+      "summary": "한국 출신의 세계적인 플라즈마 물리학자 장충석 박사가 핵융합 플라즈마 이론과 시뮬레이션 연구에…",
+      "detail": "한국 출신의 세계적인 플라즈마 물리학자 장충석 박사가 핵융합 플라즈마 이론과 시뮬레이션 연구에 기여한 공로로 국제 학술상을 받는다. 1980년대 초 정립한 '장-힌턴 공식'부터 세계적인 핵융합 시뮬레이션 코드 'XGC' 개발, 한국형…",
+      "link": "http://www.hellodd.com/news/articleView.html?idxno=113448",
+      "source": "헬로디디",
+      "category": "양자·첨단",
+      "publishedAt": "2026-10-12T01:22:00.000Z",
+      "collectedAt": "2026-10-15T19:28:02.940Z",
+      "thumb": "/thumbs/5afa8ea3fc97.jpg"
+    },
     {
       "id": "bsky-3mxwessl2vi2f",
       "kind": "news",
@@ -2480,21 +2494,6 @@
       "publishedAt": "2026-10-11T11:10:00.000Z",
       "collectedAt": "2026-10-12T07:59:37.317Z",
       "thumb": "/thumbs/2dd39f2f2620.jpg"
-    },
-    {
-      "id": "d6d8bbaa0ed8",
-      "kind": "news",
-      "lang": "ko",
-      "title": "韓 양자기술, 中보다 돈 부족 아냐…문제는 사람",
-      "summary": "“국가 규모를 고려하면 중국과 비교하더라도 한국이 양자 분야에 투입하는 연구비가 적다고 할 수는…",
-      "detail": "“국가 규모를 고려하면 중국과 비교하더라도 한국이 양자 분야에 투입하는 연구비가 적다고 할 수는 없습니다. 차이를 느끼는 부분은 인력 확보입니다.” 김기환 기초과학연구원(IBS) 트랩이온 양자과학 연구단장은 이데일리와의 서면 인터뷰에서 한국 양자기술…",
-      "link": "https://www.msn.com/ko-kr/news/other/%E9%9F%93-%EC%96%91%EC%9E%90%EA%B8%B0%EC%88%A0-%E4%B8%AD%EB%B3%B4%EB%8B%A4-%EB%8F%88-%EB%B6%80%EC%A1%B1-%EC%95%84%EB%83%90-%EB%AC%B8%EC%A0%9C%EB%8A%94-%EC%82%AC%EB%9E%8C/ar-AA2e2Gfl",
-      "source": "이데일리",
-      "image": "http://www.bing.com/th?id=ONUT.cn-8yjb2LZ3oavaaSxfhaA&pid=News",
-      "category": "양자·첨단",
-      "publishedAt": "2026-10-11T23:00:03.000Z",
-      "collectedAt": "2026-10-12T06:59:04.037Z",
-      "thumb": "/thumbs/d6d8bbaa0ed8.png"
     }
   ]
 }
