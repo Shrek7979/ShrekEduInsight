@@ -1,6 +1,35 @@
 {
-  "updatedAt": "2026-10-14T21:57:25.537Z",
+  "updatedAt": "2026-10-15T00:58:19.721Z",
   "items": [
+    {
+      "id": "92872bb84943",
+      "kind": "news",
+      "lang": "ko",
+      "title": "유해화학물질 운반용기 검사 의무화했지만, 검사대상은‘깜깜이’김태선 의원 \"전국 실태조사부터, 용기별 이력 관리 시급”",
+      "summary": "하지만 검사 기준과 절차를 정비하는 동안에도 전국 운반용기의 사용 현황과 검사대상 규모를 파악하기…",
+      "detail": "하지만 검사 기준과 절차를 정비하는 동안에도 전국 운반용기의 사용 현황과 검사대상 규모를 파악하기 위한 실태조사는 이뤄지지 않았다. 지침은 마련했지만, 정작 검사 의무가 현장에서 제대로 지켜지고 있는지 확인할 수 있는 관리체계는 갖추지 못한 셈이다.",
+      "link": "http://www.ecolaw.co.kr/news/articleView.html?idxno=120371",
+      "source": "환경법률신문",
+      "category": "환경·안전",
+      "publishedAt": "2026-10-14T17:00:00.000Z",
+      "collectedAt": "2026-10-15T00:58:19.721Z",
+      "thumb": "/thumbs/92872bb84943.png"
+    },
+    {
+      "id": "c2854053f046",
+      "kind": "news",
+      "lang": "ko",
+      "title": "올해 노벨화학상 수상자, 생명체의 비대칭 편향 규명",
+      "summary": "2026년 노벨화학상은 ‘비대칭 유기합성에서 비선형 효과와 자기촉매의 발견’을 공로로 두 과학자에게…",
+      "detail": "2026년 노벨화학상은 ‘비대칭 유기합성에서 비선형 효과와 자기촉매의 발견’을 공로로 두 과학자에게 돌아갔다. 앙리 카간 프랑스 파리사클레대 명예교수와 소아이 겐소 일본 도쿄이과대 명예교수는 거울상 분자를 만드는 화학반응에서 아주 작은 비대칭이 큰…",
+      "link": "https://weekly.donga.com/science/article/all/11/6419164/1",
+      "source": "주간동아",
+      "image": "http://www.bing.com/th?id=ONUT.x8YUFIF_85lRsSvnnLBiYA&pid=News",
+      "category": "소재·에너지",
+      "publishedAt": "2026-10-14T10:00:00.000Z",
+      "collectedAt": "2026-10-15T00:58:19.721Z",
+      "thumb": "/thumbs/c2854053f046.jpg"
+    },
     {
       "id": "bsky-3mxuhbcbs322t",
       "kind": "news",
@@ -2417,39 +2446,6 @@
       "collectedAt": "2026-10-11T06:57:33.160Z",
       "summaryKo": "",
       "thumb": "/thumbs/ac4326d9a7e5.jpg"
-    },
-    {
-      "id": "21f37effe233",
-      "kind": "video",
-      "lang": "ko",
-      "title": "10분마다 딴짓하는 고3이면 집중력 문제가 아님;; #shorts",
-      "summary": "십 분마다 딴짓하게 되면 집중력이 없다고 결론 내리는데, 그 전에 확인할 게 있습니다",
-      "detail": "십 분마다 딴짓하게 되면 집중력이 없다고 결론 내리는데, 그 전에 확인할 게 있습니다. 딴짓을 하는 게 아니라 도망칠 곳이 옆에 있는 겁니다.",
-      "link": "https://www.youtube.com/shorts/w4VyvcvKnr0",
-      "source": "송쌤",
-      "image": "https://i4.ytimg.com/vi/w4VyvcvKnr0/hqdefault.jpg",
-      "views": 1168,
-      "category": "인기",
-      "publishedAt": "2026-09-18T09:00:21.000Z",
-      "collectedAt": "2026-10-11T06:57:33.160Z",
-      "thumb": "/thumbs/21f37effe233.jpg"
-    },
-    {
-      "id": "e169c1412897",
-      "kind": "video",
-      "lang": "ko",
-      "title": "U자관 해석(+교재)",
-      "summary": "",
-      "detail": "",
-      "link": "https://www.youtube.com/watch?v=N3eoYXR0yYY",
-      "source": "탑사이언스",
-      "image": "https://i3.ytimg.com/vi/N3eoYXR0yYY/hqdefault.jpg",
-      "views": 2105,
-      "category": "인기",
-      "publishedAt": "2026-10-03T12:58:42.000Z",
-      "collectedAt": "2026-10-10T23:57:40.018Z",
-      "summaryKo": "",
-      "thumb": "/thumbs/e169c1412897.jpg"
     }
   ]
 }

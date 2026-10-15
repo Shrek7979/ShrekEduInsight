@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-10-14T21:57:25.509Z",
+  "updatedAt": "2026-10-15T00:58:19.736Z",
   "items": [
+    {
+      "id": "bsky-3mxuracwhaw2j",
+      "kind": "video",
+      "lang": "en",
+      "title": "Plants don’t have eyes or brains.",
+      "summary": "How do they know where light is coming from?",
+      "link": "https://bsky.app/profile/quantamagazine.org/post/3mxuracwhaw2j",
+      "source": "Bluesky Quanta Magazine",
+      "image": "https://video.bsky.app/watch/did%3Aplc%3Avfktz6qe6vy7serr3wqutpzt/bafkreigmdme2hbpzpcyippjpu7634rca2h5zxf6tifrveroidn2lykg4g4/thumbnail.jpg",
+      "likes": "8",
+      "category": "인기",
+      "publishedAt": "2026-10-15T00:05:01.530Z",
+      "collectedAt": "2026-10-15T00:58:19.736Z",
+      "titleKo": "식물에는 눈이나 뇌가 없습니다.",
+      "summaryKo": "빛이 어디서 오는지 어떻게 알 수 있나요?",
+      "translator": "google",
+      "thumb": null
+    },
+    {
+      "id": "7509299adbf7",
+      "kind": "news",
+      "lang": "ko",
+      "title": "양자컴퓨팅 기업 오큐티, 140억원 규모 프리 시리즈A 투자 받는다",
+      "summary": "중성원자 기반 양자컴퓨팅 기업 오큐티(OQT)가 프리 시리즈A 투자 유치를 통해 국내외 파트너십…",
+      "detail": "중성원자 기반 양자컴퓨팅 기업 오큐티(OQT)가 프리 시리즈A 투자 유치를 통해 국내외 파트너십 구축에 나선다. 오큐티는 140억원 규모의 프리 시리즈A 투자를 받았다고 15일 밝혔다. 이번 투자는 DSC인베스트먼트가 주도했으며, 기존 투자자인…",
+      "link": "https://core.asiae.co.kr/article/2026101508104908540",
+      "source": "core.asiae",
+      "image": "http://www.bing.com/th?id=ONUT.GdUzOgcNmbcFCRveHf8Ijw&pid=News",
+      "category": "양자·첨단",
+      "publishedAt": "2026-10-14T11:10:00.000Z",
+      "collectedAt": "2026-10-15T00:58:19.736Z",
+      "thumb": "/thumbs/7509299adbf7.png"
+    },
     {
       "id": "bsky-3mxuhhhcsjb2j",
       "kind": "news",
@@ -2470,42 +2503,6 @@
       "translator": "google",
       "detailKo": "과학자들은 자기 원자가 나타날 때 나타나는 이상한 양자 현상인 콘도 효과를 계산하는 강력하고 새로운 방법을 개발했습니다.",
       "thumb": "/thumbs/2dba67f889fa.webp"
-    },
-    {
-      "id": "bfbdba9dc013",
-      "kind": "news",
-      "lang": "en",
-      "title": "Scientists create a lightsaber-like laser antenna that transmits radio waves",
-      "summary": "Scientists have demonstrated a remarkable new antenna…",
-      "detail": "Scientists have demonstrated a remarkable new antenna that resembles a lightsaber, using a laser to create a tunable beam of plasma capable…",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261008005239.htm",
-      "source": "ScienceDaily",
-      "category": "해외",
-      "publishedAt": "2026-10-09T17:55:59.000Z",
-      "collectedAt": "2026-10-10T19:57:38.088Z",
-      "titleKo": "과학자들은 전파를 전송하는 광선검과 같은 레이저 안테나를 만듭니다.",
-      "summaryKo": "과학자들은 놀라운 새로운 안테나를 시연했습니다…",
-      "translator": "google",
-      "detailKo": "과학자들은 레이저를 사용하여 조정 가능한 플라즈마 빔을 생성하는 광선검과 유사한 놀라운 새 안테나를 시연했습니다.",
-      "thumb": "/thumbs/bfbdba9dc013.webp"
-    },
-    {
-      "id": "bsky-3mxk2xz4kan2e",
-      "kind": "news",
-      "lang": "en",
-      "title": "Viruses evolve at an \"insanely high” pace, said microbiologist Philip Kranzusch.",
-      "summary": "And yet, weirdly, our immune defenses share many…",
-      "link": "https://bsky.app/profile/quantamagazine.org/post/3mxk2xz4kan2e",
-      "source": "Bluesky Quanta Magazine",
-      "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:vfktz6qe6vy7serr3wqutpzt/bafkreice7u2lwf2pi6c466w36kj26if3shtgiwrkwtfmmtwhdmesz4nike",
-      "likes": "9",
-      "category": "인기",
-      "publishedAt": "2026-10-10T18:00:03.110Z",
-      "collectedAt": "2026-10-10T19:02:47.631Z",
-      "titleKo": "미생물학자인 Philip Kranzusch는 바이러스가 \"엄청나게 빠른\" 속도로 진화한다고 말했습니다.",
-      "summaryKo": "하지만 이상하게도 우리의 면역 방어는 많은 것을 공유합니다",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mxk2xz4kan2e.webp"
     }
   ]
 }
