@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-10-16T15:27:11.518Z",
+  "updatedAt": "2026-10-16T18:57:41.211Z",
   "items": [
+    {
+      "id": "359c1b6118f8",
+      "kind": "news",
+      "lang": "en",
+      "title": "Policy Watch: DHS proposes significant new fees for international students",
+      "summary": "A weekly roundup of policy news in the chemical arena…",
+      "link": "https://cen.acs.org/policy/international-student-opt-research-fda-salt/104/web/2026/10?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
+      "source": "C&EN",
+      "category": "해외",
+      "publishedAt": "2026-10-16T18:32:23.000Z",
+      "collectedAt": "2026-10-16T18:57:41.211Z",
+      "titleKo": "정책 감시: DHS는 유학생을 위한 상당한 새 수수료를 제안합니다.",
+      "summaryKo": "화학 분야의 정책 뉴스를 매주 모아서…",
+      "translator": "google",
+      "thumb": "/thumbs/359c1b6118f8.webp"
+    },
+    {
+      "id": "bsky-3mxyyhtlbw22g",
+      "kind": "news",
+      "lang": "en",
+      "title": "Blue Activity, one of C&EN's 10Startups To Watch, combines microorganisms, water treatment chemistry, and continuous monitoring to reduce…",
+      "summary": "reliance on chemical biocides: chemsky 🧪",
+      "link": "https://bsky.app/profile/cenmag.bsky.social/post/3mxyyhtlbw22g",
+      "source": "Bluesky C&EN",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u4u4yeik2uube2g6ov7wr35p/bafkreigav3v7yzantwa3msakpw4po7bcvnsmzbmlwi2zphpnljxcqxsgla",
+      "likes": "5",
+      "category": "인기",
+      "publishedAt": "2026-10-16T16:25:09.040Z",
+      "collectedAt": "2026-10-16T18:57:41.211Z",
+      "titleKo": "C&EN의 주목할만한 스타트업 10개 중 하나인 블루 액티비티(Blue Activity)는 미생물, 수처리 화학 및 지속적인 모니터링을 결합하여…",
+      "summaryKo": "화학 살생물제에 대한 의존도: chemsky 🧪",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxyyhtlbw22g.webp"
+    },
     {
       "id": "e2f84f96ad88",
       "kind": "news",
@@ -152,7 +186,7 @@
       "publishedAt": "2026-10-16T10:00:02.000Z",
       "collectedAt": "2026-10-16T11:15:19.010Z",
       "titleKo": "사설: 아시아에서 떠오르는 혁신적인 분자",
-      "summaryKo": "미국과 유럽의 생명공학은 도전에 직면해 있지만.",
+      "summaryKo": "미국과 유럽의 생명공학은 도전에 직면해 있지만",
       "translator": "google",
       "detailKo": "미국과 유럽의 생명공학은 어려움에 직면해 있지만 최근 패널 토론에서 분명해진 것처럼 경쟁은 전 세계적인 이점을 제공합니다.",
       "thumb": "/thumbs/f8b0337a995a.webp"
@@ -2436,36 +2470,6 @@
       "publishedAt": "2026-10-12T18:38:00.000Z",
       "collectedAt": "2026-10-13T07:56:56.530Z",
       "thumb": "/thumbs/0693452e0297.jpg"
-    },
-    {
-      "id": "4d04d3bed3b9",
-      "kind": "news",
-      "lang": "ko",
-      "title": "광주과학고, 국제과학올림피아드 4명 메달…학교 역대 최다",
-      "summary": "광주과학고등학교 (교장 고준상)는 올해 열린 국제화학올림피아드 (IChO), 국제지구과학올림피아드…",
-      "detail": "광주과학고등학교 (교장 고준상)는 올해 열린 국제화학올림피아드 (IChO), 국제지구과학올림피아드 (IESO), 국제천문및천체물리올림피아드 (IOAA)에 한국 대표로 출전한 재학생 4명이 금메달 4개, 은메달 1개, 동메달 1개를 획득해 학교 역사상…",
-      "link": "https://www.ddnnews.kr/news/articleView.html?idxno=24560",
-      "source": "ddnnews.kr",
-      "image": "http://www.bing.com/th?id=ONUT.Epmh8sMfNPRSpsOAI_RO4g&pid=News",
-      "category": "대회·행사",
-      "publishedAt": "2026-10-11T09:55:00.000Z",
-      "collectedAt": "2026-10-13T07:56:56.530Z",
-      "thumb": "/thumbs/4d04d3bed3b9.jpg"
-    },
-    {
-      "id": "51e6cdff4c2a",
-      "kind": "news",
-      "lang": "ko",
-      "title": "고려대학교 세종캠퍼스 안준성 교수팀, 에너지·센서 응용 가능한 ‘초유연 무기·고분자 복합 섬유’ 개발",
-      "summary": "고려대학교 세종캠퍼스 안준성 교수 연구팀이 한국과학기술원(KAIST) 연구진과의 공동연구를 통해…",
-      "detail": "고려대학교 세종캠퍼스 안준성 교수 연구팀이 한국과학기술원(KAIST) 연구진과의 공동연구를 통해 무기 소재의 우수한 전기적·화학적 기능성을 유지하면서도 자유롭게 변형할 수 있는 초유연 무기·고분자 복합 섬유를 개발했다. 이번 연구는 에너지 변환과…",
-      "link": "https://www.lecturernews.com/news/articleView.html?idxno=211941",
-      "source": "한국강사신문",
-      "image": "http://www.bing.com/th?id=ONUT.w9rZ56LUlc13kxDjGP1WuA&pid=News",
-      "category": "연구",
-      "publishedAt": "2026-10-12T18:50:00.000Z",
-      "collectedAt": "2026-10-13T06:57:41.892Z",
-      "thumb": "/thumbs/51e6cdff4c2a.png"
     }
   ]
 }

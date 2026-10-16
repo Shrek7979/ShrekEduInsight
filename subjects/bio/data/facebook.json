@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-16T15:29:48.864Z",
+  "updatedAt": "2026-10-16T19:00:34.189Z",
   "items": [
+    {
+      "id": "fb-7399f1ba116f",
+      "kind": "video",
+      "lang": "en",
+      "title": "Curious about how an accepted paper is processed at Cell Press?",
+      "summary": "",
+      "link": "https://www.facebook.com/reel/2226912047907057/",
+      "source": "Facebook Cell Press",
+      "category": "인기",
+      "publishedAt": "2026-10-16T17:59:50.744Z",
+      "thumb": "/social/fb/fb-7399f1ba116f.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-16T19:00:34.189Z",
+      "titleKo": "Cell Press에서 승인된 논문이 어떻게 처리되는지 궁금하십니까?",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-315abd08a360",
       "kind": "news",
@@ -16,6 +33,23 @@
       "collectedAt": "2026-10-16T15:29:48.864Z",
       "titleKo": "AI는 분자 생물학의 미래를 어떻게 재편하고 있습니까?",
       "summaryKo": "",
+      "translator": "google"
+    },
+    {
+      "id": "fb-2f8d4040ce95",
+      "kind": "news",
+      "lang": "en",
+      "title": "JNeurosci: Findings from Paez-Beltran et al. provide a new framework for understanding how transcription factor dynamics shape glial…",
+      "summary": "development and diversity in the b",
+      "link": "https://www.facebook.com/societyforneuroscience/posts/pfbid02R8HiYyUUjYmz4qfkJjFMMQJoutU4UZbV5dc3bm8x1azENwvLboCvPM3dLGkwg37ul",
+      "source": "Facebook Society for Neuroscience",
+      "category": "인기",
+      "publishedAt": "2026-10-16T15:00:34.173Z",
+      "thumb": "/social/fb/fb-2f8d4040ce95.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-16T19:00:34.189Z",
+      "titleKo": "JNeurosci: Paez-Beltran 등의 연구 결과. 전사 인자 역학이 신경교를 어떻게 형성하는지 이해하기 위한 새로운 프레임워크를 제공합니다.",
+      "summaryKo": "b의 발전과 다양성",
       "translator": "google"
     },
     {
@@ -104,18 +138,18 @@
       "translator": "google"
     },
     {
-      "id": "fb-a257de3b1733",
+      "id": "fb-2d5041502cab",
       "kind": "news",
       "lang": "en",
       "title": "During Hispanic Heritage Month, ASBMB is highlighting scientists whose research, mentorship and leadership have made lasting contributions…",
       "summary": "to molecular bioscience",
-      "link": "https://www.facebook.com/asbmb/posts/pfbid02K3ec3Ko7C1sGg4nGtBqPHHLzb6x8X8ZhNcBp9wQHXfRkq9rzC329jgEagxizgJp2l",
+      "link": "https://www.facebook.com/asbmb/posts/pfbid0F23tZWbYWwacugXAd5QswvQUrSCtcHYzurNSSePU6kTKw59QbDjajWYntZ73oSE1l",
       "source": "Facebook ASBMB",
       "category": "인기",
-      "publishedAt": "2026-10-15T19:01:01.461Z",
-      "thumb": "/social/fb/fb-a257de3b1733.jpg",
+      "publishedAt": "2026-10-15T19:00:23.362Z",
+      "thumb": "/social/fb/fb-2d5041502cab.jpg",
       "refs": [],
-      "collectedAt": "2026-10-15T22:01:11.670Z",
+      "collectedAt": "2026-10-16T19:00:34.189Z",
       "titleKo": "히스패닉 문화유산의 달 동안 ASBMB는 연구, 멘토링 및 리더십이 지속적인 공헌을 한 과학자들을 강조하고 있습니다.",
       "summaryKo": "분자생물학에",
       "translator": "google"
