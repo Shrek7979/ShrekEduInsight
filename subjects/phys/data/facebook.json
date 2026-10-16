@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-15T22:00:56.484Z",
+  "updatedAt": "2026-10-16T00:52:47.674Z",
   "items": [
+    {
+      "id": "fb-e58f1760720d",
+      "kind": "news",
+      "lang": "en",
+      "title": "Ignacio Cirac, quantum pioneer and winner of the IOP's Isaac Newton Medal, is our podcast guest",
+      "summary": "",
+      "link": "https://www.facebook.com/physicsworld/posts/pfbid02Rx1kqYHzRx3nGCgtht41LD5BBUFeHd25Rp1F1GmKYzn2wkXdyTTbLyUncvvoDT7Dl",
+      "source": "Facebook Physics World",
+      "category": "인기",
+      "publishedAt": "2026-10-15T13:52:04.522Z",
+      "thumb": "/social/fb/fb-e58f1760720d.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-16T00:52:47.674Z",
+      "titleKo": "양자 개척자이자 IOP의 Isaac Newton 메달 수상자인 Ignacio Cirac이 팟캐스트 게스트입니다.",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-04e8bc53e04a",
       "kind": "news",

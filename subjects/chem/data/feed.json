@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-10-15T21:58:01.645Z",
+  "updatedAt": "2026-10-16T00:49:39.677Z",
   "items": [
+    {
+      "id": "bsky-3mxx3ypin6c26",
+      "kind": "news",
+      "lang": "en",
+      "title": "Here’s what we’re watching in the chemical and pharmaceutical industries this week: chemsky 🧪",
+      "summary": "States sue Corteva over Vylor PFAS liability while…",
+      "link": "https://bsky.app/profile/cenmag.bsky.social/post/3mxx3ypin6c26",
+      "source": "Bluesky C&EN",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u4u4yeik2uube2g6ov7wr35p/bafkreica7a6lp32nn6ltjbxuwd2zvviucjmprcm56ofnqimbdlplcou7sy",
+      "likes": "8",
+      "category": "인기",
+      "publishedAt": "2026-10-15T22:22:56.933Z",
+      "collectedAt": "2026-10-16T00:49:39.677Z",
+      "titleKo": "이번 주 화학 및 제약 산업에서 우리가 보고 있는 내용은 다음과 같습니다: chemsky 🧪",
+      "summaryKo": "주정부는 Vylor PFAS 책임에 대해 Corteva를 고소하고…",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxx3ypin6c26.webp"
+    },
+    {
+      "id": "0fe9e648b045",
+      "kind": "news",
+      "lang": "en",
+      "title": "Scientists just found a new way to make hydrogen from water",
+      "summary": "A new light-activated material can efficiently produce…",
+      "detail": "A new light-activated material can efficiently produce hydrogen from water without requiring an additional expensive metal catalyst.…",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261001214017.htm",
+      "source": "ScienceDaily",
+      "category": "해외",
+      "publishedAt": "2026-10-04T11:11:24.000Z",
+      "collectedAt": "2026-10-16T00:49:39.677Z",
+      "titleKo": "과학자들이 물에서 수소를 만드는 새로운 방법을 발견했습니다.",
+      "summaryKo": "새로운 광 활성화 소재는 효율적으로 생산할 수 있습니다…",
+      "translator": "google",
+      "detailKo": "새로운 광 활성화 물질은 값비싼 금속 촉매를 추가하지 않고도 물에서 효율적으로 수소를 생산할 수 있습니다.…",
+      "thumb": "/thumbs/0fe9e648b045.webp"
+    },
     {
       "id": "44b378e377d5",
       "kind": "news",
@@ -2413,41 +2449,6 @@
       "translator": "google",
       "detailKo": "우리 기고자는 학생들이 화학에 대해 흥미를 갖도록 하고 오늘날 청중에게 영감을 주는 화려한 과학적 시연을 회상합니다.",
       "thumb": "/thumbs/45d1ed5d23ef.webp"
-    },
-    {
-      "id": "bsky-3mxosv6appc25",
-      "kind": "news",
-      "lang": "en",
-      "title": "'Replacing an aromatic carbon atom with a nitrogen is a key goal for organic chemists, as many pharmaceuticals and natural products have…",
-      "summary": "nitrogen-containing rings, such as pyridine.'",
-      "link": "https://bsky.app/profile/chemistryworld.com/post/3mxosv6appc25",
-      "source": "Bluesky Chemistry World",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6v2nwmzy4dozxcftobscktc3/bafkreifymfggonjo4kqtnrtjqguv7sizneis3pjeqlqd74fz65jqzl6mya",
-      "category": "인기",
-      "publishedAt": "2026-10-12T15:18:36.602Z",
-      "collectedAt": "2026-10-12T15:57:33.452Z",
-      "titleKo": "'방향족 탄소 원자를 질소로 대체하는 것은 많은 의약품과 천연 제품이 그러하듯이 유기 화학자의 주요 목표입니다.",
-      "summaryKo": "피리딘과 같은 질소 함유 고리.'",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mxosv6appc25.webp"
-    },
-    {
-      "id": "15bb2940a13f",
-      "kind": "news",
-      "lang": "en",
-      "title": "10 Start-Ups to Watch 2026",
-      "summary": "Meet the companies rethinking how we make medicines,…",
-      "detail": "Meet the companies rethinking how we make medicines, food, materials, and more",
-      "link": "https://cen.acs.org/business/start-ups/10-start-ups-watch-2026/104/web/2026/10?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
-      "source": "C&EN",
-      "category": "해외",
-      "publishedAt": "2026-10-12T14:43:28.000Z",
-      "collectedAt": "2026-10-12T15:57:33.452Z",
-      "titleKo": "2026년 주목해야 할 10가지 스타트업",
-      "summaryKo": "의약품 제조 방법을 재고하는 회사를 만나보세요",
-      "translator": "google",
-      "detailKo": "의약품, 식품, 재료 등을 만드는 방법을 재고하는 기업을 만나보세요.",
-      "thumb": "/thumbs/15bb2940a13f.png"
     }
   ]
 }

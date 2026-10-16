@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-15T22:01:11.670Z",
+  "updatedAt": "2026-10-16T00:53:12.950Z",
   "items": [
+    {
+      "id": "fb-3d2d4cc86395",
+      "kind": "news",
+      "lang": "en",
+      "title": "\"A telomere-to-telomere map of somatic mutation burden and functional impact in a cancer.\"",
+      "summary": "",
+      "link": "https://www.facebook.com/cellpress/posts/pfbid0Wa8Df5RmAq8HpGR7Yur4nMvCPMCjKheuHH6W6ufgrJS2vqFdD5KTEHNojPHhXJAel",
+      "source": "Facebook Cell Press",
+      "category": "인기",
+      "publishedAt": "2026-10-15T22:52:32.487Z",
+      "thumb": "/social/fb/fb-3d2d4cc86395.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-16T00:53:12.950Z",
+      "titleKo": "\"암에 대한 체세포 돌연변이 부담과 기능적 영향에 대한 텔로미어 간 지도입니다.\"",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-e739d0fb7c71",
       "kind": "news",
@@ -799,7 +816,7 @@
       ],
       "collectedAt": "2026-10-15T15:46:04.577Z",
       "titleKo": "글쎄, 우리는 유사분열 비디오를 업데이트했고 이제 업데이트된 감수분열 비디오를 공개할 시간이었습니다!",
-      "summaryKo": "scr을 찾을 수 있습니다.",
+      "summaryKo": "scr을 찾으면 됩니다.",
       "translator": "google"
     }
   ]
