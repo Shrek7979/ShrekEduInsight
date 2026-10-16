@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-10-16T11:18:09.156Z",
+  "updatedAt": "2026-10-16T15:29:48.864Z",
   "items": [
+    {
+      "id": "fb-315abd08a360",
+      "kind": "news",
+      "lang": "en",
+      "title": "How is AI reshaping the future of molecular biology?",
+      "summary": "",
+      "link": "https://www.facebook.com/cellpress/posts/pfbid02PKfZppSPMirjLF5Xt4i7QynU29PkmyjAggcsrjwey6iSWzTVnkgVPAJFMzBePGUkl",
+      "source": "Facebook Cell Press",
+      "category": "인기",
+      "publishedAt": "2026-10-16T15:03:07.466Z",
+      "thumb": "/social/fb/fb-315abd08a360.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-16T15:29:48.864Z",
+      "titleKo": "AI는 분자 생물학의 미래를 어떻게 재편하고 있습니까?",
+      "summaryKo": "",
+      "translator": "google"
+    },
+    {
+      "id": "fb-c30109ce3994",
+      "kind": "news",
+      "lang": "en",
+      "title": "We're committed to finding new ways of getting important, original research into scientists’ hands as quickly as possible.",
+      "summary": "",
+      "link": "https://www.facebook.com/elifesciences/posts/pfbid0tmbxyZdwZQJakSxLYKu4L9p5jZVtD1md7zJHJz9LGUr7DXKuvrhx5TWjA9jyB7Egl",
+      "source": "Facebook eLife",
+      "category": "인기",
+      "publishedAt": "2026-10-16T14:29:18.218Z",
+      "thumb": "/social/fb/fb-c30109ce3994.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-16T15:29:48.864Z",
+      "titleKo": "우리는 중요하고 독창적인 연구를 가능한 한 빨리 과학자들의 손에 전달할 수 있는 새로운 방법을 찾기 위해 최선을 다하고 있습니다.",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-0794bcbe289e",
       "kind": "news",
@@ -850,7 +884,7 @@
       ],
       "collectedAt": "2026-10-15T15:46:04.577Z",
       "titleKo": "글쎄, 우리는 유사분열 비디오를 업데이트했고 이제 업데이트된 감수분열 비디오를 공개할 시간이었습니다!",
-      "summaryKo": "scr을 찾을 수 있습니다.",
+      "summaryKo": "scr을 찾으면 됩니다.",
       "translator": "google"
     }
   ]

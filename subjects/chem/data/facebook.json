@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-16T10:02:09.111Z",
+  "updatedAt": "2026-10-16T15:29:35.265Z",
   "items": [
+    {
+      "id": "fb-e3deafa39999",
+      "kind": "news",
+      "lang": "en",
+      "title": "Juan Amador believes culture and traditions have a place in science.",
+      "summary": "He wants Chicano/Hispanic and Native American…",
+      "link": "https://www.facebook.com/AmericanChemicalSociety/posts/pfbid02yMrgDgRRLGRC54UTyTibcsy9apwqrs4NzKqd1EjBYKcyUvH2qkeJse2UqoEbo3Tyl",
+      "source": "Facebook American Chemical Society",
+      "category": "인기",
+      "publishedAt": "2026-10-16T14:28:50.261Z",
+      "thumb": "/social/fb/fb-e3deafa39999.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-16T15:29:35.265Z",
+      "titleKo": "Juan Amador는 문화와 전통이 과학에 자리잡고 있다고 믿습니다.",
+      "summaryKo": "그는 치카노/히스패닉 및 아메리카 원주민을 원합니다…",
+      "translator": "google"
+    },
     {
       "id": "fb-43ce3b1cd6e3",
       "kind": "news",
