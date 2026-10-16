@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-10-16T00:49:39.677Z",
+  "updatedAt": "2026-10-16T05:47:54.534Z",
   "items": [
+    {
+      "id": "257297b050ea",
+      "kind": "news",
+      "lang": "ko",
+      "title": "한기대, ‘2026 Chem Frontier 화학공학 대학생 창의설계 경진대회’ 은상",
+      "summary": "한국기술교육대(KOREATECH) 에너지신소재화학공학부 화학생명공학 전공 COTAS팀(지도교수…",
+      "detail": "한국기술교육대(KOREATECH) 에너지신소재화학공학부 화학생명공학 전공 COTAS팀(지도교수 배진우) 학생들이, 최근 부산 벡스코(BEXCO)에서 열린 (사)한국화학공학회 주관 ‘2026 Chem Frontier 화학공학 대학생 창의설계 경진 ...",
+      "link": "https://www.dhnews.co.kr/news/view/1065577307482563",
+      "source": "대학저널",
+      "image": "http://www.bing.com/th?id=ONUT.oBOD_cuknzmOWn7YzZoNSw&pid=News",
+      "category": "대회·행사",
+      "publishedAt": "2026-10-15T13:43:00.000Z",
+      "collectedAt": "2026-10-16T05:47:54.534Z",
+      "thumb": "/thumbs/257297b050ea.png"
+    },
     {
       "id": "bsky-3mxx3ypin6c26",
       "kind": "news",
@@ -2431,24 +2446,6 @@
       "summaryKo": "",
       "translator": "google",
       "thumb": "/thumbs/bsky-3mxoy62vg422k.webp"
-    },
-    {
-      "id": "45d1ed5d23ef",
-      "kind": "news",
-      "lang": "en",
-      "title": "Memory Lane: Come to the chemistry show",
-      "summary": "Our contributor recalls flamboyant scientific…",
-      "detail": "Our contributor recalls flamboyant scientific demonstrations to get students excited about chemistry and what inspires audiences today",
-      "link": "https://cen.acs.org/acs-news/memory-lane-come-chemistry-show/104/web/2026/10?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
-      "source": "C&EN",
-      "category": "해외",
-      "publishedAt": "2026-10-12T15:21:11.000Z",
-      "collectedAt": "2026-10-12T15:57:33.452Z",
-      "titleKo": "추억의 길 : 케미스트리 보러 오세요",
-      "summaryKo": "우리 기고자는 화려한 과학을 회상합니다…",
-      "translator": "google",
-      "detailKo": "우리 기고자는 학생들이 화학에 대해 흥미를 갖도록 하고 오늘날 청중에게 영감을 주는 화려한 과학적 시연을 회상합니다.",
-      "thumb": "/thumbs/45d1ed5d23ef.webp"
     }
   ]
 }
