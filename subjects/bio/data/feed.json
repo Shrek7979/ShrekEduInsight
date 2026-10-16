@@ -1,6 +1,41 @@
 {
-  "updatedAt": "2026-10-16T18:57:41.109Z",
+  "updatedAt": "2026-10-16T21:57:48.908Z",
   "items": [
+    {
+      "id": "bsky-3mxzelul2472f",
+      "kind": "news",
+      "lang": "en",
+      "title": "A unifying model of T-cell signaling protein condensates in reconstitution experiments",
+      "summary": "A unifying model of T-cell signaling protein…",
+      "link": "https://bsky.app/profile/elife.bsky.social/post/3mxzelul2472f",
+      "source": "Bluesky eLife",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4irghgzlsjk6ugrekoqyl7km/bafkreiaqpl3kxdxpdh42t37jpcpsccmcb7n656beigdtvecp747knudahi",
+      "likes": "1",
+      "category": "인기",
+      "publishedAt": "2026-10-16T20:02:08.721Z",
+      "collectedAt": "2026-10-16T21:57:48.908Z",
+      "titleKo": "재구성 실험에서 T 세포 신호 전달 단백질 응축물의 통합 모델",
+      "summaryKo": "T세포 신호전달 단백질의 통합 모델…",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxzelul2472f.webp"
+    },
+    {
+      "id": "bsky-3mxzdutsctk2t",
+      "kind": "video",
+      "lang": "en",
+      "title": "Curious about how an accepted paper is processed at Cell Press?",
+      "summary": "Our Head of Production Andy Smith details steps our…",
+      "link": "https://bsky.app/profile/cellpress.bsky.social/post/3mxzdutsctk2t",
+      "source": "Bluesky Cell Press",
+      "image": "https://video.bsky.app/watch/did%3Aplc%3Adbehouwmds4bxla5z5glados/bafkreififuuarblbfv2uegqnwpkvxgufznt7kzfe5oxpwh5xr5eucdgmja/thumbnail.jpg",
+      "category": "인기",
+      "publishedAt": "2026-10-16T19:49:16.638Z",
+      "collectedAt": "2026-10-16T21:57:48.908Z",
+      "titleKo": "Cell Press에서 승인된 논문이 어떻게 처리되는지 궁금하십니까?",
+      "summaryKo": "우리의 생산 책임자인 Andy Smith는 우리의 단계를 자세히 설명합니다…",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxzdutsctk2t.jpg"
+    },
     {
       "id": "bsky-3mxyvxiooj62c",
       "kind": "news",
@@ -2419,41 +2454,6 @@
       "summaryKo": "",
       "translator": "google",
       "thumb": "/thumbs/28491df0fe88.jpg"
-    },
-    {
-      "id": "bsky-3mxubv3c3tu2g",
-      "kind": "news",
-      "lang": "en",
-      "title": "How is AI changing mathematical discovery?",
-      "summary": "In their race for breakthroughs, AI companies typically…",
-      "link": "https://bsky.app/profile/sciencenews.bsky.social/post/3mxubv3c3tu2g",
-      "source": "Bluesky Science News",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mhjqpvjvyzpj4pso7ux2tekh/bafkreigqgz42inequgqd4c7gjx2deygortpqptd5z43np2lvsu7vwxny6y",
-      "category": "인기",
-      "publishedAt": "2026-10-14T19:30:17.755Z",
-      "collectedAt": "2026-10-14T19:44:43.485Z",
-      "titleKo": "AI는 수학적 발견을 어떻게 변화시키고 있나요?",
-      "summaryKo": "혁신을 향한 경쟁에서 AI 기업은 일반적으로…",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mxubv3c3tu2g.webp"
-    },
-    {
-      "id": "bsky-3mxtw53prkk2g",
-      "kind": "news",
-      "lang": "en",
-      "title": "\"Placental-like reprogramming associated with HERV elements in early-onset colorectal cancer.\" Learn more in Cell Press Blue: Vincenzo…",
-      "summary": "Costanzo, Beatrice Bodega, Alberto Bardelli, Salvatore…",
-      "link": "https://bsky.app/profile/cellpress.bsky.social/post/3mxtw53prkk2g",
-      "source": "Bluesky Cell Press",
-      "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dbehouwmds4bxla5z5glados/bafkreidzzxg4cvczpa6l2ozmcg6mis4spk2bcx4tg6z2psymklsix6drlm",
-      "likes": "1",
-      "category": "인기",
-      "publishedAt": "2026-10-14T16:00:02.060Z",
-      "collectedAt": "2026-10-14T19:44:43.485Z",
-      "titleKo": "\"조기 발병 대장암에서 HERV 요소와 관련된 태반 유사 재프로그래밍.\" Cell Press Blue: Vincenzo에서 자세히 알아보세요…",
-      "summaryKo": "코스탄조, 베아트리체 보데가, 알베르토 바르델리, 살바토레…",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mxtw53prkk2g.webp"
     }
   ]
 }

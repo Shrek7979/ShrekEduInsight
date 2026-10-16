@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-10-16T18:57:41.085Z",
+  "updatedAt": "2026-10-16T21:57:48.973Z",
   "items": [
+    {
+      "id": "bsky-3mxzkfmllv32i",
+      "kind": "news",
+      "lang": "en",
+      "title": "In 2017, transformers supercharged language modeling while trying to tackle translation.",
+      "summary": "It unleashed staggering power",
+      "link": "https://bsky.app/profile/quantamagazine.org/post/3mxzkfmllv32i",
+      "source": "Bluesky Quanta Magazine",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vfktz6qe6vy7serr3wqutpzt/bafkreiajgrf2zs4gt6el3o5ntymzkrkj33esvv3fpelejc6wpzv5qdnvzq",
+      "likes": "4",
+      "category": "인기",
+      "publishedAt": "2026-10-16T21:46:01.930Z",
+      "collectedAt": "2026-10-16T21:57:48.973Z",
+      "titleKo": "2017년에 Transformers는 번역 문제를 해결하려고 노력하면서 언어 모델링을 강화했습니다.",
+      "summaryKo": "어마어마한 힘을 발휘했어요",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxzkfmllv32i.webp"
+    },
+    {
+      "id": "171fb80a0b5a",
+      "kind": "news",
+      "lang": "ko",
+      "title": "양자 회로 7개서 큐비트·Toffoli 게이트 함께 줄였다",
+      "summary": "앤트로픽(Anthropic)은 클로드 미토스 5(Claude Mythos 5)가 양자 회로 설계…",
+      "detail": "앤트로픽(Anthropic)은 클로드 미토스 5(Claude Mythos 5)가 양자 회로 설계 과제 8종에서 개선안을 찾았다고 밝혔다. 논문 초록은 이 가운데 7개 과제에서 큐비트와 Toffoli 게이트가 함께 줄었고, 나머지 한 과제에서는 소수체…",
+      "link": "https://www.tokenpost.kr/news/ai/423535",
+      "source": "토큰포스트",
+      "image": "http://www.bing.com/th?id=ONUT.0Be_2PglZTLsEZZ9ImbwiA&pid=News",
+      "category": "양자·첨단",
+      "publishedAt": "2026-10-16T07:11:00.000Z",
+      "collectedAt": "2026-10-16T21:57:48.973Z",
+      "thumb": "/thumbs/171fb80a0b5a.png"
+    },
     {
       "id": "bsky-3mxyzqqrd542p",
       "kind": "news",
@@ -2461,39 +2494,6 @@
       "publishedAt": "2026-10-13T07:51:04.000Z",
       "collectedAt": "2026-10-13T08:57:32.619Z",
       "thumb": "/thumbs/91ca01dea47e.png"
-    },
-    {
-      "id": "149ae9b826b3",
-      "kind": "news",
-      "lang": "ko",
-      "title": "경남 영재교육 대상 5358명…道의회 “경남과학고 영재학교로”",
-      "summary": "과학기술정보통신부가 추진하는 ‘과학기술원 부설 과학영재학교 지정·전환 공모’는 영재학교가 없는 7개…",
-      "detail": "과학기술정보통신부가 추진하는 ‘과학기술원 부설 과학영재학교 지정·전환 공모’는 영재학교가 없는 7개 시·도에서 신청을 받아 3개교 내외를 선정하는 사업이다. 대상 지역은 강원·경남·경북·울산·전북·제주·충남이다. 지역 간 과학영재교육 격차를 줄이고…",
-      "link": "https://www.sedaily.com/article/20101076",
-      "source": "서울경제",
-      "image": "http://www.bing.com/th?id=ONUT.ydtQv0x0rjHsj4JCisZNGg&pid=News",
-      "category": "교육",
-      "publishedAt": "2026-10-12T19:43:00.000Z",
-      "collectedAt": "2026-10-13T08:57:32.619Z",
-      "thumb": "/thumbs/149ae9b826b3.png"
-    },
-    {
-      "id": "bsky-3mx7ra7gl2c2d",
-      "kind": "news",
-      "lang": "en",
-      "title": "See here for lots of neutrino content...",
-      "summary": "Nobel Prize in Physics 2026",
-      "link": "https://bsky.app/profile/natphys.nature.com/post/3mx7ra7gl2c2d",
-      "source": "Bluesky Nature Physics",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jghqhqnjl2z2n6ad4qpffxba/bafkreif3i6tkmsjtvrnrt5b2n7rcs7zgsvmn4i4jx5bwhjj4iubglyrhtu",
-      "likes": "6",
-      "category": "인기",
-      "publishedAt": "2026-10-06T15:39:03.381Z",
-      "collectedAt": "2026-10-13T08:57:32.619Z",
-      "titleKo": "많은 중성미자 함량을 보려면 여기를 참조하십시오.",
-      "summaryKo": "2026년 노벨 물리학상",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mx7ra7gl2c2d.webp"
     }
   ]
 }

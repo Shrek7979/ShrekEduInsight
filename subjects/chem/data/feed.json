@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-16T18:57:41.211Z",
+  "updatedAt": "2026-10-16T21:57:48.936Z",
   "items": [
+    {
+      "id": "bsky-3mxzcgmis2k2l",
+      "kind": "news",
+      "lang": "en",
+      "title": "Test your knowledge of our stories on nuclear clocks, antibacterial coatings, light-activated drugs, and more: chemsky 🧪",
+      "summary": "C&EN weekly chemistry news quiz, Oct",
+      "link": "https://bsky.app/profile/cenmag.bsky.social/post/3mxzcgmis2k2l",
+      "source": "Bluesky C&EN",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u4u4yeik2uube2g6ov7wr35p/bafkreiard4tjw2vevgoqbryuk42k6hybwbk7yf3ghrwq5zjj5u7vd4amem",
+      "category": "인기",
+      "publishedAt": "2026-10-16T19:23:25.482Z",
+      "collectedAt": "2026-10-16T21:57:48.936Z",
+      "titleKo": "핵시계, 항균 코팅, 광 활성화 약물 등에 대한 우리의 이야기에 대한 지식을 테스트해 보세요: chemsky 🧪",
+      "summaryKo": "C&EN 주간 화학 뉴스 퀴즈, 10월",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxzcgmis2k2l.webp"
+    },
     {
       "id": "359c1b6118f8",
       "kind": "news",
@@ -2455,21 +2472,6 @@
       "translator": "google",
       "detailKo": "양방향 스핀을 갖는 혼합 원자가 Fe-PDI 내에서 중간 스핀 Fe(III) 함유 구성 요소를 안정화하기 위해 스핀 매칭이 제안되었습니다.",
       "thumb": "/thumbs/215d69ebce46.png"
-    },
-    {
-      "id": "0693452e0297",
-      "kind": "news",
-      "lang": "ko",
-      "title": "화학물질안전원·천안시, ‘화학사고 대응 도상훈련’ 진행",
-      "summary": "박봉균 화학물질안전원장은 “화학사고 발생 시 주민의 안전을 확보하고 빠른 일상 회복을 위해서는 현장…",
-      "detail": "박봉균 화학물질안전원장은 “화학사고 발생 시 주민의 안전을 확보하고 빠른 일상 회복을 위해서는 현장 대응부터 주민대피, 수습복구까지 전 기관이 톱니바퀴처럼 맞물려 작동해야 한다”면서 “이번 훈련을 계기로 기관별 역할을 명확히 정립하고,…",
-      "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=106955",
-      "source": "우먼타임스",
-      "image": "http://www.bing.com/th?id=ONUT.ZdoEJSUWClwbbsTAf4xWbQ&pid=News",
-      "category": "환경·안전",
-      "publishedAt": "2026-10-12T18:38:00.000Z",
-      "collectedAt": "2026-10-13T07:56:56.530Z",
-      "thumb": "/thumbs/0693452e0297.jpg"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T19:00:08.640Z",
+  "updatedAt": "2026-10-16T22:00:03.240Z",
   "items": [
     {
       "id": "fb-956d35f0cc20",
@@ -16,6 +16,23 @@
       "collectedAt": "2026-10-16T11:17:56.743Z",
       "titleKo": "이것이 무엇인지 추측할 수 있나요?",
       "summaryKo": "힌트: 입자 충돌의 핵심입니다.",
+      "translator": "google"
+    },
+    {
+      "id": "fb-36a23643284d",
+      "kind": "news",
+      "lang": "en",
+      "title": "Quantum systems are only as powerful as the environments that protect them.",
+      "summary": "",
+      "link": "https://www.facebook.com/physicsworld/posts/pfbid0vE8ehfSbxTnNyEX7zsY38UfCifEd5r4grhWXg8aCB3zyuLpNnr3wvCBc29MajVvfl",
+      "source": "Facebook Physics World",
+      "category": "인기",
+      "publishedAt": "2026-10-15T21:59:20.498Z",
+      "thumb": "/social/fb/fb-36a23643284d.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-16T22:00:03.240Z",
+      "titleKo": "양자 시스템은 이를 보호하는 환경만큼 강력합니다.",
+      "summaryKo": "",
       "translator": "google"
     },
     {
@@ -70,18 +87,18 @@
       "translator": "google"
     },
     {
-      "id": "fb-9fd057c007d1",
+      "id": "fb-09ff371e48ae",
       "kind": "news",
       "lang": "en",
       "title": "Congratulations again to Francis Halzen, who won the 2026 Nobel Prize in Physics.",
       "summary": "Physical Review Letters published several papers that…",
-      "link": "https://www.facebook.com/apsphysics/posts/pfbid04TVQyWeZTK8ueb35NHdwurdCLEdDYiKqbHRvBLeGnjjuUbzKR1gqCtsNzxv8tFR1l",
+      "link": "https://www.facebook.com/apsphysics/posts/pfbid028Jw8ABaPJiVGRCjyhBuuUww3ACu9959nPH8d2UTfozh6grM4bGS6wsnY7yGzrcGTl",
       "source": "Facebook American Physical Society",
       "category": "인기",
-      "publishedAt": "2026-10-14T22:00:21.988Z",
-      "thumb": "/social/fb/fb-9fd057c007d1.jpg",
+      "publishedAt": "2026-10-14T21:59:32.674Z",
+      "thumb": "/social/fb/fb-09ff371e48ae.jpg",
       "refs": [],
-      "collectedAt": "2026-10-15T22:00:56.484Z",
+      "collectedAt": "2026-10-16T22:00:03.240Z",
       "titleKo": "2026년 노벨 물리학상을 수상한 Francis Halzen에게 다시 한 번 축하를 보냅니다.",
       "summaryKo": "Physical Review Letters는 다음과 같은 여러 논문을 발표했습니다.",
       "translator": "google"
