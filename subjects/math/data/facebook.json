@@ -1,6 +1,25 @@
 {
-  "updatedAt": "2026-10-15T15:47:42.008Z",
+  "updatedAt": "2026-10-16T10:04:06.717Z",
   "items": [
+    {
+      "id": "fb-abd98fe345c2",
+      "kind": "video",
+      "lang": "en",
+      "title": "Imagine being in a group chat with 20 Fields Medallists - FULL VIDEO with Terence Tao",
+      "summary": "",
+      "link": "https://www.facebook.com/reel/1542932741202181/",
+      "source": "Facebook Numberphile",
+      "category": "인기",
+      "publishedAt": "2026-10-15T17:02:43.139Z",
+      "thumb": "/social/fb/fb-abd98fe345c2.jpg",
+      "refs": [
+        "bAnwMdfcMVw"
+      ],
+      "collectedAt": "2026-10-16T10:04:06.717Z",
+      "titleKo": "20명의 필즈 메달리스트와 그룹 채팅을 하고 있다고 상상해보세요 - Terence Tao와 함께하는 전체 비디오",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-6c21161d5958",
       "kind": "video",
