@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-16T05:50:59.377Z",
+  "updatedAt": "2026-10-16T11:17:56.743Z",
   "items": [
+    {
+      "id": "fb-956d35f0cc20",
+      "kind": "news",
+      "lang": "en",
+      "title": "Can you guess what this is?",
+      "summary": "Hint: It’s right at the heart of particle collisions",
+      "link": "https://www.facebook.com/cern/posts/pfbid023RXtM2Q8Lxw9UqCuMT9LNUJ58Tb79XjxHZAdHe8VrHftir7wws6MxDr4QoqCEi5cl",
+      "source": "Facebook CERN",
+      "category": "인기",
+      "publishedAt": "2026-10-16T11:10:35.378Z",
+      "thumb": "/social/fb/fb-956d35f0cc20.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-16T11:17:56.743Z",
+      "titleKo": "이것이 무엇인지 추측할 수 있나요?",
+      "summaryKo": "힌트: 입자 충돌의 핵심입니다.",
+      "translator": "google"
+    },
     {
       "id": "fb-e58f1760720d",
       "kind": "news",

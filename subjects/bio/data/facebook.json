@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T10:02:26.068Z",
+  "updatedAt": "2026-10-16T11:18:09.156Z",
   "items": [
     {
       "id": "fb-0794bcbe289e",
@@ -15,6 +15,23 @@
       "refs": [],
       "collectedAt": "2026-10-16T05:51:11.388Z",
       "titleKo": "\"암에 대한 체세포 돌연변이 부담과 기능적 영향에 대한 텔로미어 간 지도입니다.\"",
+      "summaryKo": "",
+      "translator": "google"
+    },
+    {
+      "id": "fb-76c50c409b7d",
+      "kind": "news",
+      "lang": "en",
+      "title": "The cow udder as an influenza mixing ground",
+      "summary": "",
+      "link": "https://www.facebook.com/elifesciences/posts/pfbid0LvkYNFKDuB91YRiRUjmeet3T5RQLMkNzvuTtsCUdWaJB88nG3ht9nu5uCdYStoZul",
+      "source": "Facebook eLife",
+      "category": "인기",
+      "publishedAt": "2026-10-15T21:17:38.639Z",
+      "thumb": "/social/fb/fb-76c50c409b7d.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-16T11:18:09.156Z",
+      "titleKo": "인플루엔자 혼합장으로서의 소 젖통",
       "summaryKo": "",
       "translator": "google"
     },
