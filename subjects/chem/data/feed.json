@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-10-16T21:57:48.936Z",
+  "updatedAt": "2026-10-17T00:24:12.568Z",
   "items": [
+    {
+      "id": "b4ac692e0b17",
+      "kind": "news",
+      "lang": "ko",
+      "title": "충북자연과학교육원 2027년도 영재교육 대상 선발…올해 152명 수료",
+      "summary": "김재광 기자 = 충북자연과학교육원부설영재교육원(영재교육원)은 2027학년도 영재교육대상자를…",
+      "detail": "김재광 기자 = 충북자연과학교육원부설영재교육원(영재교육원)은 2027학년도 영재교육대상자를 선발한다고 17일 밝혔다. 도내 초등학교 3학년~중학교 1학년 재학생을 대상으로 다음 달 9일부터 13일까지 영재교육종합데이터베이스(GED,…",
+      "link": "https://www.fnnews.com/news/202610170827205040",
+      "source": "파이낸셜뉴스",
+      "image": "http://www.bing.com/th?id=ONUT.3EW7LFsQZ9mpsr14hSb-HA&pid=News",
+      "category": "교육",
+      "publishedAt": "2026-10-16T11:27:00.000Z",
+      "collectedAt": "2026-10-17T00:24:12.568Z",
+      "thumb": "/thumbs/b4ac692e0b17.jpg"
+    },
     {
       "id": "bsky-3mxzcgmis2k2l",
       "kind": "news",
@@ -2453,25 +2468,6 @@
       "translator": "google",
       "detailKo": "우리는 합성 다중 가닥 나선의 조립 및 방향성을 지시하는 전략으로 계층적 서열 제어를 소개합니다.",
       "thumb": "/thumbs/79a24fde5123.png"
-    },
-    {
-      "id": "215d69ebce46",
-      "kind": "news",
-      "lang": "en",
-      "title": "Magnetic‐Field‐Assisted Photocatalytic H2O2 Production From Ambient Air via…",
-      "summary": "Spin-matching is proposed to stabilize an…",
-      "detail": "Spin-matching is proposed to stabilize an intermediate-spin Fe(III)-containing component within mixed-valence Fe-PDI with bidirectional…",
-      "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.9920959?af=R",
-      "source": "Angewandte Chemie",
-      "image": "https://onlinelibrary.wiley.com/cms/asset/5e47c900-e4a5-4fd3-85e3-52f4992e2e5e/anie75290-gra-0001-m.png",
-      "category": "연구",
-      "publishedAt": "2026-10-13T07:28:19.000Z",
-      "collectedAt": "2026-10-13T07:56:56.530Z",
-      "titleKo": "주변 공기에서 자기장을 이용한 광촉매 H2O2 생산…",
-      "summaryKo": "스핀 매칭은 안정화를 위해 제안되었습니다…",
-      "translator": "google",
-      "detailKo": "양방향 스핀을 갖는 혼합 원자가 Fe-PDI 내에서 중간 스핀 Fe(III) 함유 구성 요소를 안정화하기 위해 스핀 매칭이 제안되었습니다.",
-      "thumb": "/thumbs/215d69ebce46.png"
     }
   ]
 }
