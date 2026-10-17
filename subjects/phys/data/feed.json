@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-17T18:43:28.342Z",
+  "updatedAt": "2026-10-17T21:02:02.431Z",
   "items": [
+    {
+      "id": "bsky-3my3uyql7gd2i",
+      "kind": "news",
+      "lang": "en",
+      "title": "On this week’s episode of The Joy of Why podcast, evolutionary biologist Toby Kiers explains how fungal networks in soil trade nutrients…",
+      "summary": "with plants, help keep carbon underground, and strike…",
+      "link": "https://bsky.app/profile/quantamagazine.org/post/3my3uyql7gd2i",
+      "source": "Bluesky Quanta Magazine",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vfktz6qe6vy7serr3wqutpzt/bafkreie6fmle3ff3qxij3lmhwdg6oiv3njhwa4bf4kdnp2ouabex2bawf4",
+      "likes": "11",
+      "category": "인기",
+      "publishedAt": "2026-10-17T20:00:59.920Z",
+      "collectedAt": "2026-10-17T21:02:02.431Z",
+      "titleKo": "이번 주 The Joy of Why 팟캐스트 에피소드에서 진화생물학자인 Toby Kiers는 토양의 곰팡이 네트워크가 어떻게 영양분을 교환하는지 설명합니다.",
+      "summaryKo": "식물과 함께 탄소를 지하에 유지하고 파업을 돕습니다…",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3my3uyql7gd2i.webp"
+    },
     {
       "id": "bsky-3my3oagggm42v",
       "kind": "news",
@@ -2463,21 +2481,6 @@
       "publishedAt": "2026-10-13T19:32:27.000Z",
       "collectedAt": "2026-10-14T05:29:26.264Z",
       "thumb": "/thumbs/47248787dd4c.png"
-    },
-    {
-      "id": "e6cc0cab4ff8",
-      "kind": "news",
-      "lang": "ko",
-      "title": "물질의 질량은 어떻게 만들어질까…고려대서 물리학 국제공동연구 프로젝트 첫걸음",
-      "summary": "물질을 구성하는 가장 기본적인 단위인 ‘쿼크(Quark)’가 어떻게 뭉쳐 질량을 형성하는지를 밝히기…",
-      "detail": "물질을 구성하는 가장 기본적인 단위인 ‘쿼크(Quark)’가 어떻게 뭉쳐 질량을 형성하는지를 밝히기 위한 국제공동연구 프로젝트가 한국에서 닻을 올렸다. 고려대학교가 10월 9일 고려대 하나스퀘어에서 ‘J-PARC K10 국제공동연구그룹 제1회…",
-      "link": "https://www.unipress.co.kr/news/articleView.html?idxno=15436",
-      "source": "unipress.co.kr",
-      "image": "http://www.bing.com/th?id=ONUT.SHILj9mnmLteD2fO0UIUAw&pid=News",
-      "category": "연구",
-      "publishedAt": "2026-10-13T18:15:00.000Z",
-      "collectedAt": "2026-10-14T05:29:26.264Z",
-      "thumb": "/thumbs/e6cc0cab4ff8.png"
     }
   ]
 }

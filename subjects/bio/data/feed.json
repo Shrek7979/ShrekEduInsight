@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-10-17T18:43:28.256Z",
+  "updatedAt": "2026-10-17T21:02:02.584Z",
   "items": [
+    {
+      "id": "1a1f1db95921",
+      "kind": "news",
+      "lang": "ko",
+      "title": "신장 전달기술 유전자치료 에스추어리, 1.03억달러 투자유치",
+      "summary": "캘리포니아 멘로파크·매사추세츠 뉴턴에 거점을 둔 에스추어리는 10월 16일 (현지시간) 총…",
+      "detail": "캘리포니아 멘로파크·매사추세츠 뉴턴에 거점을 둔 에스추어리는 10월 16일 (현지시간) 총 1억300만 달러 규모의 자금으로 공식 출범했다고 밝혔다. 알에이캐피탈매니지먼트 (RA Capital Management)가 주도한 9300만 달러 규모…",
+      "link": "https://wowtale.net/2026/10/18/266470/",
+      "source": "와우테일",
+      "category": "의학·바이오",
+      "publishedAt": "2026-10-17T03:00:00.000Z",
+      "collectedAt": "2026-10-17T21:02:02.584Z",
+      "thumb": "/thumbs/1a1f1db95921.jpg"
+    },
+    {
+      "id": "b0add279ef4a",
+      "kind": "news",
+      "lang": "ko",
+      "title": "\"항암제 내성 막는다\"···POSTECH, 암세포 복구 막는 전략 제시",
+      "summary": "암세포가 항암제로 망가진 DNA를 스스로 복구해 살아남는 길을 막는 치료전략이 나왔다",
+      "detail": "암세포가 항암제로 망가진 DNA를 스스로 복구해 살아남는 길을 막는 치료전략이 나왔다. 연구진은 신약 후보물질과 항체-약물 접합체(ADC)를 함께 사용해 암세포의 DNA 손상을 더 오래 유지하는 효과를 동물모델에서…",
+      "link": "http://www.hellodd.com/news/articleView.html?idxno=113509",
+      "source": "헬로디디",
+      "category": "의학·바이오",
+      "publishedAt": "2026-10-15T07:50:00.000Z",
+      "collectedAt": "2026-10-17T21:02:02.584Z",
+      "thumb": "/thumbs/b0add279ef4a.jpg"
+    },
     {
       "id": "fd35301c9235",
       "kind": "news",
@@ -2427,42 +2455,6 @@
       "translator": "google",
       "detailKo": "생물학적 진화는 과학계에서 널리 받아들여지고 있습니다. 즉, 많은 사람과 조직, 특히…",
       "thumb": "/thumbs/697c582dcfc6.jpg"
-    },
-    {
-      "id": "6f3cb6de5588",
-      "kind": "video",
-      "lang": "en",
-      "title": "Newest Level Ups in the Animal Kingdom | Lindsay Nikole",
-      "summary": "",
-      "detail": "",
-      "link": "https://www.youtube.com/watch?v=fd-NCY1-n0Q",
-      "source": "Lindsay Nikole",
-      "image": "https://i3.ytimg.com/vi/fd-NCY1-n0Q/hqdefault.jpg",
-      "views": 1054594,
-      "category": "인기",
-      "publishedAt": "2026-09-19T20:00:25.000Z",
-      "collectedAt": "2026-10-15T11:20:56.675Z",
-      "titleKo": "동물의 왕국의 최신 레벨 업 | 린제이 니콜",
-      "summaryKo": "",
-      "translator": "google",
-      "thumb": "/thumbs/6f3cb6de5588.jpg"
-    },
-    {
-      "id": "bsky-3mxvlvlq76y2n",
-      "kind": "news",
-      "lang": "en",
-      "title": "LRRK2 regulates synaptic function through modulation of actin cytoskeletal dynamics",
-      "summary": "LRRK2 regulates synaptic function through modulation of…",
-      "link": "https://bsky.app/profile/elife.bsky.social/post/3mxvlvlq76y2n",
-      "source": "Bluesky eLife",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4irghgzlsjk6ugrekoqyl7km/bafkreiaqpl3kxdxpdh42t37jpcpsccmcb7n656beigdtvecp747knudahi",
-      "category": "인기",
-      "publishedAt": "2026-10-15T08:02:12.374Z",
-      "collectedAt": "2026-10-15T09:57:07.027Z",
-      "titleKo": "LRRK2는 액틴 세포골격 역학의 조절을 통해 시냅스 기능을 조절합니다",
-      "summaryKo": "LRRK2는 다음의 조절을 통해 시냅스 기능을 조절합니다",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mxvlvlq76y2n.webp"
     }
   ]
 }

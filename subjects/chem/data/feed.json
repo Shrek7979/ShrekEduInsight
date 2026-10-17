@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-17T18:43:28.250Z",
+  "updatedAt": "2026-10-17T21:02:02.626Z",
   "items": [
+    {
+      "id": "bsky-3my3saibeq227",
+      "kind": "news",
+      "lang": "en",
+      "title": "This puzzle reimagines common metaphors from chemists' points of view: chemsky 🧪",
+      "summary": "Crossword: Metaphors in C&EN headlines",
+      "link": "https://bsky.app/profile/cenmag.bsky.social/post/3my3saibeq227",
+      "source": "Bluesky C&EN",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u4u4yeik2uube2g6ov7wr35p/bafkreigib56h7xae5nut2s4lcrjglcatikolppitakgktiaymoj7f2rsrq",
+      "likes": "3",
+      "category": "인기",
+      "publishedAt": "2026-10-17T19:11:39.065Z",
+      "collectedAt": "2026-10-17T21:02:02.626Z",
+      "titleKo": "이 퍼즐은 화학자의 관점에서 일반적인 은유를 재구성합니다: 켐스키 🧪",
+      "summaryKo": "크로스워드: C&EN 헤드라인의 은유",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3my3saibeq227.webp"
+    },
     {
       "id": "bsky-3my3li366xs27",
       "kind": "news",
@@ -2470,24 +2488,6 @@
       "summaryKo": "마이크로소프트의 분할 성격 역합성 AI는…",
       "translator": "google",
       "thumb": "/thumbs/bsky-3mxr7fxbuus26.webp"
-    },
-    {
-      "id": "bsky-3mxr7a5ucwb22",
-      "kind": "news",
-      "lang": "en",
-      "title": "What makes apples sweet or tart?",
-      "summary": "Learn more about the chemistry of apple flavour with…",
-      "link": "https://bsky.app/profile/compoundchem.com/post/3mxr7a5ucwb22",
-      "source": "Bluesky Compound Interest",
-      "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:elgkp22tjscka4ij6kqibtvt/bafkreicf43s3ne6jukoi46j7rhmet2pvsrbhq5z3bnyy5innbml2whxhdi",
-      "likes": "27",
-      "category": "인기",
-      "publishedAt": "2026-10-13T14:04:49.407Z",
-      "collectedAt": "2026-10-13T14:57:29.285Z",
-      "titleKo": "사과를 달콤하거나 시큼하게 만드는 것은 무엇입니까?",
-      "summaryKo": "다음을 통해 사과 맛의 화학적 성질에 대해 자세히 알아보세요",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mxr7a5ucwb22.webp"
     }
   ]
 }
