@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-17T09:16:00.694Z",
+  "updatedAt": "2026-10-17T09:58:13.798Z",
   "items": [
+    {
+      "id": "9d98898e38a6",
+      "kind": "video",
+      "lang": "ko",
+      "title": "과학자들은 왜 아직 119번 원소를 만들지 못했을까?",
+      "summary": "",
+      "detail": "",
+      "link": "https://www.youtube.com/watch?v=bYNevR7Ttds",
+      "source": "세모과학",
+      "image": "https://i3.ytimg.com/vi/bYNevR7Ttds/hqdefault.jpg",
+      "views": 687302,
+      "category": "인기",
+      "publishedAt": "2026-09-20T09:45:06.000Z",
+      "collectedAt": "2026-10-17T09:58:13.798Z",
+      "summaryKo": "",
+      "thumb": "/thumbs/9d98898e38a6.jpg"
+    },
     {
       "id": "631563dbd9f4",
       "kind": "news",
@@ -2463,25 +2480,6 @@
       "translator": "google",
       "detailKo": "큐비트 결맞음은 많은 실제 양자 장치에 대한 주요 장벽으로 남아 있습니다. 이것이 바로 진공 및 극저온 장비 스케일링이 중요한 이유입니다…",
       "thumb": "/thumbs/a7e0167360d7.jpg"
-    },
-    {
-      "id": "98a21c6a414f",
-      "kind": "video",
-      "lang": "en",
-      "title": "The Absurd Engineering Behind the Internet",
-      "summary": "",
-      "detail": "",
-      "link": "https://www.youtube.com/watch?v=NiCgcUTL9_Q",
-      "source": "Veritasium",
-      "image": "https://i3.ytimg.com/vi/NiCgcUTL9_Q/hqdefault.jpg",
-      "views": 2841400,
-      "category": "인기",
-      "publishedAt": "2026-10-12T17:11:45.000Z",
-      "collectedAt": "2026-10-13T16:57:40.570Z",
-      "titleKo": "인터넷 뒤에 숨은 터무니없는 엔지니어링",
-      "summaryKo": "",
-      "translator": "google",
-      "thumb": "/thumbs/98a21c6a414f.jpg"
     }
   ]
 }

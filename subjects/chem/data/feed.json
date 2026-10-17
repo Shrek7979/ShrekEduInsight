@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-10-17T09:16:00.738Z",
+  "updatedAt": "2026-10-17T09:58:13.705Z",
   "items": [
+    {
+      "id": "631563dbd9f4",
+      "kind": "news",
+      "lang": "ko",
+      "title": "미래 세대 깨울 원자력 교육, 과학교사들이 먼저 나섰다",
+      "summary": "▲ 17일(토) 광교중학교 과학실에서 열린 원자력 특강에서 카이스트 최성민 교수가 '미래세대 에너지…",
+      "detail": "▲ 17일(토) 광교중학교 과학실에서 열린 원자력 특강에서 카이스트 최성민 교수가 '미래세대 에너지 교육을 위한 과학교사 대상 원자력 에너지 특강'을 진행하고 있다. 미래 세대를 위한 올바른 에너지 교육의 방향성을 모색하기 위해 과학교사들이 함께…",
+      "link": "https://www.esnews.kr/news/articleView.html?idxno=6855",
+      "source": "esnews",
+      "image": "http://www.bing.com/th?id=ONUT.1L21sj8jndxUMGN7XlUTdw&pid=News",
+      "category": "교육",
+      "publishedAt": "2026-10-16T18:34:00.000Z",
+      "collectedAt": "2026-10-17T09:58:13.705Z",
+      "thumb": "/thumbs/631563dbd9f4.jpg"
+    },
+    {
+      "id": "e563007ba454",
+      "kind": "news",
+      "lang": "ko",
+      "title": "충남대, 수소 생산 전압 낮추는 신촉매 개발···세계 1위 학술지에 실렸다",
+      "summary": "충남대학교 화학과 이재범 교수 연구팀이 폴란드과학아카데미 연구진과 함께 수소 생산에 필요한 에너지를…",
+      "detail": "충남대학교 화학과 이재범 교수 연구팀이 폴란드과학아카데미 연구진과 함께 수소 생산에 필요한 에너지를 줄이는 고성능 전기화학 촉매를 개발했습니다. 기존 물 전기분해 방식은 수소를 만드는 데 전기에너지가 많이 든다는 한계가 있었습니다.연구팀은 코발트…",
+      "link": "https://www.paxetv.com/news/articleView.html?idxno=284404",
+      "source": "팍스경제TV",
+      "image": "http://www.bing.com/th?id=ONUT.tgnc4TpVmAJGiBlZrlNO_g&pid=News",
+      "category": "소재·에너지",
+      "publishedAt": "2026-10-16T17:00:00.000Z",
+      "collectedAt": "2026-10-17T09:58:13.705Z",
+      "thumb": "/thumbs/e563007ba454.jpg"
+    },
     {
       "id": "72ebd0ec82b3",
       "kind": "news",
@@ -54,7 +84,7 @@
       "publishedAt": "2026-10-16T22:02:57.000Z",
       "collectedAt": "2026-10-17T09:16:00.738Z",
       "titleKo": "이 자석 기계는 무섭습니다",
-      "summaryKo": "꼭 만들어 봐야 할 기계 중 하나인데..",
+      "summaryKo": "꼭 만들어 봐야 할 기계 중 하나인데.",
       "translator": "google",
       "detailKo": "이것은 네오디뮴 자석을 만드는 데 필요한 기계 중 하나인데 실제로는 좀 무섭습니다.",
       "thumb": "/thumbs/83a928c55956.jpg"
@@ -2450,39 +2480,6 @@
       "publishedAt": "2026-10-13T08:58:23.000Z",
       "collectedAt": "2026-10-13T09:57:07.642Z",
       "thumb": "/thumbs/84fb7e34edc0.png"
-    },
-    {
-      "id": "85861ac39218",
-      "kind": "video",
-      "lang": "en",
-      "title": "Breathing Perfluorobutane(Live)",
-      "summary": "Featuring @theCodyReeder -Filmed at OpenSauce 2023",
-      "link": "https://www.youtube.com/shorts/NVh-Cjv6Nic",
-      "source": "Explosions&Fire",
-      "image": "https://i3.ytimg.com/vi/NVh-Cjv6Nic/hqdefault.jpg",
-      "views": 10759,
-      "category": "인기",
-      "publishedAt": "2026-10-13T02:53:39.000Z",
-      "collectedAt": "2026-10-13T09:57:07.642Z",
-      "titleKo": "호흡하는 퍼플루오로부탄(Live)",
-      "summaryKo": "@theCodyReeder 출연 - OpenSauce 2023에서 촬영됨",
-      "translator": "google",
-      "thumb": "/thumbs/85861ac39218.jpg"
-    },
-    {
-      "id": "170814af7f41",
-      "kind": "news",
-      "lang": "ko",
-      "title": "국립부경대, 단일 고분자반도체로 ‘3진 논리소자’ 개발…차세대 컴퓨팅 기술 기대",
-      "summary": "국립부경대학교 연구진이 하나의 고분자반도체만으로 세 가지 논리 상태를 구현하는 기술을 개발했다",
-      "detail": "국립부경대학교 연구진이 하나의 고분자반도체만으로 세 가지 논리 상태를 구현하는 기술을 개발했다. 기존 이진 논리 기반 반도체의 한계를 보완하고 차세대 저전력 컴퓨팅 기술에 활용할 수 있을 것으로 기대된다. 국립부경대는 이지열 공과대학…",
-      "link": "https://www.viva100.com/article/20261013501199",
-      "source": "브릿지경제",
-      "image": "http://www.bing.com/th?id=ONUT.-fAdERJDwVufsg0XffJ-vg&pid=News",
-      "category": "소재·에너지",
-      "publishedAt": "2026-10-12T20:45:00.000Z",
-      "collectedAt": "2026-10-13T09:57:07.642Z",
-      "thumb": "/thumbs/170814af7f41.jpg"
     }
   ]
 }

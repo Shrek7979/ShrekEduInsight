@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-16T19:01:57.174Z",
+  "updatedAt": "2026-10-17T10:02:08.932Z",
   "items": [
+    {
+      "id": "fb-254afb431c40",
+      "kind": "video",
+      "lang": "en",
+      "title": "Working computationally with small ligands?",
+      "summary": "Use function MoleculeView and get interactive molecular…",
+      "link": "https://www.facebook.com/reel/2573194659859432/",
+      "source": "Facebook Wolfram Research",
+      "category": "인기",
+      "publishedAt": "2026-10-16T20:01:47.593Z",
+      "thumb": "/social/fb/fb-254afb431c40.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-17T10:02:08.932Z",
+      "titleKo": "작은 리간드를 사용하여 계산 작업을 하시나요?",
+      "summaryKo": "MoleculeView 함수를 사용하여 대화형 분자를 얻으세요…",
+      "translator": "google"
+    },
     {
       "id": "fb-6d784b052af7",
       "kind": "news",
