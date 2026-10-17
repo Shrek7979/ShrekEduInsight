@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T21:04:09.614Z",
+  "updatedAt": "2026-10-17T21:59:28.977Z",
   "items": [
     {
       "id": "fb-5d4cbacf8075",
@@ -19,23 +19,6 @@
       "translator": "google"
     },
     {
-      "id": "fb-f28ce4b5b866",
-      "kind": "news",
-      "lang": "en",
-      "title": "Ignacio Cirac, quantum pioneer and winner of the IOP's Isaac Newton Medal, is our podcast guest",
-      "summary": "",
-      "link": "https://www.facebook.com/physicsworld/posts/pfbid0NQNZvNfdap6YpGv78GCxUd54hY2Q4CHrix4XtxeJxYJXFGnKTtX7EjeLVUkHZV36l",
-      "source": "Facebook Physics World",
-      "category": "인기",
-      "publishedAt": "2026-10-16T04:53:07.472Z",
-      "thumb": "/social/fb/fb-f28ce4b5b866.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-17T04:53:52.793Z",
-      "titleKo": "양자 개척자이자 IOP의 Isaac Newton 메달 수상자인 Ignacio Cirac이 팟캐스트 게스트입니다.",
-      "summaryKo": "",
-      "translator": "google"
-    },
-    {
       "id": "fb-36a23643284d",
       "kind": "news",
       "lang": "en",
@@ -49,6 +32,23 @@
       "refs": [],
       "collectedAt": "2026-10-16T22:00:03.240Z",
       "titleKo": "양자 시스템은 이를 보호하는 환경만큼 강력합니다.",
+      "summaryKo": "",
+      "translator": "google"
+    },
+    {
+      "id": "fb-dc5832fe295a",
+      "kind": "news",
+      "lang": "en",
+      "title": "Ignacio Cirac, quantum pioneer and winner of the IOP's Isaac Newton Medal, is our podcast guest",
+      "summary": "",
+      "link": "https://www.facebook.com/physicsworld/posts/pfbid02SFpH73bTSGZmh4rqVsvMyTmrvzvoZBRKQwEcPY3pzVuuTJyjLVZFBfUzqCYauzUAl",
+      "source": "Facebook Physics World",
+      "category": "인기",
+      "publishedAt": "2026-10-15T21:58:43.158Z",
+      "thumb": "/social/fb/fb-dc5832fe295a.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-17T21:59:28.977Z",
+      "titleKo": "양자 개척자이자 IOP의 Isaac Newton 메달 수상자인 Ignacio Cirac이 팟캐스트 게스트입니다.",
       "summaryKo": "",
       "translator": "google"
     },

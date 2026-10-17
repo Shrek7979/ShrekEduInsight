@@ -1,6 +1,25 @@
 {
-  "updatedAt": "2026-10-17T21:02:02.584Z",
+  "updatedAt": "2026-10-17T21:57:03.061Z",
   "items": [
+    {
+      "id": "6f3cb6de5588",
+      "kind": "video",
+      "lang": "en",
+      "title": "Newest Level Ups in the Animal Kingdom | Lindsay Nikole",
+      "summary": "",
+      "detail": "",
+      "link": "https://www.youtube.com/watch?v=fd-NCY1-n0Q",
+      "source": "Lindsay Nikole",
+      "image": "https://i3.ytimg.com/vi/fd-NCY1-n0Q/hqdefault.jpg",
+      "views": 1069612,
+      "category": "인기",
+      "publishedAt": "2026-09-19T20:00:25.000Z",
+      "collectedAt": "2026-10-17T21:57:03.061Z",
+      "titleKo": "동물의 왕국의 최신 레벨 업 | 린제이 니콜",
+      "summaryKo": "",
+      "translator": "google",
+      "thumb": "/thumbs/6f3cb6de5588.jpg"
+    },
     {
       "id": "1a1f1db95921",
       "kind": "news",
@@ -2435,26 +2454,6 @@
       "collectedAt": "2026-10-15T11:20:56.675Z",
       "summaryKo": "",
       "thumb": "/thumbs/4ed4465a9581.jpg"
-    },
-    {
-      "id": "697c582dcfc6",
-      "kind": "video",
-      "lang": "en",
-      "title": "Evolutionary Biologist Reacts to Creationist Arguments",
-      "summary": "Biological evolution is broadly accepted by the…",
-      "detail": "Biological evolution is broadly accepted by the scientific community. That said, a large number of people and organizations, especially the…",
-      "link": "https://www.youtube.com/watch?v=m5ByjFBv9Q0",
-      "source": "Clint's Reptiles",
-      "image": "https://i2.ytimg.com/vi/m5ByjFBv9Q0/hqdefault.jpg",
-      "views": 408081,
-      "category": "인기",
-      "publishedAt": "2026-09-26T12:00:11.000Z",
-      "collectedAt": "2026-10-15T11:20:56.675Z",
-      "titleKo": "진화생물학자는 창조론자들의 주장에 반응한다",
-      "summaryKo": "생물학적 진화는 널리 받아들여지고 있습니다…",
-      "translator": "google",
-      "detailKo": "생물학적 진화는 과학계에서 널리 받아들여지고 있습니다. 즉, 많은 사람과 조직, 특히…",
-      "thumb": "/thumbs/697c582dcfc6.jpg"
     }
   ]
 }

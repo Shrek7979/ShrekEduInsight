@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-17T21:02:02.626Z",
+  "updatedAt": "2026-10-17T21:57:03.148Z",
   "items": [
+    {
+      "id": "bsky-3mxr7a5ucwb22",
+      "kind": "news",
+      "lang": "en",
+      "title": "What makes apples sweet or tart?",
+      "summary": "Learn more about the chemistry of apple flavour with…",
+      "link": "https://bsky.app/profile/compoundchem.com/post/3mxr7a5ucwb22",
+      "source": "Bluesky Compound Interest",
+      "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:elgkp22tjscka4ij6kqibtvt/bafkreicf43s3ne6jukoi46j7rhmet2pvsrbhq5z3bnyy5innbml2whxhdi",
+      "likes": "71",
+      "category": "인기",
+      "publishedAt": "2026-10-13T14:04:49.407Z",
+      "collectedAt": "2026-10-17T21:57:03.148Z",
+      "titleKo": "사과를 달콤하거나 시큼하게 만드는 것은 무엇입니까?",
+      "summaryKo": "다음을 통해 사과 맛의 화학적 성질에 대해 자세히 알아보세요",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3mxr7a5ucwb22.webp"
+    },
     {
       "id": "bsky-3my3saibeq227",
       "kind": "news",
@@ -2471,23 +2489,6 @@
       "publishedAt": "2026-10-13T02:12:00.000Z",
       "collectedAt": "2026-10-13T15:57:23.797Z",
       "thumb": "/thumbs/993a6c02fc54.jpg"
-    },
-    {
-      "id": "bsky-3mxr7fxbuus26",
-      "kind": "news",
-      "lang": "en",
-      "title": "More gains, less hallucinations – how AI is taking on retrosynthesis.",
-      "summary": "Microsoft’s split-personality retrosynthetic AI is a…",
-      "link": "https://bsky.app/profile/chemistryworld.com/post/3mxr7fxbuus26",
-      "source": "Bluesky Chemistry World",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6v2nwmzy4dozxcftobscktc3/bafkreiamq5idhxzk7w3zw2bh4mh75p4cgepn2skyg6cl6ezmrt45qlrkfe",
-      "category": "인기",
-      "publishedAt": "2026-10-13T14:08:04.103Z",
-      "collectedAt": "2026-10-13T14:57:29.285Z",
-      "titleKo": "더 많은 이득, 더 적은 환각 - AI가 역합성을 수행하는 방법.",
-      "summaryKo": "마이크로소프트의 분할 성격 역합성 AI는…",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mxr7fxbuus26.webp"
     }
   ]
 }
