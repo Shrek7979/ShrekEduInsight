@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-10-17T13:05:36.958Z",
+  "updatedAt": "2026-10-17T16:23:16.501Z",
   "items": [
+    {
+      "id": "82d33a0722c1",
+      "kind": "news",
+      "lang": "en",
+      "title": "‘Exciting time to be a scientist’: Q&A with AISES’s 2026 Ely S. Parker Award winner",
+      "summary": "Mary Jo Ondrechen, a distinguished professor of…",
+      "detail": "Mary Jo Ondrechen, a distinguished professor of chemistry, says scientific fields are moving in an exciting direction",
+      "link": "https://cen.acs.org/acs-news/Exciting-time-scientist-Qamp-AISESs/104/web/2026/10?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
+      "source": "C&EN",
+      "category": "해외",
+      "publishedAt": "2026-10-17T16:00:02.000Z",
+      "collectedAt": "2026-10-17T16:23:16.501Z",
+      "titleKo": "'과학자가 되기 위한 신나는 시간': AISES의 2026년 Ely S. Parker Award 수상자와의 Q&A",
+      "summaryKo": "메리 조 온드레첸(Mary Jo Ondrechen) 교수는…",
+      "translator": "google",
+      "detailKo": "저명한 화학 교수인 Mary Jo Ondrechen은 과학 분야가 흥미로운 방향으로 움직이고 있다고 말합니다.",
+      "thumb": "/thumbs/82d33a0722c1.webp"
+    },
+    {
+      "id": "bsky-3my3d3lza7227",
+      "kind": "news",
+      "lang": "en",
+      "title": "Medicinal chemists and pharmacologists have shed a lot of solvent in the quest to develop a painkiller that can match opioids’…",
+      "summary": "effectiveness without their unwelcome side effects",
+      "link": "https://bsky.app/profile/cenmag.bsky.social/post/3my3d3lza7227",
+      "source": "Bluesky C&EN",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u4u4yeik2uube2g6ov7wr35p/bafkreia6muk5flalzne4vs54j7d5df7bprqm4335fvkc3clp6qzx4qa7i4",
+      "likes": "6",
+      "category": "인기",
+      "publishedAt": "2026-10-17T14:40:29.093Z",
+      "collectedAt": "2026-10-17T16:23:16.501Z",
+      "titleKo": "의약화학자와 약리학자들은 오피오이드에 필적할 수 있는 진통제를 개발하기 위해 많은 용매를 투입했습니다.",
+      "summaryKo": "달갑지 않은 부작용이 없는 효율성",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3my3d3lza7227.webp"
+    },
     {
       "id": "85861ac39218",
       "kind": "video",
@@ -2455,35 +2491,6 @@
       "summaryKo": "통제할 수 없는 지옥에서 연기가 타오르면 산불…",
       "translator": "google",
       "thumb": "/thumbs/bsky-3mxqzcvjyzk2a.webp"
-    },
-    {
-      "id": "bfc5a1ec255b",
-      "kind": "news",
-      "lang": "ko",
-      "title": "경남과학고 영재학교 전환에 찬반 목소리",
-      "summary": "지부는 경남 교원 1100명을 대상으로 6~12일 진행한 인식조사 결과를 들어 영재학교 전환과…",
-      "detail": "지부는 경남 교원 1100명을 대상으로 6~12일 진행한 인식조사 결과를 들어 영재학교 전환과 특목고 확대를 비판했다. 조사 결과를 보면, 응답자의 52.5%가 과학고 신설에 반대, 43.7%가 찬성했다. 영재학교 전환에는 찬성이 45.4%, 반대가…",
-      "link": "https://www.idomin.com/news/articleView.html?idxno=2016853",
-      "source": "경남도민일보",
-      "image": "http://www.bing.com/th?id=ONUT.6rZ0LSCU_Qg67osRdzc0EA&pid=News",
-      "category": "교육",
-      "publishedAt": "2026-10-12T20:55:00.000Z",
-      "collectedAt": "2026-10-13T12:57:41.594Z",
-      "thumb": "/thumbs/bfc5a1ec255b.jpg"
-    },
-    {
-      "id": "fde401402509",
-      "kind": "news",
-      "lang": "ko",
-      "title": "화학물질 안전 관련법 개정사항 기업에 알린다...권역별 설명회 개최",
-      "summary": "화학물질 안전 관련 법 개정 사항 등을 기업 담당자들에게 직접 설명하는 자리가…",
-      "detail": "화학물질 안전 관련 법 개정 사항 등을 기업 담당자들에게 직접 설명하는 자리가 마련됩니다.기후에너지환경부와 한국환경공단은 산업계의 화학물질 안전 관련 제도 이행을 지원하고 기업 담당자의 실무 역량을 강화하기 위해 오는 14일부터 23일까지 전국 3개…",
-      "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4111971",
-      "source": "BBS NEWS",
-      "category": "환경·안전",
-      "publishedAt": "2026-10-12T21:58:00.000Z",
-      "collectedAt": "2026-10-13T10:57:59.436Z",
-      "thumb": "/thumbs/fde401402509.jpg"
     }
   ]
 }
