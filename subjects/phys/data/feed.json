@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-10-17T09:58:13.798Z",
+  "updatedAt": "2026-10-17T13:05:37.064Z",
   "items": [
+    {
+      "id": "27a84990f679",
+      "kind": "news",
+      "lang": "ko",
+      "title": "‘양자 우위’ 주장한 中 양자컴퓨터…일반 컴퓨터로 흉내 냈더니 점수 더 높았다 [후암동 논문 연구소]",
+      "summary": "양자컴퓨터가 기존 컴퓨터로는 사실상 풀 수 없는 문제를 풀어냈다는 ‘양자 우위’ 발표가 최근 몇 년…",
+      "detail": "양자컴퓨터가 기존 컴퓨터로는 사실상 풀 수 없는 문제를 풀어냈다는 ‘양자 우위’ 발표가 최근 몇 년 새 잇따랐다. 중국과학기술대의 광양자컴퓨터 ‘지우장(Jiuzhang)’도 그 가운데 하나다. 그런데 지우장이 풀어낸 계산을 그래픽처리장치(GPU)…",
+      "link": "https://biz.heraldcorp.com/article/10905312",
+      "source": "헤럴드경제",
+      "image": "http://www.bing.com/th?id=ONUT.eTx4hSxROejOp3s6mpaN_A&pid=News",
+      "category": "양자·첨단",
+      "publishedAt": "2026-10-16T13:10:00.000Z",
+      "collectedAt": "2026-10-17T13:05:37.064Z",
+      "thumb": "/thumbs/27a84990f679.jpg"
+    },
+    {
+      "id": "98a21c6a414f",
+      "kind": "video",
+      "lang": "en",
+      "title": "The Absurd Engineering Behind the Internet",
+      "summary": "",
+      "detail": "",
+      "link": "https://www.youtube.com/watch?v=NiCgcUTL9_Q",
+      "source": "Veritasium",
+      "image": "https://i3.ytimg.com/vi/NiCgcUTL9_Q/hqdefault.jpg",
+      "views": 8291444,
+      "category": "인기",
+      "publishedAt": "2026-10-12T17:11:45.000Z",
+      "collectedAt": "2026-10-17T13:05:37.064Z",
+      "titleKo": "인터넷 뒤에 숨은 터무니없는 엔지니어링",
+      "summaryKo": "",
+      "translator": "google",
+      "thumb": "/thumbs/98a21c6a414f.jpg"
+    },
     {
       "id": "9d98898e38a6",
       "kind": "video",
@@ -2445,41 +2479,6 @@
       "summaryKo": "왜 그렇게 많은 충돌이 필요한가요?",
       "translator": "google",
       "thumb": "/thumbs/bsky-3mxglpllbg225.jpg"
-    },
-    {
-      "id": "bsky-3mxrzgap45g2k",
-      "kind": "news",
-      "lang": "en",
-      "title": "In Physical Review Accelerators and Beams, researchers induce and measure “beam-beam crabbing,” when one colliding proton beam subtly tilts…",
-      "summary": "the other — an important effect for high-luminosity…",
-      "link": "https://bsky.app/profile/apsphysics.aps.org/post/3mxrzgap45g2k",
-      "source": "Bluesky APS Physics",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:heemoqq7cssrx5ixyxwd52y6/bafkreibnwahwhbmzawijyyy5irclkwh3hlnroag7an2xbgpehcwhnuzvzy",
-      "category": "인기",
-      "publishedAt": "2026-10-13T21:53:31.239Z",
-      "collectedAt": "2026-10-13T21:57:28.241Z",
-      "titleKo": "Physical Review Accelerators and Beams에서 연구자들은 하나의 충돌하는 양성자 빔이 미묘하게 기울어질 때 \"빔-빔 크랩빙\"을 유도하고 측정합니다.",
-      "summaryKo": "다른 하나는 고휘도에 중요한 효과입니다…",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mxrzgap45g2k.png"
-    },
-    {
-      "id": "a7e0167360d7",
-      "kind": "news",
-      "lang": "en",
-      "title": "Engineering the unknown: building vacuum and cryogenic systems for the quantum frontier",
-      "summary": "Qubit decoherence remains the primary barrier to many…",
-      "detail": "Qubit decoherence remains the primary barrier to many practical quantum devices. This is why vacuum and cryogenic equipment scaling are key…",
-      "link": "https://physicsworld.com/a/engineering-the-unknown-building-vacuum-and-cryogenic-systems-for-the-quantum-frontier/",
-      "source": "Physics World",
-      "category": "해외",
-      "publishedAt": "2026-10-13T16:39:05.000Z",
-      "collectedAt": "2026-10-13T16:57:40.570Z",
-      "titleKo": "미지의 엔지니어링: 양자 개척을 위한 진공 및 극저온 시스템 구축",
-      "summaryKo": "큐비트 결맞음은 여전히 ​​많은 사람들에게 주요 장벽으로 남아 있습니다…",
-      "translator": "google",
-      "detailKo": "큐비트 결맞음은 많은 실제 양자 장치에 대한 주요 장벽으로 남아 있습니다. 이것이 바로 진공 및 극저온 장비 스케일링이 중요한 이유입니다…",
-      "thumb": "/thumbs/a7e0167360d7.jpg"
     }
   ]
 }

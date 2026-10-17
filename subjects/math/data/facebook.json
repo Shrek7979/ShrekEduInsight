@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-17T10:02:08.932Z",
+  "updatedAt": "2026-10-17T13:10:05.962Z",
   "items": [
+    {
+      "id": "fb-25ad02fde3d1",
+      "kind": "news",
+      "lang": "en",
+      "title": "In the 17th century, Abraham de Moivre fled from France to England due to anti-Protestant persecution.",
+      "summary": "To help pay his bills, he provided London gamblers with…",
+      "link": "https://www.facebook.com/QuantaNews/posts/pfbid0G7Pib4LpyKDrzztssyWR6r5eicFkSqRfMyQqDC1hBMinS8Y1gSngKC2whaHdSyH4l",
+      "source": "Facebook Quanta Magazine",
+      "category": "인기",
+      "publishedAt": "2026-10-16T20:09:55.574Z",
+      "thumb": "/social/fb/fb-25ad02fde3d1.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-17T13:10:05.962Z",
+      "titleKo": "17세기 아브라함 드 무아브르는 반개신교 박해를 피해 프랑스에서 영국으로 망명했습니다.",
+      "summaryKo": "청구서 지불을 돕기 위해 그는 런던 도박꾼들에게 다음을 제공했습니다.",
+      "translator": "google"
+    },
     {
       "id": "fb-254afb431c40",
       "kind": "video",
@@ -19,18 +36,18 @@
       "translator": "google"
     },
     {
-      "id": "fb-6d784b052af7",
+      "id": "fb-12a1193891f6",
       "kind": "news",
       "lang": "en",
       "title": "Teaching chemistry?",
       "summary": "Bring molecular representation, analysis and…",
-      "link": "https://www.facebook.com/wolframresearch/posts/pfbid02EHEobcCdKvv49S1bMkCqkxxhbQXd6fz72C6EJnvTVEJwy5BzRWmfrvmmvfT9yeggl",
+      "link": "https://www.facebook.com/wolframresearch/posts/pfbid0AFe67o14esiwEVq1oAGrZ75YsionhBaHzJ1AStDdFK7bkYrVCa385jXLHw2nb1yVl",
       "source": "Facebook Wolfram Research",
       "category": "인기",
-      "publishedAt": "2026-10-15T17:19:12.076Z",
-      "thumb": "/social/fb/fb-6d784b052af7.jpg",
+      "publishedAt": "2026-10-16T13:09:44.398Z",
+      "thumb": "/social/fb/fb-12a1193891f6.jpg",
       "refs": [],
-      "collectedAt": "2026-10-16T11:19:34.095Z",
+      "collectedAt": "2026-10-17T13:10:05.962Z",
       "titleKo": "화학을 가르치나요?",
       "summaryKo": "분자 표현, 분석 및…",
       "translator": "google"

@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-17T09:58:13.705Z",
+  "updatedAt": "2026-10-17T13:05:36.958Z",
   "items": [
+    {
+      "id": "85861ac39218",
+      "kind": "video",
+      "lang": "en",
+      "title": "Breathing Perfluorobutane(Live)",
+      "summary": "Featuring @theCodyReeder -Filmed at OpenSauce 2023",
+      "link": "https://www.youtube.com/shorts/NVh-Cjv6Nic",
+      "source": "Explosions&Fire",
+      "image": "https://i3.ytimg.com/vi/NVh-Cjv6Nic/hqdefault.jpg",
+      "views": 83265,
+      "category": "인기",
+      "publishedAt": "2026-10-13T02:53:39.000Z",
+      "collectedAt": "2026-10-17T13:05:36.958Z",
+      "titleKo": "호흡하는 퍼플루오로부탄(Live)",
+      "summaryKo": "@theCodyReeder 출연 - OpenSauce 2023에서 촬영됨",
+      "translator": "google",
+      "thumb": "/thumbs/85861ac39218.jpg"
+    },
     {
       "id": "631563dbd9f4",
       "kind": "news",
@@ -84,7 +102,7 @@
       "publishedAt": "2026-10-16T22:02:57.000Z",
       "collectedAt": "2026-10-17T09:16:00.738Z",
       "titleKo": "이 자석 기계는 무섭습니다",
-      "summaryKo": "꼭 만들어 봐야 할 기계 중 하나인데.",
+      "summaryKo": "꼭 만들어 봐야 할 기계 중 하나인데",
       "translator": "google",
       "detailKo": "이것은 네오디뮴 자석을 만드는 데 필요한 기계 중 하나인데 실제로는 좀 무섭습니다.",
       "thumb": "/thumbs/83a928c55956.jpg"
@@ -2466,20 +2484,6 @@
       "publishedAt": "2026-10-12T21:58:00.000Z",
       "collectedAt": "2026-10-13T10:57:59.436Z",
       "thumb": "/thumbs/fde401402509.jpg"
-    },
-    {
-      "id": "84fb7e34edc0",
-      "kind": "news",
-      "lang": "ko",
-      "title": "서울과기대 글로벌한국어문화학과 김지혜 교수, 울란바타르 세종학당서 한글날 100주년 특강",
-      "summary": "세종학당의 시작점인 울란바타르 1 세종학당에서 몽골 현지 대학생과 한국어 교원들이 한글날을 맞아…",
-      "detail": "세종학당의 시작점인 울란바타르 1 세종학당에서 몽골 현지 대학생과 한국어 교원들이 한글날을 맞아 특별한 만남을 가졌다. 서울과학기술대 글로벌한국어문화학과 김지혜 교수는 지난 10월 8일 몽골 국제울란바타르대 내 울란바타르 1 세종학당에서 한글날 기념…",
-      "link": "https://www.kyosu.net/news/articleView.html?idxno=211205",
-      "source": "교수신문",
-      "category": "교육",
-      "publishedAt": "2026-10-13T08:58:23.000Z",
-      "collectedAt": "2026-10-13T09:57:07.642Z",
-      "thumb": "/thumbs/84fb7e34edc0.png"
     }
   ]
 }
