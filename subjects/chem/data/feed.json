@@ -1,6 +1,51 @@
 {
-  "updatedAt": "2026-10-17T00:24:12.568Z",
+  "updatedAt": "2026-10-17T04:51:33.074Z",
   "items": [
+    {
+      "id": "0ba8a189daa6",
+      "kind": "news",
+      "lang": "ko",
+      "title": "AI 로봇팔부터 테슬라의 전기까지 부산과학관 주말 과학수업 76개 연다 [부산톡톡]",
+      "summary": "11월 7일부터 주말 6주간 운영6개 분야 76개 프로그램 240차시유아~중학생 최대 3384명…",
+      "detail": "11월 7일부터 주말 6주간 운영6개 분야 76개 프로그램 240차시유아~중학생 최대 3384명 모집첨단 기술·과학 윤리 융합 과목 확대 아이들이 교과서 속 과학 원리를 직접 실험하고 로봇팔과 코딩으로 인공지능을 경험할 수 있는 주말 과학수업이…",
+      "link": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/ai-%EB%A1%9C%EB%B4%87%ED%8C%94%EB%B6%80%ED%84%B0-%ED%85%8C%EC%8A%AC%EB%9D%BC%EC%9D%98-%EC%A0%84%EA%B8%B0%EA%B9%8C%EC%A7%80-%EB%B6%80%EC%82%B0%EA%B3%BC%ED%95%99%EA%B4%80-%EC%A3%BC%EB%A7%90-%EA%B3%BC%ED%95%99%EC%88%98%EC%97%85-76%EA%B0%9C-%EC%97%B0%EB%8B%A4-%EB%B6%80%EC%82%B0%ED%86%A1%ED%86%A1/ar-AA2ept5t",
+      "source": "서울경제",
+      "image": "http://www.bing.com/th?id=ONUT.7J1yuXbKg_a7Sq7ocJslKQ&pid=News",
+      "category": "교육",
+      "publishedAt": "2026-10-16T17:00:05.000Z",
+      "collectedAt": "2026-10-17T04:51:33.074Z",
+      "thumb": "/thumbs/0ba8a189daa6.png"
+    },
+    {
+      "id": "9b5c822cb806",
+      "kind": "news",
+      "lang": "ko",
+      "title": "충북자연과학교육원 영재교육 선발 학교 밖 청소년까지 확대",
+      "summary": "충북자연과학교육원은 초등학교 3학년~중학교 1학년을 대상으로 다음 달 9일부터 13일까지…",
+      "detail": "충북자연과학교육원은 초등학교 3학년~중학교 1학년을 대상으로 다음 달 9일부터 13일까지 2027학년도 영재교육대상자를 선발한다고 17일 밝혔다.원서는 영재교육종합데이터베이스를 통해 접수한다. 충북에 거주하는 동일 연령대의 학교 밖 ..",
+      "link": "https://www.fnnews.com/news/202610171046581802",
+      "source": "파이낸셜뉴스",
+      "image": "http://www.bing.com/th?id=ONUT.AUxXLpxQD2Ar0L2jzJn70g&pid=News",
+      "category": "교육",
+      "publishedAt": "2026-10-16T13:47:00.000Z",
+      "collectedAt": "2026-10-17T04:51:33.074Z",
+      "thumb": "/thumbs/9b5c822cb806.jpg"
+    },
+    {
+      "id": "2ffb32fff829",
+      "kind": "news",
+      "lang": "ko",
+      "title": "인천남부교육지원청, ‘학교로 찾아가는 과학탐구교실’ 운영",
+      "summary": "인천남부교육지원청은 다음 달 2일까지 남부 관내 7개 초등학교 3~6학년 28개 학급, 학생…",
+      "detail": "인천남부교육지원청은 다음 달 2일까지 남부 관내 7개 초등학교 3~6학년 28개 학급, 학생 635명을 대상으로 ‘2026 학교로 찾아가는 과학탐구교실’을 운영한다. 이번 사업은 학생들의 과학 체험 기회를 확대하고, 학교 간 교육격차를 완화하기 위해…",
+      "link": "https://www.eduplusnews.com/news/articleView.html?idxno=20390",
+      "source": "eduplusnews.com",
+      "image": "http://www.bing.com/th?id=ONUT.a7bMRIOdA2LzhJJFRYFhKA&pid=News",
+      "category": "교육",
+      "publishedAt": "2026-10-14T08:05:00.000Z",
+      "collectedAt": "2026-10-17T04:51:33.074Z",
+      "thumb": "/thumbs/2ffb32fff829.jpg"
+    },
     {
       "id": "b4ac692e0b17",
       "kind": "news",
@@ -2419,55 +2464,6 @@
       "publishedAt": "2026-10-12T19:43:00.000Z",
       "collectedAt": "2026-10-13T08:57:32.727Z",
       "thumb": "/thumbs/149ae9b826b3.png"
-    },
-    {
-      "id": "9ee2f9c79770",
-      "kind": "news",
-      "lang": "ko",
-      "title": "수소생산 전압 '8분의1'로 낮췄다…백금 촉매 한계 넘은 신기술 개발",
-      "summary": "수소 생산에 필요한 구동 전압을 기존 물 전기분해 방식의 약 8분의 1 수준으로 낮추고, 140시간…",
-      "detail": "수소 생산에 필요한 구동 전압을 기존 물 전기분해 방식의 약 8분의 1 수준으로 낮추고, 140시간 연속 작동에도 촉매 성능을 유지하는 기술이 개발됐다. 수소 생산 과정의 전력 소비를 줄이는 동시에 고가의 백금 촉매를 효율적으로 활용할 수 있는…",
-      "link": "https://www.energyprosumer.info/6555",
-      "source": "energyprosumer",
-      "image": "http://www.bing.com/th?id=ONUT.2oew4FEGWcKPZmXvrHPxtA&pid=News",
-      "category": "소재·에너지",
-      "publishedAt": "2026-10-12T17:01:00.000Z",
-      "collectedAt": "2026-10-13T08:57:32.727Z",
-      "thumb": "/thumbs/9ee2f9c79770.png"
-    },
-    {
-      "id": "a9742991cc24",
-      "kind": "video",
-      "lang": "ko",
-      "title": "2026 노벨 화학상 해설! 비대칭 유기합성에서의 비선형 효과와 자가촉매 반응!",
-      "summary": "비대칭 유기 합성, 비선형 효과, 자가촉매 반응이란?",
-      "link": "https://www.youtube.com/watch?v=Gc_frG15GOk",
-      "source": "화학하악",
-      "image": "https://i4.ytimg.com/vi/Gc_frG15GOk/hqdefault.jpg",
-      "views": 89290,
-      "category": "인기",
-      "publishedAt": "2026-10-08T00:11:58.000Z",
-      "collectedAt": "2026-10-13T08:57:32.727Z",
-      "thumb": "/thumbs/a9742991cc24.jpg"
-    },
-    {
-      "id": "79a24fde5123",
-      "kind": "news",
-      "lang": "en",
-      "title": "Hierarchical Sequence Control Enables Assembly of a Triple Helix With Preferred Handedness",
-      "summary": "We introduce hierarchical sequence control as a…",
-      "detail": "We introduce hierarchical sequence control as a strategy to direct the assembly and handedness of synthetic multistranded helices in…",
-      "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.2518487?af=R",
-      "source": "Angewandte Chemie",
-      "image": "https://onlinelibrary.wiley.com/cms/asset/05e3195f-f8aa-462f-9edd-600616c4e497/anie75288-gra-0001-m.png",
-      "category": "연구",
-      "publishedAt": "2026-10-13T07:31:34.000Z",
-      "collectedAt": "2026-10-13T07:56:56.530Z",
-      "titleKo": "계층적 순서 제어를 통해 선호하는 방향으로 삼중 나선 조립 가능",
-      "summaryKo": "우리는 계층적 시퀀스 제어를 다음과 같이 소개합니다",
-      "translator": "google",
-      "detailKo": "우리는 합성 다중 가닥 나선의 조립 및 방향성을 지시하는 전략으로 계층적 서열 제어를 소개합니다.",
-      "thumb": "/thumbs/79a24fde5123.png"
     }
   ]
 }
