@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-10-17T16:23:16.501Z",
+  "updatedAt": "2026-10-17T18:43:28.250Z",
   "items": [
+    {
+      "id": "bsky-3my3li366xs27",
+      "kind": "news",
+      "lang": "en",
+      "title": "Copernic Catalysts, one of C&EN's 10Startups To Watch, deploys AI to discover better catalysts for making chemicals: chemsky 🧪",
+      "summary": "10 Start-Ups to Watch 2026: Copernic turns to AI to…",
+      "link": "https://bsky.app/profile/cenmag.bsky.social/post/3my3li366xs27",
+      "source": "Bluesky C&EN",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u4u4yeik2uube2g6ov7wr35p/bafkreigvflk5gowv3ecljpiulcn44zloazwfcqlksuqbdbrpa353jsjhau",
+      "likes": "2",
+      "category": "인기",
+      "publishedAt": "2026-10-17T17:10:37.571Z",
+      "collectedAt": "2026-10-17T18:43:28.250Z",
+      "titleKo": "C&EN의 주목할만한 10개 스타트업 중 하나인 Copernic Catalysts는 AI를 활용하여 화학 물질 제조를 위한 더 나은 촉매제인 켐스키를 발견합니다. 🧪",
+      "summaryKo": "2026년 주목해야 할 10가지 스타트업: Copernic이 AI로 전환하여…",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3my3li366xs27.webp"
+    },
+    {
+      "id": "fd35301c9235",
+      "kind": "news",
+      "lang": "ko",
+      "title": "충북교육청, 2026학년도 충청북도자연과학교육원부설영재교육원 수료식 개최",
+      "summary": "초등학교 4학년부터 중학교 2학년까지...인공지능(AI)·바이오(BIO) 연계 융합교육과장…",
+      "detail": "초등학교 4학년부터 중학교 2학년까지...인공지능(AI)·바이오(BIO) 연계 융합교육과장 강화...융합수학·융합과학 분야 영재교육대상자 152명 수료...2027학년도 학교 밖 청소년까지 선발 확대 김희기 자연과학교육원장 “앞으로도 학생들의…",
+      "link": "https://www.newstnt.com/news/articleView.html?idxno=723489",
+      "source": "뉴스티앤티",
+      "image": "http://www.bing.com/th?id=ONUT.Ak34BAW9qAnXJ8zgPaTa3Q&pid=News",
+      "category": "교육",
+      "publishedAt": "2026-10-17T02:01:00.000Z",
+      "collectedAt": "2026-10-17T18:43:28.250Z",
+      "thumb": "/thumbs/fd35301c9235.png"
+    },
     {
       "id": "82d33a0722c1",
       "kind": "news",
@@ -2455,42 +2488,6 @@
       "summaryKo": "다음을 통해 사과 맛의 화학적 성질에 대해 자세히 알아보세요",
       "translator": "google",
       "thumb": "/thumbs/bsky-3mxr7a5ucwb22.webp"
-    },
-    {
-      "id": "119efb4abccf",
-      "kind": "news",
-      "lang": "en",
-      "title": "Quiz: How much do you know about the chemistry of erasable pens?",
-      "summary": "Test your knowledge about the processes that make these…",
-      "detail": "Test your knowledge about the processes that make these pen inks appear and disappear",
-      "link": "https://cen.acs.org/physical-chemistry/periodic-graphics-quiz-erasable-pens/104/web/2026/10?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
-      "source": "C&EN",
-      "category": "해외",
-      "publishedAt": "2026-10-13T12:59:39.000Z",
-      "collectedAt": "2026-10-13T13:57:46.519Z",
-      "titleKo": "퀴즈: 지울 수 있는 펜의 화학적 성질에 대해 얼마나 알고 있나요?",
-      "summaryKo": "이러한 작업을 수행하는 프로세스에 대한 지식을 테스트해 보세요",
-      "translator": "google",
-      "detailKo": "펜 잉크가 나타나고 사라지는 과정에 대한 지식을 테스트해 보세요.",
-      "thumb": "/thumbs/119efb4abccf.webp"
-    },
-    {
-      "id": "bsky-3mxqzcvjyzk2a",
-      "kind": "news",
-      "lang": "en",
-      "title": "For a few days this summer, millions of people living far from the edge of the wilderness were reminded of the combustive power of…",
-      "summary": "wildfires when smoke from uncontrolled infernos burning…",
-      "link": "https://bsky.app/profile/cenmag.bsky.social/post/3mxqzcvjyzk2a",
-      "source": "Bluesky C&EN",
-      "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:u4u4yeik2uube2g6ov7wr35p/bafkreidb3yrxlelpjj4tlz6fdoqpruv27kkwl36axgljfsw4q4346x76r4",
-      "likes": "2",
-      "category": "인기",
-      "publishedAt": "2026-10-13T12:18:59.158Z",
-      "collectedAt": "2026-10-13T12:57:41.594Z",
-      "titleKo": "이번 여름 며칠 동안 광야의 가장자리에서 멀리 떨어진 곳에 사는 수백만 명의 사람들은…",
-      "summaryKo": "통제할 수 없는 지옥에서 연기가 타오르면 산불…",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3mxqzcvjyzk2a.webp"
     }
   ]
 }

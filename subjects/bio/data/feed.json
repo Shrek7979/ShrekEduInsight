@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-10-17T16:23:16.671Z",
+  "updatedAt": "2026-10-17T18:43:28.256Z",
   "items": [
+    {
+      "id": "fd35301c9235",
+      "kind": "news",
+      "lang": "ko",
+      "title": "충북교육청, 2026학년도 충청북도자연과학교육원부설영재교육원 수료식 개최",
+      "summary": "초등학교 4학년부터 중학교 2학년까지...인공지능(AI)·바이오(BIO) 연계 융합교육과장…",
+      "detail": "초등학교 4학년부터 중학교 2학년까지...인공지능(AI)·바이오(BIO) 연계 융합교육과장 강화...융합수학·융합과학 분야 영재교육대상자 152명 수료...2027학년도 학교 밖 청소년까지 선발 확대 김희기 자연과학교육원장 “앞으로도 학생들의…",
+      "link": "https://www.newstnt.com/news/articleView.html?idxno=723489",
+      "source": "뉴스티앤티",
+      "image": "http://www.bing.com/th?id=ONUT.Ak34BAW9qAnXJ8zgPaTa3Q&pid=News",
+      "category": "교육",
+      "publishedAt": "2026-10-17T02:01:00.000Z",
+      "collectedAt": "2026-10-17T18:43:28.256Z",
+      "thumb": "/thumbs/fd35301c9235.png"
+    },
+    {
+      "id": "08d848e68807",
+      "kind": "news",
+      "lang": "ko",
+      "title": "실험과 AI로 가르친다… 국립부산과학관, 미래 과학교사 직접 키운다",
+      "summary": "과학관은 자연과학과 인공지능 (AI) 2개 분야에서 예비 교육 강사를 모집한다",
+      "detail": "과학관은 자연과학과 인공지능 (AI) 2개 분야에서 예비 교육 강사를 모집한다. 모집 인원은 분야별 20명이다. 2022 개정 교육과정 도입으로 급증한 digital과 탐구 중심 교육 수요에 대응하려는 조치다. 이번 과정은 배형식 과학교육 기관의…",
+      "link": "https://view.asiae.co.kr/article/2026101513423102823",
+      "source": "아시아경제",
+      "image": "http://www.bing.com/th?id=ONUT.-KJMgQvBQN_YRn1_qeciMA&pid=News",
+      "category": "교육",
+      "publishedAt": "2026-10-15T06:42:00.000Z",
+      "collectedAt": "2026-10-17T18:43:28.256Z",
+      "thumb": "/thumbs/08d848e68807.jpg"
+    },
+    {
+      "id": "a2554f24d7e8",
+      "kind": "news",
+      "lang": "ko",
+      "title": "따뜻한 햇살 아래에서 두 볼이 새빨개지는 사과, 부끄핑",
+      "summary": "조금만 부끄러워도 얼굴이 새빨개지는 나는야, 부끄핑 사과!",
+      "detail": "조금만 부끄러워도 얼굴이 새빨개지는 나는야, 부끄핑 사과! 부끄핑 성격 부끄러움을 많이 타는 수줍음쟁이! 따뜻한 햇살 아래에서 쉬는 걸 좋아하지만 막상 햇빛이 환하게 비추면 부끄러워 두 볼이 금세 새빨개져. 낯선 친구나 사람들의 관심과 칭찬 앞에서도…",
+      "link": "https://blog.naver.com/nibr_bio/224439217056?fromRss=true&trackingCode=rss",
+      "source": "네이버 블로그 국립생물자원관",
+      "category": "인기",
+      "publishedAt": "2026-10-12T08:07:17.000Z",
+      "collectedAt": "2026-10-17T18:43:28.256Z",
+      "thumb": "/thumbs/a2554f24d7e8.png"
+    },
     {
       "id": "bsky-3my3hjuefyh2q",
       "kind": "news",
@@ -2419,50 +2463,6 @@
       "summaryKo": "LRRK2는 다음의 조절을 통해 시냅스 기능을 조절합니다",
       "translator": "google",
       "thumb": "/thumbs/bsky-3mxvlvlq76y2n.webp"
-    },
-    {
-      "id": "b0add279ef4a",
-      "kind": "news",
-      "lang": "ko",
-      "title": "\"항암제 내성 막는다\"···POSTECH, 암세포 복구 막는 전략 제시",
-      "summary": "암세포가 항암제로 망가진 DNA를 스스로 복구해 살아남는 길을 막는 치료전략이 나왔다",
-      "detail": "암세포가 항암제로 망가진 DNA를 스스로 복구해 살아남는 길을 막는 치료전략이 나왔다. 연구진은 신약 후보물질과 항체-약물 접합체(ADC)를 함께 사용해 암세포의 DNA 손상을 더 오래 유지하는 효과를 동물모델에서…",
-      "link": "http://www.hellodd.com/news/articleView.html?idxno=113509",
-      "source": "헬로디디",
-      "category": "의학·바이오",
-      "publishedAt": "2026-10-15T07:50:00.000Z",
-      "collectedAt": "2026-10-15T09:57:07.027Z",
-      "thumb": "/thumbs/b0add279ef4a.jpg"
-    },
-    {
-      "id": "23d7a2141eec",
-      "kind": "news",
-      "lang": "ko",
-      "title": "이석주 시의원 \"여수 웅천에 동부권 과학고 신설을\"",
-      "summary": "여수·순천·광양 등 전남 동부권의 과학·영재교육 격차를 해소하기 위해 여수 웅천지구에 과학고를…",
-      "detail": "여수·순천·광양 등 전남 동부권의 과학·영재교육 격차를 해소하기 위해 여수 웅천지구에 과학고를 신설하자는 제안이 나왔다. 학교를 지역 산업·대학과 연계해 첨단산업 인재를 키우고 초·중학생도 이용하는 과학교육 거점으로 조성하자는 구상이다.…",
-      "link": "https://www.msn.com/ko-kr/news/other/%EC%9D%B4%EC%84%9D%EC%A3%BC-%EC%8B%9C%EC%9D%98%EC%9B%90-%EC%97%AC%EC%88%98-%EC%9B%85%EC%B2%9C%EC%97%90-%EB%8F%99%EB%B6%80%EA%B6%8C-%EA%B3%BC%ED%95%99%EA%B3%A0-%EC%8B%A0%EC%84%A4%EC%9D%84/ar-AA2eh30N",
-      "source": "뉴시스",
-      "image": "http://www.bing.com/th?id=ONUT.ZPZbuqqL4G7-b30gN1h-3A&pid=News",
-      "category": "교육",
-      "publishedAt": "2026-10-14T23:48:25.000Z",
-      "collectedAt": "2026-10-15T09:57:07.027Z",
-      "thumb": "/thumbs/23d7a2141eec.png"
-    },
-    {
-      "id": "6b673eadbc30",
-      "kind": "news",
-      "lang": "ko",
-      "title": "“영재학교 전환과 과학고 신설은 ‘패키지’”",
-      "summary": "“영재학교 전환과 과학고 신설은 패키지입니다.”충남교육청은 지난 14일 충남교육청진로융합교육원에서…",
-      "detail": "“영재학교 전환과 과학고 신설은 패키지입니다.”충남교육청은 지난 14일 충남교육청진로융합교육원에서 교직원·학부모·도민을 대상으로 ‘충남과학고등학교의 카이스트 부설 영재학교 전환’ 공모를 위한 공청회를 개최했다.이영주 미래인재과장은 “이번 공모로…",
-      "link": "https://www.hsnews.co.kr/news/articleView.html?idxno=133823",
-      "source": "홍성신문·내포타임즈",
-      "image": "http://www.bing.com/th?id=ONUT.0YwispUCWGu6o2o53ixA7g&pid=News",
-      "category": "교육",
-      "publishedAt": "2026-10-14T20:42:00.000Z",
-      "collectedAt": "2026-10-15T09:57:07.027Z",
-      "thumb": "/thumbs/6b673eadbc30.jpg"
     }
   ]
 }
