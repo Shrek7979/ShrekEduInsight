@@ -81,7 +81,7 @@ export const SOURCES = [
     ],
   },
 
-  // 블루스카이: 물리 매체·학회 계정의 최근 글 (공개 API 라 GitHub 서버에서도 1시간마다 수집됨)
+  // 블루스카이: 물리 매체·학회 계정의 최근 글 (공개 API 라 GitHub 서버에서도 12시간마다 수집됨)
   { type: 'bluesky', lang: 'en', name: 'Physics World', handle: 'physicsworld.bsky.social', category: '인기', limit: 3, maxAgeDays: 7 },
   { type: 'bluesky', lang: 'en', name: 'APS Physics', handle: 'apsphysics.aps.org', category: '인기', limit: 3, maxAgeDays: 7 },
   { type: 'bluesky', lang: 'en', name: 'Quanta Magazine', handle: 'quantamagazine.org', category: '인기', limit: 2, maxAgeDays: 7 },

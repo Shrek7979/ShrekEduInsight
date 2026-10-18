@@ -1,5 +1,5 @@
 // 생명과학 뉴스 수집기: scripts/sources.mjs 의 피드를 읽어 data/feed.json 을 갱신합니다.
-// 실행: npm run collect  (GitHub Actions 가 1시간마다 자동 실행)
+// 실행: npm run collect  (GitHub Actions 가 12시간마다 자동 실행)
 import { createHash } from 'node:crypto'
 import { readFile, writeFile, mkdir } from 'node:fs/promises'
 import { dirname, resolve } from 'node:path'

@@ -84,7 +84,7 @@ export const SOURCES = [
     ],
   },
 
-  // 블루스카이: 생명과학 학술지·매체 계정의 최근 글 (공개 API 라 GitHub 서버에서도 1시간마다 수집됨)
+  // 블루스카이: 생명과학 학술지·매체 계정의 최근 글 (공개 API 라 GitHub 서버에서도 12시간마다 수집됨)
   { type: 'bluesky', lang: 'en', name: 'eLife', handle: 'elife.bsky.social', category: '인기', limit: 3, maxAgeDays: 7 },
   { type: 'bluesky', lang: 'en', name: 'PLOS Biology', handle: 'plosbiology.org', category: '인기', limit: 2, maxAgeDays: 7 },
   { type: 'bluesky', lang: 'en', name: 'Cell Press', handle: 'cellpress.bsky.social', category: '인기', limit: 3, maxAgeDays: 7 },
