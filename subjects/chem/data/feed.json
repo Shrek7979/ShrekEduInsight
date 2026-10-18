@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-18T09:57:41.432Z",
+  "updatedAt": "2026-10-18T10:57:03.910Z",
   "items": [
+    {
+      "id": "485e3b4e471f",
+      "kind": "news",
+      "lang": "en",
+      "title": "Chem at 10: Qiuling Song",
+      "summary": "Prof",
+      "detail": "Prof. Qiuling Song reflects on her academic journey, her breakthrough in organoboron chemistry, and the challenges of building her own…",
+      "link": "https://www.cell.com/chem/fulltext/S2451-9294(26)00326-8?rss=yes",
+      "source": "Chem (Cell Press)",
+      "category": "연구",
+      "publishedAt": "2026-10-08T00:00:00.000Z",
+      "collectedAt": "2026-10-18T10:57:03.910Z",
+      "titleKo": "10시 화학: Qiuling Song",
+      "summaryKo": "교수",
+      "translator": "google",
+      "detailKo": "Qiuling Song 교수는 학업 여정, 유기 붕소 화학 분야의 획기적인 발전, 자신만의 화학을 구축하는 데 따른 어려움에 대해 되돌아봅니다.",
+      "thumb": "/thumbs/485e3b4e471f.png"
+    },
     {
       "id": "58d6fc6005cb",
       "kind": "video",
@@ -2461,24 +2479,6 @@
       "translator": "google",
       "detailKo": "1단계 방법으로 감염을 유발하는 박테리아를 죽이는 코팅을 만듭니다.",
       "thumb": "/thumbs/05848545ab64.webp"
-    },
-    {
-      "id": "5acfd6a87efb",
-      "kind": "news",
-      "lang": "en",
-      "title": "Business Watch: States sue Corteva over Vylor PFAS liability, and more",
-      "summary": "Here’s what we’re watching in the chemical and…",
-      "detail": "Here’s what we’re watching in the chemical and pharmaceutical industries this week",
-      "link": "https://cen.acs.org/business/business-watch-states-sue-corteva-vylor-pfas-verbio-etheneolysis/104/web/2026/10?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
-      "source": "C&EN",
-      "category": "해외",
-      "publishedAt": "2026-10-13T18:40:49.000Z",
-      "collectedAt": "2026-10-13T19:56:57.959Z",
-      "titleKo": "비즈니스 감시: 주정부, Vylor PFAS 책임 등에 대해 Corteva를 고소",
-      "summaryKo": "다음은 우리가 화학 분야에서 보고 있는 내용입니다",
-      "translator": "google",
-      "detailKo": "이번 주 화학 및 제약 산업에서 우리가 시청하는 내용은 다음과 같습니다.",
-      "thumb": "/thumbs/5acfd6a87efb.webp"
     }
   ]
 }
