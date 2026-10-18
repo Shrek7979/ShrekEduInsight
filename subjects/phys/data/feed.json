@@ -1,6 +1,35 @@
 {
-  "updatedAt": "2026-10-18T22:40:37.180Z",
+  "updatedAt": "2026-10-18T22:45:36.157Z",
   "items": [
+    {
+      "id": "521bf86bd749",
+      "kind": "news",
+      "lang": "ko",
+      "title": "\"젠슨 황·빌 게이츠가 꽂힌 미래 기술\"…양자컴퓨터 안내서",
+      "summary": "글로벌 최고경영자(CEO)들이 차세대 혁신의 열쇠로 꼽는 양자컴퓨터의 실체를 누구나 쉽게 풀어낸…",
+      "detail": "글로벌 최고경영자(CEO)들이 차세대 혁신의 열쇠로 꼽는 양자컴퓨터의 실체를 누구나 쉽게 풀어낸 신간이 출간됐다.현재 전 세계 학계와 기업이 막대한 자금을 투입 중인 이 기술은 수만 년이 걸릴 복잡한 연산을 불과 몇 분 만에 처리하며 ..",
+      "link": "https://www.fnnews.com/news/202610190701435962",
+      "source": "파이낸셜뉴스",
+      "category": "양자·첨단",
+      "publishedAt": "2026-10-18T10:01:00.000Z",
+      "collectedAt": "2026-10-18T22:45:36.157Z",
+      "thumb": "/thumbs/521bf86bd749.jpg"
+    },
+    {
+      "id": "4278e5a43710",
+      "kind": "news",
+      "lang": "ko",
+      "title": "한 달 뒤 수능…'널뛰기' 영어·사탐런·확통런 등 변수 산적",
+      "summary": "정예빈 기자 = 올해 11월 19일 치러지는 대학수학능력시험이 한 달 앞으로 다가왔다",
+      "detail": "정예빈 기자 = 올해 11월 19일 치러지는 대학수학능력시험이 한 달 앞으로 다가왔다. 올해 수능은 영어 영역의 난이도와 함께 자연계열 학생들이 사회탐구와 확률과 통계를 택하는 이른바 사탐런·확통런이 판세를 가를 변수로 지목된다. 전문가들은 영..",
+      "link": "https://www.fnnews.com/news/202610190601453958",
+      "source": "파이낸셜뉴스",
+      "image": "http://www.bing.com/th?id=ONUT.81VXxm23_YxfqLowcyimAg&pid=News",
+      "category": "입시",
+      "publishedAt": "2026-10-18T09:01:00.000Z",
+      "collectedAt": "2026-10-18T22:45:36.157Z",
+      "thumb": "/thumbs/4278e5a43710.jpg"
+    },
     {
       "id": "bsky-3my6kprdby32b",
       "kind": "news",
@@ -2456,42 +2485,6 @@
       "translator": "google",
       "detailKo": "새로운 모델링 프레임워크는 담수화 염수 및 유전 폐수에서 물을 회수하기 위해 태양 에너지를 사용하는 비용을 평가합니다.",
       "thumb": "/thumbs/ad43a6e4237e.jpg"
-    },
-    {
-      "id": "5d9a004d22bd",
-      "kind": "news",
-      "lang": "en",
-      "title": "A new route to spin-controlled photonics",
-      "summary": "Researchers demonstrate Rashba-like spin splitting in a…",
-      "detail": "Researchers demonstrate Rashba-like spin splitting in a perfectly symmetric plasmonic crystal, challenging conventional assumptions about…",
-      "link": "https://physicsworld.com/a/a-new-route-to-spin-controlled-photonics/",
-      "source": "Physics World",
-      "category": "해외",
-      "publishedAt": "2026-10-14T06:51:41.000Z",
-      "collectedAt": "2026-10-14T09:57:37.819Z",
-      "titleKo": "스핀 제어 포토닉스를 향한 새로운 길",
-      "summaryKo": "연구원들은 Rashba와 같은 스핀 분할을 시연합니다…",
-      "translator": "google",
-      "detailKo": "연구자들은 완벽하게 대칭적인 플라즈몬 결정에서 Rashba와 같은 스핀 분할을 보여줌으로써…",
-      "thumb": "/thumbs/5d9a004d22bd.jpg"
-    },
-    {
-      "id": "578cb7e773ce",
-      "kind": "news",
-      "lang": "en",
-      "title": "Turning disorder into a resource for wave control",
-      "summary": "Researchers show that carefully designed complex…",
-      "detail": "Researchers show that carefully designed complex scattering media can perform non-Abelian braiding of acoustic modes The post Turning…",
-      "link": "https://physicsworld.com/a/turning-disorder-into-a-resource-for-wave-control/",
-      "source": "Physics World",
-      "category": "해외",
-      "publishedAt": "2026-10-14T06:48:23.000Z",
-      "collectedAt": "2026-10-14T09:57:37.819Z",
-      "titleKo": "무질서를 파동 통제를 위한 자원으로 전환",
-      "summaryKo": "연구자들은 신중하게 설계된 단지를 보여줍니다…",
-      "translator": "google",
-      "detailKo": "연구자들은 신중하게 설계된 복잡한 산란 매체가 음향 모드의 비아벨식 편조를 수행할 수 있음을 보여줍니다. 포스트 터닝…",
-      "thumb": "/thumbs/578cb7e773ce.jpg"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T22:42:50.436Z",
+  "updatedAt": "2026-10-18T22:47:48.914Z",
   "items": [
     {
       "id": "fb-5b393c277cd3",
@@ -16,6 +16,23 @@
       "collectedAt": "2026-10-18T17:37:09.376Z",
       "titleKo": "행복한 전국 화학 주간!",
       "summaryKo": "티",
+      "translator": "google"
+    },
+    {
+      "id": "fb-1edea189b04a",
+      "kind": "news",
+      "lang": "en",
+      "title": "From sustainable materials and energy technologies to emerging applications and biomaterials, MC18 showcases the full breadth of materials…",
+      "summary": "chemistry",
+      "link": "https://www.facebook.com/RoyalSocietyofChemistry/posts/pfbid02d3NYgPzipKTszz5qYyBY3rCFnrj61B6JMC4CVWo54iV8HdFooW7qWSjvBST7DiJZl",
+      "source": "Facebook Royal Society of Chemistry",
+      "category": "인기",
+      "publishedAt": "2026-10-16T22:47:38.612Z",
+      "thumb": "/social/fb/fb-1edea189b04a.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-18T22:47:48.914Z",
+      "titleKo": "지속 가능한 재료 및 에너지 기술부터 신흥 응용 분야 및 생체 재료에 이르기까지 MC18은 광범위한 재료를 선보입니다…",
+      "summaryKo": "화학",
       "translator": "google"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T22:43:03.265Z",
+  "updatedAt": "2026-10-18T22:48:06.125Z",
   "items": [
     {
       "id": "fb-6ac2583aa6c5",
@@ -121,6 +121,23 @@
       "translator": "google"
     },
     {
+      "id": "fb-850f2f79b6c9",
+      "kind": "news",
+      "lang": "en",
+      "title": "How is the energy in food we eat transformed into forms of energy usable by our cells?",
+      "summary": "This interactive and accompanying worksheet, now…",
+      "link": "https://www.facebook.com/biointeractive/posts/pfbid031aHjGVGamnH64fhaLg2tVANeZtBWPXYAi7Lfe6yoA8K1yN4jD3WQ2frpqQwXixDZl",
+      "source": "Facebook HHMI BioInteractive",
+      "category": "인기",
+      "publishedAt": "2026-10-15T22:47:45.805Z",
+      "thumb": "/social/fb/fb-850f2f79b6c9.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-18T22:48:06.125Z",
+      "titleKo": "우리가 먹는 음식의 에너지는 어떻게 세포에서 사용할 수 있는 에너지 형태로 변환됩니까?",
+      "summaryKo": "이 대화형 및 동반 워크시트는 이제…",
+      "translator": "google"
+    },
+    {
       "id": "fb-76c50c409b7d",
       "kind": "news",
       "lang": "en",
@@ -203,23 +220,6 @@
       "collectedAt": "2026-10-15T19:31:00.793Z",
       "titleKo": "\"Akkermansia muciniphila는 티로솔 매개 장-자궁 축을 통해 자궁내막염을 예방합니다.\"",
       "summaryKo": "",
-      "translator": "google"
-    },
-    {
-      "id": "fb-6c57eddd5618",
-      "kind": "news",
-      "lang": "en",
-      "title": "How is the energy in food we eat transformed into forms of energy usable by our cells?",
-      "summary": "This interactive and accompanying worksheet, now…",
-      "link": "https://www.facebook.com/biointeractive/posts/pfbid0wu12NxcVk28ETfxBKuLLrofTigRwb3YzHa2VD76Xp27ttWdtDiFChpXhVDyrycmLl",
-      "source": "Facebook HHMI BioInteractive",
-      "category": "인기",
-      "publishedAt": "2026-10-15T16:00:50.296Z",
-      "thumb": "/social/fb/fb-6c57eddd5618.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-15T22:01:11.670Z",
-      "titleKo": "우리가 먹는 음식의 에너지는 어떻게 세포에서 사용할 수 있는 에너지 형태로 변환됩니까?",
-      "summaryKo": "이 대화형 및 동반 워크시트는 이제…",
       "translator": "google"
     },
     {
