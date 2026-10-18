@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-10-18T17:34:43.117Z",
+  "updatedAt": "2026-10-18T19:42:37.436Z",
   "items": [
+    {
+      "id": "fc78dd867ca6",
+      "kind": "news",
+      "lang": "ko",
+      "title": "[Why&Next]\"러 페스트 의심 사망…고위험 병원체 생물안전 관리 짚어봐야\"",
+      "summary": "러시아의 한 페스트 연구기관에서 연구원이 원인불명의 폐렴으로 사망하면서 페스트 감염 의혹이 제기된…",
+      "detail": "러시아의 한 페스트 연구기관에서 연구원이 원인불명의 폐렴으로 사망하면서 페스트 감염 의혹이 제기된 가운데 국내 유입 가능성은 매우 낮은 것으로 평가되는 분위기다. 하지만 정확한 사망 원인이 확인되지 않은데다 고위험 병원체를 다루는 실험실에서 발생한…",
+      "link": "https://www.asiae.co.kr/article/2026101600261607833",
+      "source": "아시아경제",
+      "image": "http://www.bing.com/th?id=ONUT.Bc2_V457LuhEFW9EAr4rMg&pid=News",
+      "category": "의학·바이오",
+      "publishedAt": "2026-10-16T06:24:00.000Z",
+      "collectedAt": "2026-10-18T19:42:37.436Z",
+      "thumb": "/thumbs/fc78dd867ca6.jpg"
+    },
     {
       "id": "bsky-3my5iorqjz52p",
       "kind": "news",
@@ -2444,20 +2459,6 @@
       "summaryKo": "Cell Press를 통한 세포줄기세포 규제…",
       "translator": "google",
       "thumb": "/thumbs/bsky-3mxvwg3uncw2s.webp"
-    },
-    {
-      "id": "45b034810513",
-      "kind": "news",
-      "lang": "ko",
-      "title": "교육감협의회, 신종 학폭 ‘야차룰’ 대응 긴급 논의",
-      "summary": "에듀프레스 장재훈 기자 = 성인 격투기 콘텐츠를 모방해 맨몸으로 싸우는 이른바 ‘야차룰’이 학생들…",
-      "detail": "에듀프레스 장재훈 기자 = 성인 격투기 콘텐츠를 모방해 맨몸으로 싸우는 이른바 ‘야차룰’이 학생들 사이에서 놀이처럼 유행하면서 전국 교육감들이 긴급 대응 방안 마련에 나섰다.대한민국교육감협의회는 15일 제주 그랜드 조선 제주호텔에서 간담회를 열고,…",
-      "link": "https://www.edupress.kr/news/articleView.html?idxno=30534",
-      "source": "에듀프레스",
-      "category": "생태·환경",
-      "publishedAt": "2026-10-15T10:58:05.000Z",
-      "collectedAt": "2026-10-15T11:20:56.675Z",
-      "thumb": "/thumbs/45b034810513.png"
     }
   ]
 }

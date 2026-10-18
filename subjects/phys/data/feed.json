@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-10-18T17:34:43.055Z",
+  "updatedAt": "2026-10-18T19:42:37.457Z",
   "items": [
+    {
+      "id": "bsky-3my66pdeh7m25",
+      "kind": "news",
+      "lang": "en",
+      "title": "One day, Edward Nelson woke up and realized that infinity might not be real.",
+      "summary": "It left him in an existential crisis",
+      "link": "https://bsky.app/profile/quantamagazine.org/post/3my66pdeh7m25",
+      "source": "Bluesky Quanta Magazine",
+      "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:vfktz6qe6vy7serr3wqutpzt/bafkreiaisug3frul5zzfmf77jg7dlkvlgmro2vxbclhs55qdu7y2mrbpai",
+      "likes": "16",
+      "category": "인기",
+      "publishedAt": "2026-10-18T18:00:01.593Z",
+      "collectedAt": "2026-10-18T19:42:37.457Z",
+      "titleKo": "어느 날 에드워드 넬슨은 잠에서 깨어나 무한이 현실이 아닐 수도 있다는 것을 깨달았습니다.",
+      "summaryKo": "그로 인해 그는 실존적 위기에 빠졌다",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3my66pdeh7m25.webp"
+    },
+    {
+      "id": "21c2456a01c2",
+      "kind": "news",
+      "lang": "ko",
+      "title": "다자외교 데뷔 이형일, 3대 신평사 등 하루에만 11회 양자 면담",
+      "summary": "이 부총리는 회의 참석 첫째 날인 15일 (현지시간) 6회에 이어 이틀째에는 11회 양자 면담을…",
+      "detail": "이 부총리는 회의 참석 첫째 날인 15일 (현지시간) 6회에 이어 이틀째에는 11회 양자 면담을 이어가며 숨 가쁜 다자외교 데뷔전을 소화했다. 회의 참석 마지막 날에도 IMF 총재, 수석 부총재 등을 만나는 등 이번 회의 기간에만 총 19차례 양자…",
+      "link": "https://www.yna.co.kr/view/AKR20261017028800002",
+      "source": "연합뉴스",
+      "image": "http://www.bing.com/th?id=ONUT.1eAVFoNXBEcNqf2VhQNK4w&pid=News",
+      "category": "양자·첨단",
+      "publishedAt": "2026-10-18T03:59:00.000Z",
+      "collectedAt": "2026-10-18T19:42:37.457Z",
+      "thumb": "/thumbs/21c2456a01c2.jpg"
+    },
     {
       "id": "f639018e73e3",
       "kind": "news",
@@ -2452,42 +2485,6 @@
       "publishedAt": "2026-10-14T00:51:33.000Z",
       "collectedAt": "2026-10-14T09:57:37.819Z",
       "thumb": "/thumbs/8338f17dc719.png"
-    },
-    {
-      "id": "471bc60413c6",
-      "kind": "news",
-      "lang": "en",
-      "title": "A dynamic ruler for positional memory in regeneration",
-      "summary": "Zebrafish can determine the amount of tissue to regrow…",
-      "detail": "Zebrafish can determine the amount of tissue to regrow after appendage amputation. Now, a study shows that a signal gradient that scales…",
-      "link": "https://www.nature.com/articles/s41567-026-03488-w",
-      "source": "Nature Physics",
-      "category": "연구",
-      "publishedAt": "2026-10-14T00:00:00.000Z",
-      "collectedAt": "2026-10-14T09:57:37.819Z",
-      "titleKo": "재생 시 위치 기억을 위한 동적 눈금자",
-      "summaryKo": "Zebrafish는 재생될 조직의 양을 결정할 수 있습니다…",
-      "translator": "google",
-      "detailKo": "Zebrafish는 부속기 절단 후 다시 자라나는 조직의 양을 결정할 수 있습니다. 이제 연구에 따르면 신호 기울기가 확장되는 것으로 나타났습니다.",
-      "thumb": "/thumbs/471bc60413c6.png"
-    },
-    {
-      "id": "5ae9a8e99835",
-      "kind": "news",
-      "lang": "en",
-      "title": "Fusion digital twins from imperfect models",
-      "summary": "Digital twins could transform how fusion plasmas are…",
-      "detail": "Digital twins could transform how fusion plasmas are predicted, designed and controlled. We argue that realizing this promise requires…",
-      "link": "https://www.nature.com/articles/s41567-026-03485-z",
-      "source": "Nature Physics",
-      "category": "연구",
-      "publishedAt": "2026-10-14T00:00:00.000Z",
-      "collectedAt": "2026-10-14T09:57:37.819Z",
-      "titleKo": "불완전한 모델의 융합 디지털 트윈",
-      "summaryKo": "디지털 트윈은 핵융합 플라즈마의 방식을 변화시킬 수 있습니다…",
-      "translator": "google",
-      "detailKo": "디지털 트윈은 핵융합 플라즈마의 예측, 설계 및 제어 방식을 변화시킬 수 있습니다. 우리는 이 약속을 실현하려면…",
-      "thumb": "/thumbs/5ae9a8e99835.png"
     }
   ]
 }

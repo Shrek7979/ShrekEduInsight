@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-18T17:34:43.122Z",
+  "updatedAt": "2026-10-18T19:42:37.671Z",
   "items": [
+    {
+      "id": "bsky-3my6a62wfak2t",
+      "kind": "news",
+      "lang": "en",
+      "title": "In addition to taking online classes, one good way to learn how to use AI is to apply it to your own career development.",
+      "summary": "chemsky 🧪",
+      "link": "https://bsky.app/profile/cenmag.bsky.social/post/3my6a62wfak2t",
+      "source": "Bluesky C&EN",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u4u4yeik2uube2g6ov7wr35p/bafkreiftqureajhxenuc4lh7jejjkqdapxp4oj6fwgcy6n7zsdpfwwn7s4",
+      "likes": "3",
+      "category": "인기",
+      "publishedAt": "2026-10-18T18:26:09.827Z",
+      "collectedAt": "2026-10-18T19:42:37.671Z",
+      "titleKo": "온라인 수업을 듣는 것 외에도 AI 사용법을 배우는 좋은 방법 중 하나는 AI를 자신의 경력 개발에 적용하는 것입니다.",
+      "summaryKo": "켐스키 🧪",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3my6a62wfak2t.webp"
+    },
     {
       "id": "bsky-3my5rg7c37w2l",
       "kind": "news",
@@ -2463,21 +2481,6 @@
       "publishedAt": "2026-10-13T15:29:00.000Z",
       "collectedAt": "2026-10-14T05:29:26.219Z",
       "thumb": "/thumbs/1724d144557f.jpg"
-    },
-    {
-      "id": "bd8a5fef0e8b",
-      "kind": "news",
-      "lang": "ko",
-      "title": "[HY-lighters] 화학 전공자가 양조장을 만든 이유는?｜팔레트브루어리 대표 이승철 동문(화학' 13) 인터뷰",
-      "summary": "한양대학교 화학과 13학번 이승철 동문이 전통주에 대한 관심을 바탕으로 양조장 창업에 도전했다",
-      "detail": "한양대학교 화학과 13학번 이승철 동문이 전통주에 대한 관심을 바탕으로 양조장 창업에 도전했다. 이 동문은 현재 경북 상주에서 팔레트브루어리를 운영하며 바질을 활용한 막걸리 등 새로운 방식의 우리 술을 선보이고 있다.한양대 동문 인터뷰 콘텐츠…",
-      "link": "https://www.newshyu.com/news/articleView.html?idxno=1026712",
-      "source": "뉴스H",
-      "image": "http://www.bing.com/th?id=ONUT.KULXyrSEG-emfZefZWBFsA&pid=News",
-      "category": "교육",
-      "publishedAt": "2026-10-13T13:26:00.000Z",
-      "collectedAt": "2026-10-14T05:29:26.219Z",
-      "thumb": "/thumbs/bd8a5fef0e8b.png"
     }
   ]
 }
