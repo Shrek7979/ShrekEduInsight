@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-17T23:04:40.082Z",
+  "updatedAt": "2026-10-18T00:59:25.288Z",
   "items": [
+    {
+      "id": "bsky-3my47yzntp52y",
+      "kind": "news",
+      "lang": "en",
+      "title": "Benchmarks paradoxically helped start both a 25-year AI winter in the late 1980s and a deep learning revolution in the 2010s.",
+      "summary": "He Wants AI Benchmarking To Be a Science, Not a Dark…",
+      "link": "https://bsky.app/profile/quantamagazine.org/post/3my47yzntp52y",
+      "source": "Bluesky Quanta Magazine",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vfktz6qe6vy7serr3wqutpzt/bafkreihp7wwfk32o3onrvimpmihy6cn4rf3qgjsscojpf7txwu2zxpmo5e",
+      "likes": "7",
+      "category": "인기",
+      "publishedAt": "2026-10-17T23:18:01.221Z",
+      "collectedAt": "2026-10-18T00:59:25.288Z",
+      "titleKo": "벤치마크는 역설적으로 1980년대 후반 AI의 25년 겨울과 2010년대 딥러닝 혁명을 시작하는 데 도움이 되었습니다.",
+      "summaryKo": "그는 AI 벤치마킹이 어둠이 아닌 과학이 되기를 원합니다…",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3my47yzntp52y.webp"
+    },
     {
       "id": "bsky-3my3uyql7gd2i",
       "kind": "news",
@@ -2466,21 +2484,6 @@
       "publishedAt": "2026-10-13T21:57:00.000Z",
       "collectedAt": "2026-10-14T05:29:26.264Z",
       "thumb": "/thumbs/08e6b3af45f9.jpg"
-    },
-    {
-      "id": "47248787dd4c",
-      "kind": "news",
-      "lang": "ko",
-      "title": "충남교육청, 충남과학고→KAIST 부설 영재학교 전환 추진 공청회",
-      "summary": "충남교육청이 충남과학고등학교를 한국과학기술원(KAIST) 부설 영재학교로 전환하는 방안을 추진한다",
-      "detail": "충남교육청이 충남과학고등학교를 한국과학기술원(KAIST) 부설 영재학교로 전환하는 방안을 추진한다. 충남교육청은 14일 충남교육청진로융합교육원에서 교직원과 학부모, 도민 등 200여명이 참석한 충남과학고의 KAIST 부설 영재학교 전환 공청회를…",
-      "link": "https://www.msn.com/ko-kr/news/other/%EC%B6%A9%EB%82%A8%EA%B5%90%EC%9C%A1%EC%B2%AD-%EC%B6%A9%EB%82%A8%EA%B3%BC%ED%95%99%EA%B3%A0-kaist-%EB%B6%80%EC%84%A4-%EC%98%81%EC%9E%AC%ED%95%99%EA%B5%90-%EC%A0%84%ED%99%98-%EC%B6%94%EC%A7%84-%EA%B3%B5%EC%B2%AD%ED%9A%8C/ar-AA2ebax4",
-      "source": "연합뉴스",
-      "image": "http://www.bing.com/th?id=ONUT.iDcsM-qGc5wvPULVqbiKcw&pid=News",
-      "category": "교육",
-      "publishedAt": "2026-10-13T19:32:27.000Z",
-      "collectedAt": "2026-10-14T05:29:26.264Z",
-      "thumb": "/thumbs/47248787dd4c.png"
     }
   ]
 }

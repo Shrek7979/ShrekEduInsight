@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T23:07:23.417Z",
+  "updatedAt": "2026-10-18T01:02:17.382Z",
   "items": [
     {
       "id": "fb-1ebf1d242e74",
@@ -15,6 +15,23 @@
       "refs": [],
       "collectedAt": "2026-10-17T21:59:41.391Z",
       "titleKo": "\"수요 측면 전략은 글로벌 리튬 이온 배터리 공급망에서 공급 측면 한계를 넘어 기가톤 규모의 온실가스 완화를 실현합니다.\"",
+      "summaryKo": "",
+      "translator": "google"
+    },
+    {
+      "id": "fb-372e408b05b8",
+      "kind": "news",
+      "lang": "en",
+      "title": "We're committed to finding new ways of getting important, original research into scientists’ hands as quickly as possible.",
+      "summary": "",
+      "link": "https://www.facebook.com/elifesciences/posts/pfbid0tbSxgRNCjt4fEkJtumjrWMPkGkMci5ZtVsTrMEVVh9okURU7Q8q7GxDRuJdZrEQjl",
+      "source": "Facebook eLife",
+      "category": "인기",
+      "publishedAt": "2026-10-17T01:01:47.382Z",
+      "thumb": "/social/fb/fb-372e408b05b8.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-18T01:02:17.382Z",
+      "titleKo": "우리는 중요하고 독창적인 연구를 가능한 한 빨리 과학자의 손에 전달할 수 있는 새로운 방법을 찾기 위해 최선을 다하고 있습니다.",
       "summaryKo": "",
       "translator": "google"
     },
@@ -84,23 +101,6 @@
       "collectedAt": "2026-10-16T19:00:34.189Z",
       "titleKo": "JNeurosci: Paez-Beltran 등의 연구 결과. 전사 인자 역학이 신경교를 어떻게 형성하는지 이해하기 위한 새로운 프레임워크를 제공합니다.",
       "summaryKo": "b의 발전과 다양성",
-      "translator": "google"
-    },
-    {
-      "id": "fb-c30109ce3994",
-      "kind": "news",
-      "lang": "en",
-      "title": "We're committed to finding new ways of getting important, original research into scientists’ hands as quickly as possible.",
-      "summary": "",
-      "link": "https://www.facebook.com/elifesciences/posts/pfbid0tmbxyZdwZQJakSxLYKu4L9p5jZVtD1md7zJHJz9LGUr7DXKuvrhx5TWjA9jyB7Egl",
-      "source": "Facebook eLife",
-      "category": "인기",
-      "publishedAt": "2026-10-16T14:29:18.218Z",
-      "thumb": "/social/fb/fb-c30109ce3994.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-16T15:29:48.864Z",
-      "titleKo": "우리는 중요하고 독창적인 연구를 가능한 한 빨리 과학자들의 손에 전달할 수 있는 새로운 방법을 찾기 위해 최선을 다하고 있습니다.",
-      "summaryKo": "",
       "translator": "google"
     },
     {

@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-10-17T23:04:40.147Z",
+  "updatedAt": "2026-10-18T00:59:25.265Z",
   "items": [
+    {
+      "id": "9f1df1d0a279",
+      "kind": "news",
+      "lang": "ko",
+      "title": "운동하면 근육 속 노화 유전자 '멈칫' 한다",
+      "summary": "나이가 들면서 근육이 약해지는 현상을 운동으로 완화할 수 있는 생물학적 원리가 밝혀졌다",
+      "detail": "나이가 들면서 근육이 약해지는 현상을 운동으로 완화할 수 있는 생물학적 원리가 밝혀졌다. 운동이 근육 속 노화 관련 유전자 활동을 억제하고, 손상된 단백질을 제거하는 기능을 회복시킨다는 연구 결과다.15일(현지시간) 과학 전문매체 사이언스데일리는…",
+      "link": "https://zdnet.co.kr/view/?no=20261016225609",
+      "source": "지디넷코리아",
+      "image": "http://www.bing.com/th?id=ONUT.5rf0Pj1rQwm5WHlyGpWeow&pid=News",
+      "category": "의학·바이오",
+      "publishedAt": "2026-10-17T12:04:00.000Z",
+      "collectedAt": "2026-10-18T00:59:25.265Z",
+      "thumb": "/thumbs/9f1df1d0a279.jpg"
+    },
     {
       "id": "bsky-3my4647stvh2d",
       "kind": "news",
@@ -2435,26 +2450,6 @@
       "summaryKo": "이 연구는 뚜렷한 클릭 트레인 패턴을 보여줍니다…",
       "translator": "google",
       "thumb": "/thumbs/bsky-3mxmfc7ra7r2y.webp"
-    },
-    {
-      "id": "2ff0ac4beb04",
-      "kind": "video",
-      "lang": "en",
-      "title": "Spiders Getting Increasingly More Heinous | Lindsay Nikole",
-      "summary": "Some people love spiders, most people hate them",
-      "detail": "Some people love spiders, most people hate them. Journey down the spider iceberg, from adorable peacock spiders to the cordyceps spider…",
-      "link": "https://www.youtube.com/watch?v=sd8i4Q6PFZI",
-      "source": "Lindsay Nikole",
-      "image": "https://i4.ytimg.com/vi/sd8i4Q6PFZI/hqdefault.jpg",
-      "views": 1497454,
-      "category": "인기",
-      "publishedAt": "2026-10-03T20:00:20.000Z",
-      "collectedAt": "2026-10-15T11:20:56.675Z",
-      "titleKo": "점점 더 흉악해지는 거미 | 린제이 니콜",
-      "summaryKo": "어떤 사람들은 거미를 좋아하지만, 대부분의 사람들은 거미를 싫어합니다",
-      "translator": "google",
-      "detailKo": "어떤 사람들은 거미를 좋아하지만 대부분의 사람들은 거미를 싫어합니다. 사랑스러운 공작거미부터 동충하초 거미까지 거미 빙산을 따라 여행하세요…",
-      "thumb": "/thumbs/2ff0ac4beb04.jpg"
     }
   ]
 }
