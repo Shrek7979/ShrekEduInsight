@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T01:02:03.213Z",
+  "updatedAt": "2026-10-18T05:52:22.750Z",
   "items": [
     {
       "id": "fb-c32d935ba40d",
@@ -19,6 +19,23 @@
       "translator": "google"
     },
     {
+      "id": "fb-896e6bf946b8",
+      "kind": "news",
+      "lang": "en",
+      "title": "It’s National Mushroom Day Why do fly agaric mushrooms cause hallucinations, and what does it have to do with reindeer urine?",
+      "summary": "This graphic takes a closer look!",
+      "link": "https://www.facebook.com/compoundchem/posts/pfbid0fDWZrTyUg6vA1t1oduHNGc2jpdDvF8654XPXzb6AuXadBECWts4PXr9JKFz8NUVGl",
+      "source": "Facebook Compound Interest",
+      "category": "인기",
+      "publishedAt": "2026-10-16T05:51:51.555Z",
+      "thumb": "/social/fb/fb-896e6bf946b8.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-18T05:52:22.750Z",
+      "titleKo": "전국 버섯의 날입니다. 파리 아가릭 버섯이 환각을 일으키는 이유는 무엇이며 순록 소변과 어떤 관련이 있나요?",
+      "summaryKo": "이 그래픽을 자세히 살펴보세요!",
+      "translator": "google"
+    },
+    {
       "id": "fb-43ce3b1cd6e3",
       "kind": "news",
       "lang": "en",
@@ -33,23 +50,6 @@
       "collectedAt": "2026-10-16T05:51:00.295Z",
       "titleKo": "다가오는 ACS Science Talks 세션을 위해 자리를 비워두세요. \"치료를 위한 항균 나노재료\"에 대한 무료 가상 강의입니다.",
       "summaryKo": "다제내성 감염",
-      "translator": "google"
-    },
-    {
-      "id": "fb-da517c19ed34",
-      "kind": "news",
-      "lang": "en",
-      "title": "It’s National Mushroom Day Why do fly agaric mushrooms cause hallucinations, and what does it have to do with reindeer urine?",
-      "summary": "This graphic takes a closer look!",
-      "link": "https://www.facebook.com/compoundchem/posts/pfbid02jF7HLHB3M7rLncoq31bQ7CkrDBtfPXe5ksiuKEviwrPPk39K1YVbXkTCXpuUTGybl",
-      "source": "Facebook Compound Interest",
-      "category": "인기",
-      "publishedAt": "2026-10-16T04:53:19.490Z",
-      "thumb": "/social/fb/fb-da517c19ed34.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-17T04:53:51.648Z",
-      "titleKo": "전국 버섯의 날입니다. 파리 아가릭 버섯이 환각을 일으키는 이유는 무엇이며 순록 소변과 어떤 관련이 있나요?",
-      "summaryKo": "이 그래픽을 자세히 살펴보세요!",
       "translator": "google"
     },
     {

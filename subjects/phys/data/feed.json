@@ -1,6 +1,51 @@
 {
-  "updatedAt": "2026-10-18T00:59:25.288Z",
+  "updatedAt": "2026-10-18T05:49:34.978Z",
   "items": [
+    {
+      "id": "11e94cbbf3ee",
+      "kind": "news",
+      "lang": "ko",
+      "title": "장기 보관 데이터, 양자 해독 위험 대비해야...암호 자산 점검·전환 서둘러야",
+      "summary": "양자내성 보안 전환은 암호 사용 현황을 파악하고, 오래 보호해야 하는 데이터부터 우선순위를 정하는…",
+      "detail": "양자내성 보안 전환은 암호 사용 현황을 파악하고, 오래 보호해야 하는 데이터부터 우선순위를 정하는 작업이다.NIST는 양자내성암호 표준 적용을 권고하며, 2035년까지 양자 취약 알고리듬을 표준에서 단계적으로 퇴출할 계획이다.메트텔은 기술 파트너들과…",
+      "link": "https://www.gttkorea.com/news/articleView.html?idxno=27388",
+      "source": "지티티코리아",
+      "image": "http://www.bing.com/th?id=ONUT.V7Xu5mkxwsOerreYoA6bqg&pid=News",
+      "category": "양자·첨단",
+      "publishedAt": "2026-10-17T18:20:00.000Z",
+      "collectedAt": "2026-10-18T05:49:34.978Z",
+      "thumb": "/thumbs/11e94cbbf3ee.png"
+    },
+    {
+      "id": "610308e395b7",
+      "kind": "news",
+      "lang": "ko",
+      "title": "노벨물리학상을 부르는 단골 주제 '중성미자'...'우주의 입자 탐색'",
+      "summary": "올해 노벨물리학상은 벨기에 출신의 미국 물리학자 프란시스 할전(Francis Halzen)이…",
+      "detail": "올해 노벨물리학상은 벨기에 출신의 미국 물리학자 프란시스 할전(Francis Halzen)이 수상하게 됐다. 그는 우주에서 날아오는 고에너지 중성미자(中性微子)를 관측하여 천체 등을 연구하는 ‘중성미자 천문학’이 본격적으로 발전하게 된 공로를…",
+      "link": "https://www.newsverse.kr/news/articleView.html?idxno=11696",
+      "source": "뉴스버스(Newsverse)",
+      "image": "http://www.bing.com/th?id=ONUT.AyyeiEE9cGkD3tBsLgq0lg&pid=News",
+      "category": "우주·천문",
+      "publishedAt": "2026-10-17T12:45:00.000Z",
+      "collectedAt": "2026-10-18T05:49:34.978Z",
+      "thumb": "/thumbs/610308e395b7.jpg"
+    },
+    {
+      "id": "ea90ea6f0759",
+      "kind": "news",
+      "lang": "ko",
+      "title": "경남과학고, UNIST 부설 영재학교 전환 공모 신청",
+      "summary": "경남도교육청이 진주 경남과학고를 UNIST 부설 영재학교로 전환하기 위해 공모에 신청했다",
+      "detail": "경남도교육청이 진주 경남과학고를 UNIST 부설 영재학교로 전환하기 위해 공모에 신청했다. 선정되면 우주항공 분야 특화 교육과 첨단 연구시설을 확충해 지역 전략산업을 이끌 과학기술 인재를 양성할 계획이다.",
+      "link": "https://www.seoul.co.kr/news/society/education-news/2026/10/16/20261016500254",
+      "source": "서울신문",
+      "image": "http://www.bing.com/th?id=ONUT.7ESLEj84qA_Yx3UiCjWbGg&pid=News",
+      "category": "교육",
+      "publishedAt": "2026-10-16T10:17:00.000Z",
+      "collectedAt": "2026-10-18T05:49:34.978Z",
+      "thumb": "/thumbs/ea90ea6f0759.webp"
+    },
     {
       "id": "bsky-3my47yzntp52y",
       "kind": "news",
@@ -2436,54 +2481,6 @@
       "publishedAt": "2026-10-13T18:01:00.000Z",
       "collectedAt": "2026-10-14T09:57:37.819Z",
       "thumb": "/thumbs/72b6f7b640e3.jpg"
-    },
-    {
-      "id": "9a42b25c5a28",
-      "kind": "news",
-      "lang": "ko",
-      "title": "동아대, 인도네시아 디포네고로대와 원자·양자과학 공동연구 협력",
-      "summary": "동아대학교 (총장 이해우) G-LAMP사업단 (단장 정진웅)이 인도네시아 디포네고로대학교…",
-      "detail": "동아대학교 (총장 이해우) G-LAMP사업단 (단장 정진웅)이 인도네시아 디포네고로대학교 (Universitas Diponegoro)와 국제학술·연구협력 협약을 체결하고 글로벌 연구 네트워크 확대에 본격적으로 나섰다고 14일 밝혔다.",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026101414310426728",
-      "source": "부산닷컴",
-      "category": "양자·첨단",
-      "publishedAt": "2026-10-13T17:31:00.000Z",
-      "collectedAt": "2026-10-14T09:57:37.819Z",
-      "thumb": "/thumbs/9a42b25c5a28.png"
-    },
-    {
-      "id": "2710c0431127",
-      "kind": "video",
-      "lang": "en",
-      "title": "The Insane Real Engineering of the Nazi Enigma Machine",
-      "summary": "",
-      "detail": "",
-      "link": "https://www.youtube.com/watch?v=JsBZOcqZerk",
-      "source": "Veritasium",
-      "image": "https://i3.ytimg.com/vi/JsBZOcqZerk/hqdefault.jpg",
-      "views": 19266899,
-      "category": "인기",
-      "publishedAt": "2026-09-21T17:49:57.000Z",
-      "collectedAt": "2026-10-14T09:57:37.819Z",
-      "titleKo": "나치 에니그마 기계의 미친 실제 공학",
-      "summaryKo": "",
-      "translator": "google",
-      "thumb": "/thumbs/2710c0431127.jpg"
-    },
-    {
-      "id": "08e6b3af45f9",
-      "kind": "news",
-      "lang": "ko",
-      "title": "구글 제미나이 4 아르곤, 양자 컴퓨팅 비용 100분의 1로 절감",
-      "summary": "○ 양자 컴퓨팅 효율 극대화: 핵심 서브루틴의 시공간 비용을 100배 이상 감축하고 수학 검증…",
-      "detail": "○ 양자 컴퓨팅 효율 극대화: 핵심 서브루틴의 시공간 비용을 100배 이상 감축하고 수학 검증 시스템 '린(Lean)'으로 무결성 입증○ 난치 과학 연구 돌파구: 수십 년간 정체됐던 스텔라레이터 핵융합로 설계의 수학적 해법 도출○ 로봇 및 엔지니어링…",
-      "link": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/%EA%B5%AC%EA%B8%80-%EC%A0%9C%EB%AF%B8%EB%82%98%EC%9D%B4-4-%EC%95%84%EB%A5%B4%EA%B3%A4-%EC%96%91%EC%9E%90-%EC%BB%B4%ED%93%A8%ED%8C%85-%EB%B9%84%EC%9A%A9-100%EB%B6%84%EC%9D%98-1%EB%A1%9C-%EC%A0%88%EA%B0%90/ar-AA2ebXMi",
-      "source": "글로벌이코노믹",
-      "image": "http://www.bing.com/th?id=ONUT.XhFjYiejUeXJKPwT4kEUCA&pid=News",
-      "category": "양자·첨단",
-      "publishedAt": "2026-10-13T21:57:00.000Z",
-      "collectedAt": "2026-10-14T05:29:26.264Z",
-      "thumb": "/thumbs/08e6b3af45f9.jpg"
     }
   ]
 }

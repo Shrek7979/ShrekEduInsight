@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-10-18T00:59:25.260Z",
+  "updatedAt": "2026-10-18T05:49:34.907Z",
   "items": [
+    {
+      "id": "4002593b7566",
+      "kind": "news",
+      "lang": "ko",
+      "title": "평택시, 산업단지 대형 화재·화학물질 유출 대응 훈련",
+      "summary": "경기 평택시가 산업단지 내 대형 화재와 유해화학물질 유출 등 복합 재난에 대비해 관계기관 합동…",
+      "detail": "경기 평택시가 산업단지 내 대형 화재와 유해화학물질 유출 등 복합 재난에 대비해 관계기관 합동 대응훈련을 실시했다. 평택시는 지난 14일 팽성읍 추팔산업단지 한미약품 평택공단에서 '2026년 재난대응 안전한국훈련'을 진행했다고 18일 밝혔다.",
+      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072826",
+      "source": "신아일보",
+      "image": "http://www.bing.com/th?id=ONUT.DbpY8Ut7XX5a_4U1OAVLZg&pid=News",
+      "category": "환경·안전",
+      "publishedAt": "2026-10-17T12:32:00.000Z",
+      "collectedAt": "2026-10-18T05:49:34.907Z",
+      "thumb": "/thumbs/4002593b7566.jpg"
+    },
     {
       "id": "bsky-3mxr7a5ucwb22",
       "kind": "news",
@@ -2474,21 +2489,6 @@
       "translator": "google",
       "detailKo": "성 선택 군비 경쟁에서 프로타민의 역할은 프로타민이 그렇게 빠르게 진화하는 이유일 수 있습니다.",
       "thumb": "/thumbs/94f1eabae5c5.webp"
-    },
-    {
-      "id": "993a6c02fc54",
-      "kind": "news",
-      "lang": "ko",
-      "title": "전북대 연구팀, 전자빔 활용 수소 생산 광촉매 개발",
-      "summary": "한국연구재단은 전북대학교 유승화·진경환 교수 공동연구팀이 이산화티타늄(TiO2)과 2차원 나노소재…",
-      "detail": "한국연구재단은 전북대학교 유승화·진경환 교수 공동연구팀이 이산화티타늄(TiO2)과 2차원 나노소재 맥신(MXene)을 결합하고 전자빔으로 산소 결함을 제어해 수소 발생률을 높이는 광촉매 기술을 개발했다고 13일 밝혔다.이번 연구는 이산화티타늄과…",
-      "link": "https://www.lawissue.co.kr/view.php?ud=202610132311536808f4ab64559d_12",
-      "source": "로이슈",
-      "image": "http://www.bing.com/th?id=ONUT.bqJMCSo8QHRg85E_NywL2g&pid=News",
-      "category": "소재·에너지",
-      "publishedAt": "2026-10-13T02:12:00.000Z",
-      "collectedAt": "2026-10-13T15:57:23.797Z",
-      "thumb": "/thumbs/993a6c02fc54.jpg"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T04:57:23.577Z",
+  "updatedAt": "2026-10-18T05:50:41.539Z",
   "items": [
     {
       "id": "ig-Dd1cGIpkZjM",
@@ -68,23 +68,6 @@
       "summaryKo": "다행히 엄마는 멀리 계시지 않아요 🦭",
       "translator": "google",
       "collectedAt": "2026-10-06T16:45:09.432Z"
-    },
-    {
-      "id": "ig-Dct8C-_oUrB",
-      "kind": "video",
-      "lang": "en",
-      "title": "I made a big mistake (and it involves dinosaurs)",
-      "summary": "",
-      "link": "https://www.instagram.com/clintsreptiles/reel/Dct8C-_oUrB/",
-      "source": "Instagram @clintsreptiles",
-      "category": "인기",
-      "publishedAt": "2026-08-30T15:00:00.000Z",
-      "likes": "1,250",
-      "thumb": "/social/ig/Dct8C-_oUrB.jpg",
-      "collectedAt": "2026-10-05T01:04:58.766Z",
-      "titleKo": "나는 큰 실수를 저질렀습니다. (그리고 그것은 공룡과 관련이 있습니다)",
-      "summaryKo": "",
-      "translator": "google"
     },
     {
       "id": "ig-Ddo7z9oj4Pq",
@@ -164,6 +147,22 @@
     }
   ],
   "pool": [
+    {
+      "id": "ig-DehxRKmAdp5",
+      "kind": "video",
+      "lang": "en",
+      "title": "Pinky and Petunia have a message for Texas science educators: They’re headed to Houston!",
+      "summary": "Meet the Amoeba Sisters at CAST26, November 12–14, in…",
+      "link": "https://www.instagram.com/txsciencestat/reel/DehxRKmAdp5/",
+      "source": "Instagram @amoebasistersofficial",
+      "category": "인기",
+      "publishedAt": "2026-10-15T00:00:00.000Z",
+      "likes": "891",
+      "thumb": "/social/ig/DehxRKmAdp5.jpg",
+      "titleKo": "Pinky와 Petunia는 텍사스 과학 교육자들에게 메시지를 전합니다. 그들은 휴스턴으로 향하고 있습니다!",
+      "summaryKo": "11월 12~14일 CAST26에서 Amoeba Sisters를 만나보세요.",
+      "translator": "google"
+    },
     {
       "id": "ig-DeKCgdNkb2C",
       "kind": "news",
