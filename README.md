@@ -16,14 +16,14 @@ subjects/
 scripts/
   collect-all.mjs     네 과목 수집을 한꺼번에 (news | sns | ig)
   prepare-assets.mjs  빌드 전에 subjects/*/public 을 public/s/<과목> 으로 복사
-  sns-update.cmd      PC 예약 작업 (1시간마다: 인스타그램 + 필요하면 뉴스 → GitHub 에 올림)
+  sns-update.cmd      PC 예약 작업 (1시간마다 확인: 12시간이 지났으면 인스타그램·뉴스 → GitHub 에 올림)
 src/                  사이트 화면 (Next.js)
 ```
 
 ## 어떻게 돌아가나요
 
 - GitHub Actions(`.github/workflows/publish.yml`)가 약 12시간마다 네 과목을 동시에 수집하고 사이트를 배포합니다.
-- GitHub 예약 실행은 자주 밀리므로, PC 의 Windows 예약 작업 **"ShrekEduInsight SNS Update"** 가 1시간마다 인스타그램(서버에서는 막힘)을, 12시간마다 뉴스를 모아 올립니다. 작업 폴더는 건드리지 않고 `.cache/bot-repo` 복사본에서만 git 을 씁니다.
+- GitHub 예약 실행은 자주 밀리므로, PC 의 Windows 예약 작업 **"ShrekEduInsight SNS Update"** 가 1시간마다 확인해서 12시간이 지났으면 인스타그램(서버에서는 막힘)과 뉴스를 모아 올립니다. 작업 폴더는 건드리지 않고 `.cache/bot-repo` 복사본에서만 git 을 씁니다.
 - 사이트를 열면 브라우저가 이 저장소의 최신 `subjects/*/data/*.json` 을 읽어 바로 새 소식을 보여 줍니다.
 - 부고·임명 같은 개인 소식, 광고·홍보성 기사는 수집 단계와 화면 단계에서 모두 거릅니다.
 
