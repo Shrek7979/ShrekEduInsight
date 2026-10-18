@@ -1,6 +1,55 @@
 {
-  "updatedAt": "2026-10-18T05:49:34.978Z",
+  "updatedAt": "2026-10-18T09:57:41.287Z",
   "items": [
+    {
+      "id": "c3b5a8b9c656",
+      "kind": "news",
+      "lang": "ko",
+      "title": "국토정중앙천문대 어린이 과학캠프 마무리",
+      "summary": "양구군 국토정중앙천문대가 지난 8월부터 운영해 온 ‘가족과 함께하는 어린이 과학캠프’가 17,…",
+      "detail": "양구군 국토정중앙천문대가 지난 8월부터 운영해 온 ‘가족과 함께하는 어린이 과학캠프’가 17, 18일 진행한 마지막 회차를 끝으로 올해 일정을 마무리했다. 올해 어린이 과학캠프는 모두 5회에 걸쳐 운영했으며 초등생과 동반 가족 등 23가족 87명이…",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2078728",
+      "source": "강원도민일보",
+      "image": "http://www.bing.com/th?id=ONUT.x3eF76Z_w65q2N9X2yiBpA&pid=News",
+      "category": "대회·행사",
+      "publishedAt": "2026-10-17T19:30:00.000Z",
+      "collectedAt": "2026-10-18T09:57:41.287Z",
+      "thumb": "/thumbs/c3b5a8b9c656.png"
+    },
+    {
+      "id": "aafa765213fb",
+      "kind": "news",
+      "lang": "ko",
+      "title": "충남도, 국방·양자산업 연계 방안 모색",
+      "summary": "충남도가 도내 국방 기반시설과 양자산업을 연계하기 위한 전략 마련에 나섰다.도는 16일 건양대학교…",
+      "detail": "충남도가 도내 국방 기반시설과 양자산업을 연계하기 위한 전략 마련에 나섰다.도는 16일 건양대학교 명곡정보관 무궁화장홀에서 김재완 미래양자융합포럼 공동대표의장, 정보통신기획평가원(IITP), 국방과학연구소(ADD), LIG D&A,…",
+      "link": "http://www.startnews.co.kr/news/articleView.html?idxno=986602",
+      "source": "스타트뉴스",
+      "image": "http://www.bing.com/th?id=ONUT.pHc8oRnkMt0NgQPdpN0awg&pid=News",
+      "category": "양자·첨단",
+      "publishedAt": "2026-10-17T19:30:00.000Z",
+      "collectedAt": "2026-10-18T09:57:41.287Z",
+      "thumb": "/thumbs/aafa765213fb.png"
+    },
+    {
+      "id": "2710c0431127",
+      "kind": "video",
+      "lang": "en",
+      "title": "The Insane Real Engineering of the Nazi Enigma Machine",
+      "summary": "",
+      "detail": "",
+      "link": "https://www.youtube.com/watch?v=JsBZOcqZerk",
+      "source": "Veritasium",
+      "image": "https://i3.ytimg.com/vi/JsBZOcqZerk/hqdefault.jpg",
+      "views": 20200891,
+      "category": "인기",
+      "publishedAt": "2026-09-21T17:49:57.000Z",
+      "collectedAt": "2026-10-18T09:57:41.287Z",
+      "titleKo": "나치 에니그마 기계의 미친 실제 공학",
+      "summaryKo": "",
+      "translator": "google",
+      "thumb": "/thumbs/2710c0431127.jpg"
+    },
     {
       "id": "11e94cbbf3ee",
       "kind": "news",
@@ -2436,51 +2485,6 @@
       "publishedAt": "2026-10-13T19:23:00.000Z",
       "collectedAt": "2026-10-14T09:57:37.819Z",
       "thumb": "/thumbs/99bf16e79635.jpg"
-    },
-    {
-      "id": "4245f29d0654",
-      "kind": "news",
-      "lang": "ko",
-      "title": "미국·영국 등 13개국 서울 집결…양자기술 협력 논의",
-      "summary": "양자기술다자대화는 주요국 양자기술 정책 담당자들이 연구개발 (R&D)·산업화 협력을 논의하는 정부…",
-      "detail": "양자기술다자대화는 주요국 양자기술 정책 담당자들이 연구개발 (R&D)·산업화 협력을 논의하는 정부 간 협의체다. 한국은 2023년 합류했으며 미국, 영국 등 13개국이 참여하고 있다. 15일 열리는 다자대화 본회의에는 각국 최신 정책과 추진 현황을…",
-      "link": "https://www.yna.co.kr/view/AKR20261014147900017",
-      "source": "연합뉴스",
-      "image": "http://www.bing.com/th?id=ONUT.nd0IyEh8EoXHnAA8zKc2TA&pid=News",
-      "category": "양자·첨단",
-      "publishedAt": "2026-10-13T19:19:00.000Z",
-      "collectedAt": "2026-10-14T09:57:37.819Z",
-      "thumb": "/thumbs/4245f29d0654.jpg"
-    },
-    {
-      "id": "827923be8a88",
-      "kind": "news",
-      "lang": "ko",
-      "title": "과기정통부, 13개국과 양자기술 협력 논의…공동 R&D 확대 추진",
-      "summary": "과학기술정보통신부가 주요 13개국과 양자기술 산업화를 위한 국제협력을 확대한다.과기정통부는…",
-      "detail": "과학기술정보통신부가 주요 13개국과 양자기술 산업화를 위한 국제협력을 확대한다.과기정통부는 16일까지 서울에서 '제9차 양자기술다자대화(MDQ)'와 '양자기술 산업화 비즈니스 나이트'를 개최한다고 14일 밝혔다.MDQ는 주요국 양자기술 정책…",
-      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706993",
-      "source": "디지털투데이",
-      "image": "http://www.bing.com/th?id=ONUT.BP5VQVg0pGH6XK1aMjNJrA&pid=News",
-      "category": "양자·첨단",
-      "publishedAt": "2026-10-13T18:25:00.000Z",
-      "collectedAt": "2026-10-14T09:57:37.819Z",
-      "thumb": "/thumbs/827923be8a88.jpg"
-    },
-    {
-      "id": "72b6f7b640e3",
-      "kind": "news",
-      "lang": "ko",
-      "title": "한·미·일 등 13개국, 서울서 양자기술 공동개발·산업화 손잡는다",
-      "summary": "한국과 미국, 일본, 영국 등 주요 13개국이 양자기술 연구개발부터 산업화까지 전주기에 걸친 협력…",
-      "detail": "한국과 미국, 일본, 영국 등 주요 13개국이 양자기술 연구개발부터 산업화까지 전주기에 걸친 협력 확대에 나선다. 각국의 연구역량과 인재, 제조 기반을 연결해 공동연구와 기술개발을 추진하고 글로벌 양자산업 공급망 구축에도 속도를 낼 전망이다.…",
-      "link": "https://www.viva100.com/article/20261014500909",
-      "source": "브릿지경제",
-      "image": "http://www.bing.com/th?id=ONUT.8UYoU1wYr1Xij7hqFIxu8Q&pid=News",
-      "category": "양자·첨단",
-      "publishedAt": "2026-10-13T18:01:00.000Z",
-      "collectedAt": "2026-10-14T09:57:37.819Z",
-      "thumb": "/thumbs/72b6f7b640e3.jpg"
     }
   ]
 }

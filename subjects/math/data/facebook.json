@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-17T13:10:05.962Z",
+  "updatedAt": "2026-10-18T10:02:05.727Z",
   "items": [
+    {
+      "id": "fb-708d131bf0bc",
+      "kind": "news",
+      "lang": "en",
+      "title": "In the early 1900s, Emmy Noether explored the mathematical consequences of symmetries.",
+      "summary": "In doing so, she shook the very foundations of…",
+      "link": "https://www.facebook.com/QuantaNews/posts/pfbid025ASivm45qiDjmzZpHTYcj1B5B9k9oButN32Zqo1f8eVYE3qA7U5MQ5vdcSxJzsANl",
+      "source": "Facebook Quanta Magazine",
+      "category": "인기",
+      "publishedAt": "2026-10-17T21:01:55.651Z",
+      "thumb": "/social/fb/fb-708d131bf0bc.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-18T10:02:05.727Z",
+      "titleKo": "1900년대 초 Emmy Noether는 대칭의 수학적 결과를 탐구했습니다.",
+      "summaryKo": "그렇게 함으로써 그녀는 사회의 기초를 흔들었습니다...",
+      "translator": "google"
+    },
     {
       "id": "fb-25ad02fde3d1",
       "kind": "news",
