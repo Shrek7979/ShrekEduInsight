@@ -1,6 +1,37 @@
 {
-  "updatedAt": "2026-10-18T10:57:04.010Z",
+  "updatedAt": "2026-10-18T14:32:34.339Z",
   "items": [
+    {
+      "id": "bsky-3my5iorqjz52p",
+      "kind": "news",
+      "lang": "en",
+      "title": "A novel prognostic score based on carbohydrate antigen 125, alpha-fetoprotein and carcinoembryonic antigen for Predicting postoperative…",
+      "summary": "prognosis in endometrial cancer: Results from a…",
+      "link": "https://bsky.app/profile/elife.bsky.social/post/3my5iorqjz52p",
+      "source": "Bluesky eLife",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4irghgzlsjk6ugrekoqyl7km/bafkreiaqpl3kxdxpdh42t37jpcpsccmcb7n656beigdtvecp747knudahi",
+      "category": "인기",
+      "publishedAt": "2026-10-18T11:26:00.528Z",
+      "collectedAt": "2026-10-18T14:32:34.339Z",
+      "titleKo": "수술 후 예측을 위한 탄수화물 항원 125, 알파-태아단백질 및 암배아 항원을 기반으로 한 새로운 예후 점수…",
+      "summaryKo": "자궁내막암의 예후: 결과…",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3my5iorqjz52p.webp"
+    },
+    {
+      "id": "09c0560fae12",
+      "kind": "news",
+      "lang": "ko",
+      "title": "곡성영재교육원, 초등 저학년 가족 과학탐구 수업 참여",
+      "summary": "곡성영재교육원이 초등학교 저학년 학생과 학부모가 함께 과학 원리를 탐구하는 가족 참여형 수업을…",
+      "detail": "곡성영재교육원이 초등학교 저학년 학생과 학부모가 함께 과학 원리를 탐구하는 가족 참여형 수업을 운영해 영재교육 기회 확대와 가족 간 소통의 장을 마련했다.전남광주통합특별시곡성교육지원청(교육장 심치숙) 곡성영재교육원은 지난 9월 19일과 10월 17일…",
+      "link": "https://www.ihopenews.com/news/articleView.html?idxno=257116",
+      "source": "호남교육신문",
+      "category": "교육",
+      "publishedAt": "2026-10-17T20:30:00.000Z",
+      "collectedAt": "2026-10-18T14:32:34.339Z",
+      "thumb": "/thumbs/09c0560fae12.jpg"
+    },
     {
       "id": "9b27df21f52b",
       "kind": "news",
@@ -2427,36 +2458,6 @@
       "publishedAt": "2026-10-15T10:58:05.000Z",
       "collectedAt": "2026-10-15T11:20:56.675Z",
       "thumb": "/thumbs/45b034810513.png"
-    },
-    {
-      "id": "9b9d283fb8fc",
-      "kind": "news",
-      "lang": "ko",
-      "title": "서울 주택가에서 발견된 멸종위기종 삵",
-      "summary": "서울 주택가에서 길냥이인줄 알고 구조했는데, 멸종위기종, 삵이었습니다",
-      "detail": "서울 주택가에서 길냥이인줄 알고 구조했는데, 멸종위기종, 삵이었습니다. 숙솦 최상위 포식자가 어쩌다 도심 한복판까지 온걸까요. 정서환 기자가 취재했습니다. [기자]갈색 털로 뒤덮인 동물이 눈을 껌뻑이며 앉아 있습니다. 이빨을 드러내며 위협하다 바닥에…",
-      "link": "https://www.msn.com/ko-kr/news/other/%EC%84%9C%EC%9A%B8-%EC%A3%BC%ED%83%9D%EA%B0%80%EC%97%90%EC%84%9C-%EB%B0%9C%EA%B2%AC%EB%90%9C-%EB%A9%B8%EC%A2%85%EC%9C%84%EA%B8%B0%EC%A2%85-%EC%82%B5/vi-AA2ehDRR",
-      "source": "채널A",
-      "image": "http://www.bing.com/th?id=ONUT.XqeA6arNfZtCgCETGJUHGQ&pid=News",
-      "category": "생태·환경",
-      "publishedAt": "2026-10-15T03:25:31.000Z",
-      "collectedAt": "2026-10-15T11:20:56.675Z",
-      "thumb": "/thumbs/9b9d283fb8fc.png"
-    },
-    {
-      "id": "df3450073778",
-      "kind": "news",
-      "lang": "ko",
-      "title": "켄텍, '초등에서 중학생까지'... 특화 영어 과학 교육 보폭 넓혀",
-      "summary": "올해는 교육의 연속성과 깊이를 더하기 위해 봉황중학교 전 학년을 대상으로 ‘ESP 에너지교실’을…",
-      "detail": "올해는 교육의 연속성과 깊이를 더하기 위해 봉황중학교 전 학년을 대상으로 ‘ESP 에너지교실’을 신규 도입하면서, 청소년들이 영어를 훨씬 친숙하고 흥미롭게 마주할 수 있는 발판을 놓았다. 초등학교와 중학교를 아우르는 이번 ESP 교육 일정은 오는…",
-      "link": "https://www.newsworker.co.kr/news/articleView.html?idxno=508683",
-      "source": "뉴스워커",
-      "image": "http://www.bing.com/th?id=ONUT.fKQbrYRzDI8sg1ScdYYNBg&pid=News",
-      "category": "교육",
-      "publishedAt": "2026-10-15T03:20:00.000Z",
-      "collectedAt": "2026-10-15T11:20:56.675Z",
-      "thumb": "/thumbs/df3450073778.jpg"
     }
   ]
 }

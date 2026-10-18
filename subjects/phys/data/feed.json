@@ -1,6 +1,53 @@
 {
-  "updatedAt": "2026-10-18T10:57:03.984Z",
+  "updatedAt": "2026-10-18T14:32:34.308Z",
   "items": [
+    {
+      "id": "f639018e73e3",
+      "kind": "news",
+      "lang": "en",
+      "title": "Scientists who discovered a third form of magnetism win major physics prize",
+      "summary": "Physicists have uncovered a hidden third form of…",
+      "detail": "Physicists have uncovered a hidden third form of magnetism that challenges more than 100 years of established physics. Called…",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261017230035.htm",
+      "source": "ScienceDaily",
+      "category": "해외",
+      "publishedAt": "2026-10-18T09:41:44.000Z",
+      "collectedAt": "2026-10-18T14:32:34.308Z",
+      "titleKo": "세 번째 형태의 자기를 발견한 과학자들이 주요 물리학상을 수상했습니다.",
+      "summaryKo": "물리학자들은 숨겨진 세 번째 형태의 현상을 발견했습니다",
+      "translator": "google",
+      "detailKo": "물리학자들은 100년 이상 확립된 물리학에 도전하는 숨겨진 세 번째 형태의 자기를 발견했습니다. 라고 불리는…",
+      "thumb": "/thumbs/f639018e73e3.webp"
+    },
+    {
+      "id": "09c0560fae12",
+      "kind": "news",
+      "lang": "ko",
+      "title": "곡성영재교육원, 초등 저학년 가족 과학탐구 수업 참여",
+      "summary": "곡성영재교육원이 초등학교 저학년 학생과 학부모가 함께 과학 원리를 탐구하는 가족 참여형 수업을…",
+      "detail": "곡성영재교육원이 초등학교 저학년 학생과 학부모가 함께 과학 원리를 탐구하는 가족 참여형 수업을 운영해 영재교육 기회 확대와 가족 간 소통의 장을 마련했다.전남광주통합특별시곡성교육지원청(교육장 심치숙) 곡성영재교육원은 지난 9월 19일과 10월 17일…",
+      "link": "https://www.ihopenews.com/news/articleView.html?idxno=257116",
+      "source": "호남교육신문",
+      "category": "교육",
+      "publishedAt": "2026-10-17T20:30:00.000Z",
+      "collectedAt": "2026-10-18T14:32:34.308Z",
+      "thumb": "/thumbs/09c0560fae12.jpg"
+    },
+    {
+      "id": "9a063a79aba0",
+      "kind": "news",
+      "lang": "ko",
+      "title": "AI 수학 연구 가속 우려에 블록체인 업계, 양자 전 보안 대비 논의",
+      "summary": "AI가 암호학 연구를 앞당길 가능성에 대비해 블록체인 업계도 양자컴퓨터 등장 전의 보안 위험을…",
+      "detail": "AI가 암호학 연구를 앞당길 가능성에 대비해 블록체인 업계도 양자컴퓨터 등장 전의 보안 위험을 살펴야 한다는 주장이 나왔다. 현재 비트코인 (BTC)이나 이더리움 (ETH)의 서명 체계가 실제 공격으로 깨졌다는 근거는 제시되지 않았다.",
+      "link": "https://www.tokenpost.kr/news/blockchain/423748",
+      "source": "토큰포스트",
+      "image": "http://www.bing.com/th?id=ONUT.QzppLurgA-T5R0m3_Quk9w&pid=News",
+      "category": "양자·첨단",
+      "publishedAt": "2026-10-17T17:14:00.000Z",
+      "collectedAt": "2026-10-18T14:32:34.308Z",
+      "thumb": "/thumbs/9a063a79aba0.jpg"
+    },
     {
       "id": "c3b5a8b9c656",
       "kind": "news",
@@ -2441,50 +2488,6 @@
       "translator": "google",
       "detailKo": "디지털 트윈은 핵융합 플라즈마의 예측, 설계 및 제어 방식을 변화시킬 수 있습니다. 우리는 이 약속을 실현하려면…",
       "thumb": "/thumbs/5ae9a8e99835.png"
-    },
-    {
-      "id": "3766bb765b0f",
-      "kind": "news",
-      "lang": "ko",
-      "title": "퀀텀서브, 양자-고전 하이브리드 분자설계 소프트웨어 개발",
-      "summary": "강원도 소프트웨어 개발기업 퀀텀서브(QuantumSub)가 양자-고전 하이브리드 컴퓨팅 기술을…",
-      "detail": "강원도 소프트웨어 개발기업 퀀텀서브(QuantumSub)가 양자-고전 하이브리드 컴퓨팅 기술을 적용한 분자설계 소프트웨어(SW) 'Gamja-MD'를 개발했다고 14일 밝혔다. 회사에 따르면 이 소프트웨어는 질소 분자와 수소 체인 시스템에서…",
-      "link": "https://www.mt.co.kr/industry/2026/10/14/2026101317033190208",
-      "source": "머니투데이",
-      "category": "양자·첨단",
-      "publishedAt": "2026-10-13T20:13:00.000Z",
-      "collectedAt": "2026-10-14T09:57:37.819Z",
-      "thumb": "/thumbs/3766bb765b0f.jpg"
-    },
-    {
-      "id": "8d0d85bd1d3c",
-      "kind": "news",
-      "lang": "ko",
-      "title": "아부다비 해양아카데미, 퀸커스·퀀티넘과 양자·인공지능 연구 협력",
-      "summary": "아부다비 해양아카데미(Abu Dhabi Maritime Academy)가 두바이에서 열린 ‘퀀텀…",
-      "detail": "아부다비 해양아카데미(Abu Dhabi Maritime Academy)가 두바이에서 열린 ‘퀀텀 이노베이션 서밋 2026(Quantum Innovation Summit 2026)’에서 전략적 연구 협력을 발표했다. 퀸커스(Quincus)와…",
-      "link": "https://www.quantumtimes.net/news/articleView.html?idxno=57125",
-      "source": "quantumtimes",
-      "image": "http://www.bing.com/th?id=ONUT.MlJjN7xRD9S1dg74uBZVvQ&pid=News",
-      "category": "양자·첨단",
-      "publishedAt": "2026-10-13T19:42:00.000Z",
-      "collectedAt": "2026-10-14T09:57:37.819Z",
-      "thumb": "/thumbs/8d0d85bd1d3c.jpg"
-    },
-    {
-      "id": "99bf16e79635",
-      "kind": "news",
-      "lang": "ko",
-      "title": "멘토스학원, 수능 후 파이널 논술, 통합과학 사전 예약",
-      "summary": "대치동 멘토스학원에서 2027년 윈터스쿨도 사전 예약을 시작했다",
-      "detail": "대치동 멘토스학원에서 2027년 윈터스쿨도 사전 예약을 시작했다. 대상은 중학생은 예비중3 고등학생은 예비고1부터 고3까지 예약이 가능하다. 기간은 2027년 1월 1일부터 5주간 진행한다.수능 후 수리논술도 모집 중이다. 11월 19일 수능 후…",
-      "link": "https://www.gosiweek.com/article/1065597690245106",
-      "source": "피앤피뉴스",
-      "image": "http://www.bing.com/th?id=ONUT.jR2TDAoO2CJpiTnB0c406g&pid=News",
-      "category": "입시",
-      "publishedAt": "2026-10-13T19:23:00.000Z",
-      "collectedAt": "2026-10-14T09:57:37.819Z",
-      "thumb": "/thumbs/99bf16e79635.jpg"
     }
   ]
 }
