@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-10-18T19:42:37.671Z",
+  "updatedAt": "2026-10-18T21:56:18.934Z",
   "items": [
+    {
+      "id": "4278e5a43710",
+      "kind": "news",
+      "lang": "ko",
+      "title": "한 달 뒤 수능…'널뛰기' 영어·사탐런·확통런 등 변수 산적",
+      "summary": "정예빈 기자 = 올해 11월 19일 치러지는 대학수학능력시험이 한 달 앞으로 다가왔다",
+      "detail": "정예빈 기자 = 올해 11월 19일 치러지는 대학수학능력시험이 한 달 앞으로 다가왔다. 올해 수능은 영어 영역의 난이도와 함께 자연계열 학생들이 사회탐구와 확률과 통계를 택하는 이른바 사탐런·확통런이 판세를 가를 변수로 지목된다. 전문가들은 영..",
+      "link": "https://www.fnnews.com/news/202610190601453958",
+      "source": "파이낸셜뉴스",
+      "image": "http://www.bing.com/th?id=ONUT.81VXxm23_YxfqLowcyimAg&pid=News",
+      "category": "입시",
+      "publishedAt": "2026-10-18T09:01:00.000Z",
+      "collectedAt": "2026-10-18T21:56:18.934Z",
+      "thumb": "/thumbs/4278e5a43710.jpg"
+    },
     {
       "id": "bsky-3my6a62wfak2t",
       "kind": "news",
@@ -2466,21 +2481,6 @@
       "publishedAt": "2026-10-13T16:10:00.000Z",
       "collectedAt": "2026-10-14T05:29:26.219Z",
       "thumb": "/thumbs/f7e801d8e9ad.jpg"
-    },
-    {
-      "id": "1724d144557f",
-      "kind": "news",
-      "lang": "ko",
-      "title": "유해 우려 화학물질 699종인데 평가 인력은 4명뿐",
-      "summary": "정부가 지정한 중점관리 화학물질은 699종에 달하지만, 이를 검증할 국립환경과학원의 위해성 평가…",
-      "detail": "정부가 지정한 중점관리 화학물질은 699종에 달하지만, 이를 검증할 국립환경과학원의 위해성 평가 전담 인력은 4명에 불과하다. 이로 인해 해외에서 퇴출된 유해 물질조차 규제 근거를 마련하지 못해 방치되고 있어, 전문 인력과 예산 확충이 필요하다는…",
-      "link": "https://news.jkn.co.kr/post/1021722",
-      "source": "재경일보",
-      "image": "http://www.bing.com/th?id=ONUT.AaQfNJy6Ru_Z3-lrbJrACw&pid=News",
-      "category": "환경·안전",
-      "publishedAt": "2026-10-13T15:29:00.000Z",
-      "collectedAt": "2026-10-14T05:29:26.219Z",
-      "thumb": "/thumbs/1724d144557f.jpg"
     }
   ]
 }

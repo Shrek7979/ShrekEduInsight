@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-10-18T19:42:37.457Z",
+  "updatedAt": "2026-10-18T21:56:18.925Z",
   "items": [
+    {
+      "id": "bsky-3my6kprdby32b",
+      "kind": "news",
+      "lang": "en",
+      "title": "Some scientists have suggested that dark matter may not exist.",
+      "summary": "Three bizarre galaxies pour cold water on that idea",
+      "link": "https://bsky.app/profile/quantamagazine.org/post/3my6kprdby32b",
+      "source": "Bluesky Quanta Magazine",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vfktz6qe6vy7serr3wqutpzt/bafkreibkkoof63oofevhwy55kexktapjpuj7whspcz2byka2fony4b2sie",
+      "likes": "5",
+      "category": "인기",
+      "publishedAt": "2026-10-18T21:35:01.136Z",
+      "collectedAt": "2026-10-18T21:56:18.925Z",
+      "titleKo": "일부 과학자들은 암흑물질이 존재하지 않을 수도 있다고 제안했습니다.",
+      "summaryKo": "세 개의 기괴한 은하가 그 아이디어에 찬물을 붓는다",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3my6kprdby32b.webp"
+    },
+    {
+      "id": "bsky-3my6k5vjxpp2v",
+      "kind": "news",
+      "lang": "en",
+      "title": "Attention is a mathematical operation built into AI systems that allow them to link words and build context.",
+      "summary": "What can this mechanism teach us about our own…",
+      "link": "https://bsky.app/profile/quantamagazine.org/post/3my6k5vjxpp2v",
+      "source": "Bluesky Quanta Magazine",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vfktz6qe6vy7serr3wqutpzt/bafkreiajgrf2zs4gt6el3o5ntymzkrkj33esvv3fpelejc6wpzv5qdnvzq",
+      "likes": "9",
+      "category": "인기",
+      "publishedAt": "2026-10-18T21:25:01.511Z",
+      "collectedAt": "2026-10-18T21:56:18.925Z",
+      "titleKo": "어텐션(Attention)은 단어를 연결하고 맥락을 구축할 수 있도록 AI 시스템에 내장된 수학적 연산입니다.",
+      "summaryKo": "이 메커니즘은 우리 자신에 대해 무엇을 가르쳐 줄 수 있습니까?",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3my6k5vjxpp2v.webp"
+    },
     {
       "id": "bsky-3my66pdeh7m25",
       "kind": "news",
@@ -2456,35 +2492,6 @@
       "translator": "google",
       "detailKo": "연구자들은 신중하게 설계된 복잡한 산란 매체가 음향 모드의 비아벨식 편조를 수행할 수 있음을 보여줍니다. 포스트 터닝…",
       "thumb": "/thumbs/578cb7e773ce.jpg"
-    },
-    {
-      "id": "83c1dbd5899f",
-      "kind": "news",
-      "lang": "ko",
-      "title": "궤도 320년치 '알파입자' 맞아도 효율 80% 유지…경상국립대 이다슬/박종성 교수 연구팀, 우주용 태양전지 보호막 기술 개발",
-      "summary": "경상국립대(총장 권진회) 미래융복합기술연구소 이다슬 학술연구교수와 에너지공학과 박종성 교수 연구팀이…",
-      "detail": "경상국립대(총장 권진회) 미래융복합기술연구소 이다슬 학술연구교수와 에너지공학과 박종성 교수 연구팀이 우주 방사선의 하나인 알파입자가 페로브스카이트(Perovskite, 특정 결정 구조를 가진 화합물) 태양전지의 성능을 떨어뜨리는 원리를 규명하고,…",
-      "link": "https://www.veritas-a.com/news/articleView.html?idxno=631862",
-      "source": "베리타스알파",
-      "category": "우주·천문",
-      "publishedAt": "2026-10-14T06:43:36.000Z",
-      "collectedAt": "2026-10-14T09:57:37.819Z",
-      "thumb": "/thumbs/83c1dbd5899f.png"
-    },
-    {
-      "id": "8338f17dc719",
-      "kind": "news",
-      "lang": "ko",
-      "title": "[충남교육소식] 충남과학고 영재학교 전환 공론화…교육공동체 의견 수렴 외",
-      "summary": "14일 충남교육청진로융합교육원에서 교직원과 학부모, 도민 등 200여 명이 참석한 가운데…",
-      "detail": "14일 충남교육청진로융합교육원에서 교직원과 학부모, 도민 등 200여 명이 참석한 가운데 ‘충남과학고등학교의 KAIST 부설 영재학교 전환’ 공모 관련 공청회가 열렸다. 사진=충남교육청 제공[내포(충남)=데일리한국 이정석 기자] 충남교육청이…",
-      "link": "https://www.msn.com/ko-kr/news/other/%EC%B6%A9%EB%82%A8%EA%B5%90%EC%9C%A1%EC%86%8C%EC%8B%9D-%EC%B6%A9%EB%82%A8%EA%B3%BC%ED%95%99%EA%B3%A0-%EC%98%81%EC%9E%AC%ED%95%99%EA%B5%90-%EC%A0%84%ED%99%98-%EA%B3%B5%EB%A1%A0%ED%99%94-%EA%B5%90%EC%9C%A1%EA%B3%B5%EB%8F%99%EC%B2%B4-%EC%9D%98%EA%B2%AC-%EC%88%98%EB%A0%B4-%EC%99%B8/ar-AA2ecom2",
-      "source": "데일리한국",
-      "image": "http://www.bing.com/th?id=ONUT.KMC09YO23Wki6XqyG62_bg&pid=News",
-      "category": "교육",
-      "publishedAt": "2026-10-14T00:51:33.000Z",
-      "collectedAt": "2026-10-14T09:57:37.819Z",
-      "thumb": "/thumbs/8338f17dc719.png"
     }
   ]
 }
