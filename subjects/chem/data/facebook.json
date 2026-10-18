@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-18T10:59:30.498Z",
+  "updatedAt": "2026-10-18T17:37:09.376Z",
   "items": [
+    {
+      "id": "fb-5b393c277cd3",
+      "kind": "news",
+      "lang": "en",
+      "title": "Happy National Chemistry Week!",
+      "summary": "Thi",
+      "link": "https://www.facebook.com/AmericanChemicalSociety/posts/pfbid02B7mSnqAZBbLj49DFnkVqUMHDwhGUMfZHALPQMLLmWpivuymfC9HvbKWW5Mme65HBl",
+      "source": "Facebook American Chemical Society",
+      "category": "인기",
+      "publishedAt": "2026-10-18T14:36:28.380Z",
+      "thumb": "/social/fb/fb-5b393c277cd3.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-18T17:37:09.376Z",
+      "titleKo": "행복한 전국 화학 주간!",
+      "summaryKo": "티",
+      "translator": "google"
+    },
     {
       "id": "fb-c32d935ba40d",
       "kind": "news",
