@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-19T10:05:09.729Z",
+  "updatedAt": "2026-10-19T22:02:37.159Z",
   "items": [
+    {
+      "id": "fb-75f27fda1cac",
+      "kind": "news",
+      "lang": "en",
+      "title": "Meet plant science researcher and author Professor Lee Hickey.",
+      "summary": "Learn about their research and experience of publishing…",
+      "link": "https://www.facebook.com/cellpress/posts/pfbid034jyracNc8V3Agt3LSGYEYpLmAQmxuNhqV2dPnRpHeoRkSvS8FQHNAsLY577e8QCVl",
+      "source": "Facebook Cell Press",
+      "category": "인기",
+      "publishedAt": "2026-10-19T20:01:55.901Z",
+      "thumb": "/social/fb/fb-75f27fda1cac.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-19T22:02:37.159Z",
+      "titleKo": "식물과학 연구자이자 작가인 Lee Hickey 교수를 만나보세요.",
+      "summaryKo": "그들의 연구와 출판 경험에 대해 알아보세요…",
+      "translator": "google"
+    },
     {
       "id": "fb-6ac2583aa6c5",
       "kind": "news",
@@ -937,20 +954,20 @@
       "translator": "google"
     },
     {
-      "id": "fb-b91f713f2c24",
+      "id": "fb-fb560dee7ab6",
       "kind": "news",
       "lang": "en",
       "title": "Well, we had updated our mitosis video, and it was time to RELEASE our updated meiosis video!",
       "summary": "You'll find the scr",
-      "link": "https://www.facebook.com/AmoebaSisters/posts/pfbid02zAARQ5i4e1mXJ2v78L8yb6CUUB5eTEWMbfPMbLsccrWP4hkM1cHjKT2XyQoUzZQul",
+      "link": "https://www.facebook.com/AmoebaSisters/posts/pfbid0v8ZhvGWVyGHebzNMV941w7uLr62ERhBs7xzGk99EJbsyHm2H4NwfPwD88pQMiwQul",
       "source": "Facebook The Amoeba Sisters",
       "category": "인기",
       "publishedAt": "2026-09-30T12:00:00.000Z",
-      "thumb": "/social/fb/fb-b91f713f2c24.jpg",
+      "thumb": "/social/fb/fb-fb560dee7ab6.jpg",
       "refs": [
         "I-sucvMV0Ng"
       ],
-      "collectedAt": "2026-10-18T17:37:24.235Z",
+      "collectedAt": "2026-10-19T22:02:37.159Z",
       "titleKo": "글쎄, 우리는 유사분열 비디오를 업데이트했고 이제 업데이트된 감수분열 비디오를 공개할 시간이었습니다!",
       "summaryKo": "scr을 찾을 수 있습니다.",
       "translator": "google"

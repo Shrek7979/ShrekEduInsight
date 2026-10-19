@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-10-19T10:04:49.199Z",
+  "updatedAt": "2026-10-19T22:02:21.692Z",
   "items": [
+    {
+      "id": "fb-d60c8720df25",
+      "kind": "news",
+      "lang": "en",
+      "title": "All physics disciplines connect at the APS Global Physics Summit",
+      "summary": "",
+      "link": "https://www.facebook.com/apsphysics/posts/pfbid02PWG78er2c2Nv591DfMtxyiNa3iG7KR9tcUZaydhtXR8Fjhp8237EVPdDK7yitVsUl",
+      "source": "Facebook American Physical Society",
+      "category": "인기",
+      "publishedAt": "2026-10-19T19:01:51.406Z",
+      "thumb": "/social/fb/fb-d60c8720df25.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-19T22:02:21.692Z",
+      "titleKo": "APS Global Physics Summit에서 모든 물리학 분야가 연결됩니다.",
+      "summaryKo": "",
+      "translator": "google"
+    },
+    {
+      "id": "fb-8e5caec42cd6",
+      "kind": "news",
+      "lang": "en",
+      "title": "What if you could watch a perovskite device working in real time?",
+      "summary": "",
+      "link": "https://www.facebook.com/physicsworld/posts/pfbid02Cc9p2NoPMzf6hCPyqfM2kAwmDSgZgPKc7rFcbCyBBUXXjRbWWAhMuY2SFT1iPd3Ll",
+      "source": "Facebook Physics World",
+      "category": "인기",
+      "publishedAt": "2026-10-19T17:01:39.345Z",
+      "thumb": "/social/fb/fb-8e5caec42cd6.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-19T22:02:21.692Z",
+      "titleKo": "페로브스카이트 장치가 실시간으로 작동하는 모습을 볼 수 있다면 어떨까요?",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-bbc216fbbb26",
       "kind": "news",
