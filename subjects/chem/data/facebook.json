@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-19T22:02:23.867Z",
+  "updatedAt": "2026-10-20T10:00:54.977Z",
   "items": [
+    {
+      "id": "fb-6a6e08ac6402",
+      "kind": "news",
+      "lang": "en",
+      "title": "Happy National Chemistry Week!",
+      "summary": "Thi",
+      "link": "https://www.facebook.com/AmericanChemicalSociety/posts/pfbid02BRZy4LU2BndwsP57S7dXAsjRh9w3bG3LoW3DBwKmRJB2BnQUteCY9fV8wG6EvzRsl",
+      "source": "Facebook American Chemical Society",
+      "category": "인기",
+      "publishedAt": "2026-10-19T10:00:11.047Z",
+      "thumb": "/social/fb/fb-6a6e08ac6402.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-20T10:00:54.977Z",
+      "titleKo": "행복한 전국 화학 주간!",
+      "summaryKo": "티",
+      "translator": "google"
+    },
     {
       "id": "fb-0b43cd4bc798",
       "kind": "video",
@@ -16,23 +33,6 @@
       "collectedAt": "2026-10-19T10:04:51.930Z",
       "titleKo": "누군가가 도움을 요청하는 것을 막는 것은 무엇입니까?",
       "summaryKo": "",
-      "translator": "google"
-    },
-    {
-      "id": "fb-8f2ac0dc1fc0",
-      "kind": "news",
-      "lang": "en",
-      "title": "Happy National Chemistry Week!",
-      "summary": "Thi",
-      "link": "https://www.facebook.com/AmericanChemicalSociety/posts/pfbid07a8FsfYCLTDKyhd5PM5Gxy1fh1r6H33Ginvr5hyNuFkSJzLzj4gnZf6vTWCKK2xXl",
-      "source": "Facebook American Chemical Society",
-      "category": "인기",
-      "publishedAt": "2026-10-18T14:04:06.310Z",
-      "thumb": "/social/fb/fb-8f2ac0dc1fc0.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-19T10:04:51.930Z",
-      "titleKo": "행복한 전국 화학 주간!",
-      "summaryKo": "티",
       "translator": "google"
     },
     {
@@ -70,18 +70,18 @@
       "translator": "google"
     },
     {
-      "id": "fb-afd684a9709c",
+      "id": "fb-d42f71cbf7ff",
       "kind": "news",
       "lang": "en",
       "title": "It’s National Mushroom Day Why do fly agaric mushrooms cause hallucinations, and what does it have to do with reindeer urine?",
       "summary": "This graphic takes a closer look!",
-      "link": "https://www.facebook.com/compoundchem/posts/pfbid02j4xH38uJXShQN8LRMEGG9gmFGgdoDbX5boA6VNQALnFaByZKhUQMFfz5JvgJ5786l",
+      "link": "https://www.facebook.com/compoundchem/posts/pfbid0fXK67yGwgLGQW2TgGAuvFUjs9CMtxhtxr3vYyVYetW4MfszsfrUCpoNU8fzgriuhl",
       "source": "Facebook Compound Interest",
       "category": "인기",
-      "publishedAt": "2026-10-16T10:04:17.409Z",
-      "thumb": "/social/fb/fb-afd684a9709c.jpg",
+      "publishedAt": "2026-10-16T10:00:22.992Z",
+      "thumb": "/social/fb/fb-d42f71cbf7ff.jpg",
       "refs": [],
-      "collectedAt": "2026-10-19T10:04:51.930Z",
+      "collectedAt": "2026-10-20T10:00:54.977Z",
       "titleKo": "전국 버섯의 날입니다. 파리 아가릭 버섯이 환각을 일으키는 이유는 무엇이며 순록 소변과 어떤 관련이 있나요?",
       "summaryKo": "이 그래픽을 자세히 살펴보세요!",
       "translator": "google"
