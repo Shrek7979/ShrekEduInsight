@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-10-20T10:02:40.125Z",
+  "updatedAt": "2026-10-22T06:50:56.258Z",
   "items": [
+    {
+      "id": "fb-569b495ded09",
+      "kind": "video",
+      "lang": "en",
+      "title": "If you have never enjoyed maths, you might be tempted to think that anyone studying it at University would love the subject almost 24/7.",
+      "summary": "It ain't necessarily so",
+      "link": "https://www.facebook.com/reel/1443835254347374/",
+      "source": "Facebook Oxford Mathematics",
+      "category": "인기",
+      "publishedAt": "2026-10-21T15:49:51.907Z",
+      "thumb": "/social/fb/fb-569b495ded09.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-22T06:50:56.258Z",
+      "titleKo": "수학을 즐겨 본 적이 없다면 대학에서 수학을 공부하는 사람이라면 누구나 연중무휴 24시간 내내 수학을 좋아할 것이라고 생각할 수도 있습니다.",
+      "summaryKo": "꼭 그렇지는 않아요",
+      "translator": "google"
+    },
+    {
+      "id": "fb-27362ab6419c",
+      "kind": "news",
+      "lang": "en",
+      "title": "Are you heading to the NCTM Annual Meeting in Denver next week?",
+      "summary": "Check out this full slate of sessions from the Desmos…",
+      "link": "https://www.facebook.com/desmosinc/posts/pfbid0FJDVpv8nxCm4vpF2UJGDVq6zQiLXexGdpC9AxTZoeiNSPzZXtu7idjZjU3YY5rYzl",
+      "source": "Facebook Desmos",
+      "category": "인기",
+      "publishedAt": "2026-10-21T06:50:25.550Z",
+      "thumb": "/social/fb/fb-27362ab6419c.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-22T06:50:56.258Z",
+      "titleKo": "다음 주 덴버에서 열리는 NCTM 연차총회에 가시나요?",
+      "summaryKo": "Desmos의 전체 세션 목록을 확인하세요…",
+      "translator": "google"
+    },
     {
       "id": "fb-708d131bf0bc",
       "kind": "news",

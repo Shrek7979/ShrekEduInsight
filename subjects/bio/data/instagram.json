@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T05:50:41.539Z",
+  "updatedAt": "2026-10-22T06:47:33.007Z",
   "items": [
     {
       "id": "ig-Dd1cGIpkZjM",
@@ -19,23 +19,6 @@
       "translator": "google"
     },
     {
-      "id": "ig-DdJqzqZEcL5",
-      "kind": "news",
-      "lang": "en",
-      "title": "Water: Nice bonds you have there...would be a shame if something happened to them.",
-      "summary": "👀",
-      "link": "https://www.instagram.com/amoebasistersofficial/p/DdJqzqZEcL5/",
-      "source": "Instagram @amoebasistersofficial",
-      "category": "인기",
-      "publishedAt": "2026-09-11T00:00:00.000Z",
-      "likes": "5,792",
-      "thumb": "/social/ig/DdJqzqZEcL5.jpg",
-      "collectedAt": "2026-10-05T01:04:58.766Z",
-      "titleKo": "워터: 당신이 가지고 있는 좋은 유대감... 만약 그들에게 무슨 일이 일어난다면 부끄러운 일이 될 것입니다.",
-      "summaryKo": "🙌",
-      "translator": "google"
-    },
-    {
       "id": "ig-Dd6gSIvkTHg",
       "kind": "news",
       "lang": "en",
@@ -50,6 +33,23 @@
       "collectedAt": "2026-10-05T01:04:58.766Z",
       "titleKo": "업데이트된 감수분열 영상이 나왔습니다!",
       "summaryKo": "🎉 우리의 오래된 아이가 9살이 되었다는 것이 믿겨지지 않습니다!",
+      "translator": "google"
+    },
+    {
+      "id": "ig-DewkqFfmXaN",
+      "kind": "news",
+      "lang": "en",
+      "title": "Time for those Halloween classics to resurface 🎃",
+      "summary": "",
+      "link": "https://www.instagram.com/amoebasistersofficial/p/DewkqFfmXaN/",
+      "source": "Instagram @amoebasistersofficial",
+      "category": "인기",
+      "publishedAt": "2026-10-21T00:00:00.000Z",
+      "likes": "2,053",
+      "thumb": "/social/ig/DewkqFfmXaN.jpg",
+      "collectedAt": "2026-10-22T06:47:33.007Z",
+      "titleKo": "할로윈 클래식이 다시 등장할 시간입니다 🎃",
+      "summaryKo": "",
       "translator": "google"
     },
     {
@@ -115,23 +115,6 @@
       "collectedAt": "2026-10-05T01:04:58.766Z"
     },
     {
-      "id": "ig-Dc2PMJEiNtV",
-      "kind": "news",
-      "lang": "en",
-      "title": "The extinct American ‘cheetah’ was not a cheetah after all With their …",
-      "summary": "slender bodies and long front legs, Miracinonyx…",
-      "link": "https://www.instagram.com/cellpress/p/Dc2PMJEiNtV/",
-      "source": "Instagram @cellpress",
-      "category": "인기",
-      "publishedAt": "2026-09-03T15:00:00.000Z",
-      "likes": "186",
-      "thumb": "/social/ig/Dc2PMJEiNtV.jpg",
-      "collectedAt": "2026-10-05T01:04:58.766Z",
-      "titleKo": "멸종된 미국의 '치타'는 결국 치타가 아니었습니다.",
-      "summaryKo": "날씬한 몸매와 긴 앞다리, 미라시노닉스…",
-      "translator": "google"
-    },
-    {
       "id": "ig-Dd-Ts9Xgaav",
       "kind": "news",
       "lang": "ko",
@@ -147,6 +130,39 @@
     }
   ],
   "pool": [
+    {
+      "id": "ig-DewkqFfmXaN",
+      "kind": "news",
+      "lang": "en",
+      "title": "Time for those Halloween classics to resurface 🎃",
+      "summary": "",
+      "link": "https://www.instagram.com/amoebasistersofficial/p/DewkqFfmXaN/",
+      "source": "Instagram @amoebasistersofficial",
+      "category": "인기",
+      "publishedAt": "2026-10-21T00:00:00.000Z",
+      "likes": "2,053",
+      "thumb": "/social/ig/DewkqFfmXaN.jpg",
+      "collectedAt": "2026-10-22T06:47:33.007Z",
+      "titleKo": "할로윈 클래식이 다시 등장할 시간입니다 🎃",
+      "summaryKo": "",
+      "translator": "google"
+    },
+    {
+      "id": "ig-DevElTcye89",
+      "kind": "video",
+      "lang": "en",
+      "title": "Our book leveled UP!",
+      "summary": "⭐ The second edition, which releases January 2027, has…",
+      "link": "https://www.instagram.com/amoebasistersofficial/reel/DevElTcye89/",
+      "source": "Instagram @amoebasistersofficial",
+      "category": "인기",
+      "publishedAt": "2026-10-20T00:00:00.000Z",
+      "likes": "238",
+      "thumb": "/social/ig/DevElTcye89.jpg",
+      "titleKo": "우리 책의 레벨이 UP!",
+      "summaryKo": "⭐ 2027년 1월 출시되는 두 번째 에디션에는…",
+      "translator": "google"
+    },
     {
       "id": "ig-DehxRKmAdp5",
       "kind": "video",
@@ -259,39 +275,6 @@
       "collectedAt": "2026-10-05T01:04:58.766Z",
       "titleKo": "다음 주 The Young and the Catalytic에서...",
       "summaryKo": "",
-      "translator": "google"
-    },
-    {
-      "id": "ig-DdJqzqZEcL5",
-      "kind": "news",
-      "lang": "en",
-      "title": "Water: Nice bonds you have there...would be a shame if something happened to them.",
-      "summary": "👀",
-      "link": "https://www.instagram.com/amoebasistersofficial/p/DdJqzqZEcL5/",
-      "source": "Instagram @amoebasistersofficial",
-      "category": "인기",
-      "publishedAt": "2026-09-11T00:00:00.000Z",
-      "likes": "5,792",
-      "thumb": "/social/ig/DdJqzqZEcL5.jpg",
-      "collectedAt": "2026-10-05T01:04:58.766Z",
-      "titleKo": "워터: 당신이 가지고 있는 좋은 유대감... 만약 그들에게 무슨 일이 일어난다면 부끄러운 일이 될 것입니다.",
-      "summaryKo": "🙌",
-      "translator": "google"
-    },
-    {
-      "id": "ig-DdEweGDkXZK",
-      "kind": "news",
-      "lang": "en",
-      "title": "Our book, The Amoeba Sisters’ Cartoon Guide to Biology, and our Biology Vocab Cards are available for preorder now!",
-      "summary": "Preorders are 25% off for @barnesandnoble Rewards and…",
-      "link": "https://www.instagram.com/amoebasistersofficial/p/DdEweGDkXZK/",
-      "source": "Instagram @amoebasistersofficial",
-      "category": "인기",
-      "publishedAt": "2026-09-09T00:00:00.000Z",
-      "likes": "1,940",
-      "thumb": "/social/ig/DdEweGDkXZK.jpg",
-      "titleKo": "우리 책인 The Amoeba Sisters' Cartoon Guide to Biology와 생물학 Vocab 카드를 지금 선주문하실 수 있습니다!",
-      "summaryKo": "@barnesandnoble Rewards 사전 주문 시 25% 할인 혜택이 제공됩니다.",
       "translator": "google"
     },
     {
