@@ -307,6 +307,8 @@ export default function ReelsPage({ initial, dayIndex }: Props) {
   // 자동 넘김
   useEffect(() => {
     if (!auto || view !== 'reels') return
+    // 카드가 아직 안 만들어졌으면(처음 열릴 때) 끄지 말고 기다린다
+    if (cards.length === 0) return
     if (active >= cards.length) return setAuto(false)
     const last = active >= cards.length - 1
     if (last && !loop.current) return setAuto(false)
