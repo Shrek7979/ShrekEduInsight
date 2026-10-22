@@ -89,6 +89,8 @@ export default function ReelsPage({ initial, dayIndex }: Props) {
   const [category, setCategory] = useState(ALL)
   const [active, setActive] = useState(0)
   const [auto, setAuto] = useState(false)
+  // ?auto=1 로 열렸을 때(예: Shrek Math Hub 옆 패널): 열리자마자 자동 넘김, 끝까지 가면 처음부터 다시
+  const loop = useRef(false)
   // 인스타 릴스처럼: 아래로 넘기기 시작하면 상단 메뉴를 숨겨 카드가 화면을 꽉 채움
   const [immersive, setImmersive] = useState(false)
   const [toast, setToast] = useState('')
@@ -107,9 +109,15 @@ export default function ReelsPage({ initial, dayIndex }: Props) {
     // 예전 과목 사이트에서 넘어온 주소(?s=math 등)면 그 과목을 바로 보여 줌
     const fromSubject = SUBJECTS.find((s) => s.key === new URLSearchParams(window.location.search).get('s'))
     if (fromSubject) setCategory(fromSubject.name)
+    const autoplay = new URLSearchParams(window.location.search).get('auto') === '1'
+    if (autoplay) {
+      loop.current = true
+      setView('reels')
+      setAuto(true)
+    }
     try {
       const last = localStorage.getItem('edu-hub:view')
-      if (last === 'briefing') setView('briefing')
+      if (last === 'briefing' && !autoplay) setView('briefing')
       const lastLevel = localStorage.getItem('edu-hub:level')
       if (lastLevel) {
         setLevel(lastLevel)
@@ -300,7 +308,9 @@ export default function ReelsPage({ initial, dayIndex }: Props) {
   useEffect(() => {
     if (!auto || view !== 'reels') return
     if (active >= cards.length) return setAuto(false)
-    const timer = setTimeout(() => goTo(active + 1), AUTO_SECONDS * 1000)
+    const last = active >= cards.length - 1
+    if (last && !loop.current) return setAuto(false)
+    const timer = setTimeout(() => goTo(last ? 0 : active + 1), AUTO_SECONDS * 1000)
     return () => clearTimeout(timer)
   }, [auto, view, active, cards.length, goTo])
 
