@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-10-22T06:45:29.796Z",
+  "updatedAt": "2026-10-22T06:54:59.473Z",
   "items": [
+    {
+      "id": "cf55744ae0e9",
+      "kind": "news",
+      "lang": "ko",
+      "title": "인천교육청, 도서지역 수험생 수능지원 협력체계 점검",
+      "summary": "김지현 기자 = 인천시교육청은 도서지역 수험생들이 수능 전 육지에서 안정적으로 시험을 준비할 수…",
+      "detail": "김지현 기자 = 인천시교육청은 도서지역 수험생들이 수능 전 육지에서 안정적으로 시험을 준비할 수 있도록 관계기관과 지원 방안을 점검했다. 시교육청은 22일 인천시청, 옹진군청, 인천관광공사 하버파크호텔 관계자와 '2027학년도 대학수학능력시험 ..",
+      "link": "https://www.fnnews.com/news/202610221504233729",
+      "source": "파이낸셜뉴스",
+      "image": "http://www.bing.com/th?id=ONUT.t3haunKM3ygEyMRwtKCteQ&pid=News",
+      "category": "입시",
+      "publishedAt": "2026-10-21T18:04:00.000Z",
+      "collectedAt": "2026-10-22T06:54:59.473Z",
+      "thumb": "/thumbs/cf55744ae0e9.jpg"
+    },
+    {
+      "id": "d0172409ebb6",
+      "kind": "news",
+      "lang": "ko",
+      "title": "울산서 과학·수학·AI 한자리 체험…24~25일 융합 축전",
+      "summary": "구미현 기자 = 울산서 과학과 수학·인공지능(AI)을 한자리에서 체험하고 미래 기술을 만나는 융합…",
+      "detail": "구미현 기자 = 울산서 과학과 수학·인공지능(AI)을 한자리에서 체험하고 미래 기술을 만나는 융합 축전이 열린다.울산교육청은 24일부터 25일까지 이틀간 울산전시컨벤션센터(UECO)에서 '2026년 울산 과·수·정 융합 축전'과 '울산 수학 체험…",
+      "link": "https://www.newsis.com/view/NISX20261020_0003832791",
+      "source": "뉴시스",
+      "image": "http://www.bing.com/th?id=ONUT.GBwKUz7zm-LR0Tz__dQXHA&pid=News",
+      "category": "AI·에듀테크",
+      "publishedAt": "2026-10-20T02:34:00.000Z",
+      "collectedAt": "2026-10-22T06:54:59.473Z",
+      "thumb": "/thumbs/d0172409ebb6.jpg"
+    },
     {
       "id": "1e45dc861693",
       "kind": "news",
@@ -2289,40 +2319,6 @@
       "publishedAt": "2026-10-17T09:10:00.000Z",
       "collectedAt": "2026-10-17T23:04:40.017Z",
       "thumb": "/thumbs/c495d01ab09a.jpg"
-    },
-    {
-      "id": "0031f18205eb",
-      "kind": "news",
-      "lang": "ko",
-      "title": "\"수능 문제 보자 5초 만에 답이 눈앞에\"…AI 안경 직접 써보니",
-      "summary": "소봄이 기자 김기민 인턴기자\"눈앞의 문제 정답 알려줘.\"인공지능(AI) 스마트 안경을 착용한 채…",
-      "detail": "소봄이 기자 김기민 인턴기자\"눈앞의 문제 정답 알려줘.\"인공지능(AI) 스마트 안경을 착용한 채 휴대전화 화면에 띄운 수학 문제를 바라보며 말을 건넸다. 잠시 뒤 안경에 내장된 스피커에서 \"휴대전화 화면의 수학문제를 해결해줄게요\"라는 답변이 흘러나..",
-      "link": "https://www.fnnews.com/news/202610180630327164",
-      "source": "파이낸셜뉴스",
-      "image": "http://www.bing.com/th?id=ONUT.5UNGb5DPQXhSXzveEpdbow&pid=News",
-      "category": "입시",
-      "publishedAt": "2026-10-17T09:30:00.000Z",
-      "collectedAt": "2026-10-17T21:57:02.928Z",
-      "thumb": "/thumbs/0031f18205eb.jpg"
-    },
-    {
-      "id": "890db45ecace",
-      "kind": "news",
-      "lang": "en",
-      "title": "Some of my recent talks and interviews",
-      "summary": "As readers of this blog have no doubt noticed, I have…",
-      "detail": "As readers of this blog have no doubt noticed, I have recently turned over the majority of content on this blog to guest posts from other…",
-      "link": "https://terrytao.wordpress.com/2026/10/17/some-of-my-recent-talks-and-interviews/",
-      "source": "Terence Tao",
-      "image": "https://1.gravatar.com/avatar/d7f0e4a42bbbf58ffa656c92d4a32b2b6752e802dfa4cb919e5774dcfda006c0?s=96&d=identicon&r=PG",
-      "category": "연구",
-      "publishedAt": "2026-10-17T17:09:00.000Z",
-      "collectedAt": "2026-10-17T18:43:28.295Z",
-      "titleKo": "최근 강연과 인터뷰 중 일부",
-      "summaryKo": "이 블로그의 독자들은 의심할 바 없이 눈치챘을 것입니다",
-      "translator": "google",
-      "detailKo": "이 블로그의 독자들은 의심할 바 없이 눈치채셨겠지만, 저는 최근 이 블로그의 콘텐츠 대부분을 다른 블로그의 게스트 게시물에 넘겼습니다.",
-      "thumb": "/thumbs/890db45ecace.png"
     }
   ]
 }

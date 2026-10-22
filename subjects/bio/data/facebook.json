@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T06:49:38.890Z",
+  "updatedAt": "2026-10-22T06:57:18.795Z",
   "items": [
     {
       "id": "fb-299ad70f1a1e",
@@ -33,6 +33,23 @@
       "collectedAt": "2026-10-22T06:49:38.890Z",
       "titleKo": "후보자와 더욱 개인적으로 소통하고 후보자 평가의 가치를 직접 경험해 보세요.",
       "summaryKo": "",
+      "translator": "google"
+    },
+    {
+      "id": "fb-c9eb6534091c",
+      "kind": "video",
+      "lang": "en",
+      "title": "Our book is leveling UP!",
+      "summary": "The second edition, which releases January 2027, has…",
+      "link": "https://www.facebook.com/reel/28931236879870827/",
+      "source": "Facebook The Amoeba Sisters",
+      "category": "인기",
+      "publishedAt": "2026-10-21T16:56:28.384Z",
+      "thumb": "/social/fb/fb-c9eb6534091c.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-22T06:57:18.795Z",
+      "titleKo": "우리 책이 레벨업 중이에요!",
+      "summaryKo": "2027년 1월에 출시되는 두 번째 에디션은…",
       "translator": "google"
     },
     {
