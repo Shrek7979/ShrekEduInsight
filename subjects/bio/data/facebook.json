@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-10-22T21:36:47.872Z",
+  "updatedAt": "2026-10-23T10:26:39.860Z",
   "items": [
+    {
+      "id": "fb-89ed4e48a45c",
+      "kind": "news",
+      "lang": "en",
+      "title": "Nexus launched in 2023 with an ambitious vision and will receive a first Impact Factor in 2027.",
+      "summary": "Read an interview with founding editor Professor Jerry…",
+      "link": "https://www.facebook.com/cellpress/posts/pfbid037zv81QGDQhTYuVUrW3Nq36NN27u7bmqN1pFdp3ucuRuxcWf4pg5qAzk12eT1ngi4l",
+      "source": "Facebook Cell Press",
+      "category": "인기",
+      "publishedAt": "2026-10-23T01:25:59.235Z",
+      "thumb": "/social/fb/fb-89ed4e48a45c.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-23T10:26:39.860Z",
+      "titleKo": "Nexus는 야심찬 비전을 가지고 2023년에 출시되었으며 2027년에 첫 번째 Impact Factor를 받게 됩니다.",
+      "summaryKo": "창립 편집자 Jerry 교수와의 인터뷰를 읽어보세요…",
+      "translator": "google"
+    },
+    {
+      "id": "fb-bbd682e99bd5",
+      "kind": "news",
+      "lang": "en",
+      "title": "We're SO excited to be presenting at the National Association of Biology Teachers conference (NABT26) in just one week!",
+      "summary": "We hope to see you there!!",
+      "link": "https://www.facebook.com/AmoebaSisters/posts/pfbid02AmEmS97Xgt5t2grDLtAB4YkDuSAtsBgPwYu68M8j6uPhkAJ9mPJ8Ge6vMxXURoRTl",
+      "source": "Facebook The Amoeba Sisters",
+      "category": "인기",
+      "publishedAt": "2026-10-23T01:25:48.292Z",
+      "thumb": "/social/fb/fb-bbd682e99bd5.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-23T10:26:39.860Z",
+      "titleKo": "단 일주일 만에 전국 생물학 교사 협회 컨퍼런스(NABT26)에서 발표하게 되어 매우 기쁩니다!",
+      "summaryKo": "우리는 그곳에서 당신을 만나기를 바랍니다!!",
+      "translator": "google"
+    },
     {
       "id": "fb-299ad70f1a1e",
       "kind": "news",

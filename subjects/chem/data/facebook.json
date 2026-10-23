@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T21:36:31.649Z",
+  "updatedAt": "2026-10-23T10:26:22.648Z",
   "items": [
     {
       "id": "fb-8e9871bc19bb",
@@ -87,23 +87,6 @@
       "translator": "google"
     },
     {
-      "id": "fb-e1afc66fe3d4",
-      "kind": "news",
-      "lang": "en",
-      "title": "It’s National Mushroom Day Why do fly agaric mushrooms cause hallucinations, and what does it have to do with reindeer urine?",
-      "summary": "This graphic takes a closer look!",
-      "link": "https://www.facebook.com/compoundchem/posts/pfbid0fMA5pq1Crk1XevG7pyjhdQnviHgNRVH7fWW37JGeD1cgYeq6my4NSUxUTEEp57tWl",
-      "source": "Facebook Compound Interest",
-      "category": "인기",
-      "publishedAt": "2026-10-16T06:48:41.844Z",
-      "thumb": "/social/fb/fb-e1afc66fe3d4.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-22T06:49:17.258Z",
-      "titleKo": "전국 버섯의 날입니다. 파리 아가릭 버섯이 환각을 일으키는 이유는 무엇이며 순록 소변과 어떤 관련이 있나요?",
-      "summaryKo": "이 그래픽을 자세히 살펴보세요!",
-      "translator": "google"
-    },
-    {
       "id": "fb-43ce3b1cd6e3",
       "kind": "news",
       "lang": "en",
@@ -152,6 +135,23 @@
       "collectedAt": "2026-10-15T22:00:51.452Z",
       "titleKo": "더 나은 할로윈 안개 주스를 만드는 방법은 다음과 같습니다.",
       "summaryKo": "",
+      "translator": "google"
+    },
+    {
+      "id": "fb-ccfa1a8f5ac8",
+      "kind": "news",
+      "lang": "en",
+      "title": "It’s National Mushroom Day Why do fly agaric mushrooms cause hallucinations, and what does it have to do with reindeer urine?",
+      "summary": "This graphic takes a closer look!",
+      "link": "https://www.facebook.com/compoundchem/posts/pfbid02jCbo1Vw2i3vdFNSg8KgkUWkFGQcrXBqVXozzk2oRamaZEUt3e8qeLEkbzFMh7f3bl",
+      "source": "Facebook Compound Interest",
+      "category": "인기",
+      "publishedAt": "2026-10-15T12:00:00.000Z",
+      "thumb": "/social/fb/fb-ccfa1a8f5ac8.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-23T10:26:22.648Z",
+      "titleKo": "전국 버섯의 날입니다. 파리 아가릭 버섯이 환각을 일으키는 이유는 무엇이며 순록 소변과 어떤 관련이 있나요?",
+      "summaryKo": "이 그래픽을 자세히 살펴보세요!",
       "translator": "google"
     },
     {
