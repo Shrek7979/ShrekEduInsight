@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-22T06:50:56.258Z",
+  "updatedAt": "2026-10-24T11:28:22.593Z",
   "items": [
+    {
+      "id": "fb-788b38e5c209",
+      "kind": "news",
+      "lang": "en",
+      "title": "Draw it.",
+      "summary": "Compute it",
+      "link": "https://www.facebook.com/wolframresearch/posts/pfbid02CSDaEabbm1trunCd584uXQ7DmDJMnsoadoonVSLnxwFs5WEMGQw5dDY3nsz9Q3bEl",
+      "source": "Facebook Wolfram Research",
+      "category": "인기",
+      "publishedAt": "2026-10-23T22:28:00.599Z",
+      "thumb": "/social/fb/fb-788b38e5c209.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-24T11:28:22.593Z",
+      "titleKo": "그려보세요.",
+      "summaryKo": "계산해 보세요",
+      "translator": "google"
+    },
     {
       "id": "fb-569b495ded09",
       "kind": "video",
