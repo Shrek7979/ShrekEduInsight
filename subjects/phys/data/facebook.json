@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T14:23:03.279Z",
+  "updatedAt": "2026-10-26T05:32:29.422Z",
   "items": [
     {
       "id": "fb-3b168c0f9d70",
@@ -19,6 +19,23 @@
       "translator": "google"
     },
     {
+      "id": "fb-f6444aa668e3",
+      "kind": "news",
+      "lang": "en",
+      "title": "Physicists from every field connect at the APS Global Physics Summit",
+      "summary": "",
+      "link": "https://www.facebook.com/apsphysics/posts/pfbid02C2jmoUcFqf5ER8adwQFukqXoFzoWFRjRYZJsPht27a3zJwKwQyLineAyWJRvKrf6l",
+      "source": "Facebook American Physical Society",
+      "category": "인기",
+      "publishedAt": "2026-10-23T05:31:59.739Z",
+      "thumb": "/social/fb/fb-f6444aa668e3.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-26T05:32:29.422Z",
+      "titleKo": "APS Global Physics Summit에서 모든 분야의 물리학자들이 연결됩니다.",
+      "summaryKo": "",
+      "translator": "google"
+    },
+    {
       "id": "fb-67cc24120ee6",
       "kind": "news",
       "lang": "en",
@@ -32,23 +49,6 @@
       "refs": [],
       "collectedAt": "2026-10-22T21:36:32.870Z",
       "titleKo": "이론가들은 클라우드 기반 BEC를 사용하여 터널링을 연구합니다.",
-      "summaryKo": "",
-      "translator": "google"
-    },
-    {
-      "id": "fb-7f3b08bc7a15",
-      "kind": "news",
-      "lang": "en",
-      "title": "Physicists from every field connect at the APS Global Physics Summit",
-      "summary": "",
-      "link": "https://www.facebook.com/apsphysics/posts/pfbid08fFbBTFdotC4ptzKbVJk7M9tBdxbDRApFWTzLLNWgxr1Dz21MjXWSdPn6NYAyCWMl",
-      "source": "Facebook American Physical Society",
-      "category": "인기",
-      "publishedAt": "2026-10-22T14:22:33.239Z",
-      "thumb": "/social/fb/fb-7f3b08bc7a15.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-25T14:23:03.279Z",
-      "titleKo": "APS Global Physics Summit에서 모든 분야의 물리학자들이 연결됩니다.",
       "summaryKo": "",
       "translator": "google"
     },
