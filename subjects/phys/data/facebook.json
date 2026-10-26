@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-26T05:32:29.422Z",
+  "updatedAt": "2026-10-26T17:46:02.682Z",
   "items": [
+    {
+      "id": "fb-0e5f45d57eac",
+      "kind": "news",
+      "lang": "en",
+      "title": "A new study in Physical Review Letters measures the push from a single gas molecule.",
+      "summary": "",
+      "link": "https://www.facebook.com/apsphysics/posts/pfbid0NtZ5uV4hB9ogju5UxGxjEMs9DcQJv2p1jH3jfG3htnyhAdzdwpKGPoxqSxtBvBgUl",
+      "source": "Facebook American Physical Society",
+      "category": "인기",
+      "publishedAt": "2026-10-26T17:39:31.661Z",
+      "thumb": "/social/fb/fb-0e5f45d57eac.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-26T17:46:02.682Z",
+      "titleKo": "Physical Review Letters의 새로운 연구는 단일 가스 분자의 추진력을 측정합니다.",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-3b168c0f9d70",
       "kind": "news",

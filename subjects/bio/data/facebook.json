@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T05:32:41.998Z",
+  "updatedAt": "2026-10-26T17:46:16.024Z",
   "items": [
     {
       "id": "fb-1e86fac458bd",
@@ -36,6 +36,23 @@
       "translator": "google"
     },
     {
+      "id": "fb-e3a691fa184e",
+      "kind": "news",
+      "lang": "en",
+      "title": "We're SO excited to be presenting at the National Association of Biology Teachers conference (NABT26) in just one week!",
+      "summary": "We hope to see you there!!",
+      "link": "https://www.facebook.com/AmoebaSisters/posts/pfbid073SaDqDS1zfNWS95Tfbq2HUHb8kGjfTB72StiSTsdY8L78s9oXQ76P7RzEaKMyM7l",
+      "source": "Facebook The Amoeba Sisters",
+      "category": "인기",
+      "publishedAt": "2026-10-23T17:45:24.960Z",
+      "thumb": "/social/fb/fb-e3a691fa184e.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-26T17:46:16.024Z",
+      "titleKo": "단 일주일 만에 전국 생물학 교사 협회 컨퍼런스(NABT26)에서 발표하게 되어 매우 기쁩니다!",
+      "summaryKo": "우리는 그곳에서 당신을 만나기를 바랍니다!!",
+      "translator": "google"
+    },
+    {
       "id": "fb-465e39a22d6e",
       "kind": "news",
       "lang": "en",
@@ -50,23 +67,6 @@
       "collectedAt": "2026-10-24T11:26:51.277Z",
       "titleKo": "Sf N26의 심포지엄과 미니 심포지엄은 해당 분야 전반에 걸쳐 집중적이고 시의적절한 연구를 자세히 살펴볼 수 있는 기회를 제공합니다.",
       "summaryKo": "",
-      "translator": "google"
-    },
-    {
-      "id": "fb-27b59ffc6d1b",
-      "kind": "news",
-      "lang": "en",
-      "title": "We're SO excited to be presenting at the National Association of Biology Teachers conference (NABT26) in just one week!",
-      "summary": "We hope to see you there!!",
-      "link": "https://www.facebook.com/AmoebaSisters/posts/pfbid02Ab5m8zqnsDG4BcZ5MZozjKtoeYXajNfZmVdSBxzCjm8CtUqWraZL52tsL1u78EqEl",
-      "source": "Facebook The Amoeba Sisters",
-      "category": "인기",
-      "publishedAt": "2026-10-23T14:22:28.885Z",
-      "thumb": "/social/fb/fb-27b59ffc6d1b.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-25T14:23:18.955Z",
-      "titleKo": "단 일주일 만에 전국 생물학 교사 협회 컨퍼런스(NABT26)에서 발표하게 되어 매우 기쁩니다!",
-      "summaryKo": "우리는 그곳에서 당신을 만나기를 바랍니다!!",
       "translator": "google"
     },
     {
