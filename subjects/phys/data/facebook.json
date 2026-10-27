@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-10-27T06:50:32.540Z",
+  "updatedAt": "2026-10-27T22:34:38.749Z",
   "items": [
+    {
+      "id": "fb-ab3d28bf9a9d",
+      "kind": "news",
+      "lang": "en",
+      "title": "A new study in Physical Review E uses sound waves to levitate pairs of particles and watch how they charge each other.",
+      "summary": "",
+      "link": "https://www.facebook.com/apsphysics/posts/pfbid0Q1yK5MRtx3XbW7r7pgiWjPYNxXrpbQdJaQA4E6YMXNDsWQkGoCGkQTgNyw931k5il",
+      "source": "Facebook American Physical Society",
+      "category": "인기",
+      "publishedAt": "2026-10-27T20:34:06.201Z",
+      "thumb": "/social/fb/fb-ab3d28bf9a9d.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-27T22:34:38.749Z",
+      "titleKo": "Physical Review E의 새로운 연구에서는 음파를 사용하여 입자 쌍을 공중에 띄우고 서로 충전되는 방식을 관찰합니다.",
+      "summaryKo": "",
+      "translator": "google"
+    },
+    {
+      "id": "fb-4fe93d344ecc",
+      "kind": "news",
+      "lang": "en",
+      "title": "How can a single sample reveal more when viewed through multiple techniques?",
+      "summary": "",
+      "link": "https://www.facebook.com/physicsworld/posts/pfbid02odnx8CAt4Mgf6ctAj8LNvWMEctjpoderLpUEfVS8mqymf6y2mo2s4KNhon7cHH9wl",
+      "source": "Facebook Physics World",
+      "category": "인기",
+      "publishedAt": "2026-10-27T17:33:54.230Z",
+      "thumb": "/social/fb/fb-4fe93d344ecc.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-27T22:34:38.749Z",
+      "titleKo": "여러 기술을 통해 볼 때 단일 샘플로 어떻게 더 많은 정보를 얻을 수 있습니까?",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-0e5f45d57eac",
       "kind": "news",

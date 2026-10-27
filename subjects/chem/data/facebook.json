@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-27T06:50:34.742Z",
+  "updatedAt": "2026-10-27T22:34:38.251Z",
   "items": [
+    {
+      "id": "fb-054a8f01fe8c",
+      "kind": "news",
+      "lang": "en",
+      "title": "It's spooky season and that means pumpkin carving",
+      "summary": "",
+      "link": "https://www.facebook.com/compoundchem/posts/pfbid0qnBecFiLuE5znDpuGh7zFtCMCmRxRUwRPRkWBZcaQNr9ETW1zNzdYbBQz84RVV4Xl",
+      "source": "Facebook Compound Interest",
+      "category": "인기",
+      "publishedAt": "2026-10-27T13:34:05.898Z",
+      "thumb": "/social/fb/fb-054a8f01fe8c.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-27T22:34:38.251Z",
+      "titleKo": "으스스한 계절이고 그건 호박 조각을 의미해",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-167a25269607",
       "kind": "video",
