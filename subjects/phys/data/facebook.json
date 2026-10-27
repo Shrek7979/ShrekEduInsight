@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T17:46:02.682Z",
+  "updatedAt": "2026-10-27T06:50:32.540Z",
   "items": [
     {
       "id": "fb-0e5f45d57eac",
@@ -16,6 +16,23 @@
       "collectedAt": "2026-10-26T17:46:02.682Z",
       "titleKo": "Physical Review Letters의 새로운 연구는 단일 가스 분자의 추진력을 측정합니다.",
       "summaryKo": "",
+      "translator": "google"
+    },
+    {
+      "id": "fb-dab433781fd5",
+      "kind": "news",
+      "lang": "en",
+      "title": "Can you guess what this is?",
+      "summary": "Hint: it’s a piece that will soon belong to a…",
+      "link": "https://www.facebook.com/cern/posts/pfbid02uNSriHTJ2nseZ57dsXpMSHfC526HghRGyoCDd13pxDKRQreVTQHUxXRrV55yBLefl",
+      "source": "Facebook CERN",
+      "category": "인기",
+      "publishedAt": "2026-10-24T06:50:12.620Z",
+      "thumb": "/social/fb/fb-dab433781fd5.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-27T06:50:32.540Z",
+      "titleKo": "이것이 무엇인지 추측할 수 있나요?",
+      "summaryKo": "힌트: 곧 다음 작품에 속하게 될 작품입니다…",
       "translator": "google"
     },
     {
@@ -169,23 +186,6 @@
       "collectedAt": "2026-10-20T10:01:03.602Z",
       "titleKo": "페로브스카이트 장치가 실시간으로 작동하는 모습을 볼 수 있다면 어떨까요?",
       "summaryKo": "",
-      "translator": "google"
-    },
-    {
-      "id": "fb-242ebee6902d",
-      "kind": "news",
-      "lang": "en",
-      "title": "Can you guess what this is?",
-      "summary": "Hint: It’s right at the heart of particle collisions",
-      "link": "https://www.facebook.com/cern/posts/pfbid023ZBQKPRrXgAhi2oxzro2UrqRtJNnjaMohz6S5HapFp7bgQsYPzyUSvNEPhVwhreXl",
-      "source": "Facebook CERN",
-      "category": "인기",
-      "publishedAt": "2026-10-17T10:00:43.100Z",
-      "thumb": "/social/fb/fb-242ebee6902d.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-20T10:01:03.602Z",
-      "titleKo": "이것이 무엇인지 추측할 수 있나요?",
-      "summaryKo": "힌트: 입자 충돌의 핵심입니다.",
       "translator": "google"
     },
     {
