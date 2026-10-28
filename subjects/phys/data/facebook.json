@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T22:34:38.749Z",
+  "updatedAt": "2026-10-28T01:51:45.962Z",
   "items": [
     {
       "id": "fb-ab3d28bf9a9d",
@@ -13,10 +13,7 @@
       "publishedAt": "2026-10-27T20:34:06.201Z",
       "thumb": "/social/fb/fb-ab3d28bf9a9d.jpg",
       "refs": [],
-      "collectedAt": "2026-10-27T22:34:38.749Z",
-      "titleKo": "Physical Review E의 새로운 연구에서는 음파를 사용하여 입자 쌍을 공중에 띄우고 서로 충전되는 방식을 관찰합니다.",
-      "summaryKo": "",
-      "translator": "google"
+      "collectedAt": "2026-10-27T22:34:38.749Z"
     },
     {
       "id": "fb-4fe93d344ecc",
@@ -34,6 +31,20 @@
       "titleKo": "여러 기술을 통해 볼 때 단일 샘플로 어떻게 더 많은 정보를 얻을 수 있습니까?",
       "summaryKo": "",
       "translator": "google"
+    },
+    {
+      "id": "fb-4a4120b5112f",
+      "kind": "news",
+      "lang": "en",
+      "title": "CERN’s first Innovation Hub pilot to open in Belgium C",
+      "summary": "",
+      "link": "https://www.facebook.com/cern/posts/pfbid034BYu7EtkUuSCex1wTsZPcLz9Cxj7cafGXvVfbtHhy59knuVW9AAXg1Yaps9SibDRl",
+      "source": "Facebook CERN",
+      "category": "인기",
+      "publishedAt": "2026-10-27T14:51:24.714Z",
+      "thumb": "/social/fb/fb-4a4120b5112f.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-28T01:51:45.962Z"
     },
     {
       "id": "fb-0e5f45d57eac",
@@ -102,6 +113,20 @@
       "titleKo": "APS Global Physics Summit에서 모든 분야의 물리학자들이 연결됩니다.",
       "summaryKo": "",
       "translator": "google"
+    },
+    {
+      "id": "fb-73e948571bef",
+      "kind": "news",
+      "lang": "en",
+      "title": "We're SO excited to be presenting at the National Association of Biology Teachers conference (NABT26) in just one week!",
+      "summary": "We hope to see you there!!",
+      "link": "https://www.facebook.com/AmoebaSisters/posts/pfbid06sHZvgwhCX5B3daafdnC9iRsoyqXhwEDhzhXTZ8ZNKQpHDcyL3VJ9njmcYCjX4fHl",
+      "source": "Facebook Physics World",
+      "category": "인기",
+      "publishedAt": "2026-10-23T01:51:02.531Z",
+      "thumb": "/social/fb/fb-73e948571bef.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-28T01:51:45.962Z"
     },
     {
       "id": "fb-67cc24120ee6",

@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-24T11:28:22.593Z",
+  "updatedAt": "2026-10-28T01:53:28.682Z",
   "items": [
+    {
+      "id": "fb-e723a52aadf7",
+      "kind": "video",
+      "lang": "en",
+      "title": "This year at the Wolfram Tech Conf: What happens when mathematical computation breaks the dimension barrier?",
+      "summary": "",
+      "link": "https://www.facebook.com/reel/1785483926047812/",
+      "source": "Facebook Wolfram Research",
+      "category": "인기",
+      "publishedAt": "2026-10-27T17:53:06.731Z",
+      "thumb": "/social/fb/fb-e723a52aadf7.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-28T01:53:28.682Z"
+    },
     {
       "id": "fb-788b38e5c209",
       "kind": "news",
