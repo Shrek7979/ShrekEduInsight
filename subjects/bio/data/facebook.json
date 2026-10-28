@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-28T08:26:55.286Z",
+  "updatedAt": "2026-10-28T20:32:09.868Z",
   "items": [
+    {
+      "id": "fb-1b0cf82a35bd",
+      "kind": "news",
+      "lang": "en",
+      "title": "\"Environmental impacts and mitigation potential of post-conflict building reconstruction.\"",
+      "summary": "",
+      "link": "https://www.facebook.com/cellpress/posts/pfbid0h5rRgodKNNS59EBfGaDiXs8NM3Z45DKpHkQnRvHHRSD8JHjwzKaMjf47iNtZ2Z8cl",
+      "source": "Facebook Cell Press",
+      "category": "인기",
+      "publishedAt": "2026-10-28T16:31:28.478Z",
+      "thumb": "/social/fb/fb-1b0cf82a35bd.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-28T20:32:09.868Z",
+      "titleKo": "\"분쟁 후 건물 재건축이 환경에 미치는 영향과 완화 가능성.\"",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-ad4fc54f2999",
       "kind": "news",
