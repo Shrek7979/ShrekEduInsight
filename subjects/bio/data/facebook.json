@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-27T22:34:50.276Z",
+  "updatedAt": "2026-10-28T08:26:55.286Z",
   "items": [
+    {
+      "id": "fb-ad4fc54f2999",
+      "kind": "news",
+      "lang": "en",
+      "title": "In The News: Scientists develop the darkest black paint to date for coating luxury cars in darker-than-ever hues.",
+      "summary": "",
+      "link": "https://www.facebook.com/cellpress/posts/pfbid0SwuJihoDVWmtnLeRrs6TFhbPJyz6ttZz5D8mvk2jxB1xMmSpnJYcnUZ46JLsH5A2l",
+      "source": "Facebook Cell Press",
+      "category": "인기",
+      "publishedAt": "2026-10-27T16:26:14.805Z",
+      "thumb": "/social/fb/fb-ad4fc54f2999.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-28T08:26:55.286Z",
+      "titleKo": "뉴스에서: 과학자들은 고급 자동차를 그 어느 때보다 어두운 색상으로 코팅하기 위해 현재까지 가장 어두운 검정색 페인트를 개발했습니다.",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-08ab48b4a773",
       "kind": "news",

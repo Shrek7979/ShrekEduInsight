@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T01:51:45.962Z",
+  "updatedAt": "2026-10-28T08:26:40.609Z",
   "items": [
     {
       "id": "fb-ab3d28bf9a9d",
@@ -13,7 +13,10 @@
       "publishedAt": "2026-10-27T20:34:06.201Z",
       "thumb": "/social/fb/fb-ab3d28bf9a9d.jpg",
       "refs": [],
-      "collectedAt": "2026-10-27T22:34:38.749Z"
+      "collectedAt": "2026-10-27T22:34:38.749Z",
+      "titleKo": "Physical Review E의 새로운 연구에서는 음파를 사용하여 입자 쌍을 공중에 띄우고 서로 충전되는 방식을 관찰합니다.",
+      "summaryKo": "",
+      "translator": "google"
     },
     {
       "id": "fb-4fe93d344ecc",
@@ -44,7 +47,10 @@
       "publishedAt": "2026-10-27T14:51:24.714Z",
       "thumb": "/social/fb/fb-4a4120b5112f.jpg",
       "refs": [],
-      "collectedAt": "2026-10-28T01:51:45.962Z"
+      "collectedAt": "2026-10-28T01:51:45.962Z",
+      "titleKo": "벨기에 C에서 CERN의 첫 번째 혁신 허브 파일럿 개시",
+      "summaryKo": "",
+      "translator": "google"
     },
     {
       "id": "fb-0e5f45d57eac",
@@ -126,7 +132,10 @@
       "publishedAt": "2026-10-23T01:51:02.531Z",
       "thumb": "/social/fb/fb-73e948571bef.jpg",
       "refs": [],
-      "collectedAt": "2026-10-28T01:51:45.962Z"
+      "collectedAt": "2026-10-28T01:51:45.962Z",
+      "titleKo": "단 일주일 만에 전국 생물학 교사 협회 컨퍼런스(NABT26)에서 발표하게 되어 매우 기쁩니다!",
+      "summaryKo": "우리는 그곳에서 당신을 만나기를 바랍니다!!",
+      "translator": "google"
     },
     {
       "id": "fb-67cc24120ee6",

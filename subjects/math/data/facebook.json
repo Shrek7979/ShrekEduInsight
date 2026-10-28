@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T01:53:28.682Z",
+  "updatedAt": "2026-10-28T08:28:18.725Z",
   "items": [
     {
       "id": "fb-e723a52aadf7",
@@ -13,7 +13,27 @@
       "publishedAt": "2026-10-27T17:53:06.731Z",
       "thumb": "/social/fb/fb-e723a52aadf7.jpg",
       "refs": [],
-      "collectedAt": "2026-10-28T01:53:28.682Z"
+      "collectedAt": "2026-10-28T01:53:28.682Z",
+      "titleKo": "올해 Wolfram Tech Conf에서: 수학적 계산이 차원 장벽을 무너뜨리면 무슨 일이 일어날까요?",
+      "summaryKo": "",
+      "translator": "google"
+    },
+    {
+      "id": "fb-d91ca2cac5c8",
+      "kind": "video",
+      "lang": "en",
+      "title": "Sometimes mathematicians don't think like everyone else.",
+      "summary": "Muhammad has the hole story",
+      "link": "https://www.facebook.com/reel/2374478629952801/",
+      "source": "Facebook Oxford Mathematics",
+      "category": "인기",
+      "publishedAt": "2026-10-26T08:27:13.875Z",
+      "thumb": "/social/fb/fb-d91ca2cac5c8.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-28T08:28:18.725Z",
+      "titleKo": "때때로 수학자들은 다른 사람들처럼 생각하지 않습니다.",
+      "summaryKo": "무함마드는 구멍 이야기를 가지고 있다",
+      "translator": "google"
     },
     {
       "id": "fb-788b38e5c209",
