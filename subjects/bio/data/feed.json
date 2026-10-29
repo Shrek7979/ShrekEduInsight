@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T11:42:44.599Z",
+  "updatedAt": "2026-10-29T11:49:30.382Z",
   "items": [
     {
       "id": "bsky-3myyw7tcipj2b",
@@ -13,7 +13,7 @@
       "likes": "1",
       "category": "인기",
       "publishedAt": "2026-10-29T09:10:04.271Z",
-      "collectedAt": "2026-10-29T11:42:44.599Z",
+      "collectedAt": "2026-10-29T11:49:30.382Z",
       "titleKo": "연구에서는 알츠하이머병의 혈관 변화를 파악했지만 병리학에서의 역할이 입증되지 않았습니다.",
       "summaryKo": "@jonasneher.bsky.social &co의 이 관점은…",
       "translator": "google",
@@ -31,7 +31,7 @@
       "likes": "7",
       "category": "인기",
       "publishedAt": "2026-10-29T09:05:02.794Z",
-      "collectedAt": "2026-10-29T11:42:44.599Z",
+      "collectedAt": "2026-10-29T11:49:30.382Z",
       "titleKo": "남자 Ae.",
       "summaryKo": "이집트 모기는 날아다니는 모습을 바탕으로 암컷의 위치를 ​​찾습니다…",
       "translator": "google",
@@ -48,7 +48,7 @@
       "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4irghgzlsjk6ugrekoqyl7km/bafkreiee5ap2diaqtwpnu3pbbv2jz7opz672wyx6niicu26knbqttkeuna",
       "category": "인기",
       "publishedAt": "2026-10-29T09:02:38.401Z",
-      "collectedAt": "2026-10-29T11:42:44.599Z",
+      "collectedAt": "2026-10-29T11:49:30.382Z",
       "titleKo": "단일 탄소 풀을 보충하는 세 가지 대사 경로는 Listeria monocytogenes의 성장과 병독성을 종합적으로 지원합니다.",
       "summaryKo": "단일 탄소를 보충하는 세 가지 대사 경로…",
       "translator": "google",
@@ -65,7 +65,7 @@
       "source": "베리타스알파",
       "category": "연구",
       "publishedAt": "2026-10-29T08:21:15.000Z",
-      "collectedAt": "2026-10-29T11:42:44.599Z",
+      "collectedAt": "2026-10-29T11:49:30.382Z",
       "thumb": "/thumbs/20fdc7149815.jpg"
     },
     {
@@ -79,7 +79,7 @@
       "source": "베리타스알파",
       "category": "교육",
       "publishedAt": "2026-10-29T08:15:24.000Z",
-      "collectedAt": "2026-10-29T11:42:44.599Z",
+      "collectedAt": "2026-10-29T11:49:30.382Z",
       "thumb": "/thumbs/7c7dd1847d89.jpg"
     },
     {
@@ -93,7 +93,7 @@
       "source": "베리타스알파",
       "category": "연구",
       "publishedAt": "2026-10-29T07:31:46.000Z",
-      "collectedAt": "2026-10-29T11:42:44.599Z",
+      "collectedAt": "2026-10-29T11:49:30.382Z",
       "thumb": "/thumbs/c2dc80256422.jpg"
     },
     {
@@ -108,23 +108,8 @@
       "image": "http://www.bing.com/th?id=ONUT.dwb2qVUpgjU6oZ04WdITsQ&pid=News",
       "category": "의학·바이오",
       "publishedAt": "2026-10-29T04:11:00.000Z",
-      "collectedAt": "2026-10-29T11:42:44.599Z",
+      "collectedAt": "2026-10-29T11:49:30.382Z",
       "thumb": "/thumbs/cebcfe23f307.jpg"
-    },
-    {
-      "id": "476a174eb781",
-      "kind": "news",
-      "lang": "ko",
-      "title": "사람과 야생동물의 안전한 공존 해법은…국립생물자원관, 도시 생태관리 방안 논의",
-      "summary": "【동방일보】 신현성 기자 = 도심에 출몰하는 야생동물에 대한 체계적인 관리와 시민 안전을 확보하기…",
-      "detail": "【동방일보】 신현성 기자 = 도심에 출몰하는 야생동물에 대한 체계적인 관리와 시민 안전을 확보하기 위해 생태조사 자료를 정책에 활용하는 방안이 논의된다.기후에너지환경부 산하 국립생물자원관은 오는 29일 부산 해운대구 한화리조트에서 도시 야생동물의…",
-      "link": "https://www.dongbangilbo.co.kr/news/articleView.html?idxno=111222",
-      "source": "dongbangilbo",
-      "image": "http://www.bing.com/th?id=ONUT.-G_3WCd_o9usimxt-4rsMw&pid=News",
-      "category": "생태·환경",
-      "publishedAt": "2026-10-29T04:08:00.000Z",
-      "collectedAt": "2026-10-29T11:42:44.599Z",
-      "thumb": "/thumbs/476a174eb781.jpg"
     },
     {
       "id": "31aff1a1ff1d",
@@ -138,38 +123,8 @@
       "image": "http://www.bing.com/th?id=ONUT.-IllHQPynpVrTB_bw4YnMQ&pid=News",
       "category": "교육",
       "publishedAt": "2026-10-29T03:58:00.000Z",
-      "collectedAt": "2026-10-29T11:42:44.599Z",
+      "collectedAt": "2026-10-29T11:49:30.382Z",
       "thumb": "/thumbs/31aff1a1ff1d.png"
-    },
-    {
-      "id": "647b3f40a81e",
-      "kind": "news",
-      "lang": "ko",
-      "title": "도심 멧돼지·너구리 출몰 증가...국립생물자원관, 야생동물 공존·관리 방안 논의",
-      "summary": "도심에 멧돼지와 너구리, 오소리 등 야생동물의 출몰이 잇따르면서 사람과 야생동물의 안전한 공존을…",
-      "detail": "도심에 멧돼지와 너구리, 오소리 등 야생동물의 출몰이 잇따르면서 사람과 야생동물의 안전한 공존을 위한 과학적 관리체계 구축과 정책적 대응 방안이 논의된다. 기후에너지환경부 소속 국립생물자원관은 29일 부산 해운대구 한화리조트에서 '도시 야생동물과의…",
-      "link": "https://www.m-economynews.com/news/article.html?no=72249",
-      "source": "M이코노미뉴스",
-      "image": "http://www.bing.com/th?id=ONUT.SxCGuyXZ3YzVtCDQFbQ_eQ&pid=News",
-      "category": "생태·환경",
-      "publishedAt": "2026-10-29T01:36:00.000Z",
-      "collectedAt": "2026-10-29T11:42:44.599Z",
-      "thumb": "/thumbs/647b3f40a81e.jpg"
-    },
-    {
-      "id": "ccd2b648a383",
-      "kind": "news",
-      "lang": "ko",
-      "title": "국립낙동강생물자원관, 담수환경의 탄소 저장과 담수 미세조류의 역할 조명",
-      "summary": "기후에너지환경부 산하 국립낙동강생물자원관(관장 용석원)은 10월 28일 부산 해운대 한화리조트에서…",
-      "detail": "기후에너지환경부 산하 국립낙동강생물자원관(관장 용석원)은 10월 28일 부산 해운대 한화리조트에서 열린 2026년 한국환경생물학회 정기학술대회에서 ‘내륙습지 탄소흡수원의 과학적 가치와 미래 전략’ 특별 발표·토론회(세션)를 개최했다. 이번 특별…",
-      "link": "https://www.dailydgnews.com/news/article.html?no=267530",
-      "source": "데일리대구경북뉴스",
-      "image": "http://www.bing.com/th?id=ONUT.E-4BBC4TaBo9BTQJ2-dSeA&pid=News",
-      "category": "생태·환경",
-      "publishedAt": "2026-10-29T00:42:00.000Z",
-      "collectedAt": "2026-10-29T11:42:44.599Z",
-      "thumb": "/thumbs/ccd2b648a383.jpg"
     },
     {
       "id": "bc740eb05c29",
@@ -183,7 +138,7 @@
       "image": "http://www.bing.com/th?id=ONUT.RpYlzSAuuTC6rhPoBJqh_Q&pid=News",
       "category": "의학·바이오",
       "publishedAt": "2026-10-28T23:40:58.000Z",
-      "collectedAt": "2026-10-29T11:42:44.599Z",
+      "collectedAt": "2026-10-29T11:49:30.382Z",
       "thumb": "/thumbs/bc740eb05c29.jpg"
     },
     {
@@ -198,7 +153,7 @@
       "likes": "11",
       "category": "인기",
       "publishedAt": "2026-10-28T23:35:31.228Z",
-      "collectedAt": "2026-10-29T11:42:44.599Z",
+      "collectedAt": "2026-10-29T11:49:30.382Z",
       "titleKo": "물론 표지에 있는 바위를 만질 수는 없지만 특별호에 실린 멋진 기사를 모두 화면으로 볼 수는 있습니다.",
       "summaryKo": "그리고 대부분은 여전히 ​​무료입니다",
       "translator": "google",
@@ -216,7 +171,7 @@
       "image": "http://www.bing.com/th?id=ONUT.0ilykOHG2goQqfMIPDsqEw&pid=News",
       "category": "의학·바이오",
       "publishedAt": "2026-10-28T22:35:00.000Z",
-      "collectedAt": "2026-10-29T11:42:44.599Z",
+      "collectedAt": "2026-10-29T11:49:30.382Z",
       "thumb": "/thumbs/746c48a6bb1c.png"
     },
     {
@@ -231,7 +186,7 @@
       "image": "http://www.bing.com/th?id=ONUT.IxtfR0sZNu-IYJYqHSapVQ&pid=News",
       "category": "교육",
       "publishedAt": "2026-10-28T19:19:20.000Z",
-      "collectedAt": "2026-10-29T11:42:44.599Z",
+      "collectedAt": "2026-10-29T11:49:30.382Z",
       "thumb": "/thumbs/e52b6971f6e9.jpg"
     },
     {
@@ -243,25 +198,11 @@
       "detail": "강진아 기자 = 정부가 전자·가향담배 등 급변하는 시장에 대응해 담배의 유해성분 검사 대상을 확대하고 맛과 향을 끌어올리는 첨가물 관리 방안 마련에 나선다. 보건복지부와 식품의약품안전처는 29일 담배유해성관리정책위원회 심의를 거쳐 '제1차 ..",
       "link": "https://www.fnnews.com/news/202610291331064729",
       "source": "파이낸셜뉴스",
-      "image": "http://www.bing.com/th?id=ONUT.7jiHeOwXGW6Lv4l772uOwQ&pid=News",
+      "image": "http://www.bing.com/th?id=ONUT.lcZAO17r9aS_NemStMtwcA&pid=News",
       "category": "생태·환경",
       "publishedAt": "2026-10-28T16:31:00.000Z",
-      "collectedAt": "2026-10-29T11:42:44.599Z",
+      "collectedAt": "2026-10-29T11:49:30.382Z",
       "thumb": "/thumbs/93d5685b6f44.jpg"
-    },
-    {
-      "id": "2c670d707af6",
-      "kind": "news",
-      "lang": "ko",
-      "title": "인천 부평 도시개발구역 ‘멸종위기종’ 서식…환경단체 “사업 재검토해야”",
-      "summary": "인천 도시개발사업 구역에서 멸종위기종이 발견됐지만 개발이 강행되자 환경단체가 반발하고 나섰습니다",
-      "detail": "인천 도시개발사업 구역에서 멸종위기종이 발견됐지만 개발이 강행되자 환경단체가 반발하고 나섰습니다. 인천녹색연합은 오늘(28일) 성명서를 내고 “인천시 부평구 삼산4지구 도시개발사업 구역에서 멸종위기종이자 인천시 깃대종인 ‘금개구리’ 서식지가…",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8697595",
-      "source": "KBS 뉴스",
-      "category": "생태·환경",
-      "publishedAt": "2026-10-28T09:42:00.000Z",
-      "collectedAt": "2026-10-29T11:42:44.599Z",
-      "thumb": "/thumbs/2c670d707af6.png"
     },
     {
       "id": "095aa5b1de3e",
@@ -275,7 +216,7 @@
       "image": "http://www.bing.com/th?id=ONUT.BQS93VGv68-zTvxQ-r8hdg&pid=News",
       "category": "의학·바이오",
       "publishedAt": "2026-10-28T08:14:00.000Z",
-      "collectedAt": "2026-10-29T11:42:44.599Z",
+      "collectedAt": "2026-10-29T11:49:30.382Z",
       "thumb": "/thumbs/095aa5b1de3e.jpg"
     },
     {
@@ -289,7 +230,7 @@
       "source": "ScienceDaily",
       "category": "해외",
       "publishedAt": "2026-10-25T11:52:54.000Z",
-      "collectedAt": "2026-10-29T11:42:44.599Z",
+      "collectedAt": "2026-10-29T11:49:30.382Z",
       "titleKo": "새로운 증거에 따르면 스피노사우루스는 대부분의 삶을 물속에서 보냈다고 합니다.",
       "summaryKo": "동물이 처음으로 땅을 정복한 지 수백만 년이 지난 후…",
       "translator": "google",
@@ -306,10 +247,10 @@
       "link": "https://www.youtube.com/watch?v=kmqfZM_raF4",
       "source": "TV생물도감",
       "image": "https://i4.ytimg.com/vi/kmqfZM_raF4/hqdefault.jpg",
-      "views": 763658,
+      "views": 763719,
       "category": "인기",
       "publishedAt": "2026-10-24T02:00:08.000Z",
-      "collectedAt": "2026-10-29T11:42:44.599Z",
+      "collectedAt": "2026-10-29T11:49:30.382Z",
       "summaryKo": "",
       "thumb": "/thumbs/cdd0090b105d.jpg"
     },
@@ -323,10 +264,10 @@
       "link": "https://www.youtube.com/watch?v=bi-YI5_Dz_E",
       "source": "TV생물도감",
       "image": "https://i3.ytimg.com/vi/bi-YI5_Dz_E/hqdefault.jpg",
-      "views": 247309,
+      "views": 247317,
       "category": "인기",
       "publishedAt": "2026-10-03T02:00:07.000Z",
-      "collectedAt": "2026-10-29T11:42:44.599Z",
+      "collectedAt": "2026-10-29T11:49:30.382Z",
       "summaryKo": "",
       "thumb": "/thumbs/debbe23f23bc.jpg"
     },
@@ -2425,6 +2366,62 @@
       "collectedAt": "2026-10-26T17:42:00.306Z",
       "summaryKo": "",
       "thumb": "/thumbs/f19d539ed0cd.jpg"
+    },
+    {
+      "id": "7413a3cbbffb",
+      "kind": "news",
+      "lang": "ko",
+      "title": "살아 있는 세포의 돌기/소포 동시 촬영하는 현미경 기술 개발",
+      "summary": "혈관을 이루는 세포나 일부 암세포는 세포 밖 돌기를 안테나처럼 뻗어 주변을 탐색하고 이동한다",
+      "detail": "혈관을 이루는 세포나 일부 암세포는 세포 밖 돌기를 안테나처럼 뻗어 주변을 탐색하고 이동한다. 이 돌기의 움직임과 세포 안에서 필요한 물질을 나르는 작은 주머니를 동시에 한 화면에서 관찰할 수 있는 현미경 기술이 개발됐다. 암의 전이나 혈관재생의…",
+      "link": "https://www.veritas-a.com/news/articleView.html?idxno=633400",
+      "source": "베리타스알파",
+      "category": "의학·바이오",
+      "publishedAt": "2026-10-26T00:37:50.000Z",
+      "collectedAt": "2026-10-26T05:27:49.499Z",
+      "thumb": "/thumbs/7413a3cbbffb.jpg"
+    },
+    {
+      "id": "029fd6eb3fc6",
+      "kind": "news",
+      "lang": "ko",
+      "title": "고려대 김희남 교수 '장내 미생물 기능 저하 가설' 제시.. '세균 소실과 기능 저하 통합한 새 평가 틀 국제학술지 게재'",
+      "summary": "고려대 보건과학대학 김희남 교수가 장내 마이크로바이옴의 손상을 이해하고 평가하는 새로운 개념적 틀을…",
+      "detail": "고려대 보건과학대학 김희남 교수가 장내 마이크로바이옴의 손상을 이해하고 평가하는 새로운 개념적 틀을 내놨다. 그동안 상대적으로 주목받지 못했던 장내 미생물의 기능적 손상에 초점을 맞춰 관련 연구의 새 방향을 제시하고 학문적 토대를 마련했다는 평가다.…",
+      "link": "https://www.veritas-a.com/news/articleView.html?idxno=633390",
+      "source": "베리타스알파",
+      "category": "의학·바이오",
+      "publishedAt": "2026-10-26T00:28:40.000Z",
+      "collectedAt": "2026-10-26T05:27:49.499Z",
+      "thumb": "/thumbs/029fd6eb3fc6.png"
+    },
+    {
+      "id": "98b95469e7b5",
+      "kind": "news",
+      "lang": "ko",
+      "title": "명지대 신규 항생물질 발굴 가능성 제시… 한국생물공학회 캡스톤디자인 경진대회 '대상'",
+      "summary": "명지대(총장 임연수) 제약바이오융합 특성화사업단(단장 이창로 교수) 지원을 받은 화학․생명과학대학…",
+      "detail": "명지대(총장 임연수) 제약바이오융합 특성화사업단(단장 이창로 교수) 지원을 받은 화학․생명과학대학 융합바이오학부 시스템생명과학전공 학생들이 지난 2일 열린 '2026 한국생물공학회 추계 캡스톤디자인 경진대회(BB Jump)'에서 영예의 대상을…",
+      "link": "https://www.veritas-a.com/news/articleView.html?idxno=633376",
+      "source": "베리타스알파",
+      "category": "대회·행사",
+      "publishedAt": "2026-10-26T00:08:59.000Z",
+      "collectedAt": "2026-10-26T05:27:49.499Z",
+      "thumb": "/thumbs/98b95469e7b5.jpg"
+    },
+    {
+      "id": "ceab71c599d5",
+      "kind": "news",
+      "lang": "ko",
+      "title": "월간생태지 : 귀요미의 10월 생태원 브리핑",
+      "summary": "안녕하세요!",
+      "detail": "안녕하세요! 국립생태원의 귀요미예요 선선한 바람과 함께 자연이 알록달록 물들어가는 10월! 국립생태원에도 가을만큼이나 다채로운 생태 이야기가 찾아왔어요. 곤충들을 위한 특별한 호텔부터 우리 주변에서 만나는 다양한 생물 이야기, 생태계를 지키기 위한…",
+      "link": "https://blog.naver.com/nie_korea/224449053565?fromRss=true&trackingCode=rss",
+      "source": "네이버 블로그 국립생태원",
+      "category": "인기",
+      "publishedAt": "2026-10-25T23:50:00.000Z",
+      "collectedAt": "2026-10-26T05:27:49.499Z",
+      "thumb": "/thumbs/ceab71c599d5.png"
     }
   ]
 }

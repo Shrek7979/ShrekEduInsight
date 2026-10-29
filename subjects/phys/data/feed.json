@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T11:42:44.748Z",
+  "updatedAt": "2026-10-29T11:49:30.423Z",
   "items": [
     {
       "id": "623206fb2a2f",
@@ -12,7 +12,7 @@
       "source": "Physics World",
       "category": "해외",
       "publishedAt": "2026-10-29T11:00:44.000Z",
-      "collectedAt": "2026-10-29T11:42:44.748Z",
+      "collectedAt": "2026-10-29T11:49:30.423Z",
       "titleKo": "워드 웨이브 퍼즐 no.10",
       "summaryKo": "이 퍼즐에서 다음과 관련된 단어를 풀 수 있나요?",
       "translator": "google",
@@ -30,7 +30,7 @@
       "source": "Physics World",
       "category": "해외",
       "publishedAt": "2026-10-29T10:45:46.000Z",
-      "collectedAt": "2026-10-29T11:42:44.748Z",
+      "collectedAt": "2026-10-29T11:49:30.423Z",
       "titleKo": "원시 블랙홀은 숨겨진 5차원을 드러낼 수 있다",
       "summaryKo": "우주 초기에 형성된 원시 블랙홀…",
       "translator": "google",
@@ -49,7 +49,7 @@
       "likes": "10",
       "category": "인기",
       "publishedAt": "2026-10-29T10:00:22.115Z",
-      "collectedAt": "2026-10-29T11:42:44.748Z",
+      "collectedAt": "2026-10-29T11:49:30.423Z",
       "titleKo": "파톤의 여파로 🌊 @cmsexperiment.bsky.social은 파톤 여행에 의해 형성된 \"웨이크\"에 대한 최초의 직접적인 관찰을 보고합니다…",
       "summaryKo": "쿼크-글루온 플라즈마를 통해",
       "translator": "google",
@@ -66,7 +66,7 @@
       "source": "베리타스알파",
       "category": "교육",
       "publishedAt": "2026-10-29T07:11:39.000Z",
-      "collectedAt": "2026-10-29T11:42:44.748Z",
+      "collectedAt": "2026-10-29T11:49:30.423Z",
       "thumb": "/thumbs/ee0806abeb5b.jpg"
     },
     {
@@ -81,7 +81,7 @@
       "image": "http://www.bing.com/th?id=ONUT.-IllHQPynpVrTB_bw4YnMQ&pid=News",
       "category": "교육",
       "publishedAt": "2026-10-29T03:58:00.000Z",
-      "collectedAt": "2026-10-29T11:42:44.748Z",
+      "collectedAt": "2026-10-29T11:49:30.423Z",
       "thumb": "/thumbs/31aff1a1ff1d.png"
     },
     {
@@ -95,12 +95,27 @@
       "source": "ScienceDaily",
       "category": "해외",
       "publishedAt": "2026-10-29T03:39:27.000Z",
-      "collectedAt": "2026-10-29T11:42:44.748Z",
+      "collectedAt": "2026-10-29T11:49:30.423Z",
       "titleKo": "과학자들이 교과서의 물리학 법칙을 어겼습니다.",
       "summaryKo": "과학자들은 레이저의 오랜 규칙을 무시했습니다…",
       "translator": "google",
       "detailKo": "과학자들은 기존 이론보다 훨씬 더 높은 에너지의 X선을 생성함으로써 레이저 물리학의 오랜 규칙을 무시했습니다.",
       "thumb": "/thumbs/e538036dc06c.webp"
+    },
+    {
+      "id": "dfd7eccc64e5",
+      "kind": "news",
+      "lang": "ko",
+      "title": "“국가 양자·HPC 인프라 구축 본격화…다음 과제는 산업 활용”",
+      "summary": "국내에서도 양자컴퓨팅 기술이 실용화·산업화 단계에 진입하기 시작했다",
+      "detail": "국내에서도 양자컴퓨팅 기술이 실용화·산업화 단계에 진입하기 시작했다. 국내에 양자컴퓨터가 설치된 데 이어 슈퍼컴퓨터와 양자컴퓨터를 결합한 ‘양자·AI 하이브리드’ 시스템도 국가 차원에서 구축되고 있다. 양자 업계에서는 하드웨어 구축을 넘어 양자컴퓨팅…",
+      "link": "https://it.chosun.com/news/articleView.html?idxno=2023092173022",
+      "source": "IT 조선",
+      "image": "http://www.bing.com/th?id=ONUT.eu8cod6tmMzJtRIiI0Tsfw&pid=News",
+      "category": "양자·첨단",
+      "publishedAt": "2026-10-29T02:17:00.000Z",
+      "collectedAt": "2026-10-29T11:49:30.423Z",
+      "thumb": "/thumbs/dfd7eccc64e5.jpg"
     },
     {
       "id": "bsky-3myy2vojdzh2s",
@@ -114,7 +129,7 @@
       "likes": "7",
       "category": "인기",
       "publishedAt": "2026-10-29T01:01:12.341Z",
-      "collectedAt": "2026-10-29T11:42:44.748Z",
+      "collectedAt": "2026-10-29T11:49:30.423Z",
       "titleKo": "말라리아가 무엇이고 어떻게 인간에게 감염되었는지는 불과 150년 전까지만 해도 매우 미스터리였으며 몇 가지 중요한 측면이 여전히 남아 있습니다.",
       "summaryKo": "수수께끼",
       "translator": "google",
@@ -131,12 +146,41 @@
       "source": "Nature Physics",
       "category": "연구",
       "publishedAt": "2026-10-29T00:00:00.000Z",
-      "collectedAt": "2026-10-29T11:42:44.748Z",
+      "collectedAt": "2026-10-29T11:49:30.423Z",
       "titleKo": "Boltzmann-Onsager 프레임워크를 뛰어넘는 이미징 열전자 Thomson 냉각",
       "summaryKo": "기존 Thomson 냉각은 비효율적입니다",
       "translator": "google",
       "detailKo": "기존 Thomson 냉각은 비효율적입니다. 이제 Boltzmann-Onsager 한계의 붕괴로 인한 비평형 에너지 소산은…",
       "thumb": "/thumbs/042fd60d4d90.png"
+    },
+    {
+      "id": "731f91eb72e8",
+      "kind": "news",
+      "lang": "ko",
+      "title": "메가존클라우드·KISTI, 슈퍼컴퓨터·양자컴퓨터 연계한 산업 활용 방안 모색",
+      "summary": "메가존클라우드와 한국과학기술정보연구원(KISTI)이 양자컴퓨팅과 인공지능(AI)을 결합한 산업 적용…",
+      "detail": "메가존클라우드와 한국과학기술정보연구원(KISTI)이 양자컴퓨팅과 인공지능(AI)을 결합한 산업 적용 방안을 논의했다. 양측은 28일 서울에서 ‘Quantum × AI: The Next Frontier 2026’ 세미나를 공동 개최하고 양자컴퓨팅…",
+      "link": "https://www.lawissue.co.kr/view.php?ud=202610291908595553204ead0791_12",
+      "source": "로이슈",
+      "category": "양자·첨단",
+      "publishedAt": "2026-10-28T22:09:00.000Z",
+      "collectedAt": "2026-10-29T11:49:30.423Z",
+      "thumb": "/thumbs/731f91eb72e8.png"
+    },
+    {
+      "id": "d77f41df72b0",
+      "kind": "news",
+      "lang": "ko",
+      "title": "한·독 ‘강화된 전략적 동반자’ 수립…李대통령 \"양자·다자 협력 대폭 강화\"",
+      "summary": "한국과 독일이 양국 관계를 ‘강화된 전략적 동반자 관계’로 격상하고 반도체·인공지능(AI)·방산 등…",
+      "detail": "한국과 독일이 양국 관계를 ‘강화된 전략적 동반자 관계’로 격상하고 반도체·인공지능(AI)·방산 등 핵심 분야의 협력을 확대하기로 했다. 양국의 상호 보완적인 산업·기술 역량을 바탕으로 핵심 공급망을 강화하고 스마트 제조와 로봇, 에너지 등으로 협력…",
+      "link": "https://www.etoday.co.kr/news/view/2641929",
+      "source": "이투데이",
+      "image": "http://www.bing.com/th?id=ONUT.xm_xBQi7PNNaVwC1VKm9aw&pid=News",
+      "category": "양자·첨단",
+      "publishedAt": "2026-10-28T21:58:00.000Z",
+      "collectedAt": "2026-10-29T11:49:30.423Z",
+      "thumb": "/thumbs/d77f41df72b0.jpg"
     },
     {
       "id": "e52b6971f6e9",
@@ -150,7 +194,7 @@
       "image": "http://www.bing.com/th?id=ONUT.IxtfR0sZNu-IYJYqHSapVQ&pid=News",
       "category": "교육",
       "publishedAt": "2026-10-28T19:19:20.000Z",
-      "collectedAt": "2026-10-29T11:42:44.748Z",
+      "collectedAt": "2026-10-29T11:49:30.423Z",
       "thumb": "/thumbs/e52b6971f6e9.jpg"
     },
     {
@@ -165,8 +209,23 @@
       "image": "http://www.bing.com/th?id=ONUT.qdb02KIswO8j9I6LBsLa0A&pid=News",
       "category": "양자·첨단",
       "publishedAt": "2026-10-28T19:00:00.000Z",
-      "collectedAt": "2026-10-29T11:42:44.748Z",
+      "collectedAt": "2026-10-29T11:49:30.423Z",
       "thumb": "/thumbs/341380a565d9.png"
+    },
+    {
+      "id": "6d34c0ba1622",
+      "kind": "news",
+      "lang": "ko",
+      "title": "이더리움 EIP-8450, 양자 내성 위한 공개 키 등록 제안…핵심은 무엇? (+ETH, EIP-8450, 양자내성, 공개키)",
+      "summary": "이더리움의 EIP-8450 제안 이 최근 업데이트되었으며, 이는 검증인을 위한 양자내성 공개 키…",
+      "detail": "이더리움의 EIP-8450 제안 이 최근 업데이트되었으며, 이는 검증인을 위한 양자내성 공개 키 등록 메커니즘 을 도입하는 것을 목표로 한다. 업데이트된 제안은 미래의 양자 컴퓨팅 위협 에 대한 검증인 키 시스템의 복원력을 강화하기 위해…",
+      "link": "https://www.minsimnews.com/news/articleView.html?idxno=96541",
+      "source": "민심뉴스",
+      "image": "http://www.bing.com/th?id=ONUT.sgWV8QBtU0cicebJSP2SBg&pid=News",
+      "category": "양자·첨단",
+      "publishedAt": "2026-10-28T16:55:00.000Z",
+      "collectedAt": "2026-10-29T11:49:30.423Z",
+      "thumb": "/thumbs/6d34c0ba1622.jpg"
     },
     {
       "id": "bsky-3myxd7sdyom2r",
@@ -2388,64 +2447,6 @@
       "publishedAt": "2026-10-22T09:53:00.000Z",
       "collectedAt": "2026-10-22T21:33:32.322Z",
       "thumb": "/thumbs/dde2cc80f755.png"
-    },
-    {
-      "id": "644b85fab0ea",
-      "kind": "news",
-      "lang": "ko",
-      "title": "대덕 양자기업, 美 '양자 수도'서 현지 IR·네트워킹 가져",
-      "summary": "대전 대덕구 소재 양자 기업이 미국 주요 양자클러스터에 협력 채널과 현지 거점을 마련했다",
-      "detail": "대전 대덕구 소재 양자 기업이 미국 주요 양자클러스터에 협력 채널과 현지 거점을 마련했다. 블루포인트파트너스는 미국 메릴랜드·워싱턴D.C.·버지니아(DMV)에서 '대덕-DMV 양자클러스터 국제협력 프로그램'으로 대덕 양자 기업의 현지…",
-      "link": "https://www.etnews.com/20261022000409",
-      "source": "전자신문",
-      "image": "http://www.bing.com/th?id=ONUT.td0tlW10D2M5rQr7iX-39g&pid=News",
-      "category": "양자·첨단",
-      "publishedAt": "2026-10-22T09:20:00.000Z",
-      "collectedAt": "2026-10-22T21:33:32.322Z",
-      "thumb": "/thumbs/644b85fab0ea.png"
-    },
-    {
-      "id": "4a46f63b1ca6",
-      "kind": "news",
-      "lang": "ko",
-      "title": "KT, 전국 단위 양자암호통신망 구축 착수…2026년 테스트베드 고도화 추진",
-      "summary": "KT는 과학기술정보통신부와 한국지능정보사회진흥원 주관의 '2026년 개방형 양자 테스트베드…",
-      "detail": "KT는 과학기술정보통신부와 한국지능정보사회진흥원 주관의 '2026년 개방형 양자 테스트베드 고도화·확산 사업' 착수보고회를 마치고 전국 단위의 양자암호통신 인프라 확장과 차세대 양자기술 실증에 나섰다.이 사업은 기존에 서울-판교-대전 구간에 구축된…",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=618043",
-      "source": "CBC뉴스",
-      "image": "http://www.bing.com/th?id=ONUT.3pDlM-yo4OqEWdNhwPdDlg&pid=News",
-      "category": "양자·첨단",
-      "publishedAt": "2026-10-22T09:05:00.000Z",
-      "collectedAt": "2026-10-22T21:33:32.322Z",
-      "thumb": "/thumbs/4a46f63b1ca6.jpg"
-    },
-    {
-      "id": "6ea41ea7cd55",
-      "kind": "news",
-      "lang": "ko",
-      "title": "연세대·공주대, 펄스 레이저로 리튬 음극 산화층 제거…전지 수명 4배 늘려",
-      "summary": "연세대 신소재공학과 이홍경 교수팀이 공주대 이동경 교수 연구팀과 함께 펄스 레이저를 이용해 상용…",
-      "detail": "연세대 신소재공학과 이홍경 교수팀이 공주대 이동경 교수 연구팀과 함께 펄스 레이저를 이용해 상용 리튬 금속 음극의 산화층을 제거하고 표면을 고르게 만드는 기술을 개발했다고 밝혔다. 연구팀은 이 기술로 산화된 음극의 성능을 회복했으며, 처리한 음극을…",
-      "link": "https://www.kyosu.net/news/articleView.html?idxno=211545",
-      "source": "교수신문",
-      "category": "양자·첨단",
-      "publishedAt": "2026-10-22T08:38:04.000Z",
-      "collectedAt": "2026-10-22T21:33:32.322Z",
-      "thumb": "/thumbs/6ea41ea7cd55.jpg"
-    },
-    {
-      "id": "bea54992fc1e",
-      "kind": "news",
-      "lang": "ko",
-      "title": "대덕 양자기업 4곳, 美 '양자 수도' 진출 시동···현지 협력망 구축",
-      "summary": "대덕의 양자기술 기업들이 미국 수도권 양자산업 클러스터에 진출하기 위한 협력망 구축에 나섰다",
-      "detail": "대덕의 양자기술 기업들이 미국 수도권 양자산업 클러스터에 진출하기 위한 협력망 구축에 나섰다. 현지 양자산업 기관과 협력 채널을 마련하고 투자자를 대상으로 기술력과 사업성을 검증받으며 미국 시장 진출 가능성을 타진했다.딥테크 액셀러레이터…",
-      "link": "http://www.hellodd.com/news/articleView.html?idxno=113595",
-      "source": "헬로디디",
-      "category": "양자·첨단",
-      "publishedAt": "2026-10-22T08:20:00.000Z",
-      "collectedAt": "2026-10-22T21:33:32.322Z",
-      "thumb": "/thumbs/bea54992fc1e.jpg"
     }
   ]
 }

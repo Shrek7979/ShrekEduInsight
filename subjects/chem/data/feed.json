@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-10-29T11:42:44.746Z",
+  "updatedAt": "2026-10-29T11:49:30.341Z",
   "items": [
     {
-      "id": "bsky-3myz3g2us722u",
+      "id": "bsky-3myz73mnpps2m",
       "kind": "news",
       "lang": "en",
-      "title": "‘I love the intricate, fused ring systems of terpenoids with their carbon chains twisted & rearranged into ever more tortuous shapes,…",
-      "summary": "demanding the development of new methodologies,’ writes…",
-      "link": "https://bsky.app/profile/chemistryworld.com/post/3myz3g2us722u",
+      "title": "Concerns have been raised that yesterday’s announcements from the UK’s chancellor in the autumn budget do not address funding for research,…",
+      "summary": "including the proposed cuts to several UK research…",
+      "link": "https://bsky.app/profile/chemistryworld.com/post/3myz73mnpps2m",
       "source": "Bluesky Chemistry World",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6v2nwmzy4dozxcftobscktc3/bafkreiceumikh46dsxgcpz77k2mjh2hjcd7a45hmhncbnpuosecnq5xxw4",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6v2nwmzy4dozxcftobscktc3/bafkreifthkhspcllkn7fs2kr3usd7c4hed63ajgmsype45w3i2riwcq3ay",
       "likes": "1",
       "category": "인기",
-      "publishedAt": "2026-10-29T10:43:02.436Z",
-      "collectedAt": "2026-10-29T11:42:44.746Z",
-      "titleKo": "'나는 탄소 사슬이 더욱 구불구불한 모양으로 뒤틀리고 재배열된 테르페노이드의 복잡하고 융합된 고리 시스템을 좋아합니다.",
-      "summaryKo": "새로운 방법론의 개발을 요구하고 있습니다",
+      "publishedAt": "2026-10-29T11:48:46.946Z",
+      "collectedAt": "2026-10-29T11:49:30.341Z",
+      "titleKo": "어제 영국 총리의 가을 예산 발표에서 연구 자금 지원이 언급되지 않았다는 우려가 제기되었습니다.",
+      "summaryKo": "여러 영국 연구에 대한 제안된 삭감을 포함하여…",
       "translator": "google",
-      "thumb": "/thumbs/bsky-3myz3g2us722u.webp"
+      "thumb": "/thumbs/bsky-3myz73mnpps2m.webp"
     },
     {
       "id": "bc65dc03ab90",
@@ -29,7 +29,7 @@
       "source": "C&EN",
       "category": "해외",
       "publishedAt": "2026-10-29T10:30:01.000Z",
-      "collectedAt": "2026-10-29T11:42:44.746Z",
+      "collectedAt": "2026-10-29T11:49:30.341Z",
       "titleKo": "플래그십, 3개 회사 합병해 신규 스타트업 Etcelera 출시",
       "summaryKo": "벤처기업은 3개의 플랫폼을 1개의 플랫폼으로 통합했습니다",
       "translator": "google",
@@ -47,7 +47,7 @@
       "likes": "2",
       "category": "인기",
       "publishedAt": "2026-10-29T09:38:22.959Z",
-      "collectedAt": "2026-10-29T11:42:44.746Z",
+      "collectedAt": "2026-10-29T11:49:30.341Z",
       "titleKo": "그의 파트너가 진단을 받기 한 달 전에 @andyextance.bsky.social은 사람들의 장수를 돕는 새로운 암 치료법에 관한 기사를 발표했습니다.",
       "summaryKo": "1년 후 통계는 공허하게 울렸다",
       "translator": "google",
@@ -65,7 +65,7 @@
       "image": "https://onlinelibrary.wiley.com/cms/asset/1e75b194-a56b-44f3-ad8e-b1441c120eb3/anie75453-gra-0001-m.png",
       "category": "연구",
       "publishedAt": "2026-10-29T08:02:00.000Z",
-      "collectedAt": "2026-10-29T11:42:44.746Z",
+      "collectedAt": "2026-10-29T11:49:30.341Z",
       "titleKo": "전도성 배위 폴리머의 결합 상태 조절 및 안정성",
       "summaryKo": "서로 다른 세 가지 전도성 배위 폴리머…",
       "translator": "google",
@@ -84,7 +84,7 @@
       "image": "https://onlinelibrary.wiley.com/cms/asset/a55959f9-8ea2-443e-a0e9-1fa88d2b6def/anie75516-gra-0001-m.png",
       "category": "연구",
       "publishedAt": "2026-10-29T07:59:07.000Z",
-      "collectedAt": "2026-10-29T11:42:44.746Z",
+      "collectedAt": "2026-10-29T11:49:30.341Z",
       "titleKo": "비정질 유리에 대한 향상된 광 수율을 갖는 이종 금속 Cu(I)/Ag(I)‐I 클러스터…",
       "summaryKo": "Cu(I) 합금은 방출 상태를 최적화합니다…",
       "translator": "google",
@@ -102,7 +102,7 @@
       "source": "베리타스알파",
       "category": "소재·에너지",
       "publishedAt": "2026-10-29T07:17:34.000Z",
-      "collectedAt": "2026-10-29T11:42:44.746Z",
+      "collectedAt": "2026-10-29T11:49:30.341Z",
       "thumb": "/thumbs/cb0920c0cbb9.jpg"
     },
     {
@@ -116,7 +116,7 @@
       "source": "베리타스알파",
       "category": "교육",
       "publishedAt": "2026-10-29T07:11:39.000Z",
-      "collectedAt": "2026-10-29T11:42:44.746Z",
+      "collectedAt": "2026-10-29T11:49:30.341Z",
       "thumb": "/thumbs/ee0806abeb5b.jpg"
     },
     {
@@ -131,7 +131,7 @@
       "image": "http://www.bing.com/th?id=ONUT.-IllHQPynpVrTB_bw4YnMQ&pid=News",
       "category": "교육",
       "publishedAt": "2026-10-29T03:58:00.000Z",
-      "collectedAt": "2026-10-29T11:42:44.746Z",
+      "collectedAt": "2026-10-29T11:49:30.341Z",
       "thumb": "/thumbs/31aff1a1ff1d.png"
     },
     {
@@ -146,7 +146,7 @@
       "image": "http://www.bing.com/th?id=ONUT.nI9hHhEZ1ss5NY9GkB2DBA&pid=News",
       "category": "소재·에너지",
       "publishedAt": "2026-10-28T21:35:00.000Z",
-      "collectedAt": "2026-10-29T11:42:44.746Z",
+      "collectedAt": "2026-10-29T11:49:30.341Z",
       "thumb": "/thumbs/ac3f3b2c4b6d.jpg"
     },
     {
@@ -161,7 +161,7 @@
       "likes": "4",
       "category": "인기",
       "publishedAt": "2026-10-28T21:16:22.275Z",
-      "collectedAt": "2026-10-29T11:42:44.746Z",
+      "collectedAt": "2026-10-29T11:49:30.341Z",
       "titleKo": "BASF는 지난 9월 Evonik 인수 의사를 밝혔습니다.",
       "summaryKo": "발표된 보고서에 따르면 BASF는 €11.2…",
       "translator": "google",
@@ -176,10 +176,10 @@
       "detail": "청양소방서(서장 김진석)가 지난 28일 관내 유해화학물질 누출 등 특수재난 발생 시 신속하고 체계적인 대응체계를 확립하고 구조대와 펌프구조대의 현장 대응역량을 강화하기 위한 유해화학물질 사고대응 특별구조훈련'을 실시했다.실례로 청양소방서 지하 1층…",
       "link": "https://www.msn.com/ko-kr/news/other/%EC%B2%AD%EC%96%91%EC%86%8C%EB%B0%A9%EC%84%9C-%EC%9C%A0%ED%95%B4%ED%99%94%ED%95%99%EB%AC%BC%EC%A7%88-%EC%82%AC%EA%B3%A0-%EB%8C%80%EC%9D%91-%ED%8A%B9%EB%B3%84%EA%B5%AC%EC%A1%B0%ED%9B%88%EB%A0%A8-%EC%8B%A4%EC%8B%9C/ar-AA2gjtXn",
       "source": "대전일보",
-      "image": "http://www.bing.com/th?id=ONUT.bGGAlvPYWcQFunWfnamdCw&pid=News",
+      "image": "http://www.bing.com/th?id=ONUT.v7tNXOxMAHNRFLsxf4jXrg&pid=News",
       "category": "환경·안전",
       "publishedAt": "2026-10-28T19:27:00.000Z",
-      "collectedAt": "2026-10-29T11:42:44.746Z",
+      "collectedAt": "2026-10-29T11:49:30.341Z",
       "thumb": "/thumbs/7c81f047f759.jpg"
     },
     {
@@ -194,7 +194,7 @@
       "image": "http://www.bing.com/th?id=ONUT.IxtfR0sZNu-IYJYqHSapVQ&pid=News",
       "category": "교육",
       "publishedAt": "2026-10-28T19:19:20.000Z",
-      "collectedAt": "2026-10-29T11:42:44.746Z",
+      "collectedAt": "2026-10-29T11:49:30.341Z",
       "thumb": "/thumbs/e52b6971f6e9.jpg"
     },
     {
@@ -209,7 +209,7 @@
       "likes": "4",
       "category": "인기",
       "publishedAt": "2026-10-28T19:12:51.142Z",
-      "collectedAt": "2026-10-29T11:42:44.746Z",
+      "collectedAt": "2026-10-29T11:49:30.341Z",
       "titleKo": "할로윈이 코앞으로 다가온 지금, 삽입, 제거 또는 교체를 위해 설계된 골격 편집 반응에 대해 이야기하는 것이 적합합니다…",
       "summaryKo": "복합체의 핵심 구조 내의 단일 원자…",
       "translator": "google",
@@ -224,10 +224,10 @@
       "detail": "【청주일보】 김익환 기자 = 충북 청주시는 지난 28일 흥덕구 오송읍 오송H호텔 세종시티에서 열린 ‘화학물질 배출저감 지역협의체 구성·운영 우수사례 워크숍’에서 기후에너지환경부 장관상을 수상했다고 밝혔다.기후에너지환경부 주최로 열린 이번 워크숍은…",
       "link": "https://www.cj-ilbo.com/news/articleView.html?idxno=1186111",
       "source": "청주일보",
-      "image": "http://www.bing.com/th?id=ONUT.UjOtObn4taNh4MEM7rM5kA&pid=News",
+      "image": "http://www.bing.com/th?id=ONUT.8EiooOhrlEW8V3Ae1k0fSw&pid=News",
       "category": "교육",
       "publishedAt": "2026-10-28T18:40:00.000Z",
-      "collectedAt": "2026-10-29T11:42:44.746Z",
+      "collectedAt": "2026-10-29T11:49:30.341Z",
       "thumb": "/thumbs/a77688ec1cc0.jpg"
     },
     {
@@ -242,7 +242,7 @@
       "image": "http://www.bing.com/th?id=ONUT.vMuM8HTkYRTWc7xZSk2paA&pid=News",
       "category": "연구",
       "publishedAt": "2026-10-28T17:50:00.000Z",
-      "collectedAt": "2026-10-29T11:42:44.746Z",
+      "collectedAt": "2026-10-29T11:49:30.341Z",
       "thumb": "/thumbs/e66c65baf1c0.jpg"
     },
     {
@@ -256,7 +256,7 @@
       "source": "Science",
       "category": "해외",
       "publishedAt": "2026-10-28T04:45:00.000Z",
-      "collectedAt": "2026-10-29T11:42:44.746Z",
+      "collectedAt": "2026-10-29T11:49:30.341Z",
       "titleKo": "'영원한 화학 물질'은 어디에나 있습니다. 새로운 기술이 이러한 문제를 영원히 없앨 수 있을까요?",
       "summaryKo": "과열수부터 음파까지 연구자들은…",
       "translator": "google",
@@ -276,7 +276,7 @@
       "views": 1565,
       "category": "인기",
       "publishedAt": "2026-09-30T01:12:40.000Z",
-      "collectedAt": "2026-10-29T11:42:44.746Z",
+      "collectedAt": "2026-10-29T11:49:30.341Z",
       "summaryKo": "",
       "thumb": "/thumbs/b7b26945ed6c.jpg"
     },

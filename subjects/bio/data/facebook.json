@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-28T20:32:09.868Z",
+  "updatedAt": "2026-10-29T11:52:31.658Z",
   "items": [
+    {
+      "id": "fb-75b27cd7de76",
+      "kind": "news",
+      "lang": "en",
+      "title": "Take a look back at this Cell Press Blue article from Wang and colleagues (University of Science and Technology Beijing): Conductive…",
+      "summary": "dihydrotetrazapentacene-fused coval",
+      "link": "https://www.facebook.com/cellpress/posts/pfbid02DYytrAzZKT6Fc7SCBeiPcWDPUjqpD36WfYCHj1dbBMJjEhLYKRRj2CWvAC8ifGFTl",
+      "source": "Facebook Cell Press",
+      "category": "인기",
+      "publishedAt": "2026-10-28T20:51:51.064Z",
+      "thumb": "/social/fb/fb-75b27cd7de76.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-29T11:52:31.658Z",
+      "titleKo": "Wang과 동료(베이징 과학기술대학교)의 Cell Press Blue 기사를 다시 살펴보세요. 전도성…",
+      "summaryKo": "디히드로테트라자펜타센 융합 코발트",
+      "translator": "google"
+    },
     {
       "id": "fb-1b0cf82a35bd",
       "kind": "news",
@@ -104,18 +121,18 @@
       "translator": "google"
     },
     {
-      "id": "fb-d0eeaee75dce",
+      "id": "fb-333989a25934",
       "kind": "news",
       "lang": "en",
       "title": "We're SO excited to be presenting at the National Association of Biology Teachers conference (NABT26) in just one week!",
       "summary": "We hope to see you there!!",
-      "link": "https://www.facebook.com/AmoebaSisters/posts/pfbid02AttHQW9FsQtrkA3rU8qr1Z2decYN6WiUf16vtpZoZ1UPR6rfLwhkTtZgTUMDoK6yl",
+      "link": "https://www.facebook.com/AmoebaSisters/posts/pfbid02AijH7MsX3wcC6UNtnK3NwLhAWnFdSze2zHG2K6931xFVuiVwRqLJDDT5vJtyQUwbl",
       "source": "Facebook The Amoeba Sisters",
       "category": "인기",
-      "publishedAt": "2026-10-23T06:49:58.636Z",
-      "thumb": "/social/fb/fb-d0eeaee75dce.jpg",
+      "publishedAt": "2026-10-23T11:51:40.068Z",
+      "thumb": "/social/fb/fb-333989a25934.jpg",
       "refs": [],
-      "collectedAt": "2026-10-27T06:50:49.145Z",
+      "collectedAt": "2026-10-29T11:52:31.658Z",
       "titleKo": "단 일주일 만에 전국 생물학 교사 협회 컨퍼런스(NABT26)에서 발표하게 되어 매우 기쁩니다!",
       "summaryKo": "우리는 그곳에서 당신을 만나기를 바랍니다!!",
       "translator": "google"
