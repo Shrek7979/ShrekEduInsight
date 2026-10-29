@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-28T20:31:53.566Z",
+  "updatedAt": "2026-10-29T11:46:38.977Z",
   "items": [
     {
-      "id": "fb-64387b92c27a",
+      "id": "fb-3b866db422a1",
       "kind": "news",
       "lang": "en",
       "title": "It's spooky season and that means pumpkin carving",
       "summary": "",
-      "link": "https://www.facebook.com/compoundchem/posts/pfbid02uddMnveAkfSbioH9b6W8nBuruXcNSu3o1fJPrcdbEXsDMhUW8rn97svCJFEeLD1yl",
+      "link": "https://www.facebook.com/compoundchem/posts/pfbid0r5zAsm1oubSgBY1nbJ5cAaHcQE6HMtZWGKdh4N5VEtUs1tC7vQRCwDP2cPR7NyBKl",
       "source": "Facebook Compound Interest",
       "category": "인기",
-      "publishedAt": "2026-10-27T13:26:12.022Z",
-      "thumb": "/social/fb/fb-64387b92c27a.jpg",
+      "publishedAt": "2026-10-28T11:46:07.129Z",
+      "thumb": "/social/fb/fb-3b866db422a1.jpg",
       "refs": [],
-      "collectedAt": "2026-10-28T08:26:42.224Z",
+      "collectedAt": "2026-10-29T11:46:38.977Z",
       "titleKo": "으스스한 계절이고 그건 호박 조각을 의미해",
       "summaryKo": "",
       "translator": "google"
@@ -526,23 +526,6 @@
       "collectedAt": "2026-10-04T23:21:01.595Z",
       "titleKo": "베이컨 지방 바이오디젤 전설이 시작됩니다.",
       "summaryKo": "하지만 다음번에는 정말 쉽겠죠?",
-      "translator": "google"
-    },
-    {
-      "id": "fb-2bb34cc87545",
-      "kind": "news",
-      "lang": "en",
-      "title": "Wake up and smell the coffee on Here are some of the compounds that gi",
-      "summary": "ve coffee its distinctive aroma",
-      "link": "https://www.facebook.com/compoundchem/posts/pfbid0kA53wGXPSdsAcNEmnJxuisvLJkADcQ2RG3DGB1hYgYAHWPqTdxyJDWgQUzX1yz2Vl",
-      "source": "Facebook Compound Interest",
-      "category": "인기",
-      "publishedAt": "2026-09-29T11:38:43.136Z",
-      "thumb": "/social/fb/fb-2bb34cc87545.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-05T11:39:15.826Z",
-      "titleKo": "일어나서 커피 냄새를 맡아보세요. 다음은 GI에 미치는 화합물 중 일부입니다.",
-      "summaryKo": "커피 특유의 향이 있어요",
       "translator": "google"
     }
   ]
