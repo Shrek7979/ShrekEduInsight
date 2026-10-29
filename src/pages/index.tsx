@@ -631,6 +631,10 @@ export default function ReelsPage({ initial, dayIndex }: Props) {
                 <Link href="/stats/" className="underline-offset-4 hover:text-white hover:underline">
                   방문 통계
                 </Link>
+                {' · '}
+                <a href="https://shrek-math-hub.vercel.app/" target="_blank" rel="noopener noreferrer" className="underline-offset-4 hover:text-white hover:underline">
+                  Shrek Math Hub ↗
+                </a>
                 {' · '}↑↓ 키로 넘기기
               </p>
             </aside>
