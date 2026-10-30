@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-29T11:52:31.658Z",
+  "updatedAt": "2026-10-30T03:04:50.757Z",
   "items": [
+    {
+      "id": "fb-62802bd99c0a",
+      "kind": "news",
+      "lang": "en",
+      "title": "Propane dehydrogenation catalysis: Strategies for high-temperature stability and emerging low-temperature pathways",
+      "summary": "",
+      "link": "https://www.facebook.com/cellpress/posts/pfbid02CwpK29cEDxerEZNrdWLY1BnVwEzJAQ6McGp8v8fHuVt7PFXrcfuubWN8SFvUnCdwl",
+      "source": "Facebook Cell Press",
+      "category": "인기",
+      "publishedAt": "2026-10-29T21:04:08.843Z",
+      "thumb": "/social/fb/fb-62802bd99c0a.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-30T03:04:50.757Z",
+      "titleKo": "프로판 탈수소화 촉매작용: 고온 안정성 및 새로운 저온 경로를 위한 전략",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-75b27cd7de76",
       "kind": "news",
