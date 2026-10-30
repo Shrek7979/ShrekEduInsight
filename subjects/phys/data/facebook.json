@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-10-29T11:52:15.786Z",
+  "updatedAt": "2026-10-30T21:12:30.019Z",
   "items": [
+    {
+      "id": "fb-f395603a020f",
+      "kind": "news",
+      "lang": "en",
+      "title": "On the latest Physics World Stories podcast, you can listen to Graham Farmelo talking about the challenges of writing the authorized…",
+      "summary": "biography of Stephen Hawking and he",
+      "link": "https://www.facebook.com/physicsworld/posts/pfbid0291nZADMudJmBnKS2gSasiyLKDrvZRPARmcP8jBqRQV3uCYD8Beq2fvD8JhiTrfG4l",
+      "source": "Facebook Physics World",
+      "category": "인기",
+      "publishedAt": "2026-10-30T17:11:44.623Z",
+      "thumb": "/social/fb/fb-f395603a020f.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-30T21:12:30.019Z",
+      "titleKo": "최신 Physics World Stories 팟캐스트에서 Graham Farmelo가 공인 문서 작성의 어려움에 대해 이야기하는 것을 들을 수 있습니다.",
+      "summaryKo": "스티븐 호킹과 그의 전기",
+      "translator": "google"
+    },
+    {
+      "id": "fb-415b584c9348",
+      "kind": "video",
+      "lang": "en",
+      "title": "Can you guess the experiment?",
+      "summary": "Hint: this experiment sits 56 metres below ground",
+      "link": "https://www.facebook.com/reel/2395757087920030/",
+      "source": "Facebook CERN",
+      "category": "인기",
+      "publishedAt": "2026-10-30T08:12:09.115Z",
+      "thumb": "/social/fb/fb-415b584c9348.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-30T21:12:30.019Z",
+      "titleKo": "실험을 짐작할 수 있나요?",
+      "summaryKo": "힌트: 이 실험은 지하 56미터에 위치합니다.",
+      "translator": "google"
+    },
     {
       "id": "fb-e85b0f7960b0",
       "kind": "news",

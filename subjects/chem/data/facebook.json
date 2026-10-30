@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-29T11:52:13.135Z",
+  "updatedAt": "2026-10-30T21:12:30.422Z",
   "items": [
+    {
+      "id": "fb-a9288d52e970",
+      "kind": "news",
+      "lang": "en",
+      "title": "It's National Cat Day!",
+      "summary": "This graphic has everything you need to know about cat…",
+      "link": "https://www.facebook.com/compoundchem/posts/pfbid05DcsTd5KdJZxot4VgXxFBiYFckiiBNJcGvyxzgYdBMPn1rWggHfLbWdFLQaQJRHsl",
+      "source": "Facebook Compound Interest",
+      "category": "인기",
+      "publishedAt": "2026-10-29T21:11:57.997Z",
+      "thumb": "/social/fb/fb-a9288d52e970.jpg",
+      "refs": [],
+      "collectedAt": "2026-10-30T21:12:30.422Z",
+      "titleKo": "전국 고양이의 날입니다!",
+      "summaryKo": "이 그래픽에는 고양이에 대해 알아야 할 모든 것이 포함되어 있습니다…",
+      "translator": "google"
+    },
     {
       "id": "fb-3b866db422a1",
       "kind": "news",
@@ -509,23 +526,6 @@
       "collectedAt": "2026-10-03T22:58:12.942Z",
       "titleKo": "배움은 평생의 여정입니다.",
       "summaryKo": "당신이 새로운 과학 커뮤니케이터이든 숙련된 커뮤니케이터이든…",
-      "translator": "google"
-    },
-    {
-      "id": "fb-37148397636c",
-      "kind": "video",
-      "lang": "en",
-      "title": "The bacon fat biodiesel saga begins...",
-      "summary": "but really next time it should be easy, right?",
-      "link": "https://www.facebook.com/reel/997525533360046/",
-      "source": "Facebook Reactions",
-      "category": "인기",
-      "publishedAt": "2026-09-29T23:39:19.401Z",
-      "thumb": "/social/fb/fb-37148397636c.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-04T23:21:01.595Z",
-      "titleKo": "베이컨 지방 바이오디젤 전설이 시작됩니다.",
-      "summaryKo": "하지만 다음번에는 정말 쉽겠죠?",
       "translator": "google"
     }
   ]
