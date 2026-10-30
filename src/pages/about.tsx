@@ -124,7 +124,7 @@ export default function AboutPage() {
           <Section id="hub" title="수학 선생님 나눔터">
             <p>
               수업 자료를 나누고 수업 고민을 이야기하는 중·고 수학 선생님 커뮤니티{' '}
-              <a href="https://shrek-math-hub.vercel.app/" target="_blank" rel="noopener noreferrer" className="font-bold text-white underline">
+              <a href="https://shrekmath-hub.vercel.app/" target="_blank" rel="noopener noreferrer" className="font-bold text-white underline">
                 Shrek Math Hub ↗
               </a>
               에서도 이 사이트의 수학 뉴스를 함께 볼 수 있습니다.
