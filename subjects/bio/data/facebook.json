@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-11-01T06:47:15.982Z",
+  "updatedAt": "2026-11-02T09:26:57.445Z",
   "items": [
+    {
+      "id": "fb-494029bc1df7",
+      "kind": "news",
+      "lang": "en",
+      "title": "Meet Biophysical Journal author Mindaugas Šnipas and hear about why they chose Biophysical Journal to publish their research",
+      "summary": "",
+      "link": "https://www.facebook.com/cellpress/posts/pfbid0d49PfGh7rj7qEGimR2qWrLVQzCKC38wParq9TU6hWE2txV1Zq1orYeD3ETvw9KKRl",
+      "source": "Facebook Cell Press",
+      "category": "인기",
+      "publishedAt": "2026-11-01T15:26:16.839Z",
+      "thumb": "/social/fb/fb-494029bc1df7.jpg",
+      "refs": [],
+      "collectedAt": "2026-11-02T09:26:57.445Z",
+      "titleKo": "생물물리학 저널의 저자 Mindaugas Šnipas를 만나 그들이 연구 출판을 위해 생물물리학 저널을 선택한 이유에 대해 들어보세요.",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-84c7909caa8b",
       "kind": "news",
@@ -172,18 +189,18 @@
       "translator": "google"
     },
     {
-      "id": "fb-62d794425edc",
+      "id": "fb-0624651acd4b",
       "kind": "news",
       "lang": "en",
       "title": "We're SO excited to be presenting at the National Association of Biology Teachers conference (NABT26) in just one week!",
       "summary": "We hope to see you there!!",
-      "link": "https://www.facebook.com/AmoebaSisters/posts/pfbid06zw5u3yRPAxqcJnKQ3hCnnbHHVxVi7F6hiHZqTFYP3UwVTRjojZURdWgwF4H8Qqcl",
+      "link": "https://www.facebook.com/AmoebaSisters/posts/pfbid02ArNo5iuFEZ2WtDjZMcnubehRCg39tN9fqdsH5KcrVBzFLfbu51SoYqSigtdadMUjl",
       "source": "Facebook The Amoeba Sisters",
       "category": "인기",
       "publishedAt": "2026-10-23T12:00:00.000Z",
-      "thumb": "/social/fb/fb-62d794425edc.jpg",
+      "thumb": "/social/fb/fb-0624651acd4b.jpg",
       "refs": [],
-      "collectedAt": "2026-11-01T06:47:15.982Z",
+      "collectedAt": "2026-11-02T09:26:57.445Z",
       "titleKo": "단 일주일 만에 전국 생물학 교사 협회 컨퍼런스(NABT26)에서 발표하게 되어 매우 기쁩니다!",
       "summaryKo": "우리는 그곳에서 당신을 만나기를 바랍니다!!",
       "translator": "google"

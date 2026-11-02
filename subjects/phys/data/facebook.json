@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-31T13:40:24.445Z",
+  "updatedAt": "2026-11-02T09:26:45.313Z",
   "items": [
+    {
+      "id": "fb-0edfb1213da5",
+      "kind": "news",
+      "lang": "en",
+      "title": "More than 60 APS Historic Sites already recognize places where important moments happened.",
+      "summary": "",
+      "link": "https://www.facebook.com/apsphysics/posts/pfbid0fq1eXoR9LwvpU8Cdf9zA5wRDyzfne85XxykmcBptSUj7amH66oU97ZDck6yFps5Yl",
+      "source": "Facebook American Physical Society",
+      "category": "인기",
+      "publishedAt": "2026-11-01T13:26:14.663Z",
+      "thumb": "/social/fb/fb-0edfb1213da5.jpg",
+      "refs": [],
+      "collectedAt": "2026-11-02T09:26:45.313Z",
+      "titleKo": "60개가 넘는 APS 유적지는 이미 중요한 순간이 발생한 장소를 인식하고 있습니다.",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-f395603a020f",
       "kind": "news",
@@ -798,40 +815,6 @@
       "collectedAt": "2026-10-05T17:21:25.266Z",
       "titleKo": "Hofstadter의 나비 50년에 대한 우리 특집은 좀 더 시간이 걸릴 것입니다.",
       "summaryKo": "y Douglas Hofstadter 자신이 2026년 우승을 차지했다면…",
-      "translator": "google"
-    },
-    {
-      "id": "fb-ab5b4b401336",
-      "kind": "news",
-      "lang": "en",
-      "title": "One year ago, our members John Clarke, Michel H.",
-      "summary": "Devoret, and John M",
-      "link": "https://www.facebook.com/apsphysics/posts/pfbid02YCUaGuJZwHDBeuYQzEa9ik9n5J3R9GnBSYN7NXw1v5UM4RbWpd4gp1EmBjPe8u3rl",
-      "source": "Facebook American Physical Society",
-      "category": "인기",
-      "publishedAt": "2026-10-03T04:21:20.229Z",
-      "thumb": "/social/fb/fb-ab5b4b401336.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-05T04:21:54.915Z",
-      "titleKo": "1년 전, 우리 멤버인 John Clarke, Michel H.",
-      "summaryKo": "드보렛, 존 M",
-      "translator": "google"
-    },
-    {
-      "id": "fb-6aa4510fe115",
-      "kind": "news",
-      "lang": "en",
-      "title": "Can you guess what they are doing?",
-      "summary": "Hint: they’re making room for something new",
-      "link": "https://www.facebook.com/cern/posts/pfbid0bnJcf36wttr4XrKKyuuii6xy6YTEkW6b1X6kp7AU3AZKmFrpuYByyz2ZqQLrJ3xLl",
-      "source": "Facebook CERN",
-      "category": "인기",
-      "publishedAt": "2026-10-02T23:21:33.090Z",
-      "thumb": "/social/fb/fb-6aa4510fe115.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-05T23:21:54.689Z",
-      "titleKo": "그들이 무엇을 하고 있는지 추측할 수 있나요?",
-      "summaryKo": "힌트: 그들은 새로운 것을 위한 공간을 만들고 있습니다",
       "translator": "google"
     }
   ]

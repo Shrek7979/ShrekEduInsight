@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-30T21:12:30.422Z",
+  "updatedAt": "2026-11-02T09:26:43.383Z",
   "items": [
     {
-      "id": "fb-a9288d52e970",
+      "id": "fb-455aec41498c",
       "kind": "news",
       "lang": "en",
       "title": "It's National Cat Day!",
       "summary": "This graphic has everything you need to know about cat…",
-      "link": "https://www.facebook.com/compoundchem/posts/pfbid05DcsTd5KdJZxot4VgXxFBiYFckiiBNJcGvyxzgYdBMPn1rWggHfLbWdFLQaQJRHsl",
+      "link": "https://www.facebook.com/compoundchem/posts/pfbid028tuaM9jQfGroBbegQa7RuFYowxXVADpRFD7aM58Rgi1M4XRHWtiDRmAzv67p42y8l",
       "source": "Facebook Compound Interest",
       "category": "인기",
-      "publishedAt": "2026-10-29T21:11:57.997Z",
-      "thumb": "/social/fb/fb-a9288d52e970.jpg",
+      "publishedAt": "2026-10-30T09:26:13.386Z",
+      "thumb": "/social/fb/fb-455aec41498c.jpg",
       "refs": [],
-      "collectedAt": "2026-10-30T21:12:30.422Z",
+      "collectedAt": "2026-11-02T09:26:43.383Z",
       "titleKo": "전국 고양이의 날입니다!",
       "summaryKo": "이 그래픽에는 고양이에 대해 알아야 할 모든 것이 포함되어 있습니다…",
       "translator": "google"
@@ -509,23 +509,6 @@
       "collectedAt": "2026-10-05T21:38:36.823Z",
       "titleKo": "일주일이에요!",
       "summaryKo": "다음은 수여되는 메달의 구성을 살펴보겠습니다…",
-      "translator": "google"
-    },
-    {
-      "id": "fb-d09cbde3c67d",
-      "kind": "video",
-      "lang": "en",
-      "title": "Learning is a lifelong journey.",
-      "summary": "Whether you're a new science communicator or a seasoned…",
-      "link": "https://www.facebook.com/reel/1640479014262561/",
-      "source": "Facebook American Chemical Society",
-      "category": "인기",
-      "publishedAt": "2026-09-30T23:38:36.695Z",
-      "thumb": "/social/fb/fb-d09cbde3c67d.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-03T22:58:12.942Z",
-      "titleKo": "배움은 평생의 여정입니다.",
-      "summaryKo": "당신이 새로운 과학 커뮤니케이터이든 숙련된 커뮤니케이터이든…",
       "translator": "google"
     }
   ]
