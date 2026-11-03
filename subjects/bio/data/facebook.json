@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-11-02T09:26:57.445Z",
+  "updatedAt": "2026-11-03T01:58:13.414Z",
   "items": [
+    {
+      "id": "fb-1e3661e7f543",
+      "kind": "news",
+      "lang": "en",
+      "title": "Congratulations to the 2026 SfN award & prize recipients!",
+      "summary": "",
+      "link": "https://www.facebook.com/societyforneuroscience/posts/pfbid0c7KevmTMeyRR1n5d3t4bciBkeTM9FSW2MrUqbuzpw5zUNz78sBgGMDGvJd4fYvpql",
+      "source": "Facebook Society for Neuroscience",
+      "category": "인기",
+      "publishedAt": "2026-11-02T18:58:13.400Z",
+      "thumb": "/social/fb/fb-1e3661e7f543.jpg",
+      "refs": [],
+      "collectedAt": "2026-11-03T01:58:13.414Z",
+      "titleKo": "2026 SfN 수상 및 수상을 축하드립니다!",
+      "summaryKo": "",
+      "translator": "google"
+    },
+    {
+      "id": "fb-a1592ca48db4",
+      "kind": "news",
+      "lang": "en",
+      "title": "Are you working on some exciting neuroscience research that you’d like to share with the community?",
+      "summary": "",
+      "link": "https://www.facebook.com/cellpress/posts/pfbid0F4F7njmFZ8P6CFhzHrHKB9fXqy3EH3orA3JvXMuMS1Jq2Ucew4s1AcJpUZvP3FeSl",
+      "source": "Facebook Cell Press",
+      "category": "인기",
+      "publishedAt": "2026-11-02T17:57:32.639Z",
+      "thumb": "/social/fb/fb-a1592ca48db4.jpg",
+      "refs": [],
+      "collectedAt": "2026-11-03T01:58:13.414Z",
+      "titleKo": "커뮤니티와 공유하고 싶은 흥미로운 신경과학 연구를 진행 중이신가요?",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-494029bc1df7",
       "kind": "news",
@@ -189,18 +223,18 @@
       "translator": "google"
     },
     {
-      "id": "fb-0624651acd4b",
+      "id": "fb-b0aa1171b7e5",
       "kind": "news",
       "lang": "en",
       "title": "We're SO excited to be presenting at the National Association of Biology Teachers conference (NABT26) in just one week!",
       "summary": "We hope to see you there!!",
-      "link": "https://www.facebook.com/AmoebaSisters/posts/pfbid02ArNo5iuFEZ2WtDjZMcnubehRCg39tN9fqdsH5KcrVBzFLfbu51SoYqSigtdadMUjl",
+      "link": "https://www.facebook.com/AmoebaSisters/posts/pfbid06pn5buhgZjjGoT56ETELrDqmnAcThzw9b1gJ7BDsfrXUDd7knDyaiLTGv5WzVyuWl",
       "source": "Facebook The Amoeba Sisters",
       "category": "인기",
       "publishedAt": "2026-10-23T12:00:00.000Z",
-      "thumb": "/social/fb/fb-0624651acd4b.jpg",
+      "thumb": "/social/fb/fb-b0aa1171b7e5.jpg",
       "refs": [],
-      "collectedAt": "2026-11-02T09:26:57.445Z",
+      "collectedAt": "2026-11-03T01:58:13.414Z",
       "titleKo": "단 일주일 만에 전국 생물학 교사 협회 컨퍼런스(NABT26)에서 발표하게 되어 매우 기쁩니다!",
       "summaryKo": "우리는 그곳에서 당신을 만나기를 바랍니다!!",
       "translator": "google"
@@ -1206,23 +1240,6 @@
       "collectedAt": "2026-10-05T01:20:05.737Z",
       "titleKo": "ASBMB는 2027 ASBMB 수상자를 발표하게 된 것을 자랑스럽게 생각합니다.",
       "summaryKo": "이 과학자들은 선구적인 연구를 통해…",
-      "translator": "google"
-    },
-    {
-      "id": "fb-ed19e111d58b",
-      "kind": "news",
-      "lang": "en",
-      "title": "Toward a future space-based, highly scalable AI infrastructure system design.",
-      "summary": "",
-      "link": "https://www.facebook.com/cellpress/posts/pfbid02TAZGbwFtZhtXYhDGjPa8T3cheuLLzPbV6XhVoiJM5B1xa38Y6ZZrZPNypasrbNXml",
-      "source": "Facebook Cell Press",
-      "category": "인기",
-      "publishedAt": "2026-10-04T01:19:23.744Z",
-      "thumb": "/social/fb/fb-ed19e111d58b.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-05T01:20:05.737Z",
-      "titleKo": "미래 공간 기반의 확장성이 뛰어난 AI 인프라 시스템 설계를 지향합니다.",
-      "summaryKo": "",
       "translator": "google"
     }
   ]
