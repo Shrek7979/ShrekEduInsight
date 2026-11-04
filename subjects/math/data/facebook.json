@@ -1,6 +1,25 @@
 {
-  "updatedAt": "2026-11-03T01:59:30.516Z",
+  "updatedAt": "2026-11-04T23:43:54.762Z",
   "items": [
+    {
+      "id": "fb-3f3340267916",
+      "kind": "news",
+      "lang": "en",
+      "title": "NEW VIDEO",
+      "summary": "",
+      "link": "https://www.facebook.com/numberphile/posts/pfbid02uWRYsuE3so1osXSRUivPHofJsE4uAJqYgYTAf3WNidSUSsqrhggJyzed72WFcnHEl",
+      "source": "Facebook Numberphile",
+      "category": "인기",
+      "publishedAt": "2026-11-02T23:42:21.385Z",
+      "thumb": "/social/fb/fb-3f3340267916.jpg",
+      "refs": [
+        "vCAD3W43lIk"
+      ],
+      "collectedAt": "2026-11-04T23:43:54.762Z",
+      "titleKo": "새 비디오",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-12f83f6157dd",
       "kind": "news",
@@ -16,25 +35,6 @@
       "collectedAt": "2026-11-03T01:59:30.516Z",
       "titleKo": "James Munro의 '대학 수학 입문' 과정의 마지막 강의가 이제 무료로 방송됩니다.",
       "summaryKo": "부정적인 내용이 많이 포함되어 있습니다",
-      "translator": "google"
-    },
-    {
-      "id": "fb-8231471a889c",
-      "kind": "news",
-      "lang": "en",
-      "title": "NEW VIDEO",
-      "summary": "",
-      "link": "https://www.facebook.com/numberphile/posts/pfbid02ugaZB3VnhW6YC3xewFh1m1vck6TSKDKFhXSBgr8hw4bStqmQuPQ3whdYN9vgYuhMl",
-      "source": "Facebook Numberphile",
-      "category": "인기",
-      "publishedAt": "2026-11-02T12:58:06.370Z",
-      "thumb": "/social/fb/fb-8231471a889c.jpg",
-      "refs": [
-        "vCAD3W43lIk"
-      ],
-      "collectedAt": "2026-11-03T01:59:30.516Z",
-      "titleKo": "새 비디오",
-      "summaryKo": "",
       "translator": "google"
     },
     {
@@ -394,23 +394,6 @@
       "collectedAt": "2026-10-07T05:19:54.391Z",
       "titleKo": "이번 주에 새로운 학부생들이 준비를 위해 옥스퍼드에 도착합니다.",
       "summaryKo": "다음주 학기 시작을 위해",
-      "translator": "google"
-    },
-    {
-      "id": "fb-a959d3d766da",
-      "kind": "news",
-      "lang": "en",
-      "title": "\"Given a location on the Earth, what eclipses will be seen there?",
-      "summary": "It's a challenging problem of both astronomical…",
-      "link": "https://www.facebook.com/wolframresearch/posts/pfbid0VSGPAp1MT2sym6ycLangyQ7vct65jd1j5qi1Nd47XLC69GMGCPY1bsHAnnKBetYPl",
-      "source": "Facebook Wolfram Research",
-      "category": "인기",
-      "publishedAt": "2026-10-05T17:17:38.216Z",
-      "thumb": "/social/fb/fb-a959d3d766da.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-06T09:18:00.972Z",
-      "titleKo": "\"지구상의 위치가 주어지면 그곳에서는 어떤 일식이 나타날까요?",
-      "summaryKo": "…",
       "translator": "google"
     }
   ]

@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-11-04T09:59:49.274Z",
+  "updatedAt": "2026-11-04T23:41:47.215Z",
   "items": [
+    {
+      "id": "fb-58f0d4837425",
+      "kind": "video",
+      "lang": "en",
+      "title": "Grateful for someone who brought you to STEM?",
+      "summary": "Pass it on",
+      "link": "https://www.facebook.com/reel/4549383881874813/",
+      "source": "Facebook American Chemical Society",
+      "category": "인기",
+      "publishedAt": "2026-11-03T23:41:03.649Z",
+      "thumb": "/social/fb/fb-58f0d4837425.jpg",
+      "refs": [],
+      "collectedAt": "2026-11-04T23:41:47.215Z",
+      "titleKo": "당신을 STEM에 데려온 사람에게 감사합니까?",
+      "summaryKo": "전달하세요",
+      "translator": "google"
+    },
     {
       "id": "fb-989ec2f3ea70",
       "kind": "news",
@@ -492,23 +509,6 @@
       "collectedAt": "2026-10-06T07:43:17.167Z",
       "titleKo": "기술자는 좋은 과학의 핵심이며 전국 컨퍼런스입니다.",
       "summaryKo": "과학 기술자의 경력 중심은…",
-      "translator": "google"
-    },
-    {
-      "id": "fb-99cb33127b03",
-      "kind": "news",
-      "lang": "en",
-      "title": "It's week!",
-      "summary": "Here's a look at the composition of the medals given to…",
-      "link": "https://www.facebook.com/compoundchem/posts/pfbid02bZJndhPbzJbPCxrTf5wGkbXh9sDSGf5C755ASeP3Re6h1RdDXvrzJ1dnP3hPsgWHl",
-      "source": "Facebook Compound Interest",
-      "category": "인기",
-      "publishedAt": "2026-10-05T20:38:04.256Z",
-      "thumb": "/social/fb/fb-99cb33127b03.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-05T21:38:36.823Z",
-      "titleKo": "일주일이에요!",
-      "summaryKo": "다음은 수여되는 메달의 구성을 살펴보겠습니다…",
       "translator": "google"
     }
   ]
