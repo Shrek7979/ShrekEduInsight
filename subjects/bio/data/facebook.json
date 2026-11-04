@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-11-03T01:58:13.414Z",
+  "updatedAt": "2026-11-04T10:00:04.258Z",
   "items": [
+    {
+      "id": "fb-60a68f33540a",
+      "kind": "news",
+      "lang": "en",
+      "title": "In The News: Human laughter has evolved in two distinct pathways: one for unexpected outbursts, and another for the voluntary laughter we…",
+      "summary": "use in conversation",
+      "link": "https://www.facebook.com/cellpress/posts/pfbid0Xht3RCQhszm6ii8UXxvsgghaZ7bChSEoGxRxwd7ziUnsaFqyq7himbcDWEwh9hTsl",
+      "source": "Facebook Cell Press",
+      "category": "인기",
+      "publishedAt": "2026-11-03T17:59:23.500Z",
+      "thumb": "/social/fb/fb-60a68f33540a.jpg",
+      "refs": [],
+      "collectedAt": "2026-11-04T10:00:04.258Z",
+      "titleKo": "뉴스에서: 인간의 웃음은 두 가지 뚜렷한 경로로 진화했습니다. 하나는 예상치 못한 폭발을 위한 경로이고 다른 하나는 자발적인 웃음을 위한 경로입니다.",
+      "summaryKo": "대화에 사용",
+      "translator": "google"
+    },
     {
       "id": "fb-1e3661e7f543",
       "kind": "news",
@@ -70,19 +87,19 @@
       "translator": "google"
     },
     {
-      "id": "fb-3a54b1de2691",
+      "id": "fb-967723f33291",
       "kind": "news",
       "lang": "en",
       "title": "Lymphatic vessels under pressure",
       "summary": "",
-      "link": "https://www.facebook.com/elifesciences/posts/pfbid031yfe9d1xsqViwYsxe1qWVJTSzTrgBBhxvQcn1gbfo4om7gzdJWJERzjWoF1YVb7ml",
+      "link": "https://www.facebook.com/elifesciences/posts/pfbid0327KA7z3h4bZ7t6JYmTff5mhifKTEVmo5sNFiAbkzxEVo4FZauk5SB9LkvkiCnBNbl",
       "source": "Facebook eLife",
       "category": "인기",
-      "publishedAt": "2026-10-29T22:12:14.172Z",
-      "thumb": "/social/fb/fb-3a54b1de2691.jpg",
+      "publishedAt": "2026-10-30T09:59:34.144Z",
+      "thumb": "/social/fb/fb-967723f33291.jpg",
       "refs": [],
-      "collectedAt": "2026-10-30T21:12:44.540Z",
-      "titleKo": "압력을 받는 림프관",
+      "collectedAt": "2026-11-04T10:00:04.258Z",
+      "titleKo": "압력을 받고 있는 림프관",
       "summaryKo": "",
       "translator": "google"
     },
@@ -223,18 +240,18 @@
       "translator": "google"
     },
     {
-      "id": "fb-b0aa1171b7e5",
+      "id": "fb-661942caf788",
       "kind": "news",
       "lang": "en",
       "title": "We're SO excited to be presenting at the National Association of Biology Teachers conference (NABT26) in just one week!",
       "summary": "We hope to see you there!!",
-      "link": "https://www.facebook.com/AmoebaSisters/posts/pfbid06pn5buhgZjjGoT56ETELrDqmnAcThzw9b1gJ7BDsfrXUDd7knDyaiLTGv5WzVyuWl",
+      "link": "https://www.facebook.com/AmoebaSisters/posts/pfbid02AgDnnadWR9EdjdgJz9S2CKmnFjtu4NpTo96VTwjn8DV7rtzr7T5C6fisbv3tBzuKl",
       "source": "Facebook The Amoeba Sisters",
       "category": "인기",
       "publishedAt": "2026-10-23T12:00:00.000Z",
-      "thumb": "/social/fb/fb-b0aa1171b7e5.jpg",
+      "thumb": "/social/fb/fb-661942caf788.jpg",
       "refs": [],
-      "collectedAt": "2026-11-03T01:58:13.414Z",
+      "collectedAt": "2026-11-04T10:00:04.258Z",
       "titleKo": "단 일주일 만에 전국 생물학 교사 협회 컨퍼런스(NABT26)에서 발표하게 되어 매우 기쁩니다!",
       "summaryKo": "우리는 그곳에서 당신을 만나기를 바랍니다!!",
       "translator": "google"
@@ -1223,23 +1240,6 @@
       "collectedAt": "2026-10-05T14:07:46.908Z",
       "titleKo": "속보 Karolinska Institutet의 노벨 총회에서 결정했습니다.",
       "summaryKo": "2026년 노벨 생리의학상 수여…",
-      "translator": "google"
-    },
-    {
-      "id": "fb-9a4854ad087f",
-      "kind": "news",
-      "lang": "en",
-      "title": "ASBMB is proud to present the 2027 ASBMB award winners.",
-      "summary": "Through their pioneering work, these scientists are…",
-      "link": "https://www.facebook.com/asbmb/posts/pfbid0o9iPAGuwiBk1uoH8o3C69bTqA3hQktzYf7ik8iR3ThnuthSyR1HrgXSpzn2TUYGTl",
-      "source": "Facebook ASBMB",
-      "category": "인기",
-      "publishedAt": "2026-10-04T16:19:55.282Z",
-      "thumb": "/social/fb/fb-9a4854ad087f.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-05T01:20:05.737Z",
-      "titleKo": "ASBMB는 2027 ASBMB 수상자를 발표하게 된 것을 자랑스럽게 생각합니다.",
-      "summaryKo": "이 과학자들은 선구적인 연구를 통해…",
       "translator": "google"
     }
   ]
