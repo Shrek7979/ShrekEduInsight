@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-11-04T23:41:47.215Z",
+  "updatedAt": "2026-11-05T11:42:56.697Z",
   "items": [
+    {
+      "id": "fb-337bf49182d8",
+      "kind": "news",
+      "lang": "en",
+      "title": "What would you like to develop?",
+      "summary": "",
+      "link": "https://www.facebook.com/RoyalSocietyofChemistry/posts/pfbid02sPLvTVe3bya81qT63SJ87xySffdmqrS3UjXhTpJ1u3CSV1NxGws42SdwdFfAxrmnl",
+      "source": "Facebook Royal Society of Chemistry",
+      "category": "인기",
+      "publishedAt": "2026-11-05T11:21:46.325Z",
+      "thumb": "/social/fb/fb-337bf49182d8.jpg",
+      "refs": [],
+      "collectedAt": "2026-11-05T11:42:56.697Z",
+      "titleKo": "무엇을 개발하고 싶나요?",
+      "summaryKo": "",
+      "translator": "google"
+    },
+    {
+      "id": "fb-99ced229a587",
+      "kind": "news",
+      "lang": "en",
+      "title": "What makes your phone screen touch sensitive, and what materials make it possible to create foldable displays?",
+      "summary": "",
+      "link": "https://www.facebook.com/compoundchem/posts/pfbid0s6xrWKL1nB6UjeACLo5vkBQ8M9LB5SjotEsyLCLu9imPV8pPTusBujd2GMtcwRCKl",
+      "source": "Facebook Compound Interest",
+      "category": "인기",
+      "publishedAt": "2026-11-04T13:42:25.295Z",
+      "thumb": "/social/fb/fb-99ced229a587.jpg",
+      "refs": [],
+      "collectedAt": "2026-11-05T11:42:56.697Z",
+      "titleKo": "휴대폰 화면이 터치에 민감한 이유는 무엇이며 폴더블 디스플레이를 만들 수 있는 재료는 무엇입니까?",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-58f0d4837425",
       "kind": "video",
@@ -492,23 +526,6 @@
       "collectedAt": "2026-10-07T08:34:33.123Z",
       "titleKo": "과학에 온전한 자아를 가져오세요.",
       "summaryKo": "문화적 뿌리를 존중하는 과학자들은…",
-      "translator": "google"
-    },
-    {
-      "id": "fb-398f2dbfcf3b",
-      "kind": "news",
-      "lang": "en",
-      "title": "Technicians are the lynchpins of good science, and the National Confer",
-      "summary": "ence for Science Technicians put their careers centre…",
-      "link": "https://www.facebook.com/RoyalSocietyofChemistry/posts/pfbid027dq92LRfCJ4G595fGRFjCfeGCYpBNMA4X9guiEu8Bq46bwUS53D8sbjGjUdk2tMbl",
-      "source": "Facebook Royal Society of Chemistry",
-      "category": "인기",
-      "publishedAt": "2026-10-06T07:16:06.158Z",
-      "thumb": "/social/fb/fb-398f2dbfcf3b.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-06T07:43:17.167Z",
-      "titleKo": "기술자는 좋은 과학의 핵심이며 전국 컨퍼런스입니다.",
-      "summaryKo": "과학 기술자의 경력 중심은…",
       "translator": "google"
     }
   ]
