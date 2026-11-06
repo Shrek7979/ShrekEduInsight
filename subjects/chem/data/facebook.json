@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T11:42:56.697Z",
+  "updatedAt": "2026-11-06T00:12:59.063Z",
   "items": [
     {
       "id": "fb-337bf49182d8",
@@ -475,57 +475,6 @@
       "collectedAt": "2026-10-07T15:45:51.933Z",
       "titleKo": "10월 8일은 문어의 피가 푸른색이라는 사실을 알고 계셨나요?",
       "summaryKo": "이 그래픽은 무엇이 파란색인지를 보여줍니다.",
-      "translator": "google"
-    },
-    {
-      "id": "fb-00d877ce2425",
-      "kind": "video",
-      "lang": "en",
-      "title": "Which salt will make ice cream even faster?",
-      "summary": "",
-      "link": "https://www.facebook.com/reel/1363657485584031/",
-      "source": "Facebook Reactions",
-      "category": "인기",
-      "publishedAt": "2026-10-06T18:00:14.344Z",
-      "thumb": "/social/fb/fb-00d877ce2425.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-08T18:00:14.386Z",
-      "titleKo": "어떤 소금이 아이스크림을 더 빨리 만들까요?",
-      "summaryKo": "",
-      "translator": "google"
-    },
-    {
-      "id": "fb-a258c030a5df",
-      "kind": "news",
-      "lang": "en",
-      "title": "This year's in Chemistry will be awarded tomorrow",
-      "summary": "",
-      "link": "https://www.facebook.com/compoundchem/posts/pfbid0DBTQHefCWpxSNRWZfG4yc4wNmZK4oW1GL8v4CSp59FaR4MkiQqJncxCZvymnemAEl",
-      "source": "Facebook Compound Interest",
-      "category": "인기",
-      "publishedAt": "2026-10-06T17:34:03.642Z",
-      "thumb": "/social/fb/fb-a258c030a5df.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-07T08:34:33.123Z",
-      "titleKo": "올해 화학 부문은 내일 시상됩니다.",
-      "summaryKo": "",
-      "translator": "google"
-    },
-    {
-      "id": "fb-800a5eb116f6",
-      "kind": "video",
-      "lang": "en",
-      "title": "Bring your whole self to your science.",
-      "summary": "Scientists who honor their cultural roots offer…",
-      "link": "https://www.facebook.com/reel/935725632592008/",
-      "source": "Facebook American Chemical Society",
-      "category": "인기",
-      "publishedAt": "2026-10-06T14:33:53.007Z",
-      "thumb": "/social/fb/fb-800a5eb116f6.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-07T08:34:33.123Z",
-      "titleKo": "과학에 온전한 자아를 가져오세요.",
-      "summaryKo": "문화적 뿌리를 존중하는 과학자들은…",
       "translator": "google"
     }
   ]
