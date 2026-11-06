@@ -1,22 +1,39 @@
 {
-  "updatedAt": "2026-11-06T00:13:01.152Z",
+  "updatedAt": "2026-11-06T15:22:20.875Z",
   "items": [
     {
-      "id": "fb-1f8a81592388",
+      "id": "fb-322725f523d4",
+      "kind": "news",
+      "lang": "en",
+      "title": "From probing the properties of quantum materials to supporting operational quantum data centres, cryogenic technologies are playing an…",
+      "summary": "increasingly important role i",
+      "link": "https://www.facebook.com/physicsworld/posts/pfbid02rV2sXem6khCnatnuALKDv8VzcJXmQUdQJuGaMuZbuQ5vq5BbB9rYJwJsSL9giuAbl",
+      "source": "Facebook Physics World",
+      "category": "인기",
+      "publishedAt": "2026-11-06T11:21:38.794Z",
+      "thumb": "/social/fb/fb-322725f523d4.jpg",
+      "refs": [],
+      "collectedAt": "2026-11-06T15:22:20.875Z",
+      "titleKo": "양자 물질의 특성 조사부터 운영 양자 데이터 센터 지원에 이르기까지 극저온 기술은…",
+      "summaryKo": "점점 더 중요한 역할 나",
+      "translator": "google"
+    },
+    {
+      "id": "fb-4a47c8fb322b",
       "kind": "news",
       "lang": "en",
       "title": "Looking to grow your physics network?",
       "summary": "Discover a global community where you can share ideas,…",
-      "link": "https://www.facebook.com/apsphysics/posts/pfbid02eYroK9FWkUYk9gPMx34xmk4PHyY69PNA4Kae28WsxMRqea8uoVaF23GYaoaye7xXl",
+      "link": "https://www.facebook.com/apsphysics/posts/pfbid0b1DcPyd9u6BPYorjixb7nwuYgbARofcdzdcgs3Aju6mrLiw31qwb3jQsF26M7xMJl",
       "source": "Facebook American Physical Society",
       "category": "인기",
-      "publishedAt": "2026-11-05T21:12:27.704Z",
-      "thumb": "/social/fb/fb-1f8a81592388.jpg",
+      "publishedAt": "2026-11-05T21:21:51.108Z",
+      "thumb": "/social/fb/fb-4a47c8fb322b.jpg",
       "refs": [],
-      "collectedAt": "2026-11-06T00:13:01.152Z",
-      "titleKo": "물리 네트워크를 성장시키고 싶으십니까?",
-      "summaryKo": "아이디어를 공유할 수 있는 글로벌 커뮤니티를 찾아보세요…",
-      "translator": "google"
+      "collectedAt": "2026-11-06T15:22:20.875Z",
+      "titleKo": "물리 네트워크를 확장하고 싶으신가요?",
+      "summaryKo": "아이디어를 공유할 수 있는 글로벌 커뮤니티를 만나보세요.",
+      "translator": "mymemory"
     },
     {
       "id": "fb-ee4b1b86e762",
@@ -781,23 +798,6 @@
       "collectedAt": "2026-10-08T21:59:16.056Z",
       "titleKo": "2026년 노벨 화학상 수상자 Henri B. Kagan과 Kensō Soai에게 축하를 보냅니다!",
       "summaryKo": "그들은 다음에 대한 작업에 대해 동등하게 상을 공유하고 있습니다…",
-      "translator": "google"
-    },
-    {
-      "id": "fb-2778a36472d5",
-      "kind": "video",
-      "lang": "en",
-      "title": "CERN’s newest exhibition is opening to the public",
-      "summary": "",
-      "link": "https://www.facebook.com/reel/957964990716328/",
-      "source": "Facebook CERN",
-      "category": "인기",
-      "publishedAt": "2026-10-07T13:45:30.144Z",
-      "thumb": "/social/fb/fb-2778a36472d5.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-07T15:45:50.424Z",
-      "titleKo": "CERN의 최신 전시회가 대중에게 공개됩니다",
-      "summaryKo": "",
       "translator": "google"
     }
   ]
