@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-11-07T07:05:30.885Z",
+  "updatedAt": "2026-11-07T22:24:57.209Z",
   "items": [
     {
-      "id": "fb-21c2e83506a6",
+      "id": "fb-22f0e77e374e",
       "kind": "news",
       "lang": "en",
       "title": "Anjana Iyer creates a safe space where students can be their authentic selves.",
       "summary": "As a teacher, she encourages them to lean in to their…",
-      "link": "https://www.facebook.com/AmericanChemicalSociety/posts/pfbid02rXKwSNtZvyPCEoeba8kDAUmWfh57tyQ24zaEUkMnEu2vMxtjJ38tmKXWqzzSL4S1l",
+      "link": "https://www.facebook.com/AmericanChemicalSociety/posts/pfbid0nygkXDGD5ojwpXJXhv2zpM2ksVcH8SuR2cJBKCG2sbiTiGHx1iRuaJAGaZVgTxP1l",
       "source": "Facebook American Chemical Society",
       "category": "인기",
-      "publishedAt": "2026-11-06T21:04:49.859Z",
-      "thumb": "/social/fb/fb-21c2e83506a6.jpg",
+      "publishedAt": "2026-11-06T22:24:16.620Z",
+      "thumb": "/social/fb/fb-22f0e77e374e.jpg",
       "refs": [],
-      "collectedAt": "2026-11-07T07:05:30.885Z",
+      "collectedAt": "2026-11-07T22:24:57.209Z",
       "titleKo": "Anjana Iyer는 학생들이 진정한 자아가 될 수 있는 안전한 공간을 만듭니다.",
-      "summaryKo": "…",
+      "summaryKo": "교사로서 그녀는 학생들이 자신의 생각에 의지하도록 격려합니다.",
       "translator": "google"
     },
     {
@@ -36,18 +36,18 @@
       "translator": "google"
     },
     {
-      "id": "fb-99ced229a587",
+      "id": "fb-e536a01841ba",
       "kind": "news",
       "lang": "en",
       "title": "What makes your phone screen touch sensitive, and what materials make it possible to create foldable displays?",
       "summary": "",
-      "link": "https://www.facebook.com/compoundchem/posts/pfbid0s6xrWKL1nB6UjeACLo5vkBQ8M9LB5SjotEsyLCLu9imPV8pPTusBujd2GMtcwRCKl",
+      "link": "https://www.facebook.com/compoundchem/posts/pfbid0rvorDB4GxpTnPiPTSvUt5USYVE9ixMapff4MQz1P4QubPFTzxRwrQUjTs88iaUSPl",
       "source": "Facebook Compound Interest",
       "category": "인기",
-      "publishedAt": "2026-11-04T13:42:25.295Z",
-      "thumb": "/social/fb/fb-99ced229a587.jpg",
+      "publishedAt": "2026-11-04T22:24:26.930Z",
+      "thumb": "/social/fb/fb-e536a01841ba.jpg",
       "refs": [],
-      "collectedAt": "2026-11-05T11:42:56.697Z",
+      "collectedAt": "2026-11-07T22:24:57.209Z",
       "titleKo": "휴대폰 화면이 터치에 민감한 이유는 무엇이며 폴더블 디스플레이를 만들 수 있는 재료는 무엇입니까?",
       "summaryKo": "",
       "translator": "google"
@@ -424,23 +424,6 @@
       "collectedAt": "2026-10-09T20:59:38.126Z",
       "titleKo": "모든 통계 뒤에는 가장 필요할 때 지원을 받은 사람이 있습니다.",
       "summaryKo": "",
-      "translator": "google"
-    },
-    {
-      "id": "fb-922552b3f3d1",
-      "kind": "news",
-      "lang": "en",
-      "title": "This year's Nobel Prize in Chemistry was awarded for research which helps chemists make just one of a molecule's pair of mirror images This…",
-      "summary": "is hugely useful in making",
-      "link": "https://www.facebook.com/compoundchem/posts/pfbid0BCTj7MgRVrYtQUafFGUWHf6VWQnYd3FKZNHtJYvPxb6g9M4GL4Lk1Z6YY1MBzBjAl",
-      "source": "Facebook Compound Interest",
-      "category": "인기",
-      "publishedAt": "2026-10-08T13:59:35.140Z",
-      "thumb": "/social/fb/fb-922552b3f3d1.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-13T14:00:05.059Z",
-      "titleKo": "올해의 노벨 화학상은 화학자들이 분자의 거울상 쌍 중 하나만 만드는 데 도움을 주는 연구에 수여되었습니다. 이…",
-      "summaryKo": "만드는데 엄청 유용해요",
       "translator": "google"
     }
   ]
