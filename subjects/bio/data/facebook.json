@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-11-06T15:22:32.261Z",
+  "updatedAt": "2026-11-07T07:05:45.937Z",
   "items": [
+    {
+      "id": "fb-8e135d7ebe1a",
+      "kind": "news",
+      "lang": "en",
+      "title": "Editors' picks: Discover leading biophysics research from Biophysical Journal and Biophysical Reports—official journals of the Biophysical…",
+      "summary": "Society",
+      "link": "https://www.facebook.com/cellpress/posts/pfbid022fXvhAnsZZQfsPwRwisxq6KF2HWjk9bqzSd3QuAXcZpT2N6asREyscz1L5zZmMKbl",
+      "source": "Facebook Cell Press",
+      "category": "인기",
+      "publishedAt": "2026-11-06T22:05:06.349Z",
+      "thumb": "/social/fb/fb-8e135d7ebe1a.jpg",
+      "refs": [],
+      "collectedAt": "2026-11-07T07:05:45.937Z",
+      "titleKo": "편집자 추천: Biophysical Journal 및 Biophysical Reports(Biophysical의 공식 저널)에서 선도적인 생물물리학 연구를 찾아보세요…",
+      "summaryKo": "사회",
+      "translator": "google"
+    },
     {
       "id": "fb-34e69e981645",
       "kind": "news",

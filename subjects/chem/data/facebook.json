@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-11-06T15:22:15.255Z",
+  "updatedAt": "2026-11-07T07:05:30.885Z",
   "items": [
+    {
+      "id": "fb-21c2e83506a6",
+      "kind": "news",
+      "lang": "en",
+      "title": "Anjana Iyer creates a safe space where students can be their authentic selves.",
+      "summary": "As a teacher, she encourages them to lean in to their…",
+      "link": "https://www.facebook.com/AmericanChemicalSociety/posts/pfbid02rXKwSNtZvyPCEoeba8kDAUmWfh57tyQ24zaEUkMnEu2vMxtjJ38tmKXWqzzSL4S1l",
+      "source": "Facebook American Chemical Society",
+      "category": "인기",
+      "publishedAt": "2026-11-06T21:04:49.859Z",
+      "thumb": "/social/fb/fb-21c2e83506a6.jpg",
+      "refs": [],
+      "collectedAt": "2026-11-07T07:05:30.885Z",
+      "titleKo": "Anjana Iyer는 학생들이 진정한 자아가 될 수 있는 안전한 공간을 만듭니다.",
+      "summaryKo": "…",
+      "translator": "google"
+    },
     {
       "id": "fb-337bf49182d8",
       "kind": "news",
@@ -424,23 +441,6 @@
       "collectedAt": "2026-10-13T14:00:05.059Z",
       "titleKo": "올해의 노벨 화학상은 화학자들이 분자의 거울상 쌍 중 하나만 만드는 데 도움을 주는 연구에 수여되었습니다. 이…",
       "summaryKo": "만드는데 엄청 유용해요",
-      "translator": "google"
-    },
-    {
-      "id": "fb-8479f18ab5fd",
-      "kind": "video",
-      "lang": "en",
-      "title": "These two researchers helped answer one of the great questions of science: How could nature create homochirality from achiral starting…",
-      "summary": "materials?",
-      "link": "https://www.facebook.com/reel/1636046891382823/",
-      "source": "Facebook American Chemical Society",
-      "category": "인기",
-      "publishedAt": "2026-10-07T19:51:59.380Z",
-      "thumb": "/social/fb/fb-8479f18ab5fd.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-07T20:52:41.578Z",
-      "titleKo": "이 두 연구자는 과학의 가장 큰 질문 중 하나인 '어떻게 자연이 비키럴 시작에서 동종키랄성을 생성할 수 있었습니까?'라는 질문에 답하는 데 도움을 주었습니다.",
-      "summaryKo": "재료?",
       "translator": "google"
     }
   ]
