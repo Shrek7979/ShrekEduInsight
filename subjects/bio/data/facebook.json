@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T22:25:12.796Z",
+  "updatedAt": "2026-11-08T15:10:04.042Z",
   "items": [
     {
       "id": "fb-73e385985b60",
@@ -883,74 +883,6 @@
       "collectedAt": "2026-10-10T12:59:44.099Z",
       "titleKo": "JBC 언론에서 | Regulation of Müller glial reprogramming by the stress response protein REDD1 and its limitations in preventing retinal…",
       "summaryKo": "퇴화",
-      "translator": "google"
-    },
-    {
-      "id": "fb-be0174787602",
-      "kind": "news",
-      "lang": "en",
-      "title": "Science advocacy works.",
-      "summary": "",
-      "link": "https://www.facebook.com/asbmb/posts/pfbid0RnHrKcGJgT7CAma8vvAELb9xk3JP7XPQEbiD2ZVbwxWHjMRa3WZBgNqqiF2ndEHQl",
-      "source": "Facebook ASBMB",
-      "category": "인기",
-      "publishedAt": "2026-10-09T12:59:42.274Z",
-      "thumb": "/social/fb/fb-be0174787602.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-09T17:59:52.263Z",
-      "titleKo": "과학 옹호가 작동합니다.",
-      "summaryKo": "",
-      "translator": "google"
-    },
-    {
-      "id": "fb-0410698c3a68",
-      "kind": "news",
-      "lang": "en",
-      "title": "CRY me to sleep",
-      "summary": "",
-      "link": "https://www.facebook.com/elifesciences/posts/pfbid0TczT4ZCX4KvYJChJcdVWqVDw5FwG7untrTbrwULVSj6WaaeJgKG3gwa6PaAAV2nol",
-      "source": "Facebook eLife",
-      "category": "인기",
-      "publishedAt": "2026-10-09T09:59:49.967Z",
-      "thumb": "/social/fb/fb-0410698c3a68.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-12T10:00:21.766Z",
-      "titleKo": "울어서 잠들다",
-      "summaryKo": "",
-      "translator": "google"
-    },
-    {
-      "id": "fb-4b60aa61783f",
-      "kind": "news",
-      "lang": "en",
-      "title": "How do genes and the environment shape our health?",
-      "summary": "In this new activity, students use evidence-based…",
-      "link": "https://www.facebook.com/biointeractive/posts/pfbid02nFBrMA2HyBintp47T18Z2awLuMSBmjBMzHsj8KUhz4HLYZToENqGD35Yp8aHF4DMl",
-      "source": "Facebook HHMI BioInteractive",
-      "category": "인기",
-      "publishedAt": "2026-10-09T00:59:21.261Z",
-      "thumb": "/social/fb/fb-4b60aa61783f.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-13T00:59:42.532Z",
-      "titleKo": "유전자와 환경은 우리의 건강을 어떻게 형성합니까?",
-      "summaryKo": "이 새로운 활동에서 학생들은 증거 기반…",
-      "translator": "google"
-    },
-    {
-      "id": "fb-36f20e194602",
-      "kind": "news",
-      "lang": "en",
-      "title": "Explore Cell Press research covered in the newspapers, broadcasts, and more in our \"In the news\" collection",
-      "summary": "",
-      "link": "https://www.facebook.com/cellpress/posts/pfbid0gpDzdi4vna6AKQP98S7LjtcC7C6cjqTnGVdWiQyB1pJVJ62oxjorbwbRdg51C8bwl",
-      "source": "Facebook Cell Press",
-      "category": "인기",
-      "publishedAt": "2026-10-08T22:59:31.298Z",
-      "thumb": "/social/fb/fb-36f20e194602.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-09T08:00:13.776Z",
-      "titleKo": "\"뉴스 속\" 컬렉션에서 신문, 방송 등에서 다룬 Cell Press 연구를 살펴보세요.",
-      "summaryKo": "",
       "translator": "google"
     }
   ]

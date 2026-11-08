@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T22:24:58.366Z",
+  "updatedAt": "2026-11-08T15:09:49.487Z",
   "items": [
     {
       "id": "fb-1203103ac346",
@@ -19,18 +19,35 @@
       "translator": "google"
     },
     {
-      "id": "fb-6029d1cef829",
+      "id": "fb-0114fa7e2439",
+      "kind": "news",
+      "lang": "en",
+      "title": "The ATLAS Inner Tracker Strips Endcap begins to bloom",
+      "summary": "",
+      "link": "https://www.facebook.com/cern/posts/pfbid0BGjaQ2DxQdKBv5REWHJ97Gn27aFu2VeVzEt3efZzHhDo7pMwRfr3swpqrnWNW3dHl",
+      "source": "Facebook CERN",
+      "category": "인기",
+      "publishedAt": "2026-11-06T15:09:29.136Z",
+      "thumb": "/social/fb/fb-0114fa7e2439.jpg",
+      "refs": [],
+      "collectedAt": "2026-11-08T15:09:49.487Z",
+      "titleKo": "ATLAS 내부 추적기 스트립 엔드캡이 피어나기 시작합니다.",
+      "summaryKo": "",
+      "translator": "google"
+    },
+    {
+      "id": "fb-99ee76e49d39",
       "kind": "news",
       "lang": "en",
       "title": "From probing the properties of quantum materials to supporting operational quantum data centres, cryogenic technologies are playing an…",
       "summary": "increasingly important role i",
-      "link": "https://www.facebook.com/physicsworld/posts/pfbid0nTSA3qZY5rYxcJs6NHqkYYCUmSCTWgu4v24cP9kXA3LeKgELaJw3mPy2pHHcTLygl",
+      "link": "https://www.facebook.com/physicsworld/posts/pfbid02rJssEWVMw9KZFFwPLzTChoEJLiJdpk53iGSK9q6K5rZpfNwgWdQh2zpNn4cN5rmLl",
       "source": "Facebook Physics World",
       "category": "인기",
-      "publishedAt": "2026-11-06T11:04:49.346Z",
-      "thumb": "/social/fb/fb-6029d1cef829.jpg",
+      "publishedAt": "2026-11-06T15:09:07.117Z",
+      "thumb": "/social/fb/fb-99ee76e49d39.jpg",
       "refs": [],
-      "collectedAt": "2026-11-07T07:05:31.135Z",
+      "collectedAt": "2026-11-08T15:09:49.487Z",
       "titleKo": "양자 물질의 특성 조사부터 운영 양자 데이터 센터 지원에 이르기까지 극저온 기술은…",
       "summaryKo": "점점 더 중요한 역할 나",
       "translator": "google"
@@ -679,40 +696,6 @@
       "collectedAt": "2026-10-09T20:59:36.082Z",
       "titleKo": "이번 주에 노벨 물리학상을 받지 못했을 가능성이 높습니다.",
       "summaryKo": "하지만 만약 그렇게 했다면, 그 백만 달러로 무엇을 하시겠습니까…",
-      "translator": "google"
-    },
-    {
-      "id": "fb-e1cb30aa97b4",
-      "kind": "video",
-      "lang": "en",
-      "title": "Particle collisions – episode 1",
-      "summary": "",
-      "link": "https://www.facebook.com/reel/1429628185779604/",
-      "source": "Facebook CERN",
-      "category": "인기",
-      "publishedAt": "2026-10-09T09:00:09.987Z",
-      "thumb": "/social/fb/fb-e1cb30aa97b4.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-09T12:00:32.040Z",
-      "titleKo": "입자 충돌 - 에피소드 1",
-      "summaryKo": "",
-      "translator": "google"
-    },
-    {
-      "id": "fb-6fe84f5aaa82",
-      "kind": "news",
-      "lang": "en",
-      "title": "Can you guess what’s happening here?",
-      "summary": "Hint: these images show different parts of the LHC…",
-      "link": "https://www.facebook.com/cern/posts/pfbid02GBD5jLpfoGoraBUTub5FuSPBtTrRhgrh6LgB3XV4fVBjywQDbdwMz11vqaSJvnKbl",
-      "source": "Facebook CERN",
-      "category": "인기",
-      "publishedAt": "2026-10-09T07:00:38.861Z",
-      "thumb": "/social/fb/fb-6fe84f5aaa82.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-09T08:00:00.132Z",
-      "titleKo": "여기서 무슨 일이 일어나고 있는지 추측할 수 있나요?",
-      "summaryKo": "힌트: 이 이미지는 LHC의 다른 부분을 보여줍니다…",
       "translator": "google"
     }
   ]

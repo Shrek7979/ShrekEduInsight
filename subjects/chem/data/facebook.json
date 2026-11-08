@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T22:24:57.209Z",
+  "updatedAt": "2026-11-08T15:09:49.820Z",
   "items": [
     {
       "id": "fb-22f0e77e374e",
@@ -389,40 +389,6 @@
       "refs": [],
       "collectedAt": "2026-10-11T19:59:38.542Z",
       "titleKo": "귀하의 전문 지식은 지속 가능한 과학에서 다음 중요한 대화를 촉발할 수 있습니다.",
-      "summaryKo": "",
-      "translator": "google"
-    },
-    {
-      "id": "fb-20279f40325a",
-      "kind": "news",
-      "lang": "en",
-      "title": "Sarah EchoHawk believes everyone should feel a sense of belonging in science.",
-      "summary": "",
-      "link": "https://www.facebook.com/AmericanChemicalSociety/posts/pfbid023aGQ482C4UWiWJA4aEbVqDYcoSDWvBXmk4ZVjQBaQbUwuFmtAW9bCV81BUHnbfwnl",
-      "source": "Facebook American Chemical Society",
-      "category": "인기",
-      "publishedAt": "2026-10-09T14:03:43.471Z",
-      "thumb": "/social/fb/fb-20279f40325a.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-09T14:59:25.351Z",
-      "titleKo": "Sarah EchoHawk는 모든 사람이 과학에 대한 소속감을 느껴야 한다고 믿습니다.",
-      "summaryKo": "",
-      "translator": "google"
-    },
-    {
-      "id": "fb-1de84ed9bc91",
-      "kind": "video",
-      "lang": "en",
-      "title": "Behind every statistic is someone who’s received support when they needed it most.",
-      "summary": "",
-      "link": "https://www.facebook.com/reel/1677503360609821/",
-      "source": "Facebook Royal Society of Chemistry",
-      "category": "인기",
-      "publishedAt": "2026-10-09T13:59:27.810Z",
-      "thumb": "/social/fb/fb-1de84ed9bc91.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-09T20:59:38.126Z",
-      "titleKo": "모든 통계 뒤에는 가장 필요할 때 지원을 받은 사람이 있습니다.",
       "summaryKo": "",
       "translator": "google"
     }
