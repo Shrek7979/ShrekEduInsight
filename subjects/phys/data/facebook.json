@@ -1,6 +1,57 @@
 {
-  "updatedAt": "2026-11-08T15:09:49.487Z",
+  "updatedAt": "2026-11-09T11:27:24.898Z",
   "items": [
+    {
+      "id": "fb-46ae0b947f69",
+      "kind": "news",
+      "lang": "en",
+      "title": "LHCb finds evidence that the beauty meson B⁰ can decay into a muon and an antimuon, backing the Standard Model.",
+      "summary": "",
+      "link": "https://www.facebook.com/physicsworld/posts/pfbid0WQCbkADVZCF8jPebfXB3P6qhbLaofLSxEJxkaxQgwNAd2NweUE9rhhbnEF9HkVn3l",
+      "source": "Facebook Physics World",
+      "category": "인기",
+      "publishedAt": "2026-11-09T11:20:40.413Z",
+      "thumb": "/social/fb/fb-46ae0b947f69.jpg",
+      "refs": [],
+      "collectedAt": "2026-11-09T11:27:24.898Z",
+      "titleKo": "LHCb는 아름다움 중간자 B⁰가 뮤온과 반뮤온으로 붕괴할 수 있다는 증거를 찾아 표준 모델을 뒷받침합니다.",
+      "summaryKo": "",
+      "translator": "google"
+    },
+    {
+      "id": "fb-c8a59ef50022",
+      "kind": "news",
+      "lang": "en",
+      "title": "Can you guess what this is?",
+      "summary": "Hint: It's linked to an experiment to study neutrinos",
+      "link": "https://www.facebook.com/cern/posts/pfbid0ZSgfnuWPeAmdmkujyQm6fjMzGy9vdB1kPGdGHCVsjm5WQbmMQ4cnygswGCu6w19Cl",
+      "source": "Facebook CERN",
+      "category": "인기",
+      "publishedAt": "2026-11-09T08:27:04.908Z",
+      "thumb": "/social/fb/fb-c8a59ef50022.jpg",
+      "refs": [],
+      "collectedAt": "2026-11-09T11:27:24.898Z",
+      "titleKo": "이것이 무엇인지 추측할 수 있나요?",
+      "summaryKo": "힌트: 중성미자를 연구하는 실험과 연결되어 있습니다.",
+      "translator": "google"
+    },
+    {
+      "id": "fb-b95440410412",
+      "kind": "news",
+      "lang": "en",
+      "title": "OTD in 1895, Wilhelm Röntgen discovered X-rays.",
+      "summary": "",
+      "link": "https://www.facebook.com/apsphysics/posts/pfbid02JYqAuM1py5aJiLSKeSSBrRN4GhCJ7jqYuArBFw6ZbUoWYB6sRS8mHbvenD6jWhLJl",
+      "source": "Facebook American Physical Society",
+      "category": "인기",
+      "publishedAt": "2026-11-08T16:26:53.525Z",
+      "thumb": "/social/fb/fb-b95440410412.jpg",
+      "refs": [],
+      "collectedAt": "2026-11-09T11:27:24.898Z",
+      "titleKo": "1895년 OTD, 빌헬름 뢴트겐(Wilhelm Röntgen)이 엑스레이를 발견했습니다.",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-1203103ac346",
       "kind": "news",
@@ -271,23 +322,6 @@
       "collectedAt": "2026-10-26T17:46:02.682Z",
       "titleKo": "Physical Review Letters의 새로운 연구는 단일 가스 분자의 추진력을 측정합니다.",
       "summaryKo": "",
-      "translator": "google"
-    },
-    {
-      "id": "fb-dab433781fd5",
-      "kind": "news",
-      "lang": "en",
-      "title": "Can you guess what this is?",
-      "summary": "Hint: it’s a piece that will soon belong to a…",
-      "link": "https://www.facebook.com/cern/posts/pfbid02uNSriHTJ2nseZ57dsXpMSHfC526HghRGyoCDd13pxDKRQreVTQHUxXRrV55yBLefl",
-      "source": "Facebook CERN",
-      "category": "인기",
-      "publishedAt": "2026-10-24T06:50:12.620Z",
-      "thumb": "/social/fb/fb-dab433781fd5.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-27T06:50:32.540Z",
-      "titleKo": "이것이 무엇인지 추측할 수 있나요?",
-      "summaryKo": "힌트: 곧 다음 작품에 속하게 될 작품입니다…",
       "translator": "google"
     },
     {
@@ -679,23 +713,6 @@
       "collectedAt": "2026-10-13T02:59:57.812Z",
       "titleKo": "핵융합 에너지는 글로벌 에너지 수요를 해결하고 기후 목표를 지원하는 혁신적인 접근 방식을 약속합니다.",
       "summaryKo": "그러나 우리는 상업적 현실에 얼마나 가깝습니까?",
-      "translator": "google"
-    },
-    {
-      "id": "fb-d38d66cebbaf",
-      "kind": "video",
-      "lang": "en",
-      "title": "Chances are you didn’t win a Nobel Prize in Physics this week.",
-      "summary": "But if you did, what would you do with the million…",
-      "link": "https://www.facebook.com/reel/1597583865191289/",
-      "source": "Facebook American Physical Society",
-      "category": "인기",
-      "publishedAt": "2026-10-09T20:25:03.328Z",
-      "thumb": "/social/fb/fb-d38d66cebbaf.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-09T20:59:36.082Z",
-      "titleKo": "이번 주에 노벨 물리학상을 받지 못했을 가능성이 높습니다.",
-      "summaryKo": "하지만 만약 그렇게 했다면, 그 백만 달러로 무엇을 하시겠습니까…",
       "translator": "google"
     }
   ]

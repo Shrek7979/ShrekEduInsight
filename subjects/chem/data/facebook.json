@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T15:09:49.820Z",
+  "updatedAt": "2026-11-09T11:27:25.964Z",
   "items": [
     {
       "id": "fb-22f0e77e374e",
@@ -19,6 +19,23 @@
       "translator": "google"
     },
     {
+      "id": "fb-0b8ec11cebe3",
+      "kind": "news",
+      "lang": "en",
+      "title": "What makes your phone screen touch sensitive, and what materials make it possible to create foldable displays?",
+      "summary": "",
+      "link": "https://www.facebook.com/compoundchem/posts/pfbid0rkeqv2nY99jdmTNxVVPnC5EoQaLMDjBqUt1oib2ZgeXpuh3juKB5ksH5E75Y26Hql",
+      "source": "Facebook Compound Interest",
+      "category": "인기",
+      "publishedAt": "2026-11-05T11:26:54.391Z",
+      "thumb": "/social/fb/fb-0b8ec11cebe3.jpg",
+      "refs": [],
+      "collectedAt": "2026-11-09T11:27:25.964Z",
+      "titleKo": "휴대폰 화면이 터치에 민감한 이유는 무엇이며 폴더블 디스플레이를 만들 수 있는 재료는 무엇입니까?",
+      "summaryKo": "",
+      "translator": "google"
+    },
+    {
       "id": "fb-337bf49182d8",
       "kind": "news",
       "lang": "en",
@@ -32,23 +49,6 @@
       "refs": [],
       "collectedAt": "2026-11-05T11:42:56.697Z",
       "titleKo": "무엇을 개발하고 싶나요?",
-      "summaryKo": "",
-      "translator": "google"
-    },
-    {
-      "id": "fb-e536a01841ba",
-      "kind": "news",
-      "lang": "en",
-      "title": "What makes your phone screen touch sensitive, and what materials make it possible to create foldable displays?",
-      "summary": "",
-      "link": "https://www.facebook.com/compoundchem/posts/pfbid0rvorDB4GxpTnPiPTSvUt5USYVE9ixMapff4MQz1P4QubPFTzxRwrQUjTs88iaUSPl",
-      "source": "Facebook Compound Interest",
-      "category": "인기",
-      "publishedAt": "2026-11-04T22:24:26.930Z",
-      "thumb": "/social/fb/fb-e536a01841ba.jpg",
-      "refs": [],
-      "collectedAt": "2026-11-07T22:24:57.209Z",
-      "titleKo": "휴대폰 화면이 터치에 민감한 이유는 무엇이며 폴더블 디스플레이를 만들 수 있는 재료는 무엇입니까?",
       "summaryKo": "",
       "translator": "google"
     },
@@ -373,23 +373,6 @@
       "collectedAt": "2026-10-12T17:00:02.809Z",
       "titleKo": "다가오는 ACS Science Talks 세션을 위해 자리를 비워두세요. 10월 15일에 \"고체 조제학\"에 대한 무료 가상 강의가…",
       "summaryKo": "오후 6시 IST / 오전 8시 30분 EDT",
-      "translator": "google"
-    },
-    {
-      "id": "fb-44e6bc416d4e",
-      "kind": "news",
-      "lang": "en",
-      "title": "Your expertise can spark the next important conversation in sustainable science.",
-      "summary": "",
-      "link": "https://www.facebook.com/AmericanChemicalSociety/posts/pfbid0AbWiJoFEu7QN89ZqcTu5y8z6yKHPDCj7JHdbLX1P378PN2AXAE5khSRkmmaNr1iCl",
-      "source": "Facebook American Chemical Society",
-      "category": "인기",
-      "publishedAt": "2026-10-09T19:58:55.419Z",
-      "thumb": "/social/fb/fb-44e6bc416d4e.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-11T19:59:38.542Z",
-      "titleKo": "귀하의 전문 지식은 지속 가능한 과학에서 다음 중요한 대화를 촉발할 수 있습니다.",
-      "summaryKo": "",
       "translator": "google"
     }
   ]
