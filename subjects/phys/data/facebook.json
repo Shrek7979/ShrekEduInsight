@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-11-09T11:27:24.898Z",
+  "updatedAt": "2026-11-10T03:54:48.535Z",
   "items": [
+    {
+      "id": "fb-bc3b92d3e929",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carl Sagan was born on this day in 1934.",
+      "summary": "",
+      "link": "https://www.facebook.com/apsphysics/posts/pfbid02Q6nQHHFdUkYsTgojNYEzExKk3zwKfk7cG6RYwH9EMXJp81jeycMzzhCtVzcyEeHAl",
+      "source": "Facebook American Physical Society",
+      "category": "인기",
+      "publishedAt": "2026-11-09T15:54:18.237Z",
+      "thumb": "/social/fb/fb-bc3b92d3e929.jpg",
+      "refs": [],
+      "collectedAt": "2026-11-10T03:54:48.535Z",
+      "titleKo": "칼 세이건은 1934년 오늘 태어났다.",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-46ae0b947f69",
       "kind": "news",
