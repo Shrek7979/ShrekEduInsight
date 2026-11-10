@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-11-10T03:54:48.535Z",
+  "updatedAt": "2026-11-10T20:08:28.506Z",
   "items": [
+    {
+      "id": "fb-3d7c6e42592f",
+      "kind": "news",
+      "lang": "en",
+      "title": "Some materials cooled to near zero kelvin show a strange uptick in resistance at ultralow temperatures.",
+      "summary": "What's known as the \"Kondo effect\" fails to recognize…",
+      "link": "https://www.facebook.com/physicsworld/posts/pfbid02y4wfonuaJNowvd2m6K2DdaxYxu26DCWp4g7pBRe8swaijZV6dHPUiqzjG51CCURUl",
+      "source": "Facebook Physics World",
+      "category": "인기",
+      "publishedAt": "2026-11-10T18:07:45.383Z",
+      "thumb": "/social/fb/fb-3d7c6e42592f.jpg",
+      "refs": [],
+      "collectedAt": "2026-11-10T20:08:28.506Z",
+      "titleKo": "0켈빈에 가깝게 냉각된 일부 물질은 초저온에서 저항이 이상하게 증가하는 것을 보여줍니다.",
+      "summaryKo": "\"콘도 효과\"라고 ​​알려진 것은 인식하지 못합니다…",
+      "translator": "google"
+    },
+    {
+      "id": "fb-bebb825fda75",
+      "kind": "news",
+      "lang": "en",
+      "title": "Construction begins on a massive underground neutrino experiment",
+      "summary": "",
+      "link": "https://www.facebook.com/cern/posts/pfbid0fv3HviAtHbjF5qrK5ubkMAhaPKp4ibJyfbamy46AUQeyYp8JabrC6RMWaZJfjWQpl",
+      "source": "Facebook CERN",
+      "category": "인기",
+      "publishedAt": "2026-11-10T16:08:08.586Z",
+      "thumb": "/social/fb/fb-bebb825fda75.jpg",
+      "refs": [],
+      "collectedAt": "2026-11-10T20:08:28.506Z",
+      "titleKo": "대규모 지하 중성미자 실험 건설 시작",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-bc3b92d3e929",
       "kind": "news",

@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-11-09T11:27:25.964Z",
+  "updatedAt": "2026-11-10T20:08:24.407Z",
   "items": [
+    {
+      "id": "fb-f0f0a87f7d7b",
+      "kind": "news",
+      "lang": "en",
+      "title": "Please welcome ACS' next Chair of the Board of Directors!",
+      "summary": "",
+      "link": "https://www.facebook.com/AmericanChemicalSociety/posts/pfbid0ZyGGQtUPRdLR23iwXPxFDsyJRSyyiwS9dLmUwREFRn7QBPaDYj3CtstVXQMdjXKpl",
+      "source": "Facebook American Chemical Society",
+      "category": "인기",
+      "publishedAt": "2026-11-10T17:07:43.058Z",
+      "thumb": "/social/fb/fb-f0f0a87f7d7b.jpg",
+      "refs": [],
+      "collectedAt": "2026-11-10T20:08:24.407Z",
+      "titleKo": "ACS의 차기 이사회 의장을 환영해 주십시오!",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-22f0e77e374e",
       "kind": "news",
@@ -19,23 +36,6 @@
       "translator": "google"
     },
     {
-      "id": "fb-0b8ec11cebe3",
-      "kind": "news",
-      "lang": "en",
-      "title": "What makes your phone screen touch sensitive, and what materials make it possible to create foldable displays?",
-      "summary": "",
-      "link": "https://www.facebook.com/compoundchem/posts/pfbid0rkeqv2nY99jdmTNxVVPnC5EoQaLMDjBqUt1oib2ZgeXpuh3juKB5ksH5E75Y26Hql",
-      "source": "Facebook Compound Interest",
-      "category": "인기",
-      "publishedAt": "2026-11-05T11:26:54.391Z",
-      "thumb": "/social/fb/fb-0b8ec11cebe3.jpg",
-      "refs": [],
-      "collectedAt": "2026-11-09T11:27:25.964Z",
-      "titleKo": "휴대폰 화면이 터치에 민감한 이유는 무엇이며 폴더블 디스플레이를 만들 수 있는 재료는 무엇입니까?",
-      "summaryKo": "",
-      "translator": "google"
-    },
-    {
       "id": "fb-337bf49182d8",
       "kind": "news",
       "lang": "en",
@@ -49,6 +49,23 @@
       "refs": [],
       "collectedAt": "2026-11-05T11:42:56.697Z",
       "titleKo": "무엇을 개발하고 싶나요?",
+      "summaryKo": "",
+      "translator": "google"
+    },
+    {
+      "id": "fb-c8e9adb3b6bb",
+      "kind": "news",
+      "lang": "en",
+      "title": "What makes your phone screen touch sensitive, and what materials make it possible to create foldable displays?",
+      "summary": "",
+      "link": "https://www.facebook.com/compoundchem/posts/pfbid02vc6Z6hiMzcCxAjRqTiCK3G9uMUgiEgPE5AvoQQcpdyRPieMZzWwcwRUbioo6bvAfl",
+      "source": "Facebook Compound Interest",
+      "category": "인기",
+      "publishedAt": "2026-11-04T20:07:54.024Z",
+      "thumb": "/social/fb/fb-c8e9adb3b6bb.jpg",
+      "refs": [],
+      "collectedAt": "2026-11-10T20:08:24.407Z",
+      "titleKo": "휴대폰 화면이 터치에 민감한 이유는 무엇이며 폴더블 디스플레이를 만들 수 있는 재료는 무엇입니까?",
       "summaryKo": "",
       "translator": "google"
     },
