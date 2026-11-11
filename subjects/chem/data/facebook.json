@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T20:08:24.407Z",
+  "updatedAt": "2026-11-11T15:34:02.889Z",
   "items": [
     {
       "id": "fb-f0f0a87f7d7b",
@@ -53,18 +53,18 @@
       "translator": "google"
     },
     {
-      "id": "fb-c8e9adb3b6bb",
+      "id": "fb-2f50d0453e1f",
       "kind": "news",
       "lang": "en",
       "title": "What makes your phone screen touch sensitive, and what materials make it possible to create foldable displays?",
       "summary": "",
-      "link": "https://www.facebook.com/compoundchem/posts/pfbid02vc6Z6hiMzcCxAjRqTiCK3G9uMUgiEgPE5AvoQQcpdyRPieMZzWwcwRUbioo6bvAfl",
+      "link": "https://www.facebook.com/compoundchem/posts/pfbid0s4TNBY619Mr2QEszCKeuxQwTkiHJo4jMtpLRQKCdDnT1jCQTU4nZfQ3vtXzqnaPRl",
       "source": "Facebook Compound Interest",
       "category": "인기",
-      "publishedAt": "2026-11-04T20:07:54.024Z",
-      "thumb": "/social/fb/fb-c8e9adb3b6bb.jpg",
+      "publishedAt": "2026-11-04T12:00:00.000Z",
+      "thumb": "/social/fb/fb-2f50d0453e1f.jpg",
       "refs": [],
-      "collectedAt": "2026-11-10T20:08:24.407Z",
+      "collectedAt": "2026-11-11T15:34:02.889Z",
       "titleKo": "휴대폰 화면이 터치에 민감한 이유는 무엇이며 폴더블 디스플레이를 만들 수 있는 재료는 무엇입니까?",
       "summaryKo": "",
       "translator": "google"
@@ -356,40 +356,6 @@
       "collectedAt": "2026-10-21T11:44:10.897Z",
       "titleKo": "사과를 달콤하거나 시큼하게 만드는 것은 무엇입니까?",
       "summaryKo": "다음을 통해 사과 맛의 화학적 성질에 대해 자세히 알아보세요.",
-      "translator": "google"
-    },
-    {
-      "id": "fb-c647657307cc",
-      "kind": "news",
-      "lang": "en",
-      "title": "Interested in learning a bit more about the subject of this year’s Nobel Prize-winning research, asymmetric organic synthesis?",
-      "summary": "",
-      "link": "https://www.facebook.com/RoyalSocietyofChemistry/posts/pfbid0nMxc7i5P7ypDMx2DRA5dj6WNLQcfmioL8XtyCeWXz319GYurLTHXBBwxYBjbqDnzl",
-      "source": "Facebook Royal Society of Chemistry",
-      "category": "인기",
-      "publishedAt": "2026-10-12T08:59:55.295Z",
-      "thumb": "/social/fb/fb-c647657307cc.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-12T10:00:07.326Z",
-      "titleKo": "올해 노벨상 수상 연구 주제인 비대칭 유기 합성에 대해 좀 더 알고 싶으십니까?",
-      "summaryKo": "",
-      "translator": "google"
-    },
-    {
-      "id": "fb-19182bd27861",
-      "kind": "news",
-      "lang": "en",
-      "title": "Save Your Seat for the upcoming session of ACS Science Talks - the free virtual lecture on “Solid State Pharmaceutics,” on October 15 at…",
-      "summary": "6:00 PM IST / 8:30 AM EDT by",
-      "link": "https://www.facebook.com/AmericanChemicalSociety/posts/pfbid02khk8PwFmo8XZhLhyapkA9szFonVsC2SfTswyZkc8G1v72GmQB4Grjen6TpzQhVJal",
-      "source": "Facebook American Chemical Society",
-      "category": "인기",
-      "publishedAt": "2026-10-12T04:59:19.120Z",
-      "thumb": "/social/fb/fb-19182bd27861.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-12T17:00:02.809Z",
-      "titleKo": "다가오는 ACS Science Talks 세션을 위해 자리를 비워두세요. 10월 15일에 \"고체 조제학\"에 대한 무료 가상 강의가…",
-      "summaryKo": "오후 6시 IST / 오전 8시 30분 EDT",
       "translator": "google"
     }
   ]

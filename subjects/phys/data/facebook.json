@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-11-10T20:08:28.506Z",
+  "updatedAt": "2026-11-11T15:34:05.045Z",
   "items": [
+    {
+      "id": "fb-56e0993fa477",
+      "kind": "news",
+      "lang": "en",
+      "title": "Art and science come together",
+      "summary": "",
+      "link": "https://www.facebook.com/cern/posts/pfbid037XxDmTUVvwjTwL9qt1W1YdX2VArNbCJLjuQos1s2dD2DnXzrhgWskGxTiH18iwgHl",
+      "source": "Facebook CERN",
+      "category": "인기",
+      "publishedAt": "2026-11-11T13:33:43.033Z",
+      "thumb": "/social/fb/fb-56e0993fa477.jpg",
+      "refs": [],
+      "collectedAt": "2026-11-11T15:34:05.045Z",
+      "titleKo": "예술과 과학이 만나다",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-3d7c6e42592f",
       "kind": "news",
@@ -36,18 +53,18 @@
       "translator": "google"
     },
     {
-      "id": "fb-bc3b92d3e929",
+      "id": "fb-5068377c2a9e",
       "kind": "news",
       "lang": "en",
       "title": "Carl Sagan was born on this day in 1934.",
       "summary": "",
-      "link": "https://www.facebook.com/apsphysics/posts/pfbid02Q6nQHHFdUkYsTgojNYEzExKk3zwKfk7cG6RYwH9EMXJp81jeycMzzhCtVzcyEeHAl",
+      "link": "https://www.facebook.com/apsphysics/posts/pfbid0LZ9DN7dGdR6neSV9nRXSwwoFQtey3ZXFdD553GBUAvMsBgDjAAZKERzwro1fGZXTl",
       "source": "Facebook American Physical Society",
       "category": "인기",
-      "publishedAt": "2026-11-09T15:54:18.237Z",
-      "thumb": "/social/fb/fb-bc3b92d3e929.jpg",
+      "publishedAt": "2026-11-09T15:33:30.432Z",
+      "thumb": "/social/fb/fb-5068377c2a9e.jpg",
       "refs": [],
-      "collectedAt": "2026-11-10T03:54:48.535Z",
+      "collectedAt": "2026-11-11T15:34:05.045Z",
       "titleKo": "칼 세이건은 1934년 오늘 태어났다.",
       "summaryKo": "",
       "translator": "google"
@@ -747,23 +764,6 @@
       "collectedAt": "2026-10-13T14:59:36.322Z",
       "titleKo": "“좋은 소프트웨어는 눈에 띄지 않는 경우가 많습니다”",
       "summaryKo": "",
-      "translator": "google"
-    },
-    {
-      "id": "fb-484bb252c529",
-      "kind": "news",
-      "lang": "en",
-      "title": "Fusion energy promises a revolutionary approach to tackling global energy demands and supporting climate goals.",
-      "summary": "But how close are we to commercial reality?",
-      "link": "https://www.facebook.com/physicsworld/posts/pfbid02DfxmDCs26tGNxjAtepyzUFmeHZvjaDgn4Ck9ZvNLT2bsyBsHRt8RHjf5NT4m78iLl",
-      "source": "Facebook Physics World",
-      "category": "인기",
-      "publishedAt": "2026-10-12T10:59:17.980Z",
-      "thumb": "/social/fb/fb-484bb252c529.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-13T02:59:57.812Z",
-      "titleKo": "핵융합 에너지는 글로벌 에너지 수요를 해결하고 기후 목표를 지원하는 혁신적인 접근 방식을 약속합니다.",
-      "summaryKo": "그러나 우리는 상업적 현실에 얼마나 가깝습니까?",
       "translator": "google"
     }
   ]
