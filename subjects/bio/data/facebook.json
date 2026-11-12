@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-11-10T20:08:43.084Z",
+  "updatedAt": "2026-11-12T11:44:40.851Z",
   "items": [
+    {
+      "id": "fb-989770ec481d",
+      "kind": "news",
+      "lang": "en",
+      "title": "\"Multilayer hydrodynamic modeling of the airway surface liquid reveals impaired transport in HYDIN-related primary ciliary dyskinesia.\"",
+      "summary": "",
+      "link": "https://www.facebook.com/cellpress/posts/pfbid02Pp5M1yhQxTG8e56jH6M9Pg899BiTiAiPJXsxaeu2eZLhHc5VPEbgednRqA7WCX3pl",
+      "source": "Facebook Cell Press",
+      "category": "인기",
+      "publishedAt": "2026-11-11T23:43:59.151Z",
+      "thumb": "/social/fb/fb-989770ec481d.jpg",
+      "refs": [],
+      "collectedAt": "2026-11-12T11:44:40.851Z",
+      "titleKo": "\"기도 표면 액체의 다층 유체 역학 모델링은 HYDIN 관련 원발성 섬모 운동 이상증의 손상된 수송을 나타냅니다.\"",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-3a83e4c5ab90",
       "kind": "news",
@@ -781,57 +798,6 @@
       "collectedAt": "2026-10-13T16:00:05.597Z",
       "titleKo": "우리는 다음 주 몬트리올에서 열리는 ASHG 연례 회의 2026에 전시하게 되어 기쁘게 생각합니다.",
       "summaryKo": "다섯",
-      "translator": "google"
-    },
-    {
-      "id": "fb-5ccfc1e67e0f",
-      "kind": "news",
-      "lang": "en",
-      "title": "A federal court has temporarily blocked the Department of Homeland Security (DHS) rule ending “duration of status” for international…",
-      "summary": "students and exchange visitors",
-      "link": "https://www.facebook.com/societyforneuroscience/posts/pfbid02o3GrTSt5uBKY1n6U4uoj8cJnSh2ckdRop3tcUhNzwJqiizGKZR6Q71r4eqRWXb67l",
-      "source": "Facebook Society for Neuroscience",
-      "category": "인기",
-      "publishedAt": "2026-10-12T20:59:42.519Z",
-      "thumb": "/social/fb/fb-5ccfc1e67e0f.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-13T00:59:42.532Z",
-      "titleKo": "연방 법원은 국토안보부(DHS)의 국제 체류 신분 기간 종료 규정을 일시적으로 차단했습니다.",
-      "summaryKo": "학생 및 교환 방문자",
-      "translator": "google"
-    },
-    {
-      "id": "fb-c1876f26d9fc",
-      "kind": "news",
-      "lang": "en",
-      "title": "A molecular cell atlas of endocrine signaling in human neural organoids",
-      "summary": "",
-      "link": "https://www.facebook.com/cellpress/posts/pfbid02eVMN1buhrcS4uZN6rMjBQMqyjsxuvuptX9j2iT2B1i9VB8hueTVHisfRQuBLVCFUl",
-      "source": "Facebook Cell Press",
-      "category": "인기",
-      "publishedAt": "2026-10-12T19:00:26.820Z",
-      "thumb": "/social/fb/fb-c1876f26d9fc.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-13T12:01:07.059Z",
-      "titleKo": "인간 신경 유기체의 내분비 신호 전달에 대한 분자 세포 아틀라스",
-      "summaryKo": "",
-      "translator": "google"
-    },
-    {
-      "id": "fb-02ccaaf9fd88",
-      "kind": "news",
-      "lang": "en",
-      "title": "Want the latest updates from the magazine section of eLife?",
-      "summary": "",
-      "link": "https://www.facebook.com/elifesciences/posts/pfbid02wix9PPMmPAmtwPNG9Znwajx5dgjERbnEjUsbJ2wV5hDgTXunCynpDDSmdR1qa4CZl",
-      "source": "Facebook eLife",
-      "category": "인기",
-      "publishedAt": "2026-10-12T10:59:13.746Z",
-      "thumb": "/social/fb/fb-02ccaaf9fd88.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-13T09:59:46.222Z",
-      "titleKo": "eLife 잡지 섹션의 최신 업데이트를 원하시나요?",
-      "summaryKo": "",
       "translator": "google"
     }
   ]
