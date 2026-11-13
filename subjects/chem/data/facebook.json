@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T00:41:09.417Z",
+  "updatedAt": "2026-11-13T15:39:52.633Z",
   "items": [
     {
       "id": "fb-82b53e41e51f",
@@ -53,18 +53,18 @@
       "translator": "google"
     },
     {
-      "id": "fb-8c2f541a63a9",
+      "id": "fb-aeeef1a68feb",
       "kind": "news",
       "lang": "en",
       "title": "What makes your phone screen touch sensitive, and what materials make it possible to create foldable displays?",
       "summary": "",
-      "link": "https://www.facebook.com/compoundchem/posts/pfbid02vRwYoZSdB5jpEgPRsuqnci3mKRJ4FGuCw2tVqLJt7qz4rKodhERjQESmTpiHQo8nl",
+      "link": "https://www.facebook.com/compoundchem/posts/pfbid0rtJMtPpGKuqSfCsgbsNK3kFYWgNdErBD3MUs3FRS5XUxsCoAGWdJaKTbM1nRZCjBl",
       "source": "Facebook Compound Interest",
       "category": "인기",
       "publishedAt": "2026-11-04T12:00:00.000Z",
-      "thumb": "/social/fb/fb-8c2f541a63a9.jpg",
+      "thumb": "/social/fb/fb-aeeef1a68feb.jpg",
       "refs": [],
-      "collectedAt": "2026-11-13T00:41:09.417Z",
+      "collectedAt": "2026-11-13T15:39:52.633Z",
       "titleKo": "휴대폰 화면이 터치에 민감한 이유는 무엇이며 폴더블 디스플레이를 만들 수 있는 재료는 무엇입니까?",
       "summaryKo": "",
       "translator": "google"
@@ -288,23 +288,6 @@
       "collectedAt": "2026-10-27T06:50:34.742Z",
       "titleKo": "전국 버섯의 날입니다. 파리 아가릭 버섯이 환각을 일으키는 이유는 무엇이며 순록 소변과 어떤 관련이 있나요?",
       "summaryKo": "이 그래픽을 자세히 살펴보세요!",
-      "translator": "google"
-    },
-    {
-      "id": "fb-d12fb9c298f4",
-      "kind": "news",
-      "lang": "en",
-      "title": "Studying beautiful flavour transitions",
-      "summary": "",
-      "link": "https://www.facebook.com/cern/posts/pfbid0nLm1DBhARpvuRxNbmrYz7s5kfxzisD1aMWkBpe9PakyDEUy6GXNvQm5mMvyQTebVl",
-      "source": "Facebook Periodic Videos",
-      "category": "인기",
-      "publishedAt": "2026-10-14T14:46:49.739Z",
-      "thumb": "/social/fb/fb-d12fb9c298f4.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-14T19:47:10.715Z",
-      "titleKo": "아름다운 풍미 전환 연구",
-      "summaryKo": "",
       "translator": "google"
     }
   ]
