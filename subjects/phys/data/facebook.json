@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-11-16T06:20:31.244Z",
+  "updatedAt": "2026-11-17T00:26:56.102Z",
   "items": [
+    {
+      "id": "fb-f472d3f05f74",
+      "kind": "news",
+      "lang": "en",
+      "title": "Applications are now open to attend the Conference for Graduate Women and Gender Minorities in Physics 2027 (Gradu*iP).",
+      "summary": "This conference provides graduate students with",
+      "link": "https://www.facebook.com/apsphysics/posts/pfbid02tGTh8sT5g9s15hEZqTQBoocm5Wq5Ueotp7JMd9TNJrjXGZMyDeP7W8UpLCw8SYyHl",
+      "source": "Facebook American Physical Society",
+      "category": "인기",
+      "publishedAt": "2026-11-16T20:26:23.438Z",
+      "thumb": "/social/fb/fb-f472d3f05f74.jpg",
+      "refs": [],
+      "collectedAt": "2026-11-17T00:26:56.102Z",
+      "titleKo": "이제 2027년 물리학 분야 여성 대학원 및 소수자를 위한 컨퍼런스(Gradu*iP) 참석 신청이 시작되었습니다.",
+      "summaryKo": "이번 컨퍼런스는 대학원생들에게",
+      "translator": "google"
+    },
     {
       "id": "fb-4868f45a615d",
       "kind": "news",
