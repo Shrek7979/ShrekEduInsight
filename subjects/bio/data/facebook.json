@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-11-16T06:20:45.405Z",
+  "updatedAt": "2026-11-17T17:51:21.851Z",
   "items": [
+    {
+      "id": "fb-d83c92d2f5d6",
+      "kind": "news",
+      "lang": "en",
+      "title": "In the latest blog from eLife Pathways they explore the current state of modular science, including highlighting the work of others in the…",
+      "summary": "community",
+      "link": "https://www.facebook.com/elifesciences/posts/pfbid0XADYoRQmvXfes8wi9d6HH2z4hStvGSzsntGx4g8weZDcYW6YaPK8DTHoJ56HPhKal",
+      "source": "Facebook eLife",
+      "category": "인기",
+      "publishedAt": "2026-11-17T15:50:50.207Z",
+      "thumb": "/social/fb/fb-d83c92d2f5d6.jpg",
+      "refs": [],
+      "collectedAt": "2026-11-17T17:51:21.851Z",
+      "titleKo": "eLife Pathways의 최신 블로그에서 그들은 모듈 과학의 현재 상태를 탐구하고 다른 분야의 작업을 강조합니다.",
+      "summaryKo": "지역 사회",
+      "translator": "google"
+    },
+    {
+      "id": "fb-627defb22b07",
+      "kind": "news",
+      "lang": "en",
+      "title": "ASBMB Journals is at",
+      "summary": "",
+      "link": "https://www.facebook.com/asbmb/posts/pfbid07yjQXcWSc93wmVpFHyiL6usJeRwRVPXHARkQAuuQpJ9sc3FNHGBiirUwAqG9GR1kl",
+      "source": "Facebook ASBMB",
+      "category": "인기",
+      "publishedAt": "2026-11-16T20:51:11.230Z",
+      "thumb": "/social/fb/fb-627defb22b07.jpg",
+      "refs": [],
+      "collectedAt": "2026-11-17T17:51:21.851Z",
+      "titleKo": "ASBMB 저널은 다음 위치에 있습니다.",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-8a08e66bb932",
       "kind": "news",
@@ -526,40 +560,6 @@
       "collectedAt": "2026-10-19T22:02:37.159Z",
       "titleKo": "식물과학 연구자이자 작가인 Lee Hickey 교수를 만나보세요.",
       "summaryKo": "그들의 연구와 출판 경험에 대해 알아보세요…",
-      "translator": "google"
-    },
-    {
-      "id": "fb-6ac2583aa6c5",
-      "kind": "news",
-      "lang": "en",
-      "title": "\"Demand-side strategies unlock gigatonne-scale GHG mitigation beyond supply-side limits in the global lithium-ion battery supply chain.\"",
-      "summary": "",
-      "link": "https://www.facebook.com/cellpress/posts/pfbid05b8LM2AQvNREcXDuWXx3t3wf8MN9B9TAZ9UQzaKmBNZ7FRqfHEdLzBKZBv3RntW4l",
-      "source": "Facebook Cell Press",
-      "category": "인기",
-      "publishedAt": "2026-10-17T17:00:02.647Z",
-      "thumb": "/social/fb/fb-6ac2583aa6c5.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-18T10:00:42.824Z",
-      "titleKo": "\"수요 측면 전략은 글로벌 리튬 이온 배터리 공급망에서 공급 측면 한계를 넘어 기가톤 규모의 온실가스 완화를 실현합니다.\"",
-      "summaryKo": "",
-      "translator": "google"
-    },
-    {
-      "id": "fb-7fd0a68bf1ec",
-      "kind": "news",
-      "lang": "en",
-      "title": "We're committed to finding new ways of getting important, original research into scientists’ hands as quickly as possible.",
-      "summary": "",
-      "link": "https://www.facebook.com/elifesciences/posts/pfbid02xStfs6J2bCkWyin7oTV2JB9xJVzfyALx8sXXCMSMZ3wL53cns58xNETp5CM25AKDl",
-      "source": "Facebook eLife",
-      "category": "인기",
-      "publishedAt": "2026-10-17T10:04:37.498Z",
-      "thumb": "/social/fb/fb-7fd0a68bf1ec.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-19T10:05:09.729Z",
-      "titleKo": "우리는 중요하고 독창적인 연구를 가능한 한 빨리 과학자의 손에 전달할 수 있는 새로운 방법을 찾기 위해 최선을 다하고 있습니다.",
-      "summaryKo": "",
       "translator": "google"
     }
   ]
