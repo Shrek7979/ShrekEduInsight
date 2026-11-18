@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-11-17T17:51:21.851Z",
+  "updatedAt": "2026-11-18T23:14:23.326Z",
   "items": [
+    {
+      "id": "fb-b54af78569b3",
+      "kind": "news",
+      "lang": "en",
+      "title": "Extracellular matrix stiffness kinetically stabilizes a cancer-associated state through a mechanochemical bistable switch.",
+      "summary": "",
+      "link": "https://www.facebook.com/cellpress/posts/pfbid0w1N6Kv3jF4cfEiy8aKT6LxLLW62do3ij9Z15LKHKmCGrZtioYKuMd6iZTLEgC8Vul",
+      "source": "Facebook Cell Press",
+      "category": "인기",
+      "publishedAt": "2026-11-18T17:13:43.966Z",
+      "thumb": "/social/fb/fb-b54af78569b3.jpg",
+      "refs": [],
+      "collectedAt": "2026-11-18T23:14:23.326Z",
+      "titleKo": "세포외 기질 강성은 기계화학적 쌍안정 스위치를 통해 암 관련 상태를 역학적으로 안정화시킵니다.",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-d83c92d2f5d6",
       "kind": "news",
@@ -70,23 +87,6 @@
       "translator": "google"
     },
     {
-      "id": "fb-062134f7a949",
-      "kind": "news",
-      "lang": "en",
-      "title": "Two more days!!",
-      "summary": "",
-      "link": "https://www.facebook.com/AmoebaSisters/posts/pfbid024hA7m2gFehJeSFGuHV9ovqsvGVqWhaR6RtwMpqiAFULdFAKg8aCT8n5np8HtwVZ1l",
-      "source": "Facebook The Amoeba Sisters",
-      "category": "인기",
-      "publishedAt": "2026-11-12T06:19:50.439Z",
-      "thumb": "/social/fb/fb-062134f7a949.jpg",
-      "refs": [],
-      "collectedAt": "2026-11-16T06:20:45.405Z",
-      "titleKo": "이틀만 더!!",
-      "summaryKo": "",
-      "translator": "google"
-    },
-    {
       "id": "fb-989770ec481d",
       "kind": "news",
       "lang": "en",
@@ -100,6 +100,23 @@
       "refs": [],
       "collectedAt": "2026-11-12T11:44:40.851Z",
       "titleKo": "\"기도 표면 액체의 다층 유체 역학 모델링은 HYDIN 관련 원발성 섬모 운동 이상증의 손상된 수송을 나타냅니다.\"",
+      "summaryKo": "",
+      "translator": "google"
+    },
+    {
+      "id": "fb-bbdf860063ce",
+      "kind": "news",
+      "lang": "en",
+      "title": "Two more days!!",
+      "summary": "",
+      "link": "https://www.facebook.com/AmoebaSisters/posts/pfbid038NSpeZLLgRvxJVptuu8woi4nyHX51wuZTdVr3AmN4RfLNsHj4Td76DgDYWTGvscMl",
+      "source": "Facebook The Amoeba Sisters",
+      "category": "인기",
+      "publishedAt": "2026-11-11T12:00:00.000Z",
+      "thumb": "/social/fb/fb-bbdf860063ce.jpg",
+      "refs": [],
+      "collectedAt": "2026-11-18T23:14:23.326Z",
+      "titleKo": "이틀만 더!!",
       "summaryKo": "",
       "translator": "google"
     },
@@ -543,23 +560,6 @@
       "collectedAt": "2026-10-21T11:44:25.338Z",
       "titleKo": "뉴스에서: 과학자들은 개가 인간의 미소를 뇌의 독특한 부분에서 처리하고 여러 가지 부정적인 미소를 구별할 수 있다는 사실을 발견했습니다.",
       "summaryKo": "인간의 표현",
-      "translator": "google"
-    },
-    {
-      "id": "fb-75f27fda1cac",
-      "kind": "news",
-      "lang": "en",
-      "title": "Meet plant science researcher and author Professor Lee Hickey.",
-      "summary": "Learn about their research and experience of publishing…",
-      "link": "https://www.facebook.com/cellpress/posts/pfbid034jyracNc8V3Agt3LSGYEYpLmAQmxuNhqV2dPnRpHeoRkSvS8FQHNAsLY577e8QCVl",
-      "source": "Facebook Cell Press",
-      "category": "인기",
-      "publishedAt": "2026-10-19T20:01:55.901Z",
-      "thumb": "/social/fb/fb-75f27fda1cac.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-19T22:02:37.159Z",
-      "titleKo": "식물과학 연구자이자 작가인 Lee Hickey 교수를 만나보세요.",
-      "summaryKo": "그들의 연구와 출판 경험에 대해 알아보세요…",
       "translator": "google"
     }
   ]
