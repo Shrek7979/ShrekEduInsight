@@ -1,6 +1,45 @@
 {
-  "updatedAt": "2026-11-19T00:52:22.924Z",
+  "updatedAt": "2026-11-19T01:09:35.332Z",
   "items": [
+    {
+      "id": "a7b82dcfa3ba",
+      "kind": "video",
+      "lang": "en",
+      "title": "This weird plant numbs your mouth",
+      "summary": "In this one, I try the electric daisy, which is a plant…",
+      "detail": "In this one, I try the electric daisy, which is a plant that contains something called spilanthol, which is believed to cause its really…",
+      "link": "https://www.youtube.com/shorts/Pipoh0DqRWE",
+      "source": "NileBlue",
+      "image": "https://i1.ytimg.com/vi/Pipoh0DqRWE/hqdefault.jpg",
+      "views": 2001387,
+      "category": "인기",
+      "publishedAt": "2026-10-21T18:01:09.000Z",
+      "collectedAt": "2026-11-19T01:09:35.332Z",
+      "titleKo": "이 이상한 식물은 입을 마비시킵니다",
+      "summaryKo": "이번에는 식물인 전기 데이지를 사용해 보겠습니다",
+      "translator": "google",
+      "detailKo": "이번에는 일렉트릭 데이지를 시험해 보겠습니다. 이 식물에는 스필란톨이라는 성분이 함유되어 있는데, 이는 실제로 건강에 해로운 영향을 미치는 것으로 알려져 있습니다.",
+      "thumb": "/thumbs/a7b82dcfa3ba.jpg"
+    },
+    {
+      "id": "82009795c61b",
+      "kind": "video",
+      "lang": "en",
+      "title": "Molten SALT — The MOST DANGEROUS Liquid!",
+      "summary": "",
+      "detail": "",
+      "link": "https://www.youtube.com/watch?v=ebRIOz-kL9c",
+      "source": "Thoisoi2",
+      "image": "https://i2.ytimg.com/vi/ebRIOz-kL9c/hqdefault.jpg",
+      "views": 910049,
+      "category": "인기",
+      "publishedAt": "2026-10-10T15:00:21.000Z",
+      "collectedAt": "2026-11-19T01:09:35.332Z",
+      "titleKo": "녹은 소금 — 가장 위험한 액체!",
+      "summaryKo": "",
+      "translator": "google",
+      "thumb": "/thumbs/82009795c61b.jpg"
+    },
     {
       "id": "c20e845e68a6",
       "kind": "news",
@@ -2411,41 +2450,6 @@
       "publishedAt": "2026-11-12T01:31:00.000Z",
       "collectedAt": "2026-11-13T15:35:57.822Z",
       "thumb": "/thumbs/8d1461f087f8.png"
-    },
-    {
-      "id": "bsky-3myzxanahky2v",
-      "kind": "news",
-      "lang": "en",
-      "title": "It's National Cat Day!",
-      "summary": "This graphic has everything you need to know about cat…",
-      "link": "https://bsky.app/profile/compoundchem.com/post/3myzxanahky2v",
-      "source": "Bluesky Compound Interest",
-      "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:elgkp22tjscka4ij6kqibtvt/bafkreibkwu2gznaran5bcvi5sjisyf7svp2dez6era2ddlkom3rwm6jdaa",
-      "likes": "57",
-      "category": "인기",
-      "publishedAt": "2026-10-29T19:01:04.678Z",
-      "collectedAt": "2026-11-13T15:35:57.822Z",
-      "titleKo": "전국 고양이의 날입니다!",
-      "summaryKo": "이 그래픽에는 고양이에 대해 알아야 할 모든 것이 포함되어 있습니다…",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3myzxanahky2v.webp"
-    },
-    {
-      "id": "2ae8c98a5171",
-      "kind": "video",
-      "lang": "ko",
-      "title": "[케미스트리 실험실] 반짝이는 악세서리의 비밀",
-      "summary": "",
-      "detail": "",
-      "link": "https://www.youtube.com/watch?v=bDkoDOSp0M4",
-      "source": "한국화학연구원 KRICT",
-      "image": "https://i3.ytimg.com/vi/bDkoDOSp0M4/hqdefault.jpg",
-      "views": 1723,
-      "category": "인기",
-      "publishedAt": "2026-10-23T08:00:26.000Z",
-      "collectedAt": "2026-11-13T15:35:57.822Z",
-      "summaryKo": "",
-      "thumb": "/thumbs/2ae8c98a5171.jpg"
     }
   ]
 }

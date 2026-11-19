@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-11-17T17:52:43.674Z",
+  "updatedAt": "2026-11-19T01:15:03.979Z",
   "items": [
+    {
+      "id": "fb-216738d73f03",
+      "kind": "video",
+      "lang": "en",
+      "title": "It is the fate of mathematicians that they can work on a problem for years, even decades, with no great progress.",
+      "summary": "But then along comes an unexpected collaborator",
+      "link": "https://www.facebook.com/reel/1047884055004988/",
+      "source": "Facebook Oxford Mathematics",
+      "category": "인기",
+      "publishedAt": "2026-11-18T16:13:58.462Z",
+      "thumb": "/social/fb/fb-216738d73f03.jpg",
+      "refs": [],
+      "collectedAt": "2026-11-19T01:15:03.979Z",
+      "titleKo": "수년, 심지어 수십 년 동안 큰 진전 없이 문제를 해결하는 것이 수학자들의 운명입니다.",
+      "summaryKo": "그런데 예상치 못한 협력자가 등장한다.",
+      "translator": "google"
+    },
     {
       "id": "fb-e9d35f6cde2f",
       "kind": "news",
