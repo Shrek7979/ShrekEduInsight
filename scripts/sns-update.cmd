@@ -36,7 +36,8 @@ if errorlevel 1 (
 ) else (
   call node scripts\collect-all.mjs news >> "%LOG%" 2>&1
 )
-git add "subjects/*/data" "subjects/*/public/social" >> "%LOG%" 2>&1
+rem 따옴표 안의 * 는 git 이 폴더 이름으로 펼치지 못해 실패했음 → subjects 아래 바뀐 것(지운 그림 포함)을 모두 올림. 섬네일은 .gitignore 로 빠짐
+git add -A subjects >> "%LOG%" 2>&1
 git diff --cached --quiet || git commit -q -m "chore: 자동 업데이트 (PC)" >> "%LOG%" 2>&1
 git push -q >> "%LOG%" 2>&1 || (git pull -q --rebase -X theirs >> "%LOG%" 2>&1 && git push -q >> "%LOG%" 2>&1)
 echo 끝 >> "%LOG%"
