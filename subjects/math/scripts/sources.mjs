@@ -121,6 +121,7 @@ export const SOURCES = [
       ['enjoying math', 'UCWCeUXIAm_2skU3QwJJziNg', 'ko'],
       ['인공지능수학 깨봉', 'UCufMvGtKg2hoTs0h1Ti5cxg', 'ko'],
       ['Ray 수학', 'UCkzbCw-4lXOl4Gf-AOrI_gw', 'ko'],
+      ['수학자', 'UC7Mc5ssSVpWzqH9mlRGEEAg', 'ko'],
     ], 'ko'),
   },
   {
@@ -169,6 +170,8 @@ export const INSTAGRAM_ACCOUNTS = [
   ['wolframresearch', 'en'],
   ['brilliantorg', 'en', { filter: true }],
   ['quantamag', 'en', { filter: true }],
+  ['tededucation', 'en', { filter: true }], // TED-Ed — 수학 글만
+  ['misterwootube', 'en'], // 호주 수학교사 Eddie Woo
 ]
 
 // 페이스북: 최신 게시물을 카드로 보여 줄 수학 페이지 [주소 이름, 표시 이름, 언어]. scripts/collect-facebook.mjs 가 사용

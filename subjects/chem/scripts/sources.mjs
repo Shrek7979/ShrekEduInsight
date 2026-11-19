@@ -56,6 +56,7 @@ export const SOURCES = [
       ['티노화학', 'UClVE9AYJH2cvVOmGKmMdu6w', 'ko'],
       ['탑사이언스', 'UCY98cuZMjrLQKwyRT1mRa0Q', 'ko'],
       ['송쌤', 'UCs3QUdrwABgfS0_NbNFLutg', 'ko'],
+      ['케미가 체질', 'UCtKfjzCZDssbL8mVGZ_sqrw', 'ko'],
     ],
   },
   {
@@ -74,6 +75,8 @@ export const SOURCES = [
       ['Explosions&Fire', 'UCVovvq34gd0ps5cVYNZrc7A', 'en'],
       ['ChemicalForce', 'UCqONNjBkukcc2yXbmHL8niQ', 'en'],
       ['NurdRage', 'UCIgKGGJkt1MrNmhq3vRibYA', 'en'],
+      ['Thoisoi2', 'UC3j3w-oUtIAm_KI857ydvUA', 'en'],
+      ['Applied Science', 'UCivA7_KLKWo43tFcCkFvydw', 'en'],
     ],
   },
 
@@ -98,6 +101,7 @@ export const INSTAGRAM_ACCOUNTS = [
   ['roysocchem', 'en'],
   ['periodicvideos', 'en'],
   ['acsreactions', 'en'],
+  ['chemteacherphil', 'en'], // 미국 화학교사 Phil Cook — 실험 영상 (팔로워 50만)
 ]
 
 // 페이스북: 최신 게시물을 카드로 보여 줄 화학 페이지 [주소 이름, 표시 이름, 언어]. scripts/collect-facebook.mjs 가 사용

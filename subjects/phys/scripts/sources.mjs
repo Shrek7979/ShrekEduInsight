@@ -58,6 +58,11 @@ export const SOURCES = [
       ['석군 seokkun', 'UCsOmBJ5jPTufS7sHea1HiTw', 'ko'],
       ['베리타시움 한국어', 'UCOgK3J7WTOl5f5Fd51kcoSg', 'ko'],
       ['김광명의 물리세계', 'UC9XCaZgXLhrICTfbNVLXkng', 'ko'],
+      ['1분과학', 'UCFOixeB9gbedVi6uwnsfHMQ', 'ko'],
+      ['사물궁이 잡학지식', 'UC7F6UDq3gykPZHWRhrj_BDw', 'ko'],
+      ['과학을보다', 'UCXb5Jph9hkZ2Q48QyBealyA', 'ko'],
+      ['궤도는 사랑입니다', 'UCOoCbmnon0ZIothw6E5OLJQ', 'ko'],
+      ['이과형', 'UCj-MI9DaXgAz412O9ybQ9WA', 'ko'],
     ],
   },
   {
@@ -78,6 +83,10 @@ export const SOURCES = [
       ['FloatHeadPhysics', 'UCGfFUc6eWxfbtjYeun6r9xg', 'en'],
       ['Physics Explained', 'UCIZ5ZOeiXYbmKTl_85ghNPw', 'en'],
       ['Dr. Becky', 'UCYNbYGl89UUowy8oXkipC-Q', 'en'],
+      ['Sixty Symbols', 'UCvBqzzvUBLCs8Y7Axb-jZew', 'en'],
+      ['SmarterEveryDay', 'UC6107grRI4m0o2-emgoDnAA', 'en'],
+      ['ElectroBOOM', 'UCJ0-OtVpF0wOKEqT2Z1HEtA', 'en'],
+      ['Arvin Ash', 'UCpMcsdZf2KkAnfmxiq2MfMQ', 'en'],
     ],
   },
 
@@ -94,12 +103,14 @@ export const youtubeFeed = youtube
 
 // 인스타그램: 최근 게시물을 카드로 보여 줄 물리 계정 [계정, 언어]. scripts/collect-instagram.mjs 가 사용
 export const INSTAGRAM_ACCOUNTS = [
-  ['physicsgirl', 'en'],
-  ['veritasium', 'en'],
+  // physicsgirl·minutephysics·physicsworld·theactionlab 은 진짜 계정이 아니었고(팔로워 수백 명 이하·없는 주소), veritasium 은 2025년 2월 뒤로 글이 없어 뺌 (2026-11)
   ['cern', 'en'],
-  ['physicsworld', 'en'],
-  ['minutephysics', 'en'],
-  ['theactionlab', 'en'],
+  ['fermilab', 'en'], // 미국 페르미 국립가속기연구소
+  ['physicstoday', 'en'], // 미국물리학회(AIP) 잡지
+  ['perimeterinstitute', 'en'], // 캐나다 이론물리연구소
+  ['stevemouldscience', 'en'], // 실험 영상 유튜버 Steve Mould
+  ['physicsfun', 'en'], // 물리 장난감·실험 영상 (팔로워 200만)
+  ['thephysicsgirl', 'en'], // Dianna Cowern (Physics Girl)
 ]
 
 // 페이스북: 최신 게시물을 카드로 보여 줄 물리 페이지 [주소 이름, 표시 이름, 언어]. scripts/collect-facebook.mjs 가 사용
@@ -107,7 +118,6 @@ export const FACEBOOK_PAGES = [
   ['physicsworld', 'Physics World', 'en'],
   ['APSphysics', 'American Physical Society', 'en'],
   ['cern', 'CERN', 'en'],
-  ['physicsgirl', 'Physics Girl', 'en'],
   ['minutephysics', 'minutephysics', 'en'],
 ]
 

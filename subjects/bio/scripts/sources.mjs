@@ -61,6 +61,9 @@ export const SOURCES = [
       ['에그박사', 'UCyhmwp12LECf7lvw7vddVPA', 'ko'],
       ['국립생태원', 'UCbl0zikxXmKC_RsEFPbCR4Q', 'ko'],
       ['국립생물자원관', 'UC4nZ0RgT2D7sqcHjOclTJCQ', 'ko'],
+      ['한눈에 보는 세상 – Kurzgesagt', 'UC8rKCy_tipwTEY3RdkNCKmw', 'ko'],
+      ['닥터프렌즈', 'UCVfLNEch9YxD4tX1L-crkMQ', 'ko'],
+      ['매드 생명과학', 'UCpIE8L3iqlsZ438AaP9cJFg', 'ko'],
     ],
   },
   {
@@ -81,6 +84,9 @@ export const SOURCES = [
       ["Clint's Reptiles", 'UCH18915fTE6yZzKrqdea8RQ', 'en'],
       ['MinuteEarth', 'UCeiYXex_fwgYDonaTcSIk6w', 'en'],
       ['HHMI BioInteractive', 'UCdofq4hHbT3ZDzgYUqsDd1A', 'en'],
+      ['Kurzgesagt', 'UCsXVk37bltHxD1rDPwtNM8Q', 'en'],
+      ['SciShow', 'UCZYTClx2T1of7BRZ86-8fow', 'en'],
+      ['Journey to the Microcosmos', 'UCBbnbBWJtwsf0jLGUwX5Q3g', 'en'],
     ],
   },
 
@@ -107,6 +113,10 @@ export const INSTAGRAM_ACCOUNTS = [
   ['clintsreptiles', 'en'],
   ['natgeoanimals', 'en'],
   ['nie_korea', 'ko'],
+  ['kurzgesagt', 'en'], // 과학 애니메이션
+  ['scishow', 'en'],
+  ['asapscience', 'en'],
+  ['bbcearth', 'en'], // BBC Earth 자연 다큐
 ]
 
 // 페이스북: 최신 게시물을 카드로 보여 줄 생명과학 페이지 [주소 이름, 표시 이름, 언어]. scripts/collect-facebook.mjs 가 사용
@@ -117,6 +127,8 @@ export const FACEBOOK_PAGES = [
   ['biointeractive', 'HHMI BioInteractive', 'en'],
   ['asbmb', 'ASBMB', 'en'],
   ['societyforneuroscience', 'Society for Neuroscience', 'en'],
+  ['Kurzgesagt', 'Kurzgesagt', 'en'],
+  ['bbcearth', 'BBC Earth', 'en'],
 ]
 
 // 국내 기사: 제목에 반드시 포함해야 할 것 / 걸러낼 것
