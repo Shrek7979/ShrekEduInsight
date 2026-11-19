@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T23:14:08.047Z",
+  "updatedAt": "2026-11-19T00:49:44.281Z",
   "items": [
     {
       "id": "fb-d5e319477ff9",
@@ -15,6 +15,23 @@
       "refs": [],
       "collectedAt": "2026-11-16T06:20:32.596Z",
       "titleKo": "이상으로 2026년 화학 주간이 끝났습니다!",
+      "summaryKo": "",
+      "translator": "google"
+    },
+    {
+      "id": "fb-bbdf860063ce",
+      "kind": "news",
+      "lang": "en",
+      "title": "Two more days!!",
+      "summary": "",
+      "link": "https://www.facebook.com/AmoebaSisters/posts/pfbid038NSpeZLLgRvxJVptuu8woi4nyHX51wuZTdVr3AmN4RfLNsHj4Td76DgDYWTGvscMl",
+      "source": "Facebook American Chemical Society",
+      "category": "인기",
+      "publishedAt": "2026-11-11T12:00:00.000Z",
+      "thumb": "/social/fb/fb-bbdf860063ce.jpg",
+      "refs": [],
+      "collectedAt": "2026-11-19T00:49:44.281Z",
+      "titleKo": "이틀만 더!!",
       "summaryKo": "",
       "translator": "google"
     },
