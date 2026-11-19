@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T00:45:31.023Z",
+  "updatedAt": "2026-11-19T00:52:22.933Z",
   "items": [
     {
       "id": "2b3b57287a35",
@@ -12,7 +12,7 @@
       "source": "베리타스알파",
       "category": "입시",
       "publishedAt": "2026-11-18T23:38:14.000Z",
-      "collectedAt": "2026-11-19T00:45:31.023Z",
+      "collectedAt": "2026-11-19T00:52:22.933Z",
       "thumb": "/thumbs/2b3b57287a35.png"
     },
     {
@@ -26,7 +26,7 @@
       "source": "베리타스알파",
       "category": "연구",
       "publishedAt": "2026-11-18T23:38:07.000Z",
-      "collectedAt": "2026-11-19T00:45:31.023Z",
+      "collectedAt": "2026-11-19T00:52:22.933Z",
       "thumb": "/thumbs/70d5cc1fcf09.jpg"
     },
     {
@@ -35,29 +35,47 @@
       "lang": "ko",
       "title": "[2027 수능] '불영어' 논란에 영어 난도 손질…'사탐런' 고려해 유불리 최소화",
       "summary": "황혜영 기자 = 2027학년도 대학수학능력시험(수능) 출제위원단은 19일 영어 영역에 대해 \"지난…",
-      "detail": "황혜영 기자 = 2027학년도 대학수학능력시험(수능) 출제위원단은 19일 영어 영역에 대해 \"지난 6월 모의평가와 9월 모의평가 결과를 보고 이번 수능에서는 난이도를 미세 조정했다 ...",
+      "detail": "황혜영 기자 = 2027학년도 대학수학능력시험(수능) 출제위원단은 19일 영어 영역에 대해 \"지난 6월 모의평가와 9월 모의평가 결과를 보고 이번 수능에서는 난이도를 미세 조정했다\"고 밝혔다.'사탐런'과 N수생 증가에 따른 응시집단 변화를 분석해,…",
       "link": "https://www.newspim.com/news/view/20261119000305",
       "source": "뉴스핌",
       "image": "http://www.bing.com/th?id=ONUT.fWJFEPT93MddVJ7dJf3UAw&pid=News",
       "category": "입시",
       "publishedAt": "2026-11-18T16:01:00.000Z",
-      "collectedAt": "2026-11-19T00:45:31.023Z",
+      "collectedAt": "2026-11-19T00:52:22.933Z",
       "thumb": "/thumbs/86c407f8f149.png"
     },
     {
-      "id": "2d7dc9483f27",
+      "id": "f20341fea5cd",
+      "kind": "news",
+      "lang": "en",
+      "title": "Four-Loop Nonsinglet Splitting Functions in QCD",
+      "summary": "Author(s): Thomas Gehrmann, Andreas von Manteuffel,…",
+      "detail": "Author(s): Thomas Gehrmann, Andreas von Manteuffel, Vasily Sotnikov, and Tong-Zhi YangThe scale evolution of parton distributions is…",
+      "link": "http://link.aps.org/doi/10.1103/sgtd-c4zg",
+      "source": "Physical Review Letters",
+      "category": "연구",
+      "publishedAt": "2026-11-18T10:00:00.000Z",
+      "collectedAt": "2026-11-19T00:52:22.933Z",
+      "titleKo": "QCD의 4-루프 비싱글렛 분할 함수",
+      "summaryKo": "저자: Thomas Gehrmann, Andreas von Manteuffel,…",
+      "translator": "google",
+      "detailKo": "저자: Thomas Gehrmann, Andreas von Manteuffel, Vasily Sotnikov 및 Tong-Zhi Yang파톤 분포의 규모 진화는…",
+      "thumb": "/thumbs/f20341fea5cd.png"
+    },
+    {
+      "id": "432bed2ef75b",
       "kind": "news",
       "lang": "ko",
-      "title": "[2027 수능] \"킬러문항 철저 배제…N수생·사탐런 변수 고려해 촘촘한 변별력 확보\"",
-      "summary": "2027학년도 대학수학능력시험(수능) 출제본부가 이른바 '킬러문항(초고난도 문항)'을 철저히…",
-      "detail": "2027학년도 대학수학능력시험(수능) 출제본부가 이른바 '킬러문항(초고난도 문항)'을 철저히 배제하고 공교육 교육과정 내에서 적정 변별력을 확보하는 데 주력했다고 밝혔다. 특히 23년 만에 최대 규모로 몰린 졸업생(N수생)과 자연계 수험생의 사회탐구…",
-      "link": "https://www.ajunews.com/view/20261119091730096",
-      "source": "아주경제",
-      "image": "http://www.bing.com/th?id=ONUT.8KItohOWIdbd9f9dnKyKhQ&pid=News",
-      "category": "입시",
-      "publishedAt": "2026-11-18T11:22:00.000Z",
-      "collectedAt": "2026-11-19T00:45:31.023Z",
-      "thumb": "/thumbs/2d7dc9483f27.jpg"
+      "title": "박인 경남도의원 \"양산과학고 신설해야…동부경남 과학교육 거점 육성\"",
+      "summary": "남경문 기자 = 경남도의회에서 경남과학고의 영재학교 전환이 추진됨에 따라 경남의 과학고 체계 재편과…",
+      "detail": "남경문 기자 = 경남도의회에서 경남과학고의 영재학교 전환이 추진됨에 따라 경남의 과학고 체계 재편과 양산과학고 신설을 서둘러야 한다는 주장이 나왔다. 경남도의회 교육위원회 박인 의원(국민의힘·양산5)은 18일 제438회 정례회 제2차 본회의 5분…",
+      "link": "https://www.msn.com/ko-kr/news/other/%EB%B0%95%EC%9D%B8-%EA%B2%BD%EB%82%A8%EB%8F%84%EC%9D%98%EC%9B%90-%EC%96%91%EC%82%B0%EA%B3%BC%ED%95%99%EA%B3%A0-%EC%8B%A0%EC%84%A4%ED%95%B4%EC%95%BC-%EB%8F%99%EB%B6%80%EA%B2%BD%EB%82%A8-%EA%B3%BC%ED%95%99%EA%B5%90%EC%9C%A1-%EA%B1%B0%EC%A0%90-%EC%9C%A1%EC%84%B1/ar-AA2hGgKG",
+      "source": "뉴스핌",
+      "image": "http://www.bing.com/th?id=ONUT.V0Uu5YmDsSKawtP1A7_WRg&pid=News",
+      "category": "교육",
+      "publishedAt": "2026-11-18T01:35:04.000Z",
+      "collectedAt": "2026-11-19T00:52:22.933Z",
+      "thumb": "/thumbs/432bed2ef75b.jpg"
     },
     {
       "id": "bsky-3n2mja47wab2c",
@@ -2488,21 +2506,6 @@
       "publishedAt": "2026-11-12T02:45:00.000Z",
       "collectedAt": "2026-11-12T11:38:52.178Z",
       "thumb": "/thumbs/85f0d2a8e2d8.jpg"
-    },
-    {
-      "id": "d6f020b955ff",
-      "kind": "news",
-      "lang": "ko",
-      "title": "이투스, ‘2028 수능 통합사회·통합과학 설명회’ 전개",
-      "summary": "11월 강남 출발해 수도권, 대구·부산·광주 거쳐 대전까지 순차 진행 선택과목 폐지 따른 통합 탐구…",
-      "detail": "11월 강남 출발해 수도권, 대구·부산·광주 거쳐 대전까지 순차 진행 선택과목 폐지 따른 통합 탐구 도입...대비법과 입시 전략 무료 공유 예비 고1부터 고3 학생·학부모 누구나 온라인 사전 등록 ...",
-      "link": "https://www.beyondpost.co.kr/view.php?ud=2026111210300862059aeda69934_30",
-      "source": "beyondpost",
-      "image": "http://www.bing.com/th?id=ONUT.MEGh433tDtx_J1gGZkty9g&pid=News",
-      "category": "입시",
-      "publishedAt": "2026-11-12T02:45:00.000Z",
-      "collectedAt": "2026-11-12T11:38:52.178Z",
-      "thumb": "/thumbs/d6f020b955ff.jpg"
     }
   ]
 }

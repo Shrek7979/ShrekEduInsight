@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T00:49:43.573Z",
+  "updatedAt": "2026-11-19T00:55:29.943Z",
   "items": [
     {
       "id": "fb-abc730072f9b",
@@ -27,11 +27,28 @@
       "link": "https://www.facebook.com/physicsworld/posts/pfbid02TTqZC4tKcz7sFwjKGn5nrBfjULLBcsdhBjgLf3ktZyM7DS1T7fThdyDcBgqToNhUl",
       "source": "Facebook Physics World",
       "category": "인기",
-      "publishedAt": "2026-11-18T17:49:00.420Z",
+      "publishedAt": "2026-11-18T17:54:45.887Z",
       "thumb": "/social/fb/fb-ef01b19efc2c.jpg",
       "refs": [],
-      "collectedAt": "2026-11-19T00:49:43.573Z",
+      "collectedAt": "2026-11-19T00:55:29.943Z",
       "titleKo": "귀하의 경력은 다음 직업보다 훨씬 더 중요합니다.",
+      "summaryKo": "",
+      "translator": "google"
+    },
+    {
+      "id": "fb-a1bb2c865b4b",
+      "kind": "news",
+      "lang": "en",
+      "title": "Happy LGBTQ+ in STEM Day",
+      "summary": "",
+      "link": "https://www.facebook.com/cern/posts/pfbid027JJjJTnjsWTzaJcf2ZWcJZEkdq9FUKv75d6LgXKhmSre3NFZYw9Ccx7BueY5kbJ2l",
+      "source": "Facebook CERN",
+      "category": "인기",
+      "publishedAt": "2026-11-18T08:55:09.267Z",
+      "thumb": "/social/fb/fb-a1bb2c865b4b.jpg",
+      "refs": [],
+      "collectedAt": "2026-11-19T00:55:29.943Z",
+      "titleKo": "STEM Day를 맞아 LGBTQ+를 축하하세요",
       "summaryKo": "",
       "translator": "google"
     },

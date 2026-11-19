@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T23:14:23.326Z",
+  "updatedAt": "2026-11-19T00:55:44.832Z",
   "items": [
     {
       "id": "fb-b54af78569b3",
@@ -16,6 +16,23 @@
       "collectedAt": "2026-11-18T23:14:23.326Z",
       "titleKo": "세포외 기질 강성은 기계화학적 쌍안정 스위치를 통해 암 관련 상태를 역학적으로 안정화시킵니다.",
       "summaryKo": "",
+      "translator": "google"
+    },
+    {
+      "id": "fb-6b9e3a790bfc",
+      "kind": "news",
+      "lang": "en",
+      "title": "Publishing in Physiology?",
+      "summary": "Meet the editors reviewing your submissions at eLife…",
+      "link": "https://www.facebook.com/elifesciences/posts/pfbid0wPyF8ddyaRhvbyxvPNQHDY9MExEh1AdLn2eiRaRSzmG3k8JHaE3MgsL54o7oVx1Ll",
+      "source": "Facebook eLife",
+      "category": "인기",
+      "publishedAt": "2026-11-18T15:55:14.768Z",
+      "thumb": "/social/fb/fb-6b9e3a790bfc.jpg",
+      "refs": [],
+      "collectedAt": "2026-11-19T00:55:44.832Z",
+      "titleKo": "생리학 분야에 출판하시나요?",
+      "summaryKo": "eLife에서 귀하의 제출물을 검토하는 편집자를 만나보세요…",
       "translator": "google"
     },
     {

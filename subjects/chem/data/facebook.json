@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-11-19T00:49:44.281Z",
+  "updatedAt": "2026-11-19T00:55:26.485Z",
   "items": [
+    {
+      "id": "fb-4074961ca15d",
+      "kind": "news",
+      "lang": "en",
+      "title": "Applications are now open for ACS Public Policy Fellowships.",
+      "summary": "",
+      "link": "https://www.facebook.com/AmericanChemicalSociety/posts/pfbid0HEwHymgw6Zj35oa2VzeoDDq7gJDBHSfvE5RchaGaZZAfWHiVUcqze8F6ac7QaCL9l",
+      "source": "Facebook American Chemical Society",
+      "category": "인기",
+      "publishedAt": "2026-11-18T15:54:43.965Z",
+      "thumb": "/social/fb/fb-4074961ca15d.jpg",
+      "refs": [],
+      "collectedAt": "2026-11-19T00:55:26.485Z",
+      "titleKo": "이제 ACS 공공 정책 펠로십 신청이 시작되었습니다.",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-d5e319477ff9",
       "kind": "news",
