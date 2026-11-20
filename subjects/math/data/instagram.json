@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T01:00:12.631Z",
+  "updatedAt": "2026-11-20T13:00:12.324Z",
   "items": [
     {
       "id": "ig-De67cbqsTlu",
@@ -130,7 +130,7 @@
       "source": "Instagram @mathvisualproofs",
       "category": "문제·증명",
       "publishedAt": "2026-11-17T15:00:00.000Z",
-      "likes": "382",
+      "likes": "391",
       "thumb": "/social/ig/Df4smX0uErJ.jpg",
       "collectedAt": "2026-11-19T12:00:34.280Z",
       "titleKo": "마츠야마의 역설에 나오는 무한 초콜릿 이 짧은 글에서는 정사각형을 반복적으로 분해할 수 있는 분해 오류를 보여줍니다.",
@@ -223,23 +223,6 @@
       "translator": "google"
     },
     {
-      "id": "ig-DfqXRtQqNqp",
-      "kind": "news",
-      "lang": "en",
-      "title": "Join fiber artist superstar Shiying Dong for Knit a Klein Bottle: An Escher-Inspired Winter Cowl, a hands-on online MoMath workshop…",
-      "summary": "inspired by M.C",
-      "link": "https://www.instagram.com/momath1/p/DfqXRtQqNqp/",
-      "source": "Instagram @momath1",
-      "category": "인기",
-      "publishedAt": "2026-11-11T15:00:00.000Z",
-      "likes": "48",
-      "thumb": "/social/ig/DfqXRtQqNqp.jpg",
-      "collectedAt": "2026-11-19T00:00:15.315Z",
-      "titleKo": "섬유 예술가 슈퍼스타 Shiying Dong과 함께 Knit a Klein Bottle: Escher에서 영감을 받은 Winter Cowl, 온라인 MoMath 워크샵을 즐겨보세요.",
-      "summaryKo": "M.C에서 영감을 받아",
-      "translator": "google"
-    },
-    {
       "id": "ig-Dfmuoy8gsKZ",
       "kind": "video",
       "lang": "en",
@@ -269,6 +252,23 @@
       "likes": "32",
       "thumb": "/social/ig/DfVsbnXE2_O.jpg",
       "collectedAt": "2026-11-19T00:00:15.315Z"
+    },
+    {
+      "id": "ig-Df7enf0B9BK",
+      "kind": "news",
+      "lang": "en",
+      "title": "🔍 What connects mathematics and the art of M.C. Escher?",
+      "summary": "Despite having no advanced mathematical training,…",
+      "link": "https://www.instagram.com/panart.connections/p/Df7enf0B9BK/",
+      "source": "Instagram @momath1",
+      "category": "인기",
+      "publishedAt": "2026-11-18T15:00:00.000Z",
+      "likes": "23",
+      "thumb": "/social/ig/Df7enf0B9BK.jpg",
+      "collectedAt": "2026-11-20T13:00:12.324Z",
+      "titleKo": "🔍 수학과 M.C.의 예술을 연결하는 것 에셔?",
+      "summaryKo": "고급 수학 교육을 받지 않았음에도 불구하고…",
+      "translator": "google"
     },
     {
       "id": "ig-Df7cj60F09S",
@@ -428,6 +428,22 @@
       "translator": "google"
     },
     {
+      "id": "ig-Df8bQZ6F1f0",
+      "kind": "news",
+      "lang": "en",
+      "title": "In the wake of the Moon landings, Princeton physics professor Gerard O’Neill asked his undergrads a question: how could we build colonies…",
+      "summary": "in space?",
+      "link": "https://www.instagram.com/fermatslibrary/p/Df8bQZ6F1f0/",
+      "source": "Instagram @fermatslibrary",
+      "category": "인기",
+      "publishedAt": "2026-11-18T15:00:00.000Z",
+      "likes": "143",
+      "thumb": "/social/ig/Df8bQZ6F1f0.jpg",
+      "titleKo": "달 착륙 이후 프린스턴 물리학 교수인 제라드 오닐(Gerard O'Neill)은 학부생들에게 어떻게 식민지를 건설할 수 있는지에 대한 질문을 했습니다.",
+      "summaryKo": "우주에서?",
+      "translator": "google"
+    },
+    {
       "id": "ig-Df45kOoEQFf",
       "kind": "video",
       "lang": "en",
@@ -510,22 +526,6 @@
       "translator": "google"
     },
     {
-      "id": "ig-DfsJARzl3z_",
-      "kind": "news",
-      "lang": "en",
-      "title": "Visual proof: why the area of a circle is πr².",
-      "summary": "Slice it into thin rings, unroll each one, and stack…",
-      "link": "https://www.instagram.com/fermatslibrary/p/DfsJARzl3z_/",
-      "source": "Instagram @fermatslibrary",
-      "category": "문제·증명",
-      "publishedAt": "2026-11-12T15:00:00.000Z",
-      "likes": "533",
-      "thumb": "/social/ig/DfsJARzl3z_.jpg",
-      "titleKo": "시각적 증거: 원의 면적이 πr²인 이유",
-      "summaryKo": "얇은 고리 모양으로 썰어서 하나씩 풀어서 쌓아두세요...",
-      "translator": "google"
-    },
-    {
       "id": "ig-Df4smX0uErJ",
       "kind": "video",
       "lang": "en",
@@ -535,7 +535,7 @@
       "source": "Instagram @mathvisualproofs",
       "category": "문제·증명",
       "publishedAt": "2026-11-17T15:00:00.000Z",
-      "likes": "382",
+      "likes": "391",
       "thumb": "/social/ig/Df4smX0uErJ.jpg",
       "collectedAt": "2026-11-19T12:00:34.280Z",
       "titleKo": "마츠야마의 역설에 나오는 무한 초콜릿 이 짧은 글에서는 정사각형을 반복적으로 분해할 수 있는 분해 오류를 보여줍니다.",
@@ -675,6 +675,39 @@
       "translator": "google"
     },
     {
+      "id": "ig-Df8sTunq71s",
+      "kind": "video",
+      "lang": "en",
+      "title": "How does M.C. Escher make an impossible world look so convincing?",
+      "summary": "This Thanksgiving weekend, join MoMath fan favorite…",
+      "link": "https://www.instagram.com/momath1/reel/Df8sTunq71s/",
+      "source": "Instagram @momath1",
+      "category": "인기",
+      "publishedAt": "2026-11-18T15:00:00.000Z",
+      "likes": "11",
+      "thumb": "/social/ig/Df8sTunq71s.jpg",
+      "titleKo": "M.C.는 어떻게 되나요? Escher가 불가능한 세상을 그렇게 설득력 있게 보이도록 만들었나요?",
+      "summaryKo": "이번 추수감사절 주말에 팬이 가장 좋아하는 MoMath에 참여하세요…",
+      "translator": "google"
+    },
+    {
+      "id": "ig-Df7enf0B9BK",
+      "kind": "news",
+      "lang": "en",
+      "title": "🔍 What connects mathematics and the art of M.C. Escher?",
+      "summary": "Despite having no advanced mathematical training,…",
+      "link": "https://www.instagram.com/panart.connections/p/Df7enf0B9BK/",
+      "source": "Instagram @momath1",
+      "category": "인기",
+      "publishedAt": "2026-11-18T15:00:00.000Z",
+      "likes": "23",
+      "thumb": "/social/ig/Df7enf0B9BK.jpg",
+      "collectedAt": "2026-11-20T13:00:12.324Z",
+      "titleKo": "🔍 수학과 M.C.의 예술을 연결하는 것 에셔?",
+      "summaryKo": "고급 수학 교육을 받지 않았음에도 불구하고…",
+      "translator": "google"
+    },
+    {
       "id": "ig-Df5Hl8Xo36w",
       "kind": "news",
       "lang": "en",
@@ -705,39 +738,6 @@
       "collectedAt": "2026-11-19T00:00:15.315Z",
       "titleKo": "Escher의 예술이 살아 움직이면 어떻게 되나요?",
       "summaryKo": "모양이 변하고, 색상이 바뀌고, 온 우주가…",
-      "translator": "google"
-    },
-    {
-      "id": "ig-DfqXRtQqNqp",
-      "kind": "news",
-      "lang": "en",
-      "title": "Join fiber artist superstar Shiying Dong for Knit a Klein Bottle: An Escher-Inspired Winter Cowl, a hands-on online MoMath workshop…",
-      "summary": "inspired by M.C",
-      "link": "https://www.instagram.com/momath1/p/DfqXRtQqNqp/",
-      "source": "Instagram @momath1",
-      "category": "인기",
-      "publishedAt": "2026-11-11T15:00:00.000Z",
-      "likes": "48",
-      "thumb": "/social/ig/DfqXRtQqNqp.jpg",
-      "collectedAt": "2026-11-19T00:00:15.315Z",
-      "titleKo": "섬유 예술가 슈퍼스타 Shiying Dong과 함께 Knit a Klein Bottle: Escher에서 영감을 받은 Winter Cowl, 온라인 MoMath 워크샵을 즐겨보세요.",
-      "summaryKo": "M.C에서 영감을 받아",
-      "translator": "google"
-    },
-    {
-      "id": "ig-DfYWVNiqVw-",
-      "kind": "news",
-      "lang": "en",
-      "title": "Once upon a time, there was a perfectly normal place far, far away.",
-      "summary": "But lately, things have been going wrong in this…",
-      "link": "https://www.instagram.com/momath1/p/DfYWVNiqVw-/",
-      "source": "Instagram @momath1",
-      "category": "문제·증명",
-      "publishedAt": "2026-11-04T15:00:00.000Z",
-      "likes": "8",
-      "thumb": "/social/ig/DfYWVNiqVw-.jpg",
-      "titleKo": "옛날 옛적에 아주 멀고 먼 곳에 완벽하게 정상적인 장소가 있었습니다.",
-      "summaryKo": "그런데 최근 이 부분에 문제가 생기고 있습니다…",
       "translator": "google"
     },
     {
