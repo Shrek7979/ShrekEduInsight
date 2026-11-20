@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T12:11:03.908Z",
+  "updatedAt": "2026-11-20T01:05:02.023Z",
   "items": [
     {
       "id": "ig-Dej6hPNCF3V",
@@ -84,23 +84,6 @@
       "collectedAt": "2026-11-19T00:05:02.328Z",
       "titleKo": "초강력 레이저 총 대 잔디",
       "summaryKo": "",
-      "translator": "google"
-    },
-    {
-      "id": "ig-DeKU03plvd4",
-      "kind": "news",
-      "lang": "en",
-      "title": "This year's Nobel Prize in Chemistry will be awarded tomorrow 🏅 Here's a reminder of the research that has won the prize in previous…",
-      "summary": "years, including molecular sponges, the prediction of…",
-      "link": "https://www.instagram.com/compoundchem/p/DeKU03plvd4/",
-      "source": "Instagram @compoundchem",
-      "category": "인기",
-      "publishedAt": "2026-10-05T15:00:00.000Z",
-      "likes": "1,443",
-      "thumb": "/social/ig/DeKU03plvd4.jpg",
-      "collectedAt": "2026-10-06T18:30:09.100Z",
-      "titleKo": "올해 노벨 화학상은 내일 수여됩니다 🏅 이전에 수상한 연구를 상기시켜 드립니다…",
-      "summaryKo": "분자 스펀지를 포함한 몇 년 동안의 예측은…",
       "translator": "google"
     },
     {
@@ -206,21 +189,21 @@
       "translator": "google"
     },
     {
-      "id": "ig-Dfkm_VrDymP",
+      "id": "ig-DfpVIwqirUJ",
       "kind": "news",
       "lang": "en",
-      "title": "A hair dye that smells like cinnamon?",
-      "summary": "Yes, please!",
-      "link": "https://www.instagram.com/amerchemsociety/p/Dfkm_VrDymP/",
+      "title": "Humans aren’t the only animals that can develop chronic kidney disease, usually shortened to CKD.",
+      "summary": "Cats like Sosuke (pictured here) do, too",
+      "link": "https://www.instagram.com/amerchemsociety/p/DfpVIwqirUJ/",
       "source": "Instagram @amerchemsociety",
       "category": "인기",
-      "publishedAt": "2026-11-09T15:00:00.000Z",
-      "likes": "344",
-      "thumb": "/social/ig/Dfkm_VrDymP.jpg",
-      "collectedAt": "2026-11-19T00:05:02.328Z",
-      "titleKo": "계피향이 나는 염색약?",
-      "summaryKo": "네, 제발요!",
-      "translator": "google"
+      "publishedAt": "2026-11-11T15:00:00.000Z",
+      "likes": "280",
+      "thumb": "/social/ig/DfpVIwqirUJ.jpg",
+      "titleKo": "일반적으로 CKD로 단축되는 만성 신장 질환을 일으킬 수 있는 동물은 인간만이 아닙니다.",
+      "summaryKo": "소스케(여기 사진) 같은 고양이도 그렇습니다.",
+      "translator": "google",
+      "collectedAt": "2026-11-20T01:05:02.023Z"
     },
     {
       "id": "ig-DfrorRXl73f",
@@ -310,20 +293,19 @@
       "collectedAt": "2026-11-19T00:05:02.328Z"
     },
     {
-      "id": "ig-DeKU03plvd4",
-      "kind": "news",
+      "id": "ig-Df7mGPXApRx",
+      "kind": "video",
       "lang": "en",
-      "title": "This year's Nobel Prize in Chemistry will be awarded tomorrow 🏅 Here's a reminder of the research that has won the prize in previous…",
-      "summary": "years, including molecular sponges, the prediction of…",
-      "link": "https://www.instagram.com/compoundchem/p/DeKU03plvd4/",
-      "source": "Instagram @compoundchem",
+      "title": "Tiny, but mighty.",
+      "summary": "Tiny sea-spray droplets may be doing more than we…",
+      "link": "https://www.instagram.com/amerchemsociety/reel/Df7mGPXApRx/",
+      "source": "Instagram @amerchemsociety",
       "category": "인기",
-      "publishedAt": "2026-10-05T15:00:00.000Z",
-      "likes": "1,443",
-      "thumb": "/social/ig/DeKU03plvd4.jpg",
-      "collectedAt": "2026-10-06T18:30:09.100Z",
-      "titleKo": "올해 노벨 화학상은 내일 수여됩니다 🏅 이전에 수상한 연구를 상기시켜 드립니다…",
-      "summaryKo": "분자 스펀지를 포함한 몇 년 동안의 예측은…",
+      "publishedAt": "2026-11-18T15:00:00.000Z",
+      "likes": "79",
+      "thumb": "/social/ig/Df7mGPXApRx.jpg",
+      "titleKo": "작지만 강력합니다.",
+      "summaryKo": "작은 바다 물보라 방울이 우리보다 더 많은 일을 하고 있을지도 모릅니다…",
       "translator": "google"
     },
     {
@@ -406,7 +388,8 @@
       "thumb": "/social/ig/DfpVIwqirUJ.jpg",
       "titleKo": "일반적으로 CKD로 단축되는 만성 신장 질환을 일으킬 수 있는 동물은 인간만이 아닙니다.",
       "summaryKo": "소스케(여기 사진) 같은 고양이도 그렇습니다.",
-      "translator": "google"
+      "translator": "google",
+      "collectedAt": "2026-11-20T01:05:02.023Z"
     },
     {
       "id": "ig-DfpEYfrmdke",
@@ -436,23 +419,6 @@
       "thumb": "/social/ig/DfmcuSQBE1f.jpg",
       "titleKo": "🩸자연의 식인 풍습: 잔인하지만 진화론적으로 유용합니까?",
       "summaryKo": "🐜 자연에서는 식인 풍습이 놀라울 정도로 흔합니다.",
-      "translator": "google"
-    },
-    {
-      "id": "ig-Dfkm_VrDymP",
-      "kind": "news",
-      "lang": "en",
-      "title": "A hair dye that smells like cinnamon?",
-      "summary": "Yes, please!",
-      "link": "https://www.instagram.com/amerchemsociety/p/Dfkm_VrDymP/",
-      "source": "Instagram @amerchemsociety",
-      "category": "인기",
-      "publishedAt": "2026-11-09T15:00:00.000Z",
-      "likes": "344",
-      "thumb": "/social/ig/Dfkm_VrDymP.jpg",
-      "collectedAt": "2026-11-19T00:05:02.328Z",
-      "titleKo": "계피향이 나는 염색약?",
-      "summaryKo": "네, 제발요!",
       "translator": "google"
     },
     {
@@ -670,22 +636,6 @@
       "collectedAt": "2026-11-19T00:05:02.328Z",
       "titleKo": "더 나은 할로윈 안개 주스를 만드는 방법은 다음과 같습니다.",
       "summaryKo": "",
-      "translator": "google"
-    },
-    {
-      "id": "ig-DeKDa4pxpBB",
-      "kind": "video",
-      "lang": "en",
-      "title": "Which salt will make ice cream even faster?",
-      "summary": "Comment “paper” to get link!",
-      "link": "https://www.instagram.com/acsreactions/reel/DeKDa4pxpBB/",
-      "source": "Instagram @acsreactions",
-      "category": "인기",
-      "publishedAt": "2026-10-05T15:00:00.000Z",
-      "likes": "63",
-      "thumb": "/social/ig/DeKDa4pxpBB.jpg",
-      "titleKo": "어떤 소금이 아이스크림을 더 빨리 만들까요?",
-      "summaryKo": "링크를 얻으려면 “paper”를 댓글로 달아주세요!",
       "translator": "google"
     },
     {
