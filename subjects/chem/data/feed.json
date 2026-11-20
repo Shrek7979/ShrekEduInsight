@@ -1,6 +1,25 @@
 {
-  "updatedAt": "2026-11-20T13:08:50.199Z",
+  "updatedAt": "2026-11-20T13:11:52.640Z",
   "items": [
+    {
+      "id": "bsky-3mz6wfw7tj222",
+      "kind": "video",
+      "lang": "en",
+      "title": "Trick or chemistry treat… 🎃",
+      "summary": "",
+      "link": "https://bsky.app/profile/compoundchem.com/post/3mz6wfw7tj222",
+      "source": "Bluesky Compound Interest",
+      "image": "https://video.bsky.app/watch/did%3Aplc%3Aelgkp22tjscka4ij6kqibtvt/bafkreief2aycnmf6c2muepxzsyunkwmwj2vb544bmmobliyugncwlhfpy4/thumbnail.jpg",
+      "likes": "57",
+      "category": "인기",
+      "publishedAt": "2026-10-31T18:29:27.273Z",
+      "collectedAt": "2026-11-20T13:11:52.640Z",
+      "titleKo": "트릭이나 케미스트리… 🎃",
+      "summaryKo": "",
+      "translator": "google",
+      "detail": "",
+      "thumb": "/thumbs/bsky-3mz6wfw7tj222.jpg"
+    },
     {
       "id": "bsky-3n2qhtbn3ds2o",
       "kind": "news",
@@ -214,7 +233,7 @@
       "publishedAt": "2026-10-16T22:02:57.000Z",
       "collectedAt": "2026-11-20T01:16:32.038Z",
       "titleKo": "이 자석 기계는 무섭습니다",
-      "summaryKo": "꼭 만들어 봐야 할 기계 중 하나인데.",
+      "summaryKo": "꼭 만들어 봐야 할 기계 중 하나인데",
       "translator": "google",
       "detailKo": "이것은 네오디뮴 자석을 만드는 데 필요한 기계 중 하나인데 실제로는 좀 무섭습니다.",
       "thumb": "/thumbs/83a928c55956.jpg"
@@ -742,7 +761,7 @@
       "category": "입시",
       "publishedAt": "2026-11-18T16:01:00.000Z",
       "collectedAt": "2026-11-19T00:52:22.924Z",
-      "thumb": "/thumbs/86c407f8f149.jpg"
+      "thumb": "/thumbs/86c407f8f149.png"
     },
     {
       "id": "432bed2ef75b",
@@ -1815,7 +1834,7 @@
       "category": "소재·에너지",
       "publishedAt": "2026-11-17T04:00:00.000Z",
       "collectedAt": "2026-11-17T17:44:49.834Z",
-      "thumb": "/thumbs/f30c207efb6e.png"
+      "thumb": "/thumbs/f30c207efb6e.jpg"
     },
     {
       "id": "f1daf933c304",
@@ -2365,7 +2384,7 @@
       "category": "소재·에너지",
       "publishedAt": "2026-11-15T15:17:00.000Z",
       "collectedAt": "2026-11-16T06:16:24.546Z",
-      "thumb": "/thumbs/3cc25172deae.png"
+      "thumb": "/thumbs/3cc25172deae.jpg"
     },
     {
       "id": "b0ee142b470f",
@@ -2452,21 +2471,6 @@
       "publishedAt": "2026-11-15T11:19:00.000Z",
       "collectedAt": "2026-11-16T06:16:24.546Z",
       "thumb": "/thumbs/ebb3cd95d770.jpg"
-    },
-    {
-      "id": "a7b96410eb01",
-      "kind": "news",
-      "lang": "ko",
-      "title": "광주과학고, 대구과학고... '2026 영재 체육교류전' 개최",
-      "summary": "광주과학고등학교(이하 광주과학고)는 지난 14일 교내에서 대구과학고등학교(이하 대구과학고) 학생들과…",
-      "detail": "광주과학고등학교(이하 광주과학고)는 지난 14일 교내에서 대구과학고등학교(이하 대구과학고) 학생들과 함께 ‘2026학년도 달빛 영재 체육교류전’을 열고 스포츠를 통한 영재학교 간 교류와 협동·배려의 교육 가치를 실천했다고 15일 밝혔다.…",
-      "link": "https://www.newsworker.co.kr/news/articleView.html?idxno=514103",
-      "source": "뉴스워커",
-      "image": "http://www.bing.com/th?id=ONUT.QuBSOk8ETv4bUaC0Qq0Txw&pid=News",
-      "category": "교육",
-      "publishedAt": "2026-11-15T10:10:00.000Z",
-      "collectedAt": "2026-11-16T06:16:24.546Z",
-      "thumb": "/thumbs/a7b96410eb01.jpg"
     }
   ]
 }

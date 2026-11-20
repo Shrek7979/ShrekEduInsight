@@ -1,6 +1,41 @@
 {
-  "updatedAt": "2026-11-20T13:08:50.227Z",
+  "updatedAt": "2026-11-20T13:11:52.651Z",
   "items": [
+    {
+      "id": "1fe0af88b7a2",
+      "kind": "news",
+      "lang": "en",
+      "title": "Gamma-Ray Pulsar Discovery Using a Lattice-Based Method",
+      "summary": "Author(s): Daniel Pook-Kolb, Dotan Gazith, Colin J",
+      "detail": "Author(s): Daniel Pook-Kolb, Dotan Gazith, Colin J. Clark, Erik Agrell, Barak Zackay, and Bruce AllenResearchers using a cryptography-based…",
+      "link": "http://link.aps.org/doi/10.1103/vlt2-xzgk",
+      "source": "Physical Review Letters",
+      "category": "연구",
+      "publishedAt": "2026-11-19T10:00:00.000Z",
+      "collectedAt": "2026-11-20T13:11:52.651Z",
+      "titleKo": "격자 기반 방법을 사용한 감마선 펄서 발견",
+      "summaryKo": "저자: Daniel Pook-Kolb, Dotan Gazith, Colin J",
+      "translator": "google",
+      "detailKo": "저자: Daniel Pook-Kolb, Dotan Gazith, Colin J. Clark, Erik Agrell, Barak Zackay 및 Bruce Allen 암호화 기반을 사용하는 연구자…",
+      "thumb": "/thumbs/1fe0af88b7a2.png"
+    },
+    {
+      "id": "32724c45dd5f",
+      "kind": "video",
+      "lang": "ko",
+      "title": "한국이 본격적으로 핵무기를 만들면 어떻게 될까?ㅣ범준에 물리다",
+      "summary": "",
+      "detail": "",
+      "link": "https://www.youtube.com/watch?v=1jL9gaDVaNw",
+      "source": "범준에 물리다",
+      "image": "https://i2.ytimg.com/vi/1jL9gaDVaNw/hqdefault.jpg",
+      "views": 1079789,
+      "category": "인기",
+      "publishedAt": "2026-10-23T11:00:04.000Z",
+      "collectedAt": "2026-11-20T13:11:52.651Z",
+      "summaryKo": "",
+      "thumb": "/thumbs/32724c45dd5f.jpg"
+    },
     {
       "id": "3b6740d38db2",
       "kind": "news",
@@ -1490,7 +1525,7 @@
       "category": "연구",
       "publishedAt": "2026-11-17T08:59:00.000Z",
       "collectedAt": "2026-11-17T17:44:49.830Z",
-      "thumb": "/thumbs/8da296de4495.jpg"
+      "thumb": "/thumbs/8da296de4495.png"
     },
     {
       "id": "ea16e9a52d2b",
@@ -2440,39 +2475,6 @@
       "publishedAt": "2026-11-14T15:59:47.000Z",
       "collectedAt": "2026-11-15T14:12:05.304Z",
       "thumb": "/thumbs/500ec70b6cdf.jpg"
-    },
-    {
-      "id": "a3043eb6c667",
-      "kind": "video",
-      "lang": "en",
-      "title": "What happens if I lower this weight into the water?",
-      "summary": "Will the weighing scale underneath go up, down or stay…",
-      "link": "https://www.youtube.com/shorts/zEmabFZvdqA",
-      "source": "Veritasium",
-      "image": "https://i3.ytimg.com/vi/zEmabFZvdqA/hqdefault.jpg",
-      "views": 3455798,
-      "category": "인기",
-      "publishedAt": "2026-10-30T14:00:38.000Z",
-      "collectedAt": "2026-11-15T14:12:05.304Z",
-      "titleKo": "이 무게를 물 속으로 낮추면 어떻게 될까요?",
-      "summaryKo": "아래 체중계가 올라갈지, 내려갈지, 아니면 머물지…",
-      "translator": "google",
-      "thumb": "/thumbs/a3043eb6c667.jpg"
-    },
-    {
-      "id": "85a8a1d0a135",
-      "kind": "video",
-      "lang": "ko",
-      "title": "한번의 마약으로 순식간에 뇌가 무너지는 과정ㅣ범준에 물리다",
-      "summary": "■ 장홍제 교수님이 극찬한 '원소원정대' 도서 구매링크!",
-      "link": "https://www.youtube.com/watch?v=4EJWAvEC0S8",
-      "source": "범준에 물리다",
-      "image": "https://i1.ytimg.com/vi/4EJWAvEC0S8/hqdefault.jpg",
-      "views": 1826232,
-      "category": "인기",
-      "publishedAt": "2026-10-30T11:00:07.000Z",
-      "collectedAt": "2026-11-15T14:12:05.304Z",
-      "thumb": "/thumbs/85a8a1d0a135.jpg"
     }
   ]
 }

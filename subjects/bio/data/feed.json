@@ -1,6 +1,57 @@
 {
-  "updatedAt": "2026-11-20T13:08:50.226Z",
+  "updatedAt": "2026-11-20T13:11:52.644Z",
   "items": [
+    {
+      "id": "b28b5963b3d4",
+      "kind": "news",
+      "lang": "en",
+      "title": "‘I had felt overconfident’: senior scientists reveal mistakes that aided discovery",
+      "summary": "Five experienced researchers, including a Nobel…",
+      "detail": "Five experienced researchers, including a Nobel prizewinner, revisit the dead ends, bloopers and moments of stubborn certainty that shaped…",
+      "link": "https://www.nature.com/articles/d41586-026-03590-2",
+      "source": "Nature",
+      "category": "해외",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "collectedAt": "2026-11-20T13:11:52.644Z",
+      "titleKo": "'과도한 자신감을 느꼈다': 선임 과학자들이 발견에 도움이 된 실수를 폭로함",
+      "summaryKo": "노벨상 등 경험 많은 연구자 5명…",
+      "translator": "google",
+      "detailKo": "노벨상 수상자를 포함한 5명의 숙련된 연구자들이 막다른 골목, 실수, 완고한 확신의 순간을 다시 살펴봅니다.",
+      "thumb": "/thumbs/b28b5963b3d4.png"
+    },
+    {
+      "id": "8f6259542ba7",
+      "kind": "news",
+      "lang": "ko",
+      "title": "국립생물자원관, 생물기후 연구 전문인력 양성사업 최종 성과 발표",
+      "summary": "기후에너지환경부 소속 국립생물자원관(관장 유호)은 20일 관내 생생채움 전시관(인천 서해구…",
+      "detail": "기후에너지환경부 소속 국립생물자원관(관장 유호)은 20일 관내 생생채움 전시관(인천 서해구 소재)에서 ‘생물기후 연구 전문인력 양성’ 사업의 최종 성과 발표회를 가졌다.‘생물기후 연구 전문인력 양성’ 사업은 기후위기와 생물다양성 감소 등 복합적인…",
+      "link": "https://www.ikld.kr/news/articleView.html?idxno=344597",
+      "source": "국토일보",
+      "image": "http://www.bing.com/th?id=ONUT.miv2MCmhcaMvYsQ08zvgaA&pid=News",
+      "category": "대회·행사",
+      "publishedAt": "2026-11-19T19:47:00.000Z",
+      "collectedAt": "2026-11-20T13:11:52.644Z",
+      "thumb": "/thumbs/8f6259542ba7.png"
+    },
+    {
+      "id": "97c0f8751505",
+      "kind": "news",
+      "lang": "en",
+      "title": "Mapping primate brain aging across cell types, regions, and sexes",
+      "summary": "Aging is the major risk factor for neurodegenerative…",
+      "detail": "Aging is the major risk factor for neurodegenerative disease, yet how it affects different cells in the primate brain remains unclear. In…",
+      "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01271-7?rss=yes",
+      "source": "Cell",
+      "category": "연구",
+      "publishedAt": "2026-11-12T00:00:00.000Z",
+      "collectedAt": "2026-11-20T13:11:52.644Z",
+      "titleKo": "세포 유형, 지역 및 성별에 따른 영장류 뇌 노화 매핑",
+      "summaryKo": "노화는 신경퇴행성 질환의 주요 위험 요인입니다…",
+      "translator": "google",
+      "detailKo": "노화는 신경퇴행성 질환의 주요 위험 요소이지만, 노화가 영장류 뇌의 다른 세포에 어떻게 영향을 미치는지는 불분명합니다. 안에…",
+      "thumb": "/thumbs/97c0f8751505.png"
+    },
     {
       "id": "bsky-3n2qlghtmww2f",
       "kind": "news",
@@ -188,24 +239,6 @@
       "publishedAt": "2026-11-20T02:17:00.000Z",
       "collectedAt": "2026-11-20T13:08:50.226Z",
       "thumb": "/thumbs/672dba03008b.png"
-    },
-    {
-      "id": "b28b5963b3d4",
-      "kind": "news",
-      "lang": "en",
-      "title": "‘I had felt overconfident’: senior scientists reveal mistakes that aided discovery",
-      "summary": "Five experienced researchers, including a Nobel…",
-      "detail": "Five experienced researchers, including a Nobel prizewinner, revisit the dead ends, bloopers and moments of stubborn certainty that shaped…",
-      "link": "https://www.nature.com/articles/d41586-026-03590-2",
-      "source": "Nature",
-      "category": "해외",
-      "publishedAt": "2026-11-20T00:00:00.000Z",
-      "collectedAt": "2026-11-20T13:08:50.226Z",
-      "titleKo": "'과도한 자신감을 느꼈다': 선임 과학자들이 발견에 도움이 된 실수를 폭로함",
-      "summaryKo": "노벨상 등 경험 많은 연구자 5명…",
-      "translator": "google",
-      "detailKo": "노벨상 수상자를 포함한 5명의 숙련된 연구자들이 막다른 골목, 실수, 완고한 확신의 순간을 다시 살펴봅니다.",
-      "thumb": "/thumbs/b28b5963b3d4.jpg"
     },
     {
       "id": "01f2435a740d",
@@ -872,7 +905,7 @@
       "summaryKo": "학부생은 유전적 전파를 퍼뜨린 최초의 그룹이었습니다…",
       "translator": "google",
       "detailKo": "대유행 기간 동안 학부생들이 SARS-CoV-2의 유전적 변이체를 퍼뜨린 최초의 그룹인 것으로 대규모 분석 결과 밝혀졌습니다.",
-      "thumb": "/thumbs/32c827b7b9ad.jpg"
+      "thumb": "/thumbs/32c827b7b9ad.png"
     },
     {
       "id": "322f5f41e82f",
@@ -890,7 +923,7 @@
       "summaryKo": "조류 번성은 중요한 생태 현상입니다",
       "translator": "google",
       "detailKo": "조류 번성은 탄소 고정을 촉진하고 해양 먹이사슬에 연료를 공급하는 중요한 생태 현상입니다. 바이러스 감염으로 인해 종종 종료됩니다…",
-      "thumb": "/thumbs/322f5f41e82f.jpg"
+      "thumb": "/thumbs/322f5f41e82f.png"
     },
     {
       "id": "88246c7c6cd2",
@@ -1119,7 +1152,7 @@
       "summaryKo": "뇌는 병원체를 해독하고 다음에 대한 기억을 저장할 수 있습니다",
       "translator": "google",
       "detailKo": "뇌는 병원체를 해독하고 이전 질병에 대한 기억을 저장하며 미래의 위협에 대비하여 신체를 준비할 수 있습니다.",
-      "thumb": "/thumbs/9f481dbecfbf.jpg"
+      "thumb": "/thumbs/9f481dbecfbf.png"
     },
     {
       "id": "eb84ed8bf735",
@@ -1542,7 +1575,7 @@
       "summaryKo": "지옥닭 공룡인 인페르노갈루스가 진화했다…",
       "translator": "google",
       "detailKo": "'지옥닭' 공룡인 인페르노갈루스(Infernogallus)는 과일이 많은 식단을 먹도록 진화했습니다. 이는 과일을 먹는 적응의 첫 번째 증거일 수 있습니다…",
-      "thumb": "/thumbs/2c0b1cec7af3.jpg"
+      "thumb": "/thumbs/2c0b1cec7af3.webp"
     },
     {
       "id": "2f3784d3b203",
@@ -1845,7 +1878,7 @@
       "summaryKo": "우리 기자는 두 가지가 무엇인지 알아보기 위해 똥을 우편으로 보냈습니다",
       "translator": "google",
       "detailKo": "우리 기자는 두 회사가 그녀의 미생물군집에 대해 어떻게 말하는지 알아보기 위해 그녀의 똥을 우편으로 보냈습니다. 그녀가 찾은 것은 다음과 같습니다.",
-      "thumb": "/thumbs/0597500d88f1.jpg"
+      "thumb": "/thumbs/0597500d88f1.png"
     },
     {
       "id": "f1b21a2c43c6",
@@ -1863,7 +1896,7 @@
       "summaryKo": "전 세계 농업 수요는 과거에 비해 증가했습니다…",
       "translator": "google",
       "detailKo": "지난 수십 년 동안 전 세계 농업 수요가 증가하여 세계에서 가장 생물 다양성이 높은 일부 지역에서 토지 이용이 집중되었습니다.",
-      "thumb": "/thumbs/f1b21a2c43c6.jpg"
+      "thumb": "/thumbs/f1b21a2c43c6.png"
     },
     {
       "id": "0f4ca3810df8",
@@ -2246,7 +2279,7 @@
       "category": "생태·환경",
       "publishedAt": "2026-11-17T14:00:00.000Z",
       "collectedAt": "2026-11-18T07:18:15.410Z",
-      "thumb": "/thumbs/fe3bff733aa9.webp"
+      "thumb": "/thumbs/fe3bff733aa9.jpg"
     },
     {
       "id": "308035427ec5",
@@ -2352,7 +2385,7 @@
       "summaryKo": "화석화된 인쇄물에는 발이 남긴 흔적이 기록되어 있습니다",
       "translator": "google",
       "detailKo": "화석화된 인쇄물에는 엉덩이 높이가 1미터에 달하는 어린 파충류의 발과 엉덩이가 남긴 흔적이 기록되어 있습니다.",
-      "thumb": "/thumbs/c0007229fa24.jpg"
+      "thumb": "/thumbs/c0007229fa24.png"
     },
     {
       "id": "996f7e0d2bc9",
@@ -2391,38 +2424,6 @@
       "translator": "google",
       "detailKo": "어떤 분자가 먼저 나왔는가에 대한 수십 년 간의 논쟁 끝에, 새로운 세대의 과학자들은 생명이 무엇이고, 무엇이고, 무엇이 될 수 있는지 다시 생각하고 있습니다.",
       "thumb": "/thumbs/f9ac99145de7.jpg"
-    },
-    {
-      "id": "2e514490f585",
-      "kind": "news",
-      "lang": "ko",
-      "title": "27년의 기록으로 살펴본 겨울철새의 소중한 서식지 100곳!",
-      "summary": "우리나라 생물 자원의 가치를 발굴하고 생물다양성을 연구하는 국립생물자원관입니다",
-      "detail": "우리나라 생물 자원의 가치를 발굴하고 생물다양성을 연구하는 국립생물자원관입니다. 추운 겨울이 찾아오면 우리나라의 강과 호수, 갯벌 등에는 겨울을 나기 위해 찾아온 철새들로 활기가 넘치는데요! 오늘은 겨울철새와 관련된 특별한 연구 소식을 전해드립니다.…",
-      "link": "https://blog.naver.com/nibr_bio/224474535882?fromRss=true&trackingCode=rss",
-      "source": "네이버 블로그 국립생물자원관",
-      "category": "인기",
-      "publishedAt": "2026-11-12T08:10:23.000Z",
-      "collectedAt": "2026-11-18T07:18:15.410Z",
-      "thumb": "/thumbs/2e514490f585.png"
-    },
-    {
-      "id": "f89149f5ae95",
-      "kind": "news",
-      "lang": "en",
-      "title": "Collaboration across scales: More than the sum of its parts",
-      "summary": "Science is collaborative by nature, but some questions…",
-      "detail": "Science is collaborative by nature, but some questions require coordination on an exceptional scale. Among them is the challenge of…",
-      "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01282-1?rss=yes",
-      "source": "Cell",
-      "category": "연구",
-      "publishedAt": "2026-11-12T00:00:00.000Z",
-      "collectedAt": "2026-11-18T07:18:15.410Z",
-      "titleKo": "규모에 따른 협업: 부분의 합 그 이상",
-      "summaryKo": "과학은 본질적으로 협력적이지만 몇 가지 질문이 있습니다…",
-      "translator": "google",
-      "detailKo": "과학은 본질적으로 협력적이지만 일부 질문에는 예외적인 규모의 조정이 필요합니다. 그 중에는…",
-      "thumb": "/thumbs/f89149f5ae95.png"
     }
   ]
 }

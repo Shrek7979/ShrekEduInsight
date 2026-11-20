@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-11-19T12:20:20.146Z",
+  "updatedAt": "2026-11-20T13:17:04.653Z",
   "items": [
+    {
+      "id": "fb-2a1eeb584095",
+      "kind": "news",
+      "lang": "en",
+      "title": "Physics has no borders.",
+      "summary": "",
+      "link": "https://www.facebook.com/apsphysics/posts/pfbid02iFMcQeho26p7LPXSynhZSDf7yYvhbuZcbSMep5NbCZcWs7eK7ZnWBUQ3bSZ4fRwsl",
+      "source": "Facebook American Physical Society",
+      "category": "인기",
+      "publishedAt": "2026-11-19T22:16:42.707Z",
+      "thumb": "/social/fb/fb-2a1eeb584095.jpg",
+      "refs": [],
+      "collectedAt": "2026-11-20T13:17:04.653Z",
+      "titleKo": "물리학에는 국경이 없습니다.",
+      "summaryKo": "",
+      "translator": "google"
+    },
+    {
+      "id": "fb-1a363d188335",
+      "kind": "news",
+      "lang": "en",
+      "title": "Renowned astrophysicist Jocelyn Bell Burnell gives her verdict on Graham Farmelo's new authorized biography of legendary cosmologist…",
+      "summary": "Stephen Hawking",
+      "link": "https://www.facebook.com/physicsworld/posts/pfbid04g4z1dsGqNdTxKJkdNGQoRdZUfsrq92KLcyL4fFBtw5svc85NTuV7BnaZYe99gCDl",
+      "source": "Facebook Physics World",
+      "category": "인기",
+      "publishedAt": "2026-11-19T19:16:31.645Z",
+      "thumb": "/social/fb/fb-1a363d188335.jpg",
+      "refs": [],
+      "collectedAt": "2026-11-20T13:17:04.653Z",
+      "titleKo": "유명한 천체물리학자 조슬린 벨 버넬(Jocelyn Bell Burnell)이 그레이엄 파멜로(Graham Farmelo)의 새로운 공인된 전설적인 우주학자 전기에 대한 평결을 내렸습니다.",
+      "summaryKo": "스티븐 호킹",
+      "translator": "google"
+    },
     {
       "id": "fb-4742c554e166",
       "kind": "news",
@@ -679,40 +713,6 @@
       "collectedAt": "2026-10-22T06:49:19.780Z",
       "titleKo": "24시간 남았습니다!",
       "summaryKo": "",
-      "translator": "google"
-    },
-    {
-      "id": "fb-867552d3f3aa",
-      "kind": "news",
-      "lang": "en",
-      "title": "The impact of CERN technologies: from fundamental research to our everyday lives",
-      "summary": "",
-      "link": "https://www.facebook.com/cern/posts/pfbid037eGundLcGTe2tW4t49BauotG21gRG9nBCezkNKV4cT61sBHE3esem53pfJtFkfj5l",
-      "source": "Facebook CERN",
-      "category": "인기",
-      "publishedAt": "2026-10-21T09:48:56.398Z",
-      "thumb": "/social/fb/fb-867552d3f3aa.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-22T06:49:19.780Z",
-      "titleKo": "CERN 기술의 영향: 기초 연구부터 일상 생활까지",
-      "summaryKo": "",
-      "translator": "google"
-    },
-    {
-      "id": "fb-e819fe0e1f4c",
-      "kind": "news",
-      "lang": "en",
-      "title": "When red giant stars collide, their dense helium cores can merge.",
-      "summary": "A new study in Physical Review D finds that these…",
-      "link": "https://www.facebook.com/apsphysics/posts/pfbid022ZX14rD42h2w7bLNAqzdEDZStHrm4a9xu54ybK3Cx6pbEXHLFjTfyDz7mjQFkvo8l",
-      "source": "Facebook American Physical Society",
-      "category": "인기",
-      "publishedAt": "2026-10-20T17:43:42.244Z",
-      "thumb": "/social/fb/fb-e819fe0e1f4c.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-21T11:44:12.109Z",
-      "titleKo": "적색거성들이 충돌하면 밀도가 높은 헬륨 핵이 합쳐질 수 있습니다.",
-      "summaryKo": "Physical Review D의 새로운 연구에 따르면…",
       "translator": "google"
     }
   ]
