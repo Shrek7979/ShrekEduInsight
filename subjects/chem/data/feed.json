@@ -1,6 +1,73 @@
 {
-  "updatedAt": "2026-11-21T01:11:36.288Z",
+  "updatedAt": "2026-11-21T13:07:58.950Z",
   "items": [
+    {
+      "id": "bsky-3n2t5dt63k22e",
+      "kind": "news",
+      "lang": "en",
+      "title": "Two university spin-offs, Carbice and NovoLINC, are making nanostructured thermal interface materials that could efficiently cool large,…",
+      "summary": "high-density artificial intelligence chips while being…",
+      "link": "https://bsky.app/profile/cenmag.bsky.social/post/3n2t5dt63k22e",
+      "source": "Bluesky C&EN",
+      "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:u4u4yeik2uube2g6ov7wr35p/bafkreieik4nxckqkldkk2mkn3atpdwbx2ua3h6kjglscpxk2w2734xwhay",
+      "likes": "4",
+      "category": "인기",
+      "publishedAt": "2026-11-21T12:51:59.550Z",
+      "collectedAt": "2026-11-21T13:07:58.950Z",
+      "titleKo": "대학에서 분사한 두 곳의 Carbice와 NovoLINC는 대규모 냉각 장치를 효율적으로 냉각할 수 있는 나노구조 열 인터페이스 재료를 만들고 있습니다.",
+      "summaryKo": "고밀도 인공지능 칩을 탑재하면서…",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3n2t5dt63k22e.webp"
+    },
+    {
+      "id": "39b36b76dc09",
+      "kind": "news",
+      "lang": "en",
+      "title": "Synergistic Lewis Base Organocatalysis and Electrocatalysis for the Enantioselective…",
+      "summary": "Combining chiral isothiourea (ITU) organocatalysis with…",
+      "detail": "Combining chiral isothiourea (ITU) organocatalysis with electrochemistry enables the enantioselective radical cross-coupling of fluorinated…",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.7391422?af=R",
+      "source": "Angewandte Chemie",
+      "image": "https://onlinelibrary.wiley.com/cms/asset/460ddc59-f9b0-4764-b02a-2a7aa69a29e4/anie75799-gra-0001-m.png",
+      "category": "연구",
+      "publishedAt": "2026-11-21T07:06:44.000Z",
+      "collectedAt": "2026-11-21T13:07:58.950Z",
+      "titleKo": "거울상 선택성을 위한 시너지 루이스 염기 유기촉매 및 전기촉매…",
+      "summaryKo": "키랄 이소티오우레아(ITU) 유기촉매와 결합…",
+      "translator": "google",
+      "detailKo": "키랄 이소티오우레아(ITU) 유기촉매와 전기화학을 결합하면 불소화합물의 거울상 선택성 라디칼 교차 결합이 가능해집니다.",
+      "thumb": "/thumbs/39b36b76dc09.png"
+    },
+    {
+      "id": "d946d94ab908",
+      "kind": "news",
+      "lang": "ko",
+      "title": "3D프린터 교사 육종암 첫 공무상 재해 인정…경기 과학고서 동료 잃은 유족은 1심 패소",
+      "summary": "경기도의 한 과학고등학교에서 3D프린터를 사용해 수업을 진행하던 교사 2명에게 희귀암인 육종이…",
+      "detail": "경기도의 한 과학고등학교에서 3D프린터를 사용해 수업을 진행하던 교사 2명에게 희귀암인 육종이 잇따라 발생했다. 병을 진단받은 교사는 2018년 유잉육종 판정을 받고 2020년 7 ...",
+      "link": "https://www.hinews.co.kr/view.php?ud=202611211227094297cd8b879b3c_48",
+      "source": "hinews",
+      "image": "http://www.bing.com/th?id=ONUT.WsvqV-1B7_Gdqjf0idwb2w&pid=News",
+      "category": "교육",
+      "publishedAt": "2026-11-21T04:28:00.000Z",
+      "collectedAt": "2026-11-21T13:07:58.950Z",
+      "thumb": "/thumbs/d946d94ab908.jpg"
+    },
+    {
+      "id": "d588033d0a23",
+      "kind": "news",
+      "lang": "ko",
+      "title": "전남조리과학고, 전국 스포츠스태킹 고등부 준우승",
+      "summary": "전남조리과학고등학교(전남 곡성)가 ‘제19회 전국학교스포츠클럽축전 스포츠스태킹 대회’에서 고등부…",
+      "detail": "전남조리과학고등학교(전남 곡성)가 ‘제19회 전국학교스포츠클럽축전 스포츠스태킹 대회’에서 고등부 준우승을 차지했다. 전남 대표로 출전한 전남조리과학고는 전국 4개 학교가 겨룬 풀리그에서 2승 1패를 기록하며 은메달을 목에 걸었다.이번 대회는 지난…",
+      "link": "https://www.ihopenews.com/news/articleView.html?idxno=257970",
+      "source": "호남교육신문",
+      "image": "http://www.bing.com/th?id=ONUT.iNGCNY4LUN4wNrrcKGqaYA&pid=News",
+      "category": "대회·행사",
+      "publishedAt": "2026-11-21T02:57:00.000Z",
+      "collectedAt": "2026-11-21T13:07:58.950Z",
+      "thumb": "/thumbs/d588033d0a23.jpg"
+    },
     {
       "id": "afcbe5244c59",
       "kind": "news",
@@ -935,7 +1002,7 @@
       "category": "입시",
       "publishedAt": "2026-11-18T16:01:00.000Z",
       "collectedAt": "2026-11-19T00:52:22.924Z",
-      "thumb": "/thumbs/86c407f8f149.png"
+      "thumb": "/thumbs/86c407f8f149.jpg"
     },
     {
       "id": "432bed2ef75b",
@@ -2008,7 +2075,7 @@
       "category": "소재·에너지",
       "publishedAt": "2026-11-17T04:00:00.000Z",
       "collectedAt": "2026-11-17T17:44:49.834Z",
-      "thumb": "/thumbs/f30c207efb6e.jpg"
+      "thumb": "/thumbs/f30c207efb6e.png"
     },
     {
       "id": "f1daf933c304",
@@ -2434,72 +2501,6 @@
       "collectedAt": "2026-11-17T00:22:28.454Z",
       "summaryKo": "",
       "thumb": "/thumbs/58d18c540954.jpg"
-    },
-    {
-      "id": "7dfd70c12707",
-      "kind": "video",
-      "lang": "en",
-      "title": "Police showing up at my lab",
-      "summary": "Filmed at OpenSauce 2026 @sauceplusofficial",
-      "link": "https://www.youtube.com/shorts/GfltrBJz7LE",
-      "source": "Explosions&Fire",
-      "image": "https://i4.ytimg.com/vi/GfltrBJz7LE/hqdefault.jpg",
-      "views": 169892,
-      "category": "인기",
-      "publishedAt": "2026-10-18T10:59:43.000Z",
-      "collectedAt": "2026-11-17T00:22:28.454Z",
-      "titleKo": "내 연구실에 경찰이 나타났어",
-      "summaryKo": "OpenSauce 2026 @sauceplusofficial에서 촬영되었습니다",
-      "translator": "google",
-      "thumb": "/thumbs/7dfd70c12707.jpg"
-    },
-    {
-      "id": "ca6af1574b70",
-      "kind": "news",
-      "lang": "ko",
-      "title": "[포토] 화학안전주간 맞아 '화학물질저감 우수제품' 한자리에",
-      "summary": "16일 제7회 화학안전주간을 맞아 용산 서울드래곤시티에서 열린 GCN녹색소비자연대의 '화학물질저감…",
-      "detail": "16일 제7회 화학안전주간을 맞아 용산 서울드래곤시티에서 열린 GCN녹색소비자연대의 '화학물질저감 우수제품(이하 화우품)전시회'에서 (왼쪽부터 네번째) 금한승 기후에너지환경부 제1차관, 유미화 GCN녹색소비자연대 상임대표 등 관계자들이 화우품을…",
-      "link": "https://www.msn.com/ko-kr/%EA%B3%BC%ED%95%99/%ED%99%98%EA%B2%BD-%EA%B3%BC%ED%95%99/%ED%8F%AC%ED%86%A0-%ED%99%94%ED%95%99%EC%95%88%EC%A0%84%EC%A3%BC%EA%B0%84-%EB%A7%9E%EC%95%84-%ED%99%94%ED%95%99%EB%AC%BC%EC%A7%88%EC%A0%80%EA%B0%90-%EC%9A%B0%EC%88%98%EC%A0%9C%ED%92%88-%ED%95%9C%EC%9E%90%EB%A6%AC%EC%97%90/ar-AA2hwnEN",
-      "source": "전자신문",
-      "image": "http://www.bing.com/th?id=ONUT.EgZHv9JgcxXqfZ0aAz_oDg&pid=News",
-      "category": "환경·안전",
-      "publishedAt": "2026-11-15T20:41:22.000Z",
-      "collectedAt": "2026-11-16T06:16:24.546Z",
-      "thumb": "/thumbs/ca6af1574b70.jpg"
-    },
-    {
-      "id": "bsky-3n2ep3bbpbk2t",
-      "kind": "video",
-      "lang": "en",
-      "title": "The Newscripts gift guide for 2026 is out.",
-      "summary": "Check out these chemistry-themed goodies for the…",
-      "link": "https://bsky.app/profile/cenmag.bsky.social/post/3n2ep3bbpbk2t",
-      "source": "Bluesky C&EN",
-      "image": "https://video.bsky.app/watch/did%3Aplc%3Au4u4yeik2uube2g6ov7wr35p/bafkreih4lgwbo3oc4pgjwmlago6q752vy4tzxsennly7kiw22uuhlgxdya/thumbnail.jpg",
-      "likes": "7",
-      "category": "인기",
-      "publishedAt": "2026-11-15T18:59:23.638Z",
-      "collectedAt": "2026-11-16T06:16:24.546Z",
-      "titleKo": "2026년 뉴스크립트 선물 가이드가 나왔습니다.",
-      "summaryKo": "다음 화학 테마 상품을 확인해 보세요",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3n2ep3bbpbk2t.jpg"
-    },
-    {
-      "id": "c69ecb1bec6d",
-      "kind": "news",
-      "lang": "ko",
-      "title": "사탐런에 과목별 결시율까지…2027 수능 탐구영역 '변수의 시간'",
-      "summary": "2027학년도 대학수학능력시험에서 사회탐구 쏠림 현상인 '사탐런'에 이어 탐구 과목별 결시율이…",
-      "detail": "2027학년도 대학수학능력시험에서 사회탐구 쏠림 현상인 '사탐런'에 이어 탐구 과목별 결시율이 수험생의 수능 성적과 수시 수능최저학력기준 충족을 좌우할 변수로 떠오르고 있다. 특히 응시 인원이 적고 수험 부담이 큰 일부 과목은 결시율까지 높아 실제…",
-      "link": "https://www.eduplusnews.com/news/articleView.html?idxno=20660",
-      "source": "eduplusnews.com",
-      "image": "http://www.bing.com/th?id=ONUT.oAqWFTLB2spKt0dwZytv0g&pid=News",
-      "category": "입시",
-      "publishedAt": "2026-11-15T16:51:00.000Z",
-      "collectedAt": "2026-11-16T06:16:24.546Z",
-      "thumb": "/thumbs/c69ecb1bec6d.jpg"
     }
   ]
 }

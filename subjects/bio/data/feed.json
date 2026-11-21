@@ -1,6 +1,92 @@
 {
-  "updatedAt": "2026-11-21T01:11:36.194Z",
+  "updatedAt": "2026-11-21T13:07:58.950Z",
   "items": [
+    {
+      "id": "515f1719878e",
+      "kind": "news",
+      "lang": "en",
+      "title": "How do tumors talk to nerves? This scientist is finding out",
+      "summary": "After finding proteins linked to memory in prostate…",
+      "detail": "After finding proteins linked to memory in prostate cancer cells, Sebnem Ece Eksi hopes to map nerve fibers in tumors.",
+      "link": "https://www.sciencenews.org/article/tumors-talk-nerve-sn-10-sebnem-ece-eksi",
+      "source": "Science News",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/11/112026_sn10-Ece-Eksi_main.jpg?w=800",
+      "category": "해외",
+      "publishedAt": "2026-11-21T12:00:00.000Z",
+      "collectedAt": "2026-11-21T13:07:58.950Z",
+      "titleKo": "종양은 신경과 어떻게 대화합니까? 이 과학자가 알아내고 있어요",
+      "summaryKo": "전립선에서 기억과 관련된 단백질 발견…",
+      "translator": "google",
+      "detailKo": "전립선암 세포에서 기억과 연결된 단백질을 찾은 후 Sebnem Ece Eksi는 종양의 신경 섬유 지도를 작성하기를 희망합니다.",
+      "thumb": "/thumbs/515f1719878e.jpg"
+    },
+    {
+      "id": "60ff44cd6498",
+      "kind": "news",
+      "lang": "en",
+      "title": "What helps land recover after fire? This ecologist looks to the past",
+      "summary": "Ecologist Jennifer Grenz draws on Indigenous oral…",
+      "detail": "Ecologist Jennifer Grenz draws on Indigenous oral histories and ecological records to learn how landscapes recover after wildfires.",
+      "link": "https://www.sciencenews.org/article/land-fire-jennifer-grenz-history-sn10",
+      "source": "Science News",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/11/112026_sn10-Jennifer-Grenz_main.jpg?w=800",
+      "category": "해외",
+      "publishedAt": "2026-11-21T12:00:00.000Z",
+      "collectedAt": "2026-11-21T13:07:58.950Z",
+      "titleKo": "화재 발생 후 토지를 복구하는 데 무엇이 도움이 됩니까? 이 생태학자는 과거를 본다",
+      "summaryKo": "생태학자 제니퍼 그렌츠(Jennifer Grenz)는 원주민 구술을 활용합니다…",
+      "translator": "google",
+      "detailKo": "생태학자인 제니퍼 그렌츠(Jennifer Grenz)는 원주민 구전 역사와 생태 기록을 활용하여 산불 후 풍경이 어떻게 회복되는지 알아봅니다.",
+      "thumb": "/thumbs/60ff44cd6498.jpg"
+    },
+    {
+      "id": "b5183277beac",
+      "kind": "news",
+      "lang": "ko",
+      "title": "흉부수술 후 발생하는 장기 유착 원인 규명…대식세포가 핵심 역할",
+      "summary": "연구팀은 이번 연구가 흉강 내 유착의 발생 과정에서 대식세포와 콜라겐 생성 세포의 상호작용이 중요한…",
+      "detail": "연구팀은 이번 연구가 흉강 내 유착의 발생 과정에서 대식세포와 콜라겐 생성 세포의 상호작용이 중요한 역할을 한다는 사실을 보여줬으며, 향후 흉부수술 후 유착 예방을 위한 새로운 치료 표적을 제시했다는 점에서 의미가 있다고 밝혔다.",
+      "link": "https://www.alphabiz.co.kr/news/articleView.html?idxno=199425",
+      "source": "알파경제",
+      "image": "http://www.bing.com/th?id=ONUT.iZODPd7nLdqCD94hXmuqXQ&pid=News",
+      "category": "연구",
+      "publishedAt": "2026-11-21T04:02:00.000Z",
+      "collectedAt": "2026-11-21T13:07:58.950Z",
+      "thumb": "/thumbs/b5183277beac.jpg"
+    },
+    {
+      "id": "d588033d0a23",
+      "kind": "news",
+      "lang": "ko",
+      "title": "전남조리과학고, 전국 스포츠스태킹 고등부 준우승",
+      "summary": "전남조리과학고등학교(전남 곡성)가 ‘제19회 전국학교스포츠클럽축전 스포츠스태킹 대회’에서 고등부…",
+      "detail": "전남조리과학고등학교(전남 곡성)가 ‘제19회 전국학교스포츠클럽축전 스포츠스태킹 대회’에서 고등부 준우승을 차지했다. 전남 대표로 출전한 전남조리과학고는 전국 4개 학교가 겨룬 풀리그에서 2승 1패를 기록하며 은메달을 목에 걸었다.이번 대회는 지난…",
+      "link": "https://www.ihopenews.com/news/articleView.html?idxno=257970",
+      "source": "호남교육신문",
+      "image": "http://www.bing.com/th?id=ONUT.iNGCNY4LUN4wNrrcKGqaYA&pid=News",
+      "category": "대회·행사",
+      "publishedAt": "2026-11-21T02:57:00.000Z",
+      "collectedAt": "2026-11-21T13:07:58.950Z",
+      "thumb": "/thumbs/d588033d0a23.jpg"
+    },
+    {
+      "id": "b28b5963b3d4",
+      "kind": "news",
+      "lang": "en",
+      "title": "‘I had felt overconfident’: senior scientists reveal mistakes that aided discovery",
+      "summary": "Five experienced researchers, including a Nobel…",
+      "detail": "Five experienced researchers, including a Nobel prizewinner, revisit the dead ends, bloopers and moments of stubborn certainty that shaped…",
+      "link": "https://www.nature.com/articles/d41586-026-03590-2",
+      "source": "Nature",
+      "category": "해외",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "collectedAt": "2026-11-21T13:07:58.950Z",
+      "titleKo": "'과도한 자신감을 느꼈다': 선임 과학자들이 발견에 도움이 된 실수를 폭로함",
+      "summaryKo": "노벨상 등 경험 많은 연구자 5명…",
+      "translator": "google",
+      "detailKo": "노벨상 수상자를 포함한 5명의 숙련된 연구자들이 막다른 골목, 실수, 완고한 확신의 순간을 다시 살펴봅니다.",
+      "thumb": "/thumbs/b28b5963b3d4.jpg"
+    },
     {
       "id": "0f29d208a83b",
       "kind": "news",
@@ -195,7 +281,7 @@
       "summaryKo": "조사를 통해 잠재적으로 널리 퍼진 문제가 밝혀졌습니다",
       "translator": "google",
       "detailKo": "조사를 통해 잠재적으로 광범위한 문제가 밝혀지고 철회 및 수정이 필요합니다.",
-      "thumb": "/thumbs/cbc27453f080.png"
+      "thumb": "/thumbs/cbc27453f080.jpg"
     },
     {
       "id": "c5531e26829c",
@@ -1116,7 +1202,7 @@
       "summaryKo": "학부생은 유전적 전파를 퍼뜨린 최초의 그룹이었습니다…",
       "translator": "google",
       "detailKo": "대유행 기간 동안 학부생들이 SARS-CoV-2의 유전적 변이체를 퍼뜨린 최초의 그룹인 것으로 대규모 분석 결과 밝혀졌습니다.",
-      "thumb": "/thumbs/32c827b7b9ad.png"
+      "thumb": "/thumbs/32c827b7b9ad.jpg"
     },
     {
       "id": "322f5f41e82f",
@@ -1134,7 +1220,7 @@
       "summaryKo": "조류 번성은 중요한 생태 현상입니다",
       "translator": "google",
       "detailKo": "조류 번성은 탄소 고정을 촉진하고 해양 먹이사슬에 연료를 공급하는 중요한 생태 현상입니다. 바이러스 감염으로 인해 종종 종료됩니다…",
-      "thumb": "/thumbs/322f5f41e82f.png"
+      "thumb": "/thumbs/322f5f41e82f.jpg"
     },
     {
       "id": "88246c7c6cd2",
@@ -1363,7 +1449,7 @@
       "summaryKo": "뇌는 병원체를 해독하고 다음에 대한 기억을 저장할 수 있습니다",
       "translator": "google",
       "detailKo": "뇌는 병원체를 해독하고 이전 질병에 대한 기억을 저장하며 미래의 위협에 대비하여 신체를 준비할 수 있습니다.",
-      "thumb": "/thumbs/9f481dbecfbf.png"
+      "thumb": "/thumbs/9f481dbecfbf.jpg"
     },
     {
       "id": "eb84ed8bf735",
@@ -1786,7 +1872,7 @@
       "summaryKo": "지옥닭 공룡인 인페르노갈루스가 진화했다…",
       "translator": "google",
       "detailKo": "'지옥닭' 공룡인 인페르노갈루스(Infernogallus)는 과일이 많은 식단을 먹도록 진화했습니다. 이는 과일을 먹는 적응의 첫 번째 증거일 수 있습니다…",
-      "thumb": "/thumbs/2c0b1cec7af3.webp"
+      "thumb": "/thumbs/2c0b1cec7af3.jpg"
     },
     {
       "id": "2f3784d3b203",
@@ -2089,7 +2175,7 @@
       "summaryKo": "우리 기자는 두 가지가 무엇인지 알아보기 위해 똥을 우편으로 보냈습니다",
       "translator": "google",
       "detailKo": "우리 기자는 두 회사가 그녀의 미생물군집에 대해 어떻게 말하는지 알아보기 위해 그녀의 똥을 우편으로 보냈습니다. 그녀가 찾은 것은 다음과 같습니다.",
-      "thumb": "/thumbs/0597500d88f1.png"
+      "thumb": "/thumbs/0597500d88f1.jpg"
     },
     {
       "id": "f1b21a2c43c6",
@@ -2107,7 +2193,7 @@
       "summaryKo": "전 세계 농업 수요는 과거에 비해 증가했습니다…",
       "translator": "google",
       "detailKo": "지난 수십 년 동안 전 세계 농업 수요가 증가하여 세계에서 가장 생물 다양성이 높은 일부 지역에서 토지 이용이 집중되었습니다.",
-      "thumb": "/thumbs/f1b21a2c43c6.png"
+      "thumb": "/thumbs/f1b21a2c43c6.jpg"
     },
     {
       "id": "0f4ca3810df8",
@@ -2350,87 +2436,6 @@
       "summaryKo": "하지만 새롭고 강력한 파생상품이 속속 등장하고 있습니다",
       "translator": "google",
       "thumb": "/thumbs/bsky-3n2kbnthsmc2p.webp"
-    },
-    {
-      "id": "bsky-3n2jy5vu7eq2q",
-      "kind": "news",
-      "lang": "en",
-      "title": "After two years with nearly 100 measles outbreaks, thousands sickened and nearly a dozen deaths, the United States has officially lost its…",
-      "summary": "measles elimination status",
-      "link": "https://bsky.app/profile/sciencenews.bsky.social/post/3n2jy5vu7eq2q",
-      "source": "Bluesky Science News",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mhjqpvjvyzpj4pso7ux2tekh/bafkreiddliemmvi4e7z6hfbx4uutzljmodpuuggpa47s3nwbep4ly3uwze",
-      "likes": "3",
-      "category": "인기",
-      "publishedAt": "2026-11-17T21:25:14.010Z",
-      "collectedAt": "2026-11-18T07:18:15.410Z",
-      "titleKo": "2년 동안 거의 100건에 가까운 홍역이 발생하고, 수천 명이 감염되고, 거의 12명이 사망한 후, 미국은 공식적으로…",
-      "summaryKo": "홍역 퇴치 상태",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3n2jy5vu7eq2q.webp"
-    },
-    {
-      "id": "cb7d8c94ab2d",
-      "kind": "news",
-      "lang": "ko",
-      "title": "[수능 D-1] 영어 작년보다 쉬워질 듯…'사탐런' 최대 변수",
-      "summary": "하루 앞으로 다가온 2027학년도 대학수학능력시험 (수능)에서는 영어 영역의 난도와 사회탐구 쏠림…",
-      "detail": "하루 앞으로 다가온 2027학년도 대학수학능력시험 (수능)에서는 영어 영역의 난도와 사회탐구 쏠림 현상에 따른 선택과목별 유불리가 주요 변수로 꼽힌다.",
-      "link": "https://www.yna.co.kr/view/AKR20261117116000530",
-      "source": "연합뉴스",
-      "image": "http://www.bing.com/th?id=ONUT.93is0KxQi0E0mzPV2LKeAg&pid=News",
-      "category": "입시",
-      "publishedAt": "2026-11-17T21:00:00.000Z",
-      "collectedAt": "2026-11-18T07:18:15.410Z",
-      "thumb": "/thumbs/cb7d8c94ab2d.jpg"
-    },
-    {
-      "id": "bsky-3n2jq2b4j7q26",
-      "kind": "news",
-      "lang": "en",
-      "title": "In The News: Could yeast help to build infrastructure on Mars?",
-      "summary": "Scientists design a new yeast-based material that may…",
-      "link": "https://bsky.app/profile/cellpress.bsky.social/post/3n2jq2b4j7q26",
-      "source": "Bluesky Cell Press",
-      "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dbehouwmds4bxla5z5glados/bafkreic6zzdzncwmj6wkdhlbg6m2ct7bjslrhcm3nvjtexynl4ko7jiqeq",
-      "likes": "3",
-      "category": "인기",
-      "publishedAt": "2026-11-17T19:00:02.262Z",
-      "collectedAt": "2026-11-18T07:18:15.410Z",
-      "titleKo": "뉴스에서: 효모가 화성에 인프라를 구축하는 데 도움이 될 수 있습니까?",
-      "summaryKo": "과학자들은 다음과 같은 새로운 효모 기반 물질을 설계합니다",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3n2jq2b4j7q26.webp"
-    },
-    {
-      "id": "cb8fded1e953",
-      "kind": "news",
-      "lang": "ko",
-      "title": "\"식물 세포사멸 미스터리 푼다\"…세종대 연구팀 '페롭토시스' 재조명",
-      "summary": "국내 연구진이 식물의 면역 반응과 벼도열병균 감염 과정에서 일어나는 세포사멸 현상의 핵심 기작을…",
-      "detail": "국내 연구진이 식물의 면역 반응과 벼도열병균 감염 과정에서 일어나는 세포사멸 현상의 핵심 기작을 다중오믹스 분석을 통해 규명했다. 세종대학교는 좌남수 바이오융합공학전공 교수와 응우옌 남코아 연구원이 식물 면역과 도열병균 감염 과정에서 나타나는…",
-      "link": "https://www.mt.co.kr/policy/2026/11/18/2026111813565347260",
-      "source": "머니투데이",
-      "image": "http://www.bing.com/th?id=ONUT.oDaBxkp-hI2-5PSlL4gYWA&pid=News",
-      "category": "의학·바이오",
-      "publishedAt": "2026-11-17T17:02:00.000Z",
-      "collectedAt": "2026-11-18T07:18:15.410Z",
-      "thumb": "/thumbs/cb8fded1e953.jpg"
-    },
-    {
-      "id": "6d1bdb18c425",
-      "kind": "news",
-      "lang": "ko",
-      "title": "국립낙동강생물자원관, 지역 명소와 연계한 산림·목재 체험으로 가족 친화 조직문화 확산",
-      "summary": "기후에너지환경부 산하 국립낙동강생물자원관(관장 용석원)은 11월 13일 임직원과 가족이 함께…",
-      "detail": "기후에너지환경부 산하 국립낙동강생물자원관(관장 용석원)은 11월 13일 임직원과 가족이 함께 소통하며 일터의 가치를 공유하는 ‘가족초청행사’를 개최했다. 이번 행사는 직원 가족들이 부모 또는 자녀가 근무하는 일터를 직접 둘러보고 다양한 체험 활동에…",
-      "link": "https://www.dailydgnews.com/news/article.html?no=269563",
-      "source": "데일리대구경북뉴스",
-      "image": "http://www.bing.com/th?id=ONUT.RL9IeS6DMTDrkhueb8LwEA&pid=News",
-      "category": "대회·행사",
-      "publishedAt": "2026-11-17T16:00:00.000Z",
-      "collectedAt": "2026-11-18T07:18:15.410Z",
-      "thumb": "/thumbs/6d1bdb18c425.jpg"
     }
   ]
 }
