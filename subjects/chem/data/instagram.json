@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T01:05:02.023Z",
+  "updatedAt": "2026-11-21T01:05:01.354Z",
   "items": [
     {
       "id": "ig-Dej6hPNCF3V",
@@ -65,7 +65,7 @@
       "likes": "11K",
       "thumb": "/social/ig/Dej8ZW7JR5S.jpg",
       "collectedAt": "2026-11-19T01:00:20.492Z",
-      "titleKo": "이것은 일반적으로 향신료 코너에서 찾을 수 있는 호로파 씨앗입니다. 하지만 이번 영상에서는 호로파 씨앗을 사용하여 물을 만들 수 있다는 것을 보여 드리겠습니다.",
+      "titleKo": "이것은 일반적으로 향신료 코너에서 찾을 수 있는 호로파 씨앗입니다. 하지만 이번 영상에서는 호로파 씨앗을 사용하여 물을 만들 수 있다는 것을 보여 드리겠습니다…",
       "summaryKo": "응집제 청소!",
       "translator": "google"
     },
@@ -206,23 +206,6 @@
       "collectedAt": "2026-11-20T01:05:02.023Z"
     },
     {
-      "id": "ig-DfrorRXl73f",
-      "kind": "news",
-      "lang": "en",
-      "title": "As we near the end of Chemistry Week 2026, let us remember how important it is that every young person feels that chemistry is for them.",
-      "summary": "Many of us love our subject because of what we…",
-      "link": "https://www.instagram.com/roysocchem/p/DfrorRXl73f/",
-      "source": "Instagram @roysocchem",
-      "category": "인기",
-      "publishedAt": "2026-11-12T15:00:00.000Z",
-      "likes": "70",
-      "thumb": "/social/ig/DfrorRXl73f.jpg",
-      "collectedAt": "2026-11-19T00:05:02.328Z",
-      "titleKo": "2026년 화학 주간이 끝나갈 무렵, 모든 젊은이가 화학이 자신에게 적합하다고 느끼는 것이 얼마나 중요한지 기억합시다.",
-      "summaryKo": "…",
-      "translator": "google"
-    },
-    {
       "id": "ig-DfsA4EbF3B6",
       "kind": "news",
       "lang": "en",
@@ -255,6 +238,23 @@
       "titleKo": "이상으로 2026년 화학 주간이 끝났습니다!",
       "summaryKo": "🧪 이번주에도 참여해주신 모든 분들께 감사드립니다.…",
       "translator": "google"
+    },
+    {
+      "id": "ig-DfrzGZzF-Eq",
+      "kind": "news",
+      "lang": "en",
+      "title": "Wondering what your next steps should be now you’ve graduated?",
+      "summary": "Here: we’ve put together a handy to-do list for you",
+      "link": "https://www.instagram.com/roysocchem/p/DfrzGZzF-Eq/",
+      "source": "Instagram @roysocchem",
+      "category": "인기",
+      "publishedAt": "2026-11-12T15:00:00.000Z",
+      "likes": "25",
+      "thumb": "/social/ig/DfrzGZzF-Eq.jpg",
+      "titleKo": "졸업한 이제 다음 단계가 무엇인지 궁금하십니까?",
+      "summaryKo": "여기에 여러분을 위한 편리한 할 일 목록이 준비되어 있습니다.",
+      "translator": "google",
+      "collectedAt": "2026-11-21T01:05:01.354Z"
     }
   ],
   "pool": [
@@ -291,6 +291,22 @@
       "summaryKo": "이 그래픽을 자세히 살펴보세요!",
       "translator": "google",
       "collectedAt": "2026-11-19T00:05:02.328Z"
+    },
+    {
+      "id": "ig-Df9734CCrmv",
+      "kind": "news",
+      "lang": "en",
+      "title": "Oluwaseun Ajayi knows the value of people who champion our success.",
+      "summary": "At every career stage, meaningful connections can open…",
+      "link": "https://www.instagram.com/amerchemsociety/p/Df9734CCrmv/",
+      "source": "Instagram @amerchemsociety",
+      "category": "인기",
+      "publishedAt": "2026-11-19T15:00:00.000Z",
+      "likes": "29",
+      "thumb": "/social/ig/Df9734CCrmv.jpg",
+      "titleKo": "Oluwaseun Ajayi는 우리의 성공을 옹호하는 사람들의 가치를 알고 있습니다.",
+      "summaryKo": "모든 경력 단계에서 의미 있는 연결이 열릴 수 있습니다…",
+      "translator": "google"
     },
     {
       "id": "ig-Df7mGPXApRx",
@@ -407,18 +423,19 @@
       "translator": "google"
     },
     {
-      "id": "ig-DfmcuSQBE1f",
+      "id": "ig-Df-JLiCwezV",
       "kind": "video",
       "lang": "en",
-      "title": "🩸Cannibalism in nature: Brutal, but evolutionarily useful?",
-      "summary": "🐜 In nature, cannibalism is surprisingly common",
-      "link": "https://www.instagram.com/acspodcasts/reel/DfmcuSQBE1f/",
-      "source": "Instagram @amerchemsociety",
+      "title": "Examining my wiener at the nanoscale",
+      "summary": "",
+      "link": "https://www.instagram.com/nile.red/reel/Df-JLiCwezV/",
+      "source": "Instagram @nile.red",
       "category": "인기",
-      "publishedAt": "2026-11-10T15:00:00.000Z",
-      "thumb": "/social/ig/DfmcuSQBE1f.jpg",
-      "titleKo": "🩸자연의 식인 풍습: 잔인하지만 진화론적으로 유용합니까?",
-      "summaryKo": "🐜 자연에서는 식인 풍습이 놀라울 정도로 흔합니다.",
+      "publishedAt": "2026-11-19T15:00:00.000Z",
+      "likes": "8,816",
+      "thumb": "/social/ig/Df-JLiCwezV.jpg",
+      "titleKo": "나노 크기로 내 소시지 검사하기",
+      "summaryKo": "",
       "translator": "google"
     },
     {
@@ -568,24 +585,8 @@
       "thumb": "/social/ig/DfrzGZzF-Eq.jpg",
       "titleKo": "졸업한 이제 다음 단계가 무엇인지 궁금하십니까?",
       "summaryKo": "여기에 여러분을 위한 편리한 할 일 목록이 준비되어 있습니다.",
-      "translator": "google"
-    },
-    {
-      "id": "ig-DfrorRXl73f",
-      "kind": "news",
-      "lang": "en",
-      "title": "As we near the end of Chemistry Week 2026, let us remember how important it is that every young person feels that chemistry is for them.",
-      "summary": "Many of us love our subject because of what we…",
-      "link": "https://www.instagram.com/roysocchem/p/DfrorRXl73f/",
-      "source": "Instagram @roysocchem",
-      "category": "인기",
-      "publishedAt": "2026-11-12T15:00:00.000Z",
-      "likes": "70",
-      "thumb": "/social/ig/DfrorRXl73f.jpg",
-      "collectedAt": "2026-11-19T00:05:02.328Z",
-      "titleKo": "2026년 화학 주간이 끝나갈 무렵, 모든 젊은이가 화학이 자신에게 적합하다고 느끼는 것이 얼마나 중요한지 기억합시다.",
-      "summaryKo": "…",
-      "translator": "google"
+      "translator": "google",
+      "collectedAt": "2026-11-21T01:05:01.354Z"
     },
     {
       "id": "ig-DfSGCC4zE_g",
@@ -651,7 +652,7 @@
       "likes": "11K",
       "thumb": "/social/ig/Dej8ZW7JR5S.jpg",
       "collectedAt": "2026-11-19T01:00:20.492Z",
-      "titleKo": "이것은 일반적으로 향신료 코너에서 찾을 수 있는 호로파 씨앗입니다. 하지만 이번 영상에서는 호로파 씨앗을 사용하여 물을 만들 수 있다는 것을 보여 드리겠습니다.",
+      "titleKo": "이것은 일반적으로 향신료 코너에서 찾을 수 있는 호로파 씨앗입니다. 하지만 이번 영상에서는 호로파 씨앗을 사용하여 물을 만들 수 있다는 것을 보여 드리겠습니다…",
       "summaryKo": "응집제 청소!",
       "translator": "google"
     }
