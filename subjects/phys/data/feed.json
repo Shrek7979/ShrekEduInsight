@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-11-21T01:08:36.698Z",
+  "updatedAt": "2026-11-21T01:11:36.159Z",
   "items": [
+    {
+      "id": "ab74f3c0ad3c",
+      "kind": "news",
+      "lang": "en",
+      "title": "Physicists use laser light to unlock a crystal's hidden electrical powers",
+      "summary": "Scientists have discovered how to use flashes of laser…",
+      "detail": "Scientists have discovered how to use flashes of laser light to organize tiny electrical regions inside a crystal, solving a decades-old…",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112230500.htm",
+      "source": "ScienceDaily",
+      "category": "해외",
+      "publishedAt": "2026-11-15T02:18:16.000Z",
+      "collectedAt": "2026-11-21T01:11:36.159Z",
+      "titleKo": "물리학자들은 레이저 빛을 사용하여 수정의 숨겨진 전력을 밝혀냅니다.",
+      "summaryKo": "과학자들은 레이저 플래시를 사용하는 방법을 발견했습니다…",
+      "translator": "google",
+      "detailKo": "과학자들은 레이저 빛의 섬광을 사용하여 결정 내부의 작은 전기 영역을 구성하는 방법을 발견했습니다.",
+      "thumb": "/thumbs/ab74f3c0ad3c.webp"
+    },
     {
       "id": "bsky-3n2rbvdjc7n2s",
       "kind": "news",
@@ -1631,7 +1649,7 @@
       "category": "연구",
       "publishedAt": "2026-11-17T08:59:00.000Z",
       "collectedAt": "2026-11-17T17:44:49.830Z",
-      "thumb": "/thumbs/8da296de4495.jpg"
+      "thumb": "/thumbs/8da296de4495.png"
     },
     {
       "id": "ea16e9a52d2b",
@@ -2473,21 +2491,6 @@
       "publishedAt": "2026-11-15T06:12:00.000Z",
       "collectedAt": "2026-11-15T14:12:05.304Z",
       "thumb": "/thumbs/d925db6b3b15.jpg"
-    },
-    {
-      "id": "da74b7974a3f",
-      "kind": "news",
-      "lang": "ko",
-      "title": "'사탐런'에 결시율까지…올해 수능 과탐Ⅱ 응시자 '3000명대' 가능성",
-      "summary": "올해 대학수학능력시험(수능)에서 과학탐구Ⅱ 등 일부 탐구 과목의 실제 응시 인원이 3000명대로…",
-      "detail": "올해 대학수학능력시험(수능)에서 과학탐구Ⅱ 등 일부 탐구 과목의 실제 응시 인원이 3000명대로 줄어들 수 있다는 분석이 나왔다. '사탐런' 현상으로 과탐 응시자가 크게 감소한 데다 결시율까지 높아질 경우 과목별 등급에도 영향을 미칠 수 있을 것으로…",
-      "link": "https://www.mt.co.kr/index.php/policy/2026/11/15/2026111510052531600",
-      "source": "머니투데이",
-      "image": "http://www.bing.com/th?id=ONUT.-Q1mvPjuBfPRMG0QXvPEwQ&pid=News",
-      "category": "입시",
-      "publishedAt": "2026-11-15T02:35:00.000Z",
-      "collectedAt": "2026-11-15T14:12:05.304Z",
-      "thumb": "/thumbs/da74b7974a3f.jpg"
     }
   ]
 }

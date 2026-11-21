@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-11-21T01:08:36.697Z",
+  "updatedAt": "2026-11-21T01:11:36.288Z",
   "items": [
+    {
+      "id": "afcbe5244c59",
+      "kind": "news",
+      "lang": "ko",
+      "title": "아주대학교, 2025년 노벨화학상 수상자 기타가와 스스무 교수 초청 국제 학술행사 공동 개최",
+      "summary": "아주대학교가 2025년 노벨화학상 수상자인 일본 교토대학교 기타가와 스스무(Susumu…",
+      "detail": "아주대학교가 2025년 노벨화학상 수상자인 일본 교토대학교 기타가와 스스무(Susumu Kitagawa) 교수를 초청해 국제 학술행사를 공동 개최하고, 글로벌 연구 협력과 첨단 소재 분야의 학술 교류를 확대했다.이번 행사는 세계적인 학술 출판사…",
+      "link": "https://www.lecturernews.com/news/articleView.html?idxno=214122",
+      "source": "한국강사신문",
+      "image": "http://www.bing.com/th?id=ONUT.dKAyDEAvUuzWWkqLHXpBHg&pid=News",
+      "category": "연구",
+      "publishedAt": "2026-11-20T00:35:00.000Z",
+      "collectedAt": "2026-11-21T01:11:36.288Z",
+      "thumb": "/thumbs/afcbe5244c59.jpg"
+    },
     {
       "id": "bsky-3n2rs7grn6c25",
       "kind": "news",
@@ -920,7 +935,7 @@
       "category": "입시",
       "publishedAt": "2026-11-18T16:01:00.000Z",
       "collectedAt": "2026-11-19T00:52:22.924Z",
-      "thumb": "/thumbs/86c407f8f149.jpg"
+      "thumb": "/thumbs/86c407f8f149.png"
     },
     {
       "id": "432bed2ef75b",
@@ -1993,7 +2008,7 @@
       "category": "소재·에너지",
       "publishedAt": "2026-11-17T04:00:00.000Z",
       "collectedAt": "2026-11-17T17:44:49.834Z",
-      "thumb": "/thumbs/f30c207efb6e.png"
+      "thumb": "/thumbs/f30c207efb6e.jpg"
     },
     {
       "id": "f1daf933c304",
@@ -2485,21 +2500,6 @@
       "publishedAt": "2026-11-15T16:51:00.000Z",
       "collectedAt": "2026-11-16T06:16:24.546Z",
       "thumb": "/thumbs/c69ecb1bec6d.jpg"
-    },
-    {
-      "id": "cfe4cc8d334d",
-      "kind": "news",
-      "lang": "ko",
-      "title": "[제7회 화학안전주간] “잘하면 아무 일 없던 것처럼 보이는 일, 화학사고 대응”",
-      "summary": "“화학사고 대응은 잘될수록 아무 일도 없는 것처럼 보입니다",
-      "detail": "“화학사고 대응은 잘될수록 아무 일도 없는 것처럼 보입니다. 올해 화학안전주간은 그 보이지 않는 자리를 지켜온 사람들을 기억하는 시간입니다.” 임호주 기후에너지환경부 화학안전과 수석전문관은 제7회 화학안전주간을 앞두고 2024년 6월 경기 화성…",
-      "link": "https://m.etnews.com/20261116000080",
-      "source": "전자신문",
-      "image": "http://www.bing.com/th?id=ONUT.LArcTHi4lq7xcssqptk4VQ&pid=News",
-      "category": "환경·안전",
-      "publishedAt": "2026-11-15T16:18:00.000Z",
-      "collectedAt": "2026-11-16T06:16:24.546Z",
-      "thumb": "/thumbs/cfe4cc8d334d.png"
     }
   ]
 }

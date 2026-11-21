@@ -1,6 +1,55 @@
 {
-  "updatedAt": "2026-11-21T01:08:36.699Z",
+  "updatedAt": "2026-11-21T01:11:36.194Z",
   "items": [
+    {
+      "id": "0f29d208a83b",
+      "kind": "news",
+      "lang": "ko",
+      "title": "교모세포종 암세포의 공통 분자 기전 발견…새로운 표적치료 가능성 제시",
+      "summary": "치료가 어려운 악성 뇌종양인 교모세포종에서 암세포들이 공통적으로 이용하는 분자 기전이 발견되면서…",
+      "detail": "치료가 어려운 악성 뇌종양인 교모세포종에서 암세포들이 공통적으로 이용하는 분자 기전이 발견되면서 새로운 표적치료제 개발 가능성이 제시됐다. 미국 마운트시나이 아이칸의과대학 연구팀은 교모세포종 세포가 태아와 영아의 뇌 발달 과정에서 작동하는 특정…",
+      "link": "https://mdtoday.co.kr/news/articleView.html?idxno=626489",
+      "source": "메디컬투데이",
+      "image": "http://www.bing.com/th?id=ONUT.QNAG6_bJUsx14LWsqwo4uQ&pid=News",
+      "category": "의학·바이오",
+      "publishedAt": "2026-11-20T06:00:00.000Z",
+      "collectedAt": "2026-11-21T01:11:36.194Z",
+      "thumb": "/thumbs/0f29d208a83b.jpg"
+    },
+    {
+      "id": "95ac8d5c5439",
+      "kind": "news",
+      "lang": "ko",
+      "title": "숭실대·서울대병원 연구팀, 파킨슨병 뇌세포 변화 담은 유전자 발현 지도 구축",
+      "summary": "숭실대학교(총장 이윤재)는 의생명시스템학부 단일세포시스템연구실 김준일 교수팀이 파킨슨병에서 나타나는…",
+      "detail": "숭실대학교(총장 이윤재)는 의생명시스템학부 단일세포시스템연구실 김준일 교수팀이 파킨슨병에서 나타나는 세포 변화가 뇌 조직 내 위치에 따라 다르다는 사실을 규명했다고 밝혔다. 서울대병원 뇌은행 박성혜·원재경 교수팀과 함께 수행한 이번 연구 결과는 국제…",
+      "link": "https://www.joongang.co.kr/article/25480427",
+      "source": "중앙일보",
+      "image": "http://www.bing.com/th?id=ONUT.AP2ca0cfaqiIuLVY3KgZMQ&pid=News",
+      "category": "의학·바이오",
+      "publishedAt": "2026-11-19T18:16:00.000Z",
+      "collectedAt": "2026-11-21T01:11:36.194Z",
+      "thumb": "/thumbs/95ac8d5c5439.jpg"
+    },
+    {
+      "id": "f9ac99145de7",
+      "kind": "news",
+      "lang": "en",
+      "title": "The Evolving Story of How Chemistry Became Biology",
+      "summary": "After decades of bickering about which molecules came…",
+      "detail": "After decades of bickering about which molecules came first, a new generation of scientists is rethinking what life was, is, and could be.",
+      "link": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
+      "source": "Quanta Magazine",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Origin-of-Life-cr.Mark-Belan-Default.webp",
+      "category": "해외",
+      "publishedAt": "2026-11-12T15:45:27.000Z",
+      "collectedAt": "2026-11-21T01:11:36.194Z",
+      "titleKo": "화학이 생물학이 된 과정에 대한 진화하는 이야기",
+      "summaryKo": "어떤 분자가 탄생했는지에 대한 수십 년 간의 논쟁 끝에…",
+      "translator": "google",
+      "detailKo": "어느 분자가 먼저 나왔는가에 대한 수십 년 간의 논쟁 끝에, 새로운 세대의 과학자들은 생명이 무엇이고, 무엇이고, 무엇이 될 수 있는지 다시 생각하고 있습니다.",
+      "thumb": "/thumbs/f9ac99145de7.jpg"
+    },
     {
       "id": "bsky-3n2rtdjoarl2q",
       "kind": "news",
@@ -131,24 +180,6 @@
       "thumb": "/thumbs/5241f99a004a.jpg"
     },
     {
-      "id": "b28b5963b3d4",
-      "kind": "news",
-      "lang": "en",
-      "title": "‘I had felt overconfident’: senior scientists reveal mistakes that aided discovery",
-      "summary": "Five experienced researchers, including a Nobel…",
-      "detail": "Five experienced researchers, including a Nobel prizewinner, revisit the dead ends, bloopers and moments of stubborn certainty that shaped…",
-      "link": "https://www.nature.com/articles/d41586-026-03590-2",
-      "source": "Nature",
-      "category": "해외",
-      "publishedAt": "2026-11-20T00:00:00.000Z",
-      "collectedAt": "2026-11-21T01:08:36.699Z",
-      "titleKo": "'과도한 자신감을 느꼈다': 선임 과학자들이 발견에 도움이 된 실수를 폭로함",
-      "summaryKo": "노벨상 등 경험 많은 연구자 5명…",
-      "translator": "google",
-      "detailKo": "노벨상 수상자를 포함한 5명의 숙련된 연구자들이 막다른 골목, 실수, 완고한 확신의 순간을 다시 살펴봅니다.",
-      "thumb": "/thumbs/b28b5963b3d4.jpg"
-    },
-    {
       "id": "cbc27453f080",
       "kind": "news",
       "lang": "en",
@@ -164,7 +195,7 @@
       "summaryKo": "조사를 통해 잠재적으로 널리 퍼진 문제가 밝혀졌습니다",
       "translator": "google",
       "detailKo": "조사를 통해 잠재적으로 광범위한 문제가 밝혀지고 철회 및 수정이 필요합니다.",
-      "thumb": "/thumbs/cbc27453f080.jpg"
+      "thumb": "/thumbs/cbc27453f080.png"
     },
     {
       "id": "c5531e26829c",
@@ -1085,7 +1116,7 @@
       "summaryKo": "학부생은 유전적 전파를 퍼뜨린 최초의 그룹이었습니다…",
       "translator": "google",
       "detailKo": "대유행 기간 동안 학부생들이 SARS-CoV-2의 유전적 변이체를 퍼뜨린 최초의 그룹인 것으로 대규모 분석 결과 밝혀졌습니다.",
-      "thumb": "/thumbs/32c827b7b9ad.jpg"
+      "thumb": "/thumbs/32c827b7b9ad.png"
     },
     {
       "id": "322f5f41e82f",
@@ -1103,7 +1134,7 @@
       "summaryKo": "조류 번성은 중요한 생태 현상입니다",
       "translator": "google",
       "detailKo": "조류 번성은 탄소 고정을 촉진하고 해양 먹이사슬에 연료를 공급하는 중요한 생태 현상입니다. 바이러스 감염으로 인해 종종 종료됩니다…",
-      "thumb": "/thumbs/322f5f41e82f.jpg"
+      "thumb": "/thumbs/322f5f41e82f.png"
     },
     {
       "id": "88246c7c6cd2",
@@ -1332,7 +1363,7 @@
       "summaryKo": "뇌는 병원체를 해독하고 다음에 대한 기억을 저장할 수 있습니다",
       "translator": "google",
       "detailKo": "뇌는 병원체를 해독하고 이전 질병에 대한 기억을 저장하며 미래의 위협에 대비하여 신체를 준비할 수 있습니다.",
-      "thumb": "/thumbs/9f481dbecfbf.jpg"
+      "thumb": "/thumbs/9f481dbecfbf.png"
     },
     {
       "id": "eb84ed8bf735",
@@ -1755,7 +1786,7 @@
       "summaryKo": "지옥닭 공룡인 인페르노갈루스가 진화했다…",
       "translator": "google",
       "detailKo": "'지옥닭' 공룡인 인페르노갈루스(Infernogallus)는 과일이 많은 식단을 먹도록 진화했습니다. 이는 과일을 먹는 적응의 첫 번째 증거일 수 있습니다…",
-      "thumb": "/thumbs/2c0b1cec7af3.jpg"
+      "thumb": "/thumbs/2c0b1cec7af3.webp"
     },
     {
       "id": "2f3784d3b203",
@@ -2058,7 +2089,7 @@
       "summaryKo": "우리 기자는 두 가지가 무엇인지 알아보기 위해 똥을 우편으로 보냈습니다",
       "translator": "google",
       "detailKo": "우리 기자는 두 회사가 그녀의 미생물군집에 대해 어떻게 말하는지 알아보기 위해 그녀의 똥을 우편으로 보냈습니다. 그녀가 찾은 것은 다음과 같습니다.",
-      "thumb": "/thumbs/0597500d88f1.jpg"
+      "thumb": "/thumbs/0597500d88f1.png"
     },
     {
       "id": "f1b21a2c43c6",
@@ -2076,7 +2107,7 @@
       "summaryKo": "전 세계 농업 수요는 과거에 비해 증가했습니다…",
       "translator": "google",
       "detailKo": "지난 수십 년 동안 전 세계 농업 수요가 증가하여 세계에서 가장 생물 다양성이 높은 일부 지역에서 토지 이용이 집중되었습니다.",
-      "thumb": "/thumbs/f1b21a2c43c6.jpg"
+      "thumb": "/thumbs/f1b21a2c43c6.png"
     },
     {
       "id": "0f4ca3810df8",
@@ -2400,36 +2431,6 @@
       "publishedAt": "2026-11-17T16:00:00.000Z",
       "collectedAt": "2026-11-18T07:18:15.410Z",
       "thumb": "/thumbs/6d1bdb18c425.jpg"
-    },
-    {
-      "id": "22490c22018e",
-      "kind": "news",
-      "lang": "ko",
-      "title": "국립호남권생물자원관, ‘대한민국 안전대상’ 행안부장관상 수상",
-      "summary": "기후에너지환경부 산하 국립호남권생물자원관 (관장 박진영)은 소방청이 주최하는 ‘제25회 대한민국…",
-      "detail": "기후에너지환경부 산하 국립호남권생물자원관 (관장 박진영)은 소방청이 주최하는 ‘제25회 대한민국 안전대상’에서 우수기업상 부문 ‘행정안전부장관상’을 수상했다고 18일 밝혔다.",
-      "link": "http://www.ecolaw.co.kr/news/articleView.html?idxno=120823",
-      "source": "환경법률신문",
-      "image": "http://www.bing.com/th?id=ONUT.XmfJh04WMC211OSlJLEtkA&pid=News",
-      "category": "생태·환경",
-      "publishedAt": "2026-11-17T15:41:00.000Z",
-      "collectedAt": "2026-11-18T07:18:15.410Z",
-      "thumb": "/thumbs/22490c22018e.jpg"
-    },
-    {
-      "id": "7674acd914a9",
-      "kind": "news",
-      "lang": "ko",
-      "title": "“식물 면역과 병균 감염의 열쇠”…좌남수 세종대 바이오융합공학전공 교수 연구팀, ‘페롭토시스’ 역할 조명",
-      "summary": "식물 면역반응과 병원균 감염 과정에서 일어나는 세포사멸의 비밀을 풀어낼 중요한 학술적 성과가…",
-      "detail": "식물 면역반응과 병원균 감염 과정에서 일어나는 세포사멸의 비밀을 풀어낼 중요한 학술적 성과가 국제무대에서 주목을 받고 있다. 철 의존성 지질 산화 현상인 페롭토시스의 양면성을 체계적으로 규명하며 향후 친환경 농업 기술 발전의 발판을 마련했다.…",
-      "link": "https://www.dailysmart.co.kr/news/articleView.html?idxno=132749",
-      "source": "스마트경제",
-      "image": "http://www.bing.com/th?id=ONUT.a6OVuWxMgEubsRcmFseYYA&pid=News",
-      "category": "의학·바이오",
-      "publishedAt": "2026-11-17T15:15:00.000Z",
-      "collectedAt": "2026-11-18T07:18:15.410Z",
-      "thumb": "/thumbs/7674acd914a9.jpg"
     }
   ]
 }

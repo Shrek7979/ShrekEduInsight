@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-11-20T13:17:13.163Z",
+  "updatedAt": "2026-11-21T01:14:49.399Z",
   "items": [
+    {
+      "id": "fb-c28f1e0d862c",
+      "kind": "news",
+      "lang": "en",
+      "title": "Think you know the ACS National Awards?",
+      "summary": "Put your knowledge to the test with a quick quiz…",
+      "link": "https://www.facebook.com/AmericanChemicalSociety/posts/pfbid06gGZKGuUd25dg1dfKAmTNJ2rFyVpf8xNv698vJLgYNg6pPpdtwgqN8yGiYjpPWeBl",
+      "source": "Facebook American Chemical Society",
+      "category": "인기",
+      "publishedAt": "2026-11-20T19:14:06.334Z",
+      "thumb": "/social/fb/fb-c28f1e0d862c.jpg",
+      "refs": [],
+      "collectedAt": "2026-11-21T01:14:49.399Z",
+      "titleKo": "ACS National Awards를 아시나요?",
+      "summaryKo": "간단한 퀴즈를 통해 여러분의 지식을 시험해보세요…",
+      "translator": "google"
+    },
     {
       "id": "fb-6bb421a1f6c5",
       "kind": "news",
@@ -203,23 +220,6 @@
       "collectedAt": "2026-10-23T22:37:00.165Z",
       "titleKo": "축하하자!",
       "summaryKo": "",
-      "translator": "google"
-    },
-    {
-      "id": "fb-8e9871bc19bb",
-      "kind": "video",
-      "lang": "en",
-      "title": "It’s Program-in-a-Box day!",
-      "summary": "P",
-      "link": "https://www.facebook.com/reel/1422606169387081/",
-      "source": "Facebook American Chemical Society",
-      "category": "인기",
-      "publishedAt": "2026-10-21T14:48:29.128Z",
-      "thumb": "/social/fb/fb-8e9871bc19bb.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-22T06:49:17.258Z",
-      "titleKo": "오늘은 Program-in-a-Box의 날입니다!",
-      "summaryKo": "피",
       "translator": "google"
     }
   ]
