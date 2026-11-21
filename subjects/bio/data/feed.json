@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-11-21T13:07:58.950Z",
+  "updatedAt": "2026-11-21T13:09:22.980Z",
   "items": [
+    {
+      "id": "c3f996e11203",
+      "kind": "news",
+      "lang": "ko",
+      "title": "국립낙동강생물자원관, 담수 돌말류 활용 바이오실리카 제조기술 개발",
+      "summary": "국립낙동강생물자원관이 낙동강에서 발견한 담수 돌말류를 이용해 약물전달 소재로 활용할 수 있는…",
+      "detail": "국립낙동강생물자원관이 낙동강에서 발견한 담수 돌말류를 이용해 약물전달 소재로 활용할 수 있는 바이오실리카 제조기술을 개발했다. 돌말류가 지닌 독특한 미세구조를 정제 과정에서도 유지하는 기술로, 향후 바이오·의료산업 분야에서의 활용 가능성이 주목된다.",
+      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5085846",
+      "source": "신아일보",
+      "image": "http://www.bing.com/th?id=ONUT.uS-ZWnaPjD0E9qlg2F9lPw&pid=News",
+      "category": "연구",
+      "publishedAt": "2026-11-20T06:19:00.000Z",
+      "collectedAt": "2026-11-21T13:09:22.980Z",
+      "thumb": "/thumbs/c3f996e11203.jpg"
+    },
+    {
+      "id": "b28b5963b3d4",
+      "kind": "news",
+      "lang": "en",
+      "title": "‘I had felt overconfident’: senior scientists reveal mistakes that aided discovery",
+      "summary": "Five experienced researchers, including a Nobel…",
+      "detail": "Five experienced researchers, including a Nobel prizewinner, revisit the dead ends, bloopers and moments of stubborn certainty that shaped…",
+      "link": "https://www.nature.com/articles/d41586-026-03590-2",
+      "source": "Nature",
+      "category": "해외",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "collectedAt": "2026-11-21T13:09:22.980Z",
+      "titleKo": "'과도한 자신감을 느꼈다': 선임 과학자들이 발견에 도움이 된 실수를 폭로함",
+      "summaryKo": "노벨상 등 경험 많은 연구자 5명…",
+      "translator": "google",
+      "detailKo": "노벨상 수상자를 포함한 5명의 숙련된 연구자들이 막다른 골목, 실수, 완고한 확신의 순간을 다시 살펴봅니다.",
+      "thumb": "/thumbs/b28b5963b3d4.png"
+    },
     {
       "id": "515f1719878e",
       "kind": "news",
@@ -18,7 +51,7 @@
       "summaryKo": "전립선에서 기억과 관련된 단백질 발견…",
       "translator": "google",
       "detailKo": "전립선암 세포에서 기억과 연결된 단백질을 찾은 후 Sebnem Ece Eksi는 종양의 신경 섬유 지도를 작성하기를 희망합니다.",
-      "thumb": "/thumbs/515f1719878e.jpg"
+      "thumb": "/thumbs/515f1719878e.webp"
     },
     {
       "id": "60ff44cd6498",
@@ -37,7 +70,7 @@
       "summaryKo": "생태학자 제니퍼 그렌츠(Jennifer Grenz)는 원주민 구술을 활용합니다…",
       "translator": "google",
       "detailKo": "생태학자인 제니퍼 그렌츠(Jennifer Grenz)는 원주민 구전 역사와 생태 기록을 활용하여 산불 후 풍경이 어떻게 회복되는지 알아봅니다.",
-      "thumb": "/thumbs/60ff44cd6498.jpg"
+      "thumb": "/thumbs/60ff44cd6498.webp"
     },
     {
       "id": "b5183277beac",
@@ -68,24 +101,6 @@
       "publishedAt": "2026-11-21T02:57:00.000Z",
       "collectedAt": "2026-11-21T13:07:58.950Z",
       "thumb": "/thumbs/d588033d0a23.jpg"
-    },
-    {
-      "id": "b28b5963b3d4",
-      "kind": "news",
-      "lang": "en",
-      "title": "‘I had felt overconfident’: senior scientists reveal mistakes that aided discovery",
-      "summary": "Five experienced researchers, including a Nobel…",
-      "detail": "Five experienced researchers, including a Nobel prizewinner, revisit the dead ends, bloopers and moments of stubborn certainty that shaped…",
-      "link": "https://www.nature.com/articles/d41586-026-03590-2",
-      "source": "Nature",
-      "category": "해외",
-      "publishedAt": "2026-11-20T00:00:00.000Z",
-      "collectedAt": "2026-11-21T13:07:58.950Z",
-      "titleKo": "'과도한 자신감을 느꼈다': 선임 과학자들이 발견에 도움이 된 실수를 폭로함",
-      "summaryKo": "노벨상 등 경험 많은 연구자 5명…",
-      "translator": "google",
-      "detailKo": "노벨상 수상자를 포함한 5명의 숙련된 연구자들이 막다른 골목, 실수, 완고한 확신의 순간을 다시 살펴봅니다.",
-      "thumb": "/thumbs/b28b5963b3d4.jpg"
     },
     {
       "id": "0f29d208a83b",
@@ -281,7 +296,7 @@
       "summaryKo": "조사를 통해 잠재적으로 널리 퍼진 문제가 밝혀졌습니다",
       "translator": "google",
       "detailKo": "조사를 통해 잠재적으로 광범위한 문제가 밝혀지고 철회 및 수정이 필요합니다.",
-      "thumb": "/thumbs/cbc27453f080.jpg"
+      "thumb": "/thumbs/cbc27453f080.png"
     },
     {
       "id": "c5531e26829c",
@@ -1202,7 +1217,7 @@
       "summaryKo": "학부생은 유전적 전파를 퍼뜨린 최초의 그룹이었습니다…",
       "translator": "google",
       "detailKo": "대유행 기간 동안 학부생들이 SARS-CoV-2의 유전적 변이체를 퍼뜨린 최초의 그룹인 것으로 대규모 분석 결과 밝혀졌습니다.",
-      "thumb": "/thumbs/32c827b7b9ad.jpg"
+      "thumb": "/thumbs/32c827b7b9ad.png"
     },
     {
       "id": "322f5f41e82f",
@@ -1220,7 +1235,7 @@
       "summaryKo": "조류 번성은 중요한 생태 현상입니다",
       "translator": "google",
       "detailKo": "조류 번성은 탄소 고정을 촉진하고 해양 먹이사슬에 연료를 공급하는 중요한 생태 현상입니다. 바이러스 감염으로 인해 종종 종료됩니다…",
-      "thumb": "/thumbs/322f5f41e82f.jpg"
+      "thumb": "/thumbs/322f5f41e82f.png"
     },
     {
       "id": "88246c7c6cd2",
@@ -1449,7 +1464,7 @@
       "summaryKo": "뇌는 병원체를 해독하고 다음에 대한 기억을 저장할 수 있습니다",
       "translator": "google",
       "detailKo": "뇌는 병원체를 해독하고 이전 질병에 대한 기억을 저장하며 미래의 위협에 대비하여 신체를 준비할 수 있습니다.",
-      "thumb": "/thumbs/9f481dbecfbf.jpg"
+      "thumb": "/thumbs/9f481dbecfbf.png"
     },
     {
       "id": "eb84ed8bf735",
@@ -1872,7 +1887,7 @@
       "summaryKo": "지옥닭 공룡인 인페르노갈루스가 진화했다…",
       "translator": "google",
       "detailKo": "'지옥닭' 공룡인 인페르노갈루스(Infernogallus)는 과일이 많은 식단을 먹도록 진화했습니다. 이는 과일을 먹는 적응의 첫 번째 증거일 수 있습니다…",
-      "thumb": "/thumbs/2c0b1cec7af3.jpg"
+      "thumb": "/thumbs/2c0b1cec7af3.webp"
     },
     {
       "id": "2f3784d3b203",
@@ -2175,7 +2190,7 @@
       "summaryKo": "우리 기자는 두 가지가 무엇인지 알아보기 위해 똥을 우편으로 보냈습니다",
       "translator": "google",
       "detailKo": "우리 기자는 두 회사가 그녀의 미생물군집에 대해 어떻게 말하는지 알아보기 위해 그녀의 똥을 우편으로 보냈습니다. 그녀가 찾은 것은 다음과 같습니다.",
-      "thumb": "/thumbs/0597500d88f1.jpg"
+      "thumb": "/thumbs/0597500d88f1.png"
     },
     {
       "id": "f1b21a2c43c6",
@@ -2193,7 +2208,7 @@
       "summaryKo": "전 세계 농업 수요는 과거에 비해 증가했습니다…",
       "translator": "google",
       "detailKo": "지난 수십 년 동안 전 세계 농업 수요가 증가하여 세계에서 가장 생물 다양성이 높은 일부 지역에서 토지 이용이 집중되었습니다.",
-      "thumb": "/thumbs/f1b21a2c43c6.jpg"
+      "thumb": "/thumbs/f1b21a2c43c6.png"
     },
     {
       "id": "0f4ca3810df8",
@@ -2418,24 +2433,6 @@
       "publishedAt": "2026-11-18T00:51:22.000Z",
       "collectedAt": "2026-11-18T07:18:15.410Z",
       "thumb": "/thumbs/f2230a8e4a2e.jpg"
-    },
-    {
-      "id": "bsky-3n2kbnthsmc2p",
-      "kind": "news",
-      "lang": "en",
-      "title": "People take kratom for chronic pain, or to manage opiate withdrawal.",
-      "summary": "But new, powerful derivatives are creeping in, with…",
-      "link": "https://bsky.app/profile/sciencenews.bsky.social/post/3n2kbnthsmc2p",
-      "source": "Bluesky Science News",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mhjqpvjvyzpj4pso7ux2tekh/bafkreiehn7as6gfcwwtabi6dacmoi7beuonfhhn2xyytm452sscjvxf5oq",
-      "likes": "3",
-      "category": "인기",
-      "publishedAt": "2026-11-18T00:15:12.170Z",
-      "collectedAt": "2026-11-18T07:18:15.410Z",
-      "titleKo": "사람들은 만성 통증이나 아편 금단 현상을 관리하기 위해 크라톰을 복용합니다.",
-      "summaryKo": "하지만 새롭고 강력한 파생상품이 속속 등장하고 있습니다",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3n2kbnthsmc2p.webp"
     }
   ]
 }
