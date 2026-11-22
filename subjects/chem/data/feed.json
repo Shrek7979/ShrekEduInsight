@@ -1,6 +1,74 @@
 {
-  "updatedAt": "2026-11-22T01:11:17.438Z",
+  "updatedAt": "2026-11-22T13:07:40.857Z",
   "items": [
+    {
+      "id": "a172e4f6bcb6",
+      "kind": "news",
+      "lang": "en",
+      "title": "An Acyclic Two‐Coordinate Stannyliumylidene Enables SnII/SnIV Redox Catalysis",
+      "summary": "Less coordination, greater reactivity: An isolable,…",
+      "detail": "Less coordination, greater reactivity: An isolable, acyclic two-coordinate stannyliumylidene combines pronounced Lewis acidity with an…",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.4327543?af=R",
+      "source": "Angewandte Chemie",
+      "image": "https://onlinelibrary.wiley.com/cms/asset/9801a407-eafe-493d-b2c5-85f3db85f5ae/anie75808-gra-0001-m.png",
+      "category": "연구",
+      "publishedAt": "2026-11-22T05:11:18.000Z",
+      "collectedAt": "2026-11-22T13:07:40.857Z",
+      "titleKo": "비고리형 2좌위 스타닐륨일리덴은 SnII/SnIV 산화환원 촉매작용을 가능하게 합니다",
+      "summaryKo": "더 적은 조정, 더 큰 반응성: 분리 가능하고…",
+      "translator": "google",
+      "detailKo": "더 적은 조정, 더 큰 반응성: 분리 가능한 비환식 2배위 스탄닐륨일리덴은 뚜렷한 루이스 산도와…",
+      "thumb": "/thumbs/a172e4f6bcb6.png"
+    },
+    {
+      "id": "31fd1b588ed9",
+      "kind": "news",
+      "lang": "en",
+      "title": "Radical Buffering by Isolated Ru and Fe Sites in ZSM‐5 for Selective Methane Oxidation to…",
+      "summary": "In ZSM-5 micropores, two independent single-atom…",
+      "detail": "In ZSM-5 micropores, two independent single-atom populations cooperate without any metal–metal bond. Fe activates methane to methyl…",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.4792783?af=R",
+      "source": "Angewandte Chemie",
+      "image": "https://onlinelibrary.wiley.com/cms/asset/a38b9d15-3705-4068-9016-90e69677879a/anie75743-gra-0001-m.png",
+      "category": "연구",
+      "publishedAt": "2026-11-22T05:09:54.000Z",
+      "collectedAt": "2026-11-22T13:07:40.857Z",
+      "titleKo": "선택적 메탄 산화를 위한 ZSM‐5의 분리된 Ru 및 Fe 부위에 의한 라디칼 완충…",
+      "summaryKo": "ZSM-5 미세 기공에는 두 개의 독립적인 단일 원자가…",
+      "translator": "google",
+      "detailKo": "ZSM-5 미세 기공에서는 두 개의 독립적인 단일 원자 집단이 금속-금속 결합 없이 협력합니다. Fe는 메탄을 메틸로 활성화합니다…",
+      "thumb": "/thumbs/31fd1b588ed9.png"
+    },
+    {
+      "id": "ce51d33de35b",
+      "kind": "news",
+      "lang": "ko",
+      "title": "국일인토트∙삼천리, 세계 첫 금속지지체 기반 국산 듀얼촉매 상용화 실증 착수",
+      "summary": "산업용 환경∙소재 기업 국일인토트가 삼천리 광명열병합발전소와 손잡고 금속 지지체 기반 국산…",
+      "detail": "산업용 환경∙소재 기업 국일인토트가 삼천리 광명열병합발전소와 손잡고 금속 지지체 기반 국산 듀얼촉매의 상용 규모 실증에 나선다. 22일 회사 측에 따르면 양사는 최근 실증 협약을 체결하고, 국내 환경촉매 기술의 경쟁력 확보와 발전설비 환경관리 수준…",
+      "link": "https://www.segye.com/newsView/20261122508871",
+      "source": "세계일보",
+      "image": "http://www.bing.com/th?id=ONUT.2PNxEtZ_Z9kzkyT-w6kieQ&pid=News",
+      "category": "소재·에너지",
+      "publishedAt": "2026-11-21T18:58:00.000Z",
+      "collectedAt": "2026-11-22T13:07:40.857Z",
+      "thumb": "/thumbs/ce51d33de35b.jpg"
+    },
+    {
+      "id": "9bd37f49bfd9",
+      "kind": "news",
+      "lang": "ko",
+      "title": "산화 반응속도 최대 3천배 쑥…효소 모방 촉매 원리규명",
+      "summary": "구미현 기자 = 효소 속 금속 주변에 자리한 작은 화학 작용기 하나가 산화 반응 속도를 최대…",
+      "detail": "구미현 기자 = 효소 속 금속 주변에 자리한 작은 화학 작용기 하나가 산화 반응 속도를 최대 3000배까지 끌어올리는 것으로 밝혀졌다. 금속 자체의 특성 뿐만 아니라 금속 주변의 화학적 환경이 반응 효율을 좌우한다는 사실을 실험으로 입증한 것으로…",
+      "link": "https://www.newsis.com/view/NISX20261122_0003878105",
+      "source": "뉴시스",
+      "image": "http://www.bing.com/th?id=ONUT.INp8DZXrDdSlx2qbhIMYpw&pid=News",
+      "category": "소재·에너지",
+      "publishedAt": "2026-11-21T15:33:00.000Z",
+      "collectedAt": "2026-11-22T13:07:40.857Z",
+      "thumb": "/thumbs/9bd37f49bfd9.jpg"
+    },
     {
       "id": "bddeb9aaa190",
       "kind": "video",
@@ -290,7 +358,7 @@
       "summaryKo": "생분해성 나노입자는 리그닌과 스테아린산을 결합한…",
       "translator": "google",
       "detailKo": "생분해성 나노입자는 리그닌과 스테아르산을 결합하여 소수성 마감 처리를 합니다.",
-      "thumb": "/thumbs/8b75b178f7c6.jpg"
+      "thumb": "/thumbs/8b75b178f7c6.webp"
     },
     {
       "id": "bsky-3n2quagcukp2y",
@@ -1104,7 +1172,7 @@
       "category": "입시",
       "publishedAt": "2026-11-18T16:01:00.000Z",
       "collectedAt": "2026-11-19T00:52:22.924Z",
-      "thumb": "/thumbs/86c407f8f149.png"
+      "thumb": "/thumbs/86c407f8f149.jpg"
     },
     {
       "id": "432bed2ef75b",
@@ -2177,7 +2245,7 @@
       "category": "소재·에너지",
       "publishedAt": "2026-11-17T04:00:00.000Z",
       "collectedAt": "2026-11-17T17:44:49.834Z",
-      "thumb": "/thumbs/f30c207efb6e.jpg"
+      "thumb": "/thumbs/f30c207efb6e.png"
     },
     {
       "id": "f1daf933c304",
@@ -2440,73 +2508,6 @@
       "summaryKo": "방향족 성분을 함유한 그릇 모양의 나노카본…",
       "translator": "google",
       "thumb": "/thumbs/bsky-3n2ggmseg2b22.webp"
-    },
-    {
-      "id": "14a30c13f566",
-      "kind": "news",
-      "lang": "ko",
-      "title": "수백억 아끼려 옮기는 과학고… 교육청 땅 다시 사들인다면 '배보다 배꼽'",
-      "summary": "\"부지 변경을 통해 예산을 적게 들여 과학고를 지을 수 있다면 나머지 금액 1000억원 정도를…",
-      "detail": "\"부지 변경을 통해 예산을 적게 들여 과학고를 지을 수 있다면 나머지 금액 1000억원 정도를 이천의 학교와 교육 예산에 투입해 모든 학생들을 위해 쓰고 싶은 욕심이 있습니다.\" 지난 8월 24일 '부발읍 주민과의 대화'에서 성수석 이천시장이 한…",
-      "link": "https://www.dampannews.com/news/articleView.html?idxno=11615",
-      "source": "dampannews.com",
-      "image": "http://www.bing.com/th?id=ONUT.OoRAfdSxflyDouM2Y0k6Jg&pid=News",
-      "category": "교육",
-      "publishedAt": "2026-11-16T10:11:00.000Z",
-      "collectedAt": "2026-11-17T00:22:28.454Z",
-      "thumb": "/thumbs/14a30c13f566.jpg"
-    },
-    {
-      "id": "680793f52703",
-      "kind": "news",
-      "lang": "ko",
-      "title": "550도에서 암모니아 95.5% 분해한 니켈 촉매",
-      "summary": "울산과학기술원과 한국생산기술연구원, 영남대 연구진이 값비싼 루테늄 대신 니켈을 주성분으로 한…",
-      "detail": "울산과학기술원과 한국생산기술연구원, 영남대 연구진이 값비싼 루테늄 대신 니켈을 주성분으로 한 암모니아 분해 촉매를 개발했다. 이 촉매는 550도에서 암모니아의 95.5%를 분해했고, 525도 조건에서 100시간 동안 성능을 유지했다.",
-      "link": "https://news.jkn.co.kr/post/1099095",
-      "source": "재경일보",
-      "category": "소재·에너지",
-      "publishedAt": "2026-11-16T10:11:00.000Z",
-      "collectedAt": "2026-11-17T00:22:28.454Z",
-      "thumb": "/thumbs/680793f52703.jpg"
-    },
-    {
-      "id": "db6e43e61bb1",
-      "kind": "news",
-      "lang": "en",
-      "title": "Iron‐Catalyzed Regioselective Amidation of Pyridines via Zincke Imine Intermediates",
-      "summary": "An iron-catalyzed regioselective amidation of Zincke…",
-      "detail": "An iron-catalyzed regioselective amidation of Zincke imines enables access to C3-amidated pyridines, including C2-, C3-, C4-, and…",
-      "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.5465706?af=R",
-      "source": "Angewandte Chemie",
-      "image": "https://onlinelibrary.wiley.com/cms/asset/a7a9e071-6bd7-4c62-ac89-7fe132af2f51/anie75721-gra-0001-m.png",
-      "category": "연구",
-      "publishedAt": "2026-11-16T09:00:16.000Z",
-      "collectedAt": "2026-11-17T00:22:28.454Z",
-      "titleKo": "아연이민 중간체를 통한 피리딘의 철촉매화된 위치선택적 아미드화",
-      "summaryKo": "철 촉매에 의한 Zincke의 위치 선택성 아미드…",
-      "translator": "google",
-      "detailKo": "Zincke 이민의 철 촉매 위치선택적 아미드화를 통해 C2-, C3-, C4- 및…",
-      "thumb": "/thumbs/db6e43e61bb1.png"
-    },
-    {
-      "id": "dfb4ed6f0f72",
-      "kind": "news",
-      "lang": "en",
-      "title": "An Oxidative Twist to the Interrupted Pummerer Reaction: Unlocking Inaccessible Aryl…",
-      "summary": "A mechanistically alternative oxidative interrupted…",
-      "detail": "A mechanistically alternative oxidative interrupted Pummerer process was disclosed and the practicality of oxidative variant was…",
-      "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.3204574?af=R",
-      "source": "Angewandte Chemie",
-      "image": "https://onlinelibrary.wiley.com/cms/asset/c02f9b72-26d7-4d7b-802d-f8c248407ce8/anie75766-gra-0001-m.png",
-      "category": "연구",
-      "publishedAt": "2026-11-16T08:57:57.000Z",
-      "collectedAt": "2026-11-17T00:22:28.454Z",
-      "titleKo": "중단된 Pummerer 반응에 대한 산화적 변형: 접근할 수 없는 Aryl 잠금 해제…",
-      "summaryKo": "기계적으로 대체적인 산화가 중단되었습니다…",
-      "translator": "google",
-      "detailKo": "기계적으로 대체적인 산화 중단 Pummerer 공정이 공개되었으며 산화 변형의 실용성은…",
-      "thumb": "/thumbs/dfb4ed6f0f72.png"
     }
   ]
 }

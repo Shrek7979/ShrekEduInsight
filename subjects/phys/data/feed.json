@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-11-22T01:11:17.344Z",
+  "updatedAt": "2026-11-22T13:07:40.857Z",
   "items": [
+    {
+      "id": "b31adbec3d58",
+      "kind": "news",
+      "lang": "ko",
+      "title": "청양군 칠갑산천문대, 내달 5ㆍ6일 '행성관측'",
+      "summary": "충남 청양군 칠갑산천문대는 아름다운 고리를 가진 토성의 최적 관측 시기를 맞아 오는 오는…",
+      "detail": "충남 청양군 칠갑산천문대는 아름다운 고리를 가진 토성의 최적 관측 시기를 맞아 오는 오는 12월5일부터 6일까지 이틀간 ‘행성관측 특별 프로그램’을 운영한다고 밝혔다. 태양계의 행성과 별자리를 주제로 기획된 이번 특별 프로그램은 청정 청양의 밤하늘을…",
+      "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160276724570339",
+      "source": "시민일보",
+      "category": "우주·천문",
+      "publishedAt": "2026-11-22T04:05:00.000Z",
+      "collectedAt": "2026-11-22T13:07:40.857Z",
+      "thumb": "/thumbs/b31adbec3d58.png"
+    },
     {
       "id": "ff306488bbc9",
       "kind": "news",
@@ -1817,7 +1831,7 @@
       "category": "연구",
       "publishedAt": "2026-11-17T08:59:00.000Z",
       "collectedAt": "2026-11-17T17:44:49.830Z",
-      "thumb": "/thumbs/8da296de4495.png"
+      "thumb": "/thumbs/8da296de4495.jpg"
     },
     {
       "id": "ea16e9a52d2b",
@@ -2485,21 +2499,6 @@
       "publishedAt": "2026-11-15T16:51:00.000Z",
       "collectedAt": "2026-11-16T06:16:24.484Z",
       "thumb": "/thumbs/c69ecb1bec6d.jpg"
-    },
-    {
-      "id": "37f23234c85f",
-      "kind": "news",
-      "lang": "ko",
-      "title": "강릉 AI 특화 과학고, 제2캠퍼스서 학교 신설로 선회",
-      "summary": "강삼영 강원도교육감이 후보 당시 주요 공약으로 내세운 ‘AI 특화 강원과학고 제2캠퍼스’가 분교…",
-      "detail": "강삼영 강원도교육감이 후보 당시 주요 공약으로 내세운 ‘AI 특화 강원과학고 제2캠퍼스’가 분교 형식이 아닌 학교 신설로 가닥이 잡혔다. 15일 본지취재를 종합하면 강원도교육청은 내달 17일 AI 특화 강원 제2과학고 유치 및 설립 추진 협약을…",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2084977",
-      "source": "강원도민일보",
-      "image": "http://www.bing.com/th?id=ONUT.x3eF76Z_w65q2N9X2yiBpA&pid=News",
-      "category": "교육",
-      "publishedAt": "2026-11-15T16:15:00.000Z",
-      "collectedAt": "2026-11-16T06:16:24.484Z",
-      "thumb": "/thumbs/37f23234c85f.png"
     }
   ]
 }
