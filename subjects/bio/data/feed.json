@@ -1,6 +1,125 @@
 {
-  "updatedAt": "2026-11-21T13:09:22.980Z",
+  "updatedAt": "2026-11-22T01:09:23.511Z",
   "items": [
+    {
+      "id": "bsky-3n2ubrqrx2c2f",
+      "kind": "news",
+      "lang": "en",
+      "title": "Slap restricts oncogenic Src-family kinase signaling to maintain colonic epithelial homeostasis",
+      "summary": "Slap restricts oncogenic Src-family kinase signaling to…",
+      "link": "https://bsky.app/profile/elife.bsky.social/post/3n2ubrqrx2c2f",
+      "source": "Bluesky eLife",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4irghgzlsjk6ugrekoqyl7km/bafkreibr6rxg2vvdlwjazcd25nl36dmjkxhfuorv3slkfnyawmlsryqxoe",
+      "category": "인기",
+      "publishedAt": "2026-11-21T23:44:01.141Z",
+      "collectedAt": "2026-11-22T01:09:23.511Z",
+      "titleKo": "Slap은 결장 상피 항상성을 유지하기 위해 발암 성 Src 계열 키나아제 신호 전달을 제한합니다.",
+      "summaryKo": "Slap은 발암성 Src 계열 키나제 신호 전달을 다음과 같이 제한합니다",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3n2ubrqrx2c2f.webp"
+    },
+    {
+      "id": "0496e97b0850",
+      "kind": "news",
+      "lang": "en",
+      "title": "A 50-year-old theory about evolution may have been wrong all along",
+      "summary": "A decades-old theory suggesting that evolution protects…",
+      "detail": "A decades-old theory suggesting that evolution protects its most important genes from mutations has been dealt a major blow. An extensive…",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261119194538.htm",
+      "source": "ScienceDaily",
+      "category": "해외",
+      "publishedAt": "2026-11-21T14:06:15.000Z",
+      "collectedAt": "2026-11-22T01:09:23.511Z",
+      "titleKo": "진화에 관한 50년 된 이론은 처음부터 틀렸을 수도 있습니다",
+      "summaryKo": "진화가 보호한다고 제안하는 수십 년 된 이론",
+      "translator": "google",
+      "detailKo": "진화가 가장 중요한 유전자를 돌연변이로부터 보호한다고 제안하는 수십 년 된 이론이 큰 타격을 입었습니다. 광범위한…",
+      "thumb": "/thumbs/0496e97b0850.webp"
+    },
+    {
+      "id": "359d95c22ebd",
+      "kind": "news",
+      "lang": "en",
+      "title": "Scientists say the human family tree may need a radical rewrite",
+      "summary": "The human family tree may need a major overhaul",
+      "detail": "The human family tree may need a major overhaul. New research from Monash University challenges the traditional classification of our…",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261118074039.htm",
+      "source": "ScienceDaily",
+      "category": "해외",
+      "publishedAt": "2026-11-21T13:44:55.000Z",
+      "collectedAt": "2026-11-22T01:09:23.511Z",
+      "titleKo": "과학자들은 인간의 가계도를 근본적으로 다시 작성해야 할 수도 있다고 말합니다.",
+      "summaryKo": "인간의 가계도에 대대적인 점검이 필요할 수 있습니다",
+      "translator": "google",
+      "detailKo": "인간의 가계도를 대대적으로 점검해야 할 수도 있습니다. Monash University의 새로운 연구는 우리의 전통적인 분류에 도전합니다…",
+      "thumb": "/thumbs/359d95c22ebd.webp"
+    },
+    {
+      "id": "bsky-3n2t7iaa3vn2p",
+      "kind": "news",
+      "lang": "en",
+      "title": "It was an unprecedented year for El Niño, the weather-changing ocean pattern defined by warmer-than-normal surface waters in the central…",
+      "summary": "and eastern equatorial Pacific",
+      "link": "https://bsky.app/profile/sciencenews.bsky.social/post/3n2t7iaa3vn2p",
+      "source": "Bluesky Science News",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mhjqpvjvyzpj4pso7ux2tekh/bafkreic6ikmp6jyinvdped3pfjcmn7y6mikm5s3g7g5kapc3vjeto7qavq",
+      "likes": "1",
+      "category": "인기",
+      "publishedAt": "2026-11-21T13:30:14.231Z",
+      "collectedAt": "2026-11-22T01:09:23.511Z",
+      "titleKo": "엘니뇨는 전례 없는 해였습니다. 엘니뇨는 중앙 지역의 평소보다 따뜻한 표층수로 인해 날씨가 변하는 해양 패턴입니다.",
+      "summaryKo": "및 동적도 태평양",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3n2t7iaa3vn2p.webp"
+    },
+    {
+      "id": "68d87a500441",
+      "kind": "news",
+      "lang": "ko",
+      "title": "\"암 막는 유전자 불쏘시개, 비타민B3서 찾았다\" 일본이 주목한 '이것'",
+      "summary": "이미 암에 걸린 환자들에겐 '렁스3'의 기능이 사실상 멈춰있는데, 비타민B3 일종인…",
+      "detail": "이미 암에 걸린 환자들에겐 '렁스3'의 기능이 사실상 멈춰있는데, 비타민B3 일종인 '나이아신아마이드'가 이 유전자를 활성화해 암 발생·전이를 억제하는 것으로 밝혀졌다. 지난 21일(현지시간) 일본 시즈오카현 시즈오카 현립대학에서 열린 '제24회…",
+      "link": "https://www.mt.co.kr/thebio/2026/11/22/2026112121082152035",
+      "source": "머니투데이",
+      "image": "http://www.bing.com/th?id=ONUT.bnnZOBlCAoYAGBh83lnNdg&pid=News",
+      "category": "의학·바이오",
+      "publishedAt": "2026-11-21T11:00:00.000Z",
+      "collectedAt": "2026-11-22T01:09:23.511Z",
+      "thumb": "/thumbs/68d87a500441.jpg"
+    },
+    {
+      "id": "eaa11e7458c4",
+      "kind": "news",
+      "lang": "ko",
+      "title": "국립생물자원관 28일 가족 생물교육…22일 신청 마감",
+      "summary": "국립생물자원관이 오는 28일 가족 대상 생물다양성 교육을 운영한다",
+      "detail": "국립생물자원관이 오는 28일 가족 대상 생물다양성 교육을 운영한다. 참가 신청은 22일 오후 11시까지 받는다. 교육은 국립생물자원관 교육실에서 무료로 진행된다. 신청자는 통합예약시스템에 로그인한 뒤 교육 프로그램과 희망 일정을 선택해 참가 정보를…",
+      "link": "https://www.vegannews.co.kr/news/article.html?no=409115",
+      "source": "vegannews",
+      "image": "http://www.bing.com/th?id=ONUT.eEH0isRjhqCEg67FPG0oDQ&pid=News",
+      "category": "생태·환경",
+      "publishedAt": "2026-11-21T05:47:00.000Z",
+      "collectedAt": "2026-11-22T01:09:23.511Z",
+      "thumb": "/thumbs/eaa11e7458c4.jpg"
+    },
+    {
+      "id": "b28b5963b3d4",
+      "kind": "news",
+      "lang": "en",
+      "title": "‘I had felt overconfident’: senior scientists reveal mistakes that aided discovery",
+      "summary": "Five experienced researchers, including a Nobel…",
+      "detail": "Five experienced researchers, including a Nobel prizewinner, revisit the dead ends, bloopers and moments of stubborn certainty that shaped…",
+      "link": "https://www.nature.com/articles/d41586-026-03590-2",
+      "source": "Nature",
+      "category": "해외",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "collectedAt": "2026-11-22T01:09:23.511Z",
+      "titleKo": "'과도한 자신감을 느꼈다': 선임 과학자들이 발견에 도움이 된 실수를 폭로함",
+      "summaryKo": "노벨상 등 경험 많은 연구자 5명…",
+      "translator": "google",
+      "detailKo": "노벨상 수상자를 포함한 5명의 숙련된 연구자들이 막다른 골목, 실수, 완고한 확신의 순간을 다시 살펴봅니다.",
+      "thumb": "/thumbs/b28b5963b3d4.jpg"
+    },
     {
       "id": "c3f996e11203",
       "kind": "news",
@@ -15,24 +134,6 @@
       "publishedAt": "2026-11-20T06:19:00.000Z",
       "collectedAt": "2026-11-21T13:09:22.980Z",
       "thumb": "/thumbs/c3f996e11203.jpg"
-    },
-    {
-      "id": "b28b5963b3d4",
-      "kind": "news",
-      "lang": "en",
-      "title": "‘I had felt overconfident’: senior scientists reveal mistakes that aided discovery",
-      "summary": "Five experienced researchers, including a Nobel…",
-      "detail": "Five experienced researchers, including a Nobel prizewinner, revisit the dead ends, bloopers and moments of stubborn certainty that shaped…",
-      "link": "https://www.nature.com/articles/d41586-026-03590-2",
-      "source": "Nature",
-      "category": "해외",
-      "publishedAt": "2026-11-20T00:00:00.000Z",
-      "collectedAt": "2026-11-21T13:09:22.980Z",
-      "titleKo": "'과도한 자신감을 느꼈다': 선임 과학자들이 발견에 도움이 된 실수를 폭로함",
-      "summaryKo": "노벨상 등 경험 많은 연구자 5명…",
-      "translator": "google",
-      "detailKo": "노벨상 수상자를 포함한 5명의 숙련된 연구자들이 막다른 골목, 실수, 완고한 확신의 순간을 다시 살펴봅니다.",
-      "thumb": "/thumbs/b28b5963b3d4.png"
     },
     {
       "id": "515f1719878e",
@@ -51,7 +152,7 @@
       "summaryKo": "전립선에서 기억과 관련된 단백질 발견…",
       "translator": "google",
       "detailKo": "전립선암 세포에서 기억과 연결된 단백질을 찾은 후 Sebnem Ece Eksi는 종양의 신경 섬유 지도를 작성하기를 희망합니다.",
-      "thumb": "/thumbs/515f1719878e.webp"
+      "thumb": "/thumbs/515f1719878e.jpg"
     },
     {
       "id": "60ff44cd6498",
@@ -70,7 +171,7 @@
       "summaryKo": "생태학자 제니퍼 그렌츠(Jennifer Grenz)는 원주민 구술을 활용합니다…",
       "translator": "google",
       "detailKo": "생태학자인 제니퍼 그렌츠(Jennifer Grenz)는 원주민 구전 역사와 생태 기록을 활용하여 산불 후 풍경이 어떻게 회복되는지 알아봅니다.",
-      "thumb": "/thumbs/60ff44cd6498.webp"
+      "thumb": "/thumbs/60ff44cd6498.jpg"
     },
     {
       "id": "b5183277beac",
@@ -296,7 +397,7 @@
       "summaryKo": "조사를 통해 잠재적으로 널리 퍼진 문제가 밝혀졌습니다",
       "translator": "google",
       "detailKo": "조사를 통해 잠재적으로 광범위한 문제가 밝혀지고 철회 및 수정이 필요합니다.",
-      "thumb": "/thumbs/cbc27453f080.png"
+      "thumb": "/thumbs/cbc27453f080.jpg"
     },
     {
       "id": "c5531e26829c",
@@ -1217,7 +1318,7 @@
       "summaryKo": "학부생은 유전적 전파를 퍼뜨린 최초의 그룹이었습니다…",
       "translator": "google",
       "detailKo": "대유행 기간 동안 학부생들이 SARS-CoV-2의 유전적 변이체를 퍼뜨린 최초의 그룹인 것으로 대규모 분석 결과 밝혀졌습니다.",
-      "thumb": "/thumbs/32c827b7b9ad.png"
+      "thumb": "/thumbs/32c827b7b9ad.jpg"
     },
     {
       "id": "322f5f41e82f",
@@ -1235,7 +1336,7 @@
       "summaryKo": "조류 번성은 중요한 생태 현상입니다",
       "translator": "google",
       "detailKo": "조류 번성은 탄소 고정을 촉진하고 해양 먹이사슬에 연료를 공급하는 중요한 생태 현상입니다. 바이러스 감염으로 인해 종종 종료됩니다…",
-      "thumb": "/thumbs/322f5f41e82f.png"
+      "thumb": "/thumbs/322f5f41e82f.jpg"
     },
     {
       "id": "88246c7c6cd2",
@@ -1464,7 +1565,7 @@
       "summaryKo": "뇌는 병원체를 해독하고 다음에 대한 기억을 저장할 수 있습니다",
       "translator": "google",
       "detailKo": "뇌는 병원체를 해독하고 이전 질병에 대한 기억을 저장하며 미래의 위협에 대비하여 신체를 준비할 수 있습니다.",
-      "thumb": "/thumbs/9f481dbecfbf.png"
+      "thumb": "/thumbs/9f481dbecfbf.jpg"
     },
     {
       "id": "eb84ed8bf735",
@@ -1887,7 +1988,7 @@
       "summaryKo": "지옥닭 공룡인 인페르노갈루스가 진화했다…",
       "translator": "google",
       "detailKo": "'지옥닭' 공룡인 인페르노갈루스(Infernogallus)는 과일이 많은 식단을 먹도록 진화했습니다. 이는 과일을 먹는 적응의 첫 번째 증거일 수 있습니다…",
-      "thumb": "/thumbs/2c0b1cec7af3.webp"
+      "thumb": "/thumbs/2c0b1cec7af3.jpg"
     },
     {
       "id": "2f3784d3b203",
@@ -2190,7 +2291,7 @@
       "summaryKo": "우리 기자는 두 가지가 무엇인지 알아보기 위해 똥을 우편으로 보냈습니다",
       "translator": "google",
       "detailKo": "우리 기자는 두 회사가 그녀의 미생물군집에 대해 어떻게 말하는지 알아보기 위해 그녀의 똥을 우편으로 보냈습니다. 그녀가 찾은 것은 다음과 같습니다.",
-      "thumb": "/thumbs/0597500d88f1.png"
+      "thumb": "/thumbs/0597500d88f1.jpg"
     },
     {
       "id": "f1b21a2c43c6",
@@ -2208,7 +2309,7 @@
       "summaryKo": "전 세계 농업 수요는 과거에 비해 증가했습니다…",
       "translator": "google",
       "detailKo": "지난 수십 년 동안 전 세계 농업 수요가 증가하여 세계에서 가장 생물 다양성이 높은 일부 지역에서 토지 이용이 집중되었습니다.",
-      "thumb": "/thumbs/f1b21a2c43c6.png"
+      "thumb": "/thumbs/f1b21a2c43c6.jpg"
     },
     {
       "id": "0f4ca3810df8",
@@ -2341,98 +2442,6 @@
       "summaryKo": "",
       "translator": "google",
       "thumb": "/thumbs/759d73cc2a4e.jpg"
-    },
-    {
-      "id": "8e6661b4b128",
-      "kind": "video",
-      "lang": "en",
-      "title": "Pumpkins Shouldn't Exist",
-      "summary": "",
-      "detail": "",
-      "link": "https://www.youtube.com/watch?v=O5H7g4RCRnw",
-      "source": "PBS Eons",
-      "image": "https://i4.ytimg.com/vi/O5H7g4RCRnw/hqdefault.jpg",
-      "views": 948980,
-      "category": "인기",
-      "publishedAt": "2026-10-27T14:00:37.000Z",
-      "collectedAt": "2026-11-18T23:09:57.175Z",
-      "titleKo": "호박은 존재해서는 안 된다",
-      "summaryKo": "",
-      "translator": "google",
-      "thumb": "/thumbs/8e6661b4b128.jpg"
-    },
-    {
-      "id": "cdd0090b105d",
-      "kind": "video",
-      "lang": "ko",
-      "title": "손내밀면 달려와 애교부리는 최고의 반려물고기! 요즘 핫한 이유가 있었네요ㄷㄷ",
-      "summary": "",
-      "detail": "",
-      "link": "https://www.youtube.com/watch?v=kmqfZM_raF4",
-      "source": "TV생물도감",
-      "image": "https://i4.ytimg.com/vi/kmqfZM_raF4/hqdefault.jpg",
-      "views": 1084039,
-      "category": "인기",
-      "publishedAt": "2026-10-24T02:00:08.000Z",
-      "collectedAt": "2026-11-18T23:09:57.175Z",
-      "summaryKo": "",
-      "thumb": "/thumbs/cdd0090b105d.jpg"
-    },
-    {
-      "id": "a2e60e14a631",
-      "kind": "news",
-      "lang": "ko",
-      "title": "[국립생태원 온대관] 멸종위기 야생생물 Ⅰ급, 제주에서만 자생하는 ‘이 식물’ 생태원에서 만날 수 있어요!",
-      "summary": "안녕하세요!",
-      "detail": "안녕하세요! 국립생태원의 척척박사, 펭이예요 혹시 '제주고사리삼'이라는 식물, 들어본 적 있으신가요? 제주고사리삼은 전 세계를 통틀어 오직 대한민국 제주도 일부 지역에서만 자라는 한국 고유식물이에요. 멸종위기 야생생물 Ⅰ급으로 지정될 만큼 아주 귀한…",
-      "link": "https://blog.naver.com/nie_korea/224481994591?fromRss=true&trackingCode=rss",
-      "source": "네이버 블로그 국립생태원",
-      "category": "인기",
-      "publishedAt": "2026-11-18T05:30:22.000Z",
-      "collectedAt": "2026-11-18T07:18:15.410Z",
-      "thumb": "/thumbs/a2e60e14a631.png"
-    },
-    {
-      "id": "cde2dd014494",
-      "kind": "news",
-      "lang": "ko",
-      "title": "[수능D-1] N수생 19만명, AI커닝 감독 강화, 사탐런 69.6% ‘역대 최대 변수 맞물린 수능’",
-      "summary": "역대 가장 많은 변수를 안고 있는 2027수능이 하루 앞으로 다가왔다",
-      "detail": "역대 가장 많은 변수를 안고 있는 2027수능이 하루 앞으로 다가왔다. 국어/수학/탐구 선택과목 체제로 치르는 마지막 수능에 N수생은 23년 만에 최대치로 몰렸고, '사탐런'도 정점에 이르렀다. 여기에 ‘AI커닝’ 돌출변수가 맞물렸다.…",
-      "link": "https://www.veritas-a.com/news/articleView.html?idxno=637727",
-      "source": "베리타스알파",
-      "category": "입시",
-      "publishedAt": "2026-11-18T03:50:24.000Z",
-      "collectedAt": "2026-11-18T07:18:15.410Z",
-      "thumb": "/thumbs/cde2dd014494.jpg"
-    },
-    {
-      "id": "0a298a6f810c",
-      "kind": "news",
-      "lang": "ko",
-      "title": "전북대 농축산용미생물산업육성지원센터 그린바이오 성과교류 전시회 개최.. '개소 이후 225개 기업 6435건 지원'",
-      "summary": "전북대가 운영하는 (재)농축산용미생물산업육성지원센터가 16일 '그린바이오 농축산미생물산업 성과교류…",
-      "detail": "전북대가 운영하는 (재)농축산용미생물산업육성지원센터가 16일 '그린바이오 농축산미생물산업 성과교류 전시회'를 열고 그간 쌓아온 연구 성과와 기업 지원 실적을 공개했다. 행사에는 농림축산식품부, 전북특별자치도, 정읍시, 전북대 등 유관 기관 관계자와…",
-      "link": "https://www.veritas-a.com/news/articleView.html?idxno=637796",
-      "source": "베리타스알파",
-      "category": "대회·행사",
-      "publishedAt": "2026-11-18T02:51:22.000Z",
-      "collectedAt": "2026-11-18T07:18:15.410Z",
-      "thumb": "/thumbs/0a298a6f810c.jpg"
-    },
-    {
-      "id": "f2230a8e4a2e",
-      "kind": "news",
-      "lang": "ko",
-      "title": "[조간브리핑]몸속에서 유전자 고치는 주사···희귀 유전병 치료 판도 바뀌나",
-      "summary": "주사 한 방이면 끝···유전병 치료 새 시대 연다주사 한 번으로 몸속 고장 난 유전자를 고치는…",
-      "detail": "주사 한 방이면 끝···유전병 치료 새 시대 연다주사 한 번으로 몸속 고장 난 유전자를 고치는 '유전자 가위 치료제'가 세계 첫 승인을 앞두고 있다. 국제 학술지 '네이처' 등에 따르면, 미 식품의약국(FDA)은 미국 바이오 기업 인텔리아…",
-      "link": "http://www.hellodd.com/news/articleView.html?idxno=113915",
-      "source": "헬로디디",
-      "category": "의학·바이오",
-      "publishedAt": "2026-11-18T00:51:22.000Z",
-      "collectedAt": "2026-11-18T07:18:15.410Z",
-      "thumb": "/thumbs/f2230a8e4a2e.jpg"
     }
   ]
 }

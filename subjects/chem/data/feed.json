@@ -1,6 +1,57 @@
 {
-  "updatedAt": "2026-11-21T13:09:23.008Z",
+  "updatedAt": "2026-11-22T01:09:23.500Z",
   "items": [
+    {
+      "id": "bsky-3n2u3rvcfcs2p",
+      "kind": "news",
+      "lang": "en",
+      "title": "New investments in battery recycling are gathering pace in Europe, even as the region’s broader battery industry struggles to compete.",
+      "summary": "chemsky 🧪",
+      "link": "https://bsky.app/profile/cenmag.bsky.social/post/3n2u3rvcfcs2p",
+      "source": "Bluesky C&EN",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u4u4yeik2uube2g6ov7wr35p/bafkreiedexgrgfefciz6j6ad3bgwzuodzwrbimqmtz736hbmhtfx42nix4",
+      "likes": "20",
+      "category": "인기",
+      "publishedAt": "2026-11-21T21:56:43.808Z",
+      "collectedAt": "2026-11-22T01:09:23.500Z",
+      "titleKo": "이 지역의 광범위한 배터리 산업이 경쟁을 벌이고 있음에도 불구하고 배터리 재활용에 대한 새로운 투자가 유럽에서 속도를 내고 있습니다.",
+      "summaryKo": "켐스키 🧪",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3n2u3rvcfcs2p.webp"
+    },
+    {
+      "id": "bsky-3n2tubcc27c2p",
+      "kind": "news",
+      "lang": "en",
+      "title": "The battery materials firm Sila Nanotechnologies says it will sell up to $1 billion of its silicon anode materials to the battery maker…",
+      "summary": "Panasonic Energy",
+      "link": "https://bsky.app/profile/cenmag.bsky.social/post/3n2tubcc27c2p",
+      "source": "Bluesky C&EN",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u4u4yeik2uube2g6ov7wr35p/bafkreigvmjzyr6knzqwnbsdbblwvu3nyminy5pkjsh6dxpxleibqqyob3i",
+      "likes": "11",
+      "category": "인기",
+      "publishedAt": "2026-11-21T19:42:10.809Z",
+      "collectedAt": "2026-11-22T01:09:23.500Z",
+      "titleKo": "배터리 소재 회사인 Sila Nanotechnologies는 자사의 실리콘 양극 소재를 배터리 제조업체에 최대 10억 달러에 판매할 것이라고 밝혔습니다.",
+      "summaryKo": "파나소닉에너지",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3n2tubcc27c2p.webp"
+    },
+    {
+      "id": "330f83f834a2",
+      "kind": "news",
+      "lang": "ko",
+      "title": "화학연 손잡은 한국콜마, 화장품 개발 시행착오 줄인다",
+      "summary": "한국콜마가 화장품을 실제로 만들기 전에 인공지능(AI)으로 피부 반응과 성분 흡수율을 예측하는 기술…",
+      "detail": "한국콜마가 화장품을 실제로 만들기 전에 인공지능(AI)으로 피부 반응과 성분 흡수율을 예측하는 기술 개발을 추진한다.한국콜마는 지난 17일 한국화학연구원과 ‘AI 기반 피부영향 예측기술 개발’을 위한 업무협약(MOU)을 체결했다고 19일…",
+      "link": "https://www.enewstoday.co.kr/news/articleView.html?idxno=2494427",
+      "source": "이뉴스투데이",
+      "image": "http://www.bing.com/th?id=ONUT.4i19voBDEPZDPMxcur8L9g&pid=News",
+      "category": "연구",
+      "publishedAt": "2026-11-19T04:23:00.000Z",
+      "collectedAt": "2026-11-22T01:09:23.500Z",
+      "thumb": "/thumbs/330f83f834a2.jpg"
+    },
     {
       "id": "bsky-3n2t5dt63k22e",
       "kind": "news",
@@ -188,7 +239,7 @@
       "summaryKo": "생분해성 나노입자는 리그닌과 스테아린산을 결합한…",
       "translator": "google",
       "detailKo": "생분해성 나노입자는 리그닌과 스테아르산을 결합하여 소수성 마감 처리를 합니다.",
-      "thumb": "/thumbs/8b75b178f7c6.jpg"
+      "thumb": "/thumbs/8b75b178f7c6.webp"
     },
     {
       "id": "bsky-3n2quagcukp2y",
@@ -1002,7 +1053,7 @@
       "category": "입시",
       "publishedAt": "2026-11-18T16:01:00.000Z",
       "collectedAt": "2026-11-19T00:52:22.924Z",
-      "thumb": "/thumbs/86c407f8f149.png"
+      "thumb": "/thumbs/86c407f8f149.jpg"
     },
     {
       "id": "432bed2ef75b",
@@ -2075,7 +2126,7 @@
       "category": "소재·에너지",
       "publishedAt": "2026-11-17T04:00:00.000Z",
       "collectedAt": "2026-11-17T17:44:49.834Z",
-      "thumb": "/thumbs/f30c207efb6e.jpg"
+      "thumb": "/thumbs/f30c207efb6e.png"
     },
     {
       "id": "f1daf933c304",
@@ -2450,57 +2501,6 @@
       "publishedAt": "2026-11-16T07:22:00.000Z",
       "collectedAt": "2026-11-17T00:22:28.454Z",
       "thumb": "/thumbs/3546345e59d3.png"
-    },
-    {
-      "id": "bddeb9aaa190",
-      "kind": "video",
-      "lang": "ko",
-      "title": "C4를 개발한 피카티니 병기창은 무엇을 연구할까? 유리처럼 투명한 폭발물과 고분자 이야기!",
-      "summary": "투명 지뢰나 투명 반응 장갑을 만들기 위해 필요한",
-      "link": "https://www.youtube.com/watch?v=qBfge4bK1eY",
-      "source": "화학하악",
-      "image": "https://i2.ytimg.com/vi/qBfge4bK1eY/hqdefault.jpg",
-      "views": 39356,
-      "category": "인기",
-      "publishedAt": "2026-11-07T05:36:00.000Z",
-      "collectedAt": "2026-11-17T00:22:28.454Z",
-      "thumb": "/thumbs/bddeb9aaa190.jpg"
-    },
-    {
-      "id": "041444533a35",
-      "kind": "video",
-      "lang": "en",
-      "title": "Making the world's most extreme candy (it short-circuits my brain)",
-      "summary": "",
-      "detail": "",
-      "link": "https://www.youtube.com/watch?v=9nDSmqqkq8E",
-      "source": "NileBlue",
-      "image": "https://i2.ytimg.com/vi/9nDSmqqkq8E/hqdefault.jpg",
-      "views": 13761113,
-      "category": "인기",
-      "publishedAt": "2026-11-01T17:10:24.000Z",
-      "collectedAt": "2026-11-17T00:22:28.454Z",
-      "titleKo": "세상에서 가장 극단적인 사탕 만들기 (내 뇌를 단락시키다)",
-      "summaryKo": "",
-      "translator": "google",
-      "thumb": "/thumbs/041444533a35.jpg"
-    },
-    {
-      "id": "58d18c540954",
-      "kind": "video",
-      "lang": "ko",
-      "title": "[물질과 에너지] 12편 : 반응 엔탈피의 측정 & 계산(Feat. 헤스 법칙, 표준 생성 엔탈피)",
-      "summary": "",
-      "detail": "",
-      "link": "https://www.youtube.com/watch?v=dPqIpLw4ogk",
-      "source": "티노화학",
-      "image": "https://i1.ytimg.com/vi/dPqIpLw4ogk/hqdefault.jpg",
-      "views": 1859,
-      "category": "인기",
-      "publishedAt": "2026-10-30T14:34:11.000Z",
-      "collectedAt": "2026-11-17T00:22:28.454Z",
-      "summaryKo": "",
-      "thumb": "/thumbs/58d18c540954.jpg"
     }
   ]
 }
