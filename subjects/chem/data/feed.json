@@ -1,6 +1,57 @@
 {
-  "updatedAt": "2026-11-22T01:09:23.500Z",
+  "updatedAt": "2026-11-22T01:11:17.438Z",
   "items": [
+    {
+      "id": "bddeb9aaa190",
+      "kind": "video",
+      "lang": "ko",
+      "title": "C4를 개발한 피카티니 병기창은 무엇을 연구할까? 유리처럼 투명한 폭발물과 고분자 이야기!",
+      "summary": "투명 지뢰나 투명 반응 장갑을 만들기 위해 필요한",
+      "link": "https://www.youtube.com/watch?v=qBfge4bK1eY",
+      "source": "화학하악",
+      "image": "https://i2.ytimg.com/vi/qBfge4bK1eY/hqdefault.jpg",
+      "views": 40348,
+      "category": "인기",
+      "publishedAt": "2026-11-07T05:36:00.000Z",
+      "collectedAt": "2026-11-22T01:11:17.438Z",
+      "thumb": "/thumbs/bddeb9aaa190.jpg"
+    },
+    {
+      "id": "041444533a35",
+      "kind": "video",
+      "lang": "en",
+      "title": "Making the world's most extreme candy (it short-circuits my brain)",
+      "summary": "",
+      "detail": "",
+      "link": "https://www.youtube.com/watch?v=9nDSmqqkq8E",
+      "source": "NileBlue",
+      "image": "https://i2.ytimg.com/vi/9nDSmqqkq8E/hqdefault.jpg",
+      "views": 14485835,
+      "category": "인기",
+      "publishedAt": "2026-11-01T17:10:24.000Z",
+      "collectedAt": "2026-11-22T01:11:17.438Z",
+      "titleKo": "세상에서 가장 극단적인 사탕 만들기 (그것은 내 뇌를 단락시킵니다)",
+      "summaryKo": "",
+      "translator": "google",
+      "thumb": "/thumbs/041444533a35.jpg"
+    },
+    {
+      "id": "58d18c540954",
+      "kind": "video",
+      "lang": "ko",
+      "title": "[물질과 에너지] 12편 : 반응 엔탈피의 측정 & 계산(Feat. 헤스 법칙, 표준 생성 엔탈피)",
+      "summary": "",
+      "detail": "",
+      "link": "https://www.youtube.com/watch?v=dPqIpLw4ogk",
+      "source": "티노화학",
+      "image": "https://i1.ytimg.com/vi/dPqIpLw4ogk/hqdefault.jpg",
+      "views": 2432,
+      "category": "인기",
+      "publishedAt": "2026-10-30T14:34:11.000Z",
+      "collectedAt": "2026-11-22T01:11:17.438Z",
+      "summaryKo": "",
+      "thumb": "/thumbs/58d18c540954.jpg"
+    },
     {
       "id": "bsky-3n2u3rvcfcs2p",
       "kind": "news",
@@ -239,7 +290,7 @@
       "summaryKo": "생분해성 나노입자는 리그닌과 스테아린산을 결합한…",
       "translator": "google",
       "detailKo": "생분해성 나노입자는 리그닌과 스테아르산을 결합하여 소수성 마감 처리를 합니다.",
-      "thumb": "/thumbs/8b75b178f7c6.webp"
+      "thumb": "/thumbs/8b75b178f7c6.jpg"
     },
     {
       "id": "bsky-3n2quagcukp2y",
@@ -1053,7 +1104,7 @@
       "category": "입시",
       "publishedAt": "2026-11-18T16:01:00.000Z",
       "collectedAt": "2026-11-19T00:52:22.924Z",
-      "thumb": "/thumbs/86c407f8f149.jpg"
+      "thumb": "/thumbs/86c407f8f149.png"
     },
     {
       "id": "432bed2ef75b",
@@ -2126,7 +2177,7 @@
       "category": "소재·에너지",
       "publishedAt": "2026-11-17T04:00:00.000Z",
       "collectedAt": "2026-11-17T17:44:49.834Z",
-      "thumb": "/thumbs/f30c207efb6e.png"
+      "thumb": "/thumbs/f30c207efb6e.jpg"
     },
     {
       "id": "f1daf933c304",
@@ -2456,51 +2507,6 @@
       "translator": "google",
       "detailKo": "기계적으로 대체적인 산화 중단 Pummerer 공정이 공개되었으며 산화 변형의 실용성은…",
       "thumb": "/thumbs/dfb4ed6f0f72.png"
-    },
-    {
-      "id": "590cf78f786f",
-      "kind": "news",
-      "lang": "ko",
-      "title": "[제7회 화학안전주간] LG전자, AI로 유해물질 12종 대체…진공플랜트와 녹색화학 최우수상",
-      "summary": "LG전자가 인공지능(AI)으로 대체물질을 찾아 유해물질 12종을 대체했다",
-      "detail": "LG전자가 인공지능(AI)으로 대체물질을 찾아 유해물질 12종을 대체했다. 진공플랜트는 밀폐형 진공세척 기술로 유해화학물질 사용량과 작업자 노출을 줄였다. 두 기업은 기후에너지환경부의 '산업계 녹색화학 실천 우수사례 공모전'에서 최우수상인 기후부…",
-      "link": "https://www.etnews.com/20261116000077",
-      "source": "전자신문",
-      "image": "http://www.bing.com/th?id=ONUT.qvSj2oFxO7-BFN8AwIXRIg&pid=News",
-      "category": "환경·안전",
-      "publishedAt": "2026-11-16T08:00:00.000Z",
-      "collectedAt": "2026-11-17T00:22:28.454Z",
-      "thumb": "/thumbs/590cf78f786f.jpg"
-    },
-    {
-      "id": "428756ce0260",
-      "kind": "news",
-      "lang": "ko",
-      "title": "물질 만들고 보고 이해하는 화학과 물리의 융합...DGIST 화학물리학과",
-      "summary": "새로운 물질이 기술이 되려면 세 가지 질문에 답해야 한다",
-      "detail": "새로운 물질이 기술이 되려면 세 가지 질문에 답해야 한다. 어떻게 만드는가, 그 안에서 무슨 일이 일어나는가, 왜 그런가. 대부분의 대학에서는 이 질문을 서로 다른 학과가 나눠 맡는다. 대구경북과학기술원(DGIST) 화학물리학과는 세 질문을 한 학과…",
-      "link": "https://www.dongascience.com/ko/news/80894",
-      "source": "동아사이언스",
-      "image": "http://www.bing.com/th?id=ONUT.UZlFcpJ6Ivah99gdEbr5IQ&pid=News",
-      "category": "교육",
-      "publishedAt": "2026-11-16T07:45:00.000Z",
-      "collectedAt": "2026-11-17T00:22:28.454Z",
-      "thumb": "/thumbs/428756ce0260.png"
-    },
-    {
-      "id": "3546345e59d3",
-      "kind": "news",
-      "lang": "ko",
-      "title": "[기후부] 제7회 화학안전주간 개최…하나 된 뜻으로 함께 만드는 화학안전",
-      "summary": "기후에너지환경부(장관 김성환)는 11월 16일부터 이틀간 서울드래곤시티(서울 용산구 소재)에서…",
-      "detail": "기후에너지환경부(장관 김성환)는 11월 16일부터 이틀간 서울드래곤시티(서울 용산구 소재)에서 산업계, 시민사회, 정부 관계자 등 1천여 명이 참석하는 ‘제7회 화학안전주간’을 개최한다고 밝혔다. 2020년부터 시작한 화학안전주간은…",
-      "link": "https://www.waterjournal.co.kr/news/articleView.html?idxno=90343",
-      "source": "waterjournal",
-      "image": "http://www.bing.com/th?id=ONUT.6WJU4B0-jrB9OENSxNNbUQ&pid=News",
-      "category": "환경·안전",
-      "publishedAt": "2026-11-16T07:22:00.000Z",
-      "collectedAt": "2026-11-17T00:22:28.454Z",
-      "thumb": "/thumbs/3546345e59d3.png"
     }
   ]
 }

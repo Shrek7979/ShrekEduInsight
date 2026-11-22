@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-22T01:09:23.499Z",
+  "updatedAt": "2026-11-22T01:11:17.344Z",
   "items": [
+    {
+      "id": "ff306488bbc9",
+      "kind": "news",
+      "lang": "ko",
+      "title": "인천시 양자산업 글로벌 무대 연다…송도서 국제협력·기업 육성 총력",
+      "summary": "인천시가 국제 양자기술 행사를 발판으로 지역 기업의 글로벌 시장 진출과 투자유치 확대에 나선다",
+      "detail": "인천시가 국제 양자기술 행사를 발판으로 지역 기업의 글로벌 시장 진출과 투자유치 확대에 나선다. 양자기술을 바이오 등 미래 산업과 접목하고 기업·대학·연구기관·행정 간 협력망을 구축해 지역 첨단산업의 새로운 성장동력으로 육성한다는 전략이다. 인천시는…",
+      "link": "https://www.viva100.com/article/20261122500188",
+      "source": "브릿지경제",
+      "image": "http://www.bing.com/th?id=ONUT.aSxBWomEuQnKnXw8kCKihQ&pid=News",
+      "category": "양자·첨단",
+      "publishedAt": "2026-11-21T11:35:00.000Z",
+      "collectedAt": "2026-11-22T01:11:17.344Z",
+      "thumb": "/thumbs/ff306488bbc9.jpg"
+    },
+    {
+      "id": "e624dfb202a2",
+      "kind": "news",
+      "lang": "ko",
+      "title": "KT, LG전자와 차세대 양자통신 기술 검증",
+      "summary": "KT는 LG전자와 양자 상태로 디지털 정보를 전송하는 '양자직접통신' 시스템을 구현하고 이미지·문자…",
+      "detail": "KT는 LG전자와 양자 상태로 디지털 정보를 전송하는 '양자직접통신' 시스템을 구현하고 이미지·문자 데이터 전송 및 복원을 성공했다고 20일 밝혔다. KT 연구원들이 서울 서초구 KT 우면연구개발센터에서 양자 상태로 이미지, 문자 데이터를 직접…",
+      "link": "https://www.yna.co.kr/view/PYH20261120030700013",
+      "source": "연합뉴스",
+      "image": "http://www.bing.com/th?id=ONUT.o1k5oZSDJiLt9po2KgVZKA&pid=News",
+      "category": "양자·첨단",
+      "publishedAt": "2026-11-20T01:59:00.000Z",
+      "collectedAt": "2026-11-22T01:11:17.344Z",
+      "thumb": "/thumbs/e624dfb202a2.jpg"
+    },
     {
       "id": "bsky-3n2ucq67c4g2k",
       "kind": "news",
@@ -1787,7 +1817,7 @@
       "category": "연구",
       "publishedAt": "2026-11-17T08:59:00.000Z",
       "collectedAt": "2026-11-17T17:44:49.830Z",
-      "thumb": "/thumbs/8da296de4495.jpg"
+      "thumb": "/thumbs/8da296de4495.png"
     },
     {
       "id": "ea16e9a52d2b",
@@ -2470,36 +2500,6 @@
       "publishedAt": "2026-11-15T16:15:00.000Z",
       "collectedAt": "2026-11-16T06:16:24.484Z",
       "thumb": "/thumbs/37f23234c85f.png"
-    },
-    {
-      "id": "dfac271ad6e1",
-      "kind": "news",
-      "lang": "ko",
-      "title": "[IT과학칼럼] 우주망원경 전성시대, 인류의 눈 넓히는 도전",
-      "summary": "지금은 우주망원경의 전성시대다",
-      "detail": "지금은 우주망원경의 전성시대다. 허블우주망원경이 우주의 아름답고 신비로운 모습을 보여주었다면, 제임스웹 우주망원경은 인류가 도달할 수 있는 우주의 경계를 획기적으로 넓히고 있다.",
-      "link": "https://biz.heraldcorp.com/article/10938470",
-      "source": "헤럴드경제",
-      "image": "http://www.bing.com/th?id=ONUT.FXgFfhQHlEPWwxFakw-kfA&pid=News",
-      "category": "우주·천문",
-      "publishedAt": "2026-11-15T13:34:00.000Z",
-      "collectedAt": "2026-11-16T06:16:24.484Z",
-      "thumb": "/thumbs/dfac271ad6e1.png"
-    },
-    {
-      "id": "a7b96410eb01",
-      "kind": "news",
-      "lang": "ko",
-      "title": "광주과학고, 대구과학고... '2026 영재 체육교류전' 개최",
-      "summary": "광주과학고등학교(이하 광주과학고)는 지난 14일 교내에서 대구과학고등학교(이하 대구과학고) 학생들과…",
-      "detail": "광주과학고등학교(이하 광주과학고)는 지난 14일 교내에서 대구과학고등학교(이하 대구과학고) 학생들과 함께 ‘2026학년도 달빛 영재 체육교류전’을 열고 스포츠를 통한 영재학교 간 교류와 협동·배려의 교육 가치를 실천했다고 15일 밝혔다.…",
-      "link": "https://www.newsworker.co.kr/news/articleView.html?idxno=514103",
-      "source": "뉴스워커",
-      "image": "http://www.bing.com/th?id=ONUT.QuBSOk8ETv4bUaC0Qq0Txw&pid=News",
-      "category": "교육",
-      "publishedAt": "2026-11-15T10:10:00.000Z",
-      "collectedAt": "2026-11-16T06:16:24.484Z",
-      "thumb": "/thumbs/a7b96410eb01.jpg"
     }
   ]
 }
