@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-11-22T13:07:40.857Z",
+  "updatedAt": "2026-11-22T13:10:20.334Z",
   "items": [
+    {
+      "id": "7a14f92a2b7f",
+      "kind": "news",
+      "lang": "ko",
+      "title": "인천시, 송도서 지역 양자산업 교류·협력 프로그램 운영",
+      "summary": "시는 이 같은 국제 행사 흐름 속에서 관내 기업의 대외 투자 유치와 교류 확대를 돕기 위해…",
+      "detail": "시는 이 같은 국제 행사 흐름 속에서 관내 기업의 대외 투자 유치와 교류 확대를 돕기 위해 송도컨벤시아 전시장과 회의실에서 ▲인천 홍보관 운영 ▲양자-바이오 협의체 회의 ▲양자산업 육성 산·학·연·관 협력 회의 ▲양자 기술활용 기업 세미나를 추진한다.",
+      "link": "https://www.dhtoday.com/news/articleView.html?idxno=267042",
+      "source": "dhtoday.com",
+      "image": "http://www.bing.com/th?id=ONUT.-qqagGk6OoWjiaE6IbuqsA&pid=News",
+      "category": "양자·첨단",
+      "publishedAt": "2026-11-21T19:54:00.000Z",
+      "collectedAt": "2026-11-22T13:10:20.334Z",
+      "thumb": "/thumbs/7a14f92a2b7f.jpg"
+    },
     {
       "id": "b31adbec3d58",
       "kind": "news",
@@ -1831,7 +1846,7 @@
       "category": "연구",
       "publishedAt": "2026-11-17T08:59:00.000Z",
       "collectedAt": "2026-11-17T17:44:49.830Z",
-      "thumb": "/thumbs/8da296de4495.jpg"
+      "thumb": "/thumbs/8da296de4495.png"
     },
     {
       "id": "ea16e9a52d2b",
@@ -2484,21 +2499,6 @@
       "publishedAt": "2026-11-15T21:06:00.000Z",
       "collectedAt": "2026-11-16T06:16:24.484Z",
       "thumb": "/thumbs/0f890b0b0b74.jpg"
-    },
-    {
-      "id": "c69ecb1bec6d",
-      "kind": "news",
-      "lang": "ko",
-      "title": "사탐런에 과목별 결시율까지…2027 수능 탐구영역 '변수의 시간'",
-      "summary": "2027학년도 대학수학능력시험에서 사회탐구 쏠림 현상인 '사탐런'에 이어 탐구 과목별 결시율이…",
-      "detail": "2027학년도 대학수학능력시험에서 사회탐구 쏠림 현상인 '사탐런'에 이어 탐구 과목별 결시율이 수험생의 수능 성적과 수시 수능최저학력기준 충족을 좌우할 변수로 떠오르고 있다. 특히 응시 인원이 적고 수험 부담이 큰 일부 과목은 결시율까지 높아 실제…",
-      "link": "https://www.eduplusnews.com/news/articleView.html?idxno=20660",
-      "source": "eduplusnews.com",
-      "image": "http://www.bing.com/th?id=ONUT.oAqWFTLB2spKt0dwZytv0g&pid=News",
-      "category": "입시",
-      "publishedAt": "2026-11-15T16:51:00.000Z",
-      "collectedAt": "2026-11-16T06:16:24.484Z",
-      "thumb": "/thumbs/c69ecb1bec6d.jpg"
     }
   ]
 }
