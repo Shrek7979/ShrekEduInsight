@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-11-23T02:05:31.868Z",
+  "updatedAt": "2026-11-23T11:12:59.623Z",
   "items": [
+    {
+      "id": "fb-3c153d1c8d1e",
+      "kind": "news",
+      "lang": "en",
+      "title": "Where can physics take you?",
+      "summary": "",
+      "link": "https://www.facebook.com/physicsworld/posts/pfbid09RHERdDVtWaWAE7dwmeZ4zePchnyazbYMREfehZCSbdjaVGe7jEAxaUNRZDpEdJfl",
+      "source": "Facebook Physics World",
+      "category": "인기",
+      "publishedAt": "2026-11-22T11:12:24.946Z",
+      "thumb": "/social/fb/fb-3c153d1c8d1e.jpg",
+      "refs": [],
+      "collectedAt": "2026-11-23T11:12:59.623Z",
+      "titleKo": "물리학은 당신을 어디로 데려갈 수 있나요?",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-4a0b2ca2f046",
       "kind": "news",
@@ -19,18 +36,18 @@
       "translator": "google"
     },
     {
-      "id": "fb-3366274d7af1",
+      "id": "fb-de90bdf6d5ef",
       "kind": "news",
       "lang": "en",
       "title": "Physics has no borders.",
       "summary": "",
-      "link": "https://www.facebook.com/apsphysics/posts/pfbid02i56GjdY3ULs2z8D8ven1ZkMksmNeCusA3mpBGVP6KTY5NxBnGPWWZ58PxaN4ZMgql",
+      "link": "https://www.facebook.com/apsphysics/posts/pfbid0eXT5pTugdBRBi9RaAjZc8GFJ34J75uFvnGpFdeAMhAQiscjUwszkN13bfwGcHDq2l",
       "source": "Facebook American Physical Society",
       "category": "인기",
-      "publishedAt": "2026-11-20T02:05:06.958Z",
-      "thumb": "/social/fb/fb-3366274d7af1.jpg",
+      "publishedAt": "2026-11-20T11:12:37.174Z",
+      "thumb": "/social/fb/fb-de90bdf6d5ef.jpg",
       "refs": [],
-      "collectedAt": "2026-11-23T02:05:31.868Z",
+      "collectedAt": "2026-11-23T11:12:59.623Z",
       "titleKo": "물리학에는 국경이 없습니다.",
       "summaryKo": "",
       "translator": "google"
