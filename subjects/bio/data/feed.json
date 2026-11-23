@@ -1,6 +1,130 @@
 {
-  "updatedAt": "2026-11-23T23:08:39.049Z",
+  "updatedAt": "2026-11-23T23:11:54.299Z",
   "items": [
+    {
+      "id": "b28b5963b3d4",
+      "kind": "news",
+      "lang": "en",
+      "title": "‘I had felt overconfident’: senior scientists reveal mistakes that aided discovery",
+      "summary": "Five experienced researchers, including a Nobel…",
+      "detail": "Five experienced researchers, including a Nobel prizewinner, revisit the dead ends, bloopers and moments of stubborn certainty that shaped…",
+      "link": "https://www.nature.com/articles/d41586-026-03590-2",
+      "source": "Nature",
+      "category": "해외",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "collectedAt": "2026-11-23T23:11:54.299Z",
+      "titleKo": "'과도한 자신감을 느꼈다': 선임 과학자들이 발견에 도움이 된 실수를 폭로함",
+      "summaryKo": "노벨상 등 경험 많은 연구자 5명…",
+      "translator": "google",
+      "detailKo": "노벨상 수상자를 포함한 5명의 숙련된 연구자들이 막다른 골목, 실수, 완고한 확신의 순간을 다시 살펴봅니다.",
+      "thumb": "/thumbs/b28b5963b3d4.png"
+    },
+    {
+      "id": "283a0b19ad89",
+      "kind": "video",
+      "lang": "ko",
+      "title": "마약 제조범들은 왜 냄새 때문에 잡힐까?",
+      "summary": "닥터프렌즈 영상 보시고 기분 좋은 하루 되세요 😁",
+      "link": "https://www.youtube.com/shorts/uPFWMmWGHXU",
+      "source": "닥터프렌즈",
+      "image": "https://i2.ytimg.com/vi/uPFWMmWGHXU/hqdefault.jpg",
+      "views": 786223,
+      "category": "인기",
+      "publishedAt": "2026-11-16T12:00:01.000Z",
+      "collectedAt": "2026-11-23T23:11:54.299Z",
+      "thumb": "/thumbs/283a0b19ad89.jpg"
+    },
+    {
+      "id": "8a57c4f43457",
+      "kind": "video",
+      "lang": "en",
+      "title": "Why Isn’t Heart Cancer a Thing?",
+      "summary": "",
+      "detail": "",
+      "link": "https://www.youtube.com/watch?v=uALjsKI-ceE",
+      "source": "SciShow",
+      "image": "https://i2.ytimg.com/vi/uALjsKI-ceE/hqdefault.jpg",
+      "views": 2917519,
+      "category": "인기",
+      "publishedAt": "2026-11-10T18:00:12.000Z",
+      "collectedAt": "2026-11-23T23:11:54.299Z",
+      "titleKo": "심장암은 왜 문제가 되지 않나요?",
+      "summaryKo": "",
+      "translator": "google",
+      "thumb": "/thumbs/8a57c4f43457.jpg"
+    },
+    {
+      "id": "a5ba9ebe33e4",
+      "kind": "video",
+      "lang": "en",
+      "title": "Dying Is Complicated",
+      "summary": "",
+      "detail": "",
+      "link": "https://www.youtube.com/watch?v=fEjvSbI_PT4",
+      "source": "Kurzgesagt",
+      "image": "https://i3.ytimg.com/vi/fEjvSbI_PT4/hqdefault.jpg",
+      "views": 6221674,
+      "category": "인기",
+      "publishedAt": "2026-11-10T15:00:01.000Z",
+      "collectedAt": "2026-11-23T23:11:54.299Z",
+      "titleKo": "죽는 것은 복잡하다",
+      "summaryKo": "",
+      "translator": "google",
+      "thumb": "/thumbs/a5ba9ebe33e4.jpg"
+    },
+    {
+      "id": "de5390e78516",
+      "kind": "video",
+      "lang": "ko",
+      "title": "의사도 깜짝 놀란 AI 시대, 꼭 알아야 할 의료 AI",
+      "summary": "헬프님들은 오늘 영상에서 어떤 부분이 가장 인상 깊으셨나요?",
+      "link": "https://www.youtube.com/watch?v=Uv-dsGjnvlI",
+      "source": "닥터프렌즈",
+      "image": "https://i2.ytimg.com/vi/Uv-dsGjnvlI/hqdefault.jpg",
+      "views": 1245568,
+      "category": "인기",
+      "publishedAt": "2026-11-08T08:00:27.000Z",
+      "collectedAt": "2026-11-23T23:11:54.299Z",
+      "thumb": "/thumbs/de5390e78516.jpg"
+    },
+    {
+      "id": "576ccbb0b2f9",
+      "kind": "video",
+      "lang": "en",
+      "title": "Why Is There No Vitamin F?",
+      "summary": "",
+      "detail": "",
+      "link": "https://www.youtube.com/watch?v=i7esSCr2UJk",
+      "source": "SciShow",
+      "image": "https://i2.ytimg.com/vi/i7esSCr2UJk/hqdefault.jpg",
+      "views": 1154654,
+      "category": "인기",
+      "publishedAt": "2026-11-04T18:00:29.000Z",
+      "collectedAt": "2026-11-23T23:11:54.299Z",
+      "titleKo": "왜 비타민 F가 없나요?",
+      "summaryKo": "",
+      "translator": "google",
+      "thumb": "/thumbs/576ccbb0b2f9.jpg"
+    },
+    {
+      "id": "19c7be2a2aaa",
+      "kind": "video",
+      "lang": "en",
+      "title": "How I Survived Late-Stage Cancer (A Fun Story)",
+      "summary": "",
+      "detail": "",
+      "link": "https://www.youtube.com/watch?v=5_Fayfx2NUM",
+      "source": "Kurzgesagt",
+      "image": "https://i2.ytimg.com/vi/5_Fayfx2NUM/hqdefault.jpg",
+      "views": 8916564,
+      "category": "인기",
+      "publishedAt": "2026-10-27T15:00:01.000Z",
+      "collectedAt": "2026-11-23T23:11:54.299Z",
+      "titleKo": "내가 말기 암에서 살아남은 방법(재미있는 이야기)",
+      "summaryKo": "",
+      "translator": "google",
+      "thumb": "/thumbs/19c7be2a2aaa.jpg"
+    },
     {
       "id": "bsky-3n2yuspy4642p",
       "kind": "news",
@@ -239,24 +363,6 @@
       "summaryKo": "",
       "translator": "google",
       "thumb": "/thumbs/c653d135a906.png"
-    },
-    {
-      "id": "b28b5963b3d4",
-      "kind": "news",
-      "lang": "en",
-      "title": "‘I had felt overconfident’: senior scientists reveal mistakes that aided discovery",
-      "summary": "Five experienced researchers, including a Nobel…",
-      "detail": "Five experienced researchers, including a Nobel prizewinner, revisit the dead ends, bloopers and moments of stubborn certainty that shaped…",
-      "link": "https://www.nature.com/articles/d41586-026-03590-2",
-      "source": "Nature",
-      "category": "해외",
-      "publishedAt": "2026-11-20T00:00:00.000Z",
-      "collectedAt": "2026-11-23T23:08:39.049Z",
-      "titleKo": "'과도한 자신감을 느꼈다': 선임 과학자들이 발견에 도움이 된 실수를 폭로함",
-      "summaryKo": "노벨상 등 경험 많은 연구자 5명…",
-      "translator": "google",
-      "detailKo": "노벨상 수상자를 포함한 5명의 숙련된 연구자들이 막다른 골목, 실수, 완고한 확신의 순간을 다시 살펴봅니다.",
-      "thumb": "/thumbs/b28b5963b3d4.jpg"
     },
     {
       "id": "5905cd0e8cf1",
@@ -920,7 +1026,7 @@
       "summaryKo": "전립선에서 기억과 관련된 단백질 발견…",
       "translator": "google",
       "detailKo": "전립선암 세포에서 기억과 연결된 단백질을 찾은 후 Sebnem Ece Eksi는 종양의 신경 섬유 지도를 작성하기를 희망합니다.",
-      "thumb": "/thumbs/515f1719878e.jpg"
+      "thumb": "/thumbs/515f1719878e.webp"
     },
     {
       "id": "60ff44cd6498",
@@ -939,7 +1045,7 @@
       "summaryKo": "생태학자 제니퍼 그렌츠(Jennifer Grenz)는 원주민 구술을 활용합니다…",
       "translator": "google",
       "detailKo": "생태학자인 제니퍼 그렌츠(Jennifer Grenz)는 원주민 구전 역사와 생태 기록을 활용하여 산불 후 풍경이 어떻게 회복되는지 알아봅니다.",
-      "thumb": "/thumbs/60ff44cd6498.jpg"
+      "thumb": "/thumbs/60ff44cd6498.webp"
     },
     {
       "id": "b5183277beac",
@@ -1165,7 +1271,7 @@
       "summaryKo": "조사를 통해 잠재적으로 널리 퍼진 문제가 밝혀졌습니다",
       "translator": "google",
       "detailKo": "조사를 통해 잠재적으로 광범위한 문제가 밝혀지고 철회 및 수정이 필요합니다.",
-      "thumb": "/thumbs/cbc27453f080.jpg"
+      "thumb": "/thumbs/cbc27453f080.png"
     },
     {
       "id": "c5531e26829c",
@@ -2086,7 +2192,7 @@
       "summaryKo": "학부생은 유전적 전파를 퍼뜨린 최초의 그룹이었습니다…",
       "translator": "google",
       "detailKo": "대유행 기간 동안 학부생들이 SARS-CoV-2의 유전적 변이체를 퍼뜨린 최초의 그룹인 것으로 대규모 분석 결과 밝혀졌습니다.",
-      "thumb": "/thumbs/32c827b7b9ad.jpg"
+      "thumb": "/thumbs/32c827b7b9ad.png"
     },
     {
       "id": "322f5f41e82f",
@@ -2104,7 +2210,7 @@
       "summaryKo": "조류 번성은 중요한 생태 현상입니다",
       "translator": "google",
       "detailKo": "조류 번성은 탄소 고정을 촉진하고 해양 먹이사슬에 연료를 공급하는 중요한 생태 현상입니다. 바이러스 감염으로 인해 종종 종료됩니다…",
-      "thumb": "/thumbs/322f5f41e82f.jpg"
+      "thumb": "/thumbs/322f5f41e82f.png"
     },
     {
       "id": "88246c7c6cd2",
@@ -2316,97 +2422,6 @@
       "publishedAt": "2026-11-19T01:30:00.000Z",
       "collectedAt": "2026-11-19T12:16:16.882Z",
       "thumb": "/thumbs/1c38ae784ddb.png"
-    },
-    {
-      "id": "9f481dbecfbf",
-      "kind": "news",
-      "lang": "en",
-      "title": "Sore throat? The brain has surprising control over how ill you feel",
-      "summary": "The brain might decode pathogens, store memories of…",
-      "detail": "The brain might decode pathogens, store memories of previous illnesses and prepare the body for future threats.",
-      "link": "https://www.nature.com/articles/d41586-026-03774-w",
-      "source": "Nature",
-      "category": "해외",
-      "publishedAt": "2026-11-19T00:00:00.000Z",
-      "collectedAt": "2026-11-19T12:16:16.882Z",
-      "titleKo": "목 쓰림? 뇌는 당신이 얼마나 아픈지 놀랍도록 통제합니다.",
-      "summaryKo": "뇌는 병원체를 해독하고 다음에 대한 기억을 저장할 수 있습니다",
-      "translator": "google",
-      "detailKo": "뇌는 병원체를 해독하고 이전 질병에 대한 기억을 저장하며 미래의 위협에 대비하여 신체를 준비할 수 있습니다.",
-      "thumb": "/thumbs/9f481dbecfbf.jpg"
-    },
-    {
-      "id": "eb84ed8bf735",
-      "kind": "news",
-      "lang": "ko",
-      "title": "낙동강생물자원관, 낙동강 돌말류 활용 약물전달 소재 개발",
-      "summary": "국립낙동강생물자원관이 낙동강에서 발굴한 돌말류를 활용해 약물전달 소재로 쓸 수 있는 바이오실리카…",
-      "detail": "국립낙동강생물자원관이 낙동강에서 발굴한 돌말류를 활용해 약물전달 소재로 쓸 수 있는 바이오실리카 제조기술을 개발했다.낙동강생물자원관은 돌말류의 규산질 세포벽에서 얻은 바이오실리카의 제조공정을 최적화해 다공성 미세구조를 유지하는 기술을 개발했다고…",
-      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1427128",
-      "source": "데일리한국",
-      "category": "연구",
-      "publishedAt": "2026-11-18T19:10:00.000Z",
-      "collectedAt": "2026-11-19T12:16:16.882Z",
-      "thumb": "/thumbs/eb84ed8bf735.jpg"
-    },
-    {
-      "id": "1c7fac58edae",
-      "kind": "news",
-      "lang": "ko",
-      "title": "[프로필] 김무용 LG화학 생명과학사업본부장 부사장",
-      "summary": "LG화학은 19일 2027년 정기 임원인사에서 김무용 팜한농 대표이사를 부사장으로 승진시키고…",
-      "detail": "LG화학은 19일 2027년 정기 임원인사에서 김무용 팜한농 대표이사를 부사장으로 승진시키고 생명과학사업본부장으로 선임했다.김 신임 부사장은 신약 개발과 제약 사업 전략·운영 경험을 갖춘 인물이다. 1969년생으로 충북대 약학과를 졸업하고 서울대에서…",
-      "link": "https://zdnet.co.kr/view/?no=20261119170247",
-      "source": "지디넷코리아",
-      "image": "http://www.bing.com/th?id=ONUT.2D3blEVoIbDHtiQasLPieA&pid=News",
-      "category": "교육",
-      "publishedAt": "2026-11-18T19:02:00.000Z",
-      "collectedAt": "2026-11-19T12:16:16.882Z",
-      "thumb": "/thumbs/1c7fac58edae.png"
-    },
-    {
-      "id": "db37e5f1b5a2",
-      "kind": "news",
-      "lang": "ko",
-      "title": "호남권생물자원관, 온실가스 저감 메탄자화균 10주 발굴 성과 공유",
-      "summary": "국립호남권생물자원관(관장 박진영)이 섬과 연안에서 발굴한 메탄자화균 등 온실가스 저감 연구 성과를…",
-      "detail": "국립호남권생물자원관(관장 박진영)이 섬과 연안에서 발굴한 메탄자화균 등 온실가스 저감 연구 성과를 공유하고 산업화 방안을 모색하는 자리를 마련했다. 자원관은 19일 본관 대회의실에서 2026년 환경대응연구실 연구성과공유회 및 전문가 초청 세미나를…",
-      "link": "https://www.dailian.co.kr/news/view/1717339/%ED%98%B8%EB%82%A8%EA%B6%8C%EC%83%9D%EB%AC%BC%EC%9E%90%EC%9B%90%EA%B4%80-%EC%98%A8%EC%8B%A4%EA%B0%80%EC%8A%A4-%EC%A0%80%EA%B0%90-%EB%A9%94%ED%83%84%EC%9E%90-2026",
-      "source": "데일리안",
-      "image": "http://www.bing.com/th?id=ONUT.M-m0luMDGJS6SPha4oiikA&pid=News",
-      "category": "연구",
-      "publishedAt": "2026-11-18T18:22:00.000Z",
-      "collectedAt": "2026-11-19T12:16:16.882Z",
-      "thumb": "/thumbs/db37e5f1b5a2.jpg"
-    },
-    {
-      "id": "66b6675d131f",
-      "kind": "news",
-      "lang": "ko",
-      "title": "유전자 편집 치료받은 6세 여아 일주일 만에 사망... 은폐하고 네이처 논문 낸 中 연구진 파면",
-      "summary": "실험적 유전자 편집 치료를 받은 6세 여아가 일주일 만에 숨졌음에도 이를 숨긴 채 네이처에 논문을…",
-      "detail": "실험적 유전자 편집 치료를 받은 6세 여아가 일주일 만에 숨졌음에도 이를 숨긴 채 네이처에 논문을 게재하고 유가족에게 금품까지 받은 중국 연구진이 파면됐다.",
-      "link": "https://www.msn.com/ko-kr/news/news/%EC%9C%A0%EC%A0%84%EC%9E%90-%ED%8E%B8%EC%A7%91-%EC%B9%98%EB%A3%8C%EB%B0%9B%EC%9D%80-6%EC%84%B8-%EC%97%AC%EC%95%84-%EC%9D%BC%EC%A3%BC%EC%9D%BC-%EB%A7%8C%EC%97%90-%EC%82%AC%EB%A7%9D-%EC%9D%80%ED%8F%90%ED%95%98%EA%B3%A0-%EB%84%A4%EC%9D%B4%EC%B2%98-%EB%85%BC%EB%AC%B8-%EB%82%B8-%E4%B8%AD-%EC%97%B0%EA%B5%AC%EC%A7%84-%ED%8C%8C%EB%A9%B4/ar-AA2hJCxa",
-      "source": "인사이트",
-      "image": "http://www.bing.com/th?id=ONUT.DwtbpFJaQ3cgy0naRdJIeA&pid=News",
-      "category": "의학·바이오",
-      "publishedAt": "2026-11-18T17:03:41.000Z",
-      "collectedAt": "2026-11-19T12:16:16.882Z",
-      "thumb": "/thumbs/66b6675d131f.jpg"
-    },
-    {
-      "id": "01007e765d42",
-      "kind": "news",
-      "lang": "ko",
-      "title": "희귀 루게릭병 치료제 울레프네르센, 3상 임상 성공…유전자 표적 치료 가능성 확인",
-      "summary": "희귀 유전성 근위축성측삭경화증(ALS·루게릭병)을 대상으로 개발된 유전자 표적 치료제가 3상…",
-      "detail": "희귀 유전성 근위축성측삭경화증(ALS·루게릭병)을 대상으로 개발된 유전자 표적 치료제가 3상 임상시험에서 긍정적인 결과를 거두면서 새로운 치료 가능성이 제시됐다.미국 컬럼비아대학교 어빙의료센터는 18일 FUS 유전자 변이로 발생하는 루게릭병 환자에게…",
-      "link": "https://www.msn.com/ko-kr/health/%EC%A7%88%EB%B3%91-%EB%B0%8F-%EC%83%81%ED%83%9C/%ED%9D%AC%EA%B7%80-%EB%A3%A8%EA%B2%8C%EB%A6%AD%EB%B3%91-%EC%B9%98%EB%A3%8C%EC%A0%9C-%EC%9A%B8%EB%A0%88%ED%94%84%EB%84%A4%EB%A5%B4%EC%84%BC-3%EC%83%81-%EC%9E%84%EC%83%81-%EC%84%B1%EA%B3%B5-%EC%9C%A0%EC%A0%84%EC%9E%90-%ED%91%9C%EC%A0%81-%EC%B9%98%EB%A3%8C-%EA%B0%80%EB%8A%A5%EC%84%B1-%ED%99%95%EC%9D%B8/ar-AA2hJsgl",
-      "source": "알파경제",
-      "category": "의학·바이오",
-      "publishedAt": "2026-11-18T16:57:40.000Z",
-      "collectedAt": "2026-11-19T12:16:16.882Z",
-      "thumb": "/thumbs/01007e765d42.png"
     }
   ]
 }

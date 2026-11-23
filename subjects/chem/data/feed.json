@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-11-23T23:08:39.049Z",
+  "updatedAt": "2026-11-23T23:11:54.210Z",
   "items": [
+    {
+      "id": "bsky-3n2ywa4h6ns2y",
+      "kind": "news",
+      "lang": "en",
+      "title": "Your votes have been counted and the final matchup is now live as part of The Lone Pair!",
+      "summary": "Vote for your favorite chemistry image of 2026: CENChem…",
+      "link": "https://bsky.app/profile/cenmag.bsky.social/post/3n2ywa4h6ns2y",
+      "source": "Bluesky C&EN",
+      "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:u4u4yeik2uube2g6ov7wr35p/bafkreia4j2mzr6azhsiwo5ad6an6o5guq6momykjpx5bjevbc6vwjbqtka",
+      "likes": "2",
+      "category": "인기",
+      "publishedAt": "2026-11-23T20:00:37.302Z",
+      "collectedAt": "2026-11-23T23:11:54.210Z",
+      "titleKo": "귀하의 투표가 집계되었으며 이제 The Lone pair의 일부로 최종 매치업이 진행됩니다!",
+      "summaryKo": "2026년 가장 좋아하는 화학 이미지에 투표하세요: CENChem…",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3n2ywa4h6ns2y.webp"
+    },
+    {
+      "id": "aaefef0277a3",
+      "kind": "news",
+      "lang": "en",
+      "title": "This remarkable new material could solve a major carbon capture problem",
+      "summary": "Scientists have developed a new carbon capture material…",
+      "detail": "Scientists have developed a new carbon capture material that turns moisture from an obstacle into an advantage, potentially solving a major…",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261116023405.htm",
+      "source": "ScienceDaily",
+      "category": "해외",
+      "publishedAt": "2026-11-17T11:29:36.000Z",
+      "collectedAt": "2026-11-23T23:11:54.210Z",
+      "titleKo": "이 놀라운 신소재는 주요 탄소 포집 문제를 해결할 수 있습니다.",
+      "summaryKo": "과학자들이 새로운 탄소 포집 물질을 개발했습니다…",
+      "translator": "google",
+      "detailKo": "과학자들은 수분을 장애물에서 장점으로 전환하여 잠재적으로 주요 문제를 해결할 수 있는 새로운 탄소 포집 재료를 개발했습니다.",
+      "thumb": "/thumbs/aaefef0277a3.webp"
+    },
     {
       "id": "968436691a85",
       "kind": "news",
@@ -123,7 +159,7 @@
       "publishedAt": "2026-11-23T16:13:11.000Z",
       "collectedAt": "2026-11-23T23:08:39.049Z",
       "titleKo": "탁솔(Taxol)의 완전한 생합성 경로가 마침내 해결되었습니다.",
-      "summaryKo": "항암제는 주목에서 자연적으로 생성되는데..",
+      "summaryKo": "항암제는 주목에서 자연적으로 생성되는데.",
       "translator": "google",
       "detailKo": "항암제는 주목에서 자연적으로 생산되지만 과학자들이 복잡한 생합성을 이해하는 데는 수십 년이 걸렸습니다.",
       "thumb": "/thumbs/2394088d725d.webp"
@@ -889,7 +925,7 @@
       "summaryKo": "생분해성 나노입자는 리그닌과 스테아린산을 결합한…",
       "translator": "google",
       "detailKo": "생분해성 나노입자는 리그닌과 스테아르산을 결합하여 소수성 마감 처리를 합니다.",
-      "thumb": "/thumbs/8b75b178f7c6.webp"
+      "thumb": "/thumbs/8b75b178f7c6.jpg"
     },
     {
       "id": "bsky-3n2quagcukp2y",
@@ -1703,7 +1739,7 @@
       "category": "입시",
       "publishedAt": "2026-11-18T16:01:00.000Z",
       "collectedAt": "2026-11-19T00:52:22.924Z",
-      "thumb": "/thumbs/86c407f8f149.jpg"
+      "thumb": "/thumbs/86c407f8f149.png"
     },
     {
       "id": "432bed2ef75b",
@@ -2483,41 +2519,6 @@
       "translator": "google",
       "detailKo": "DNA 전달에 특화된 지질나노입자 개발",
       "thumb": "/thumbs/2167ba4237a2.webp"
-    },
-    {
-      "id": "bsky-3n2jiivhdqc2o",
-      "kind": "news",
-      "lang": "en",
-      "title": "There is no solid definition of what makes a dataset ‘AI-ready’, but there are several steps researchers can take to make their data more…",
-      "summary": "easily ingestible",
-      "link": "https://bsky.app/profile/chemistryworld.com/post/3n2jiivhdqc2o",
-      "source": "Bluesky Chemistry World",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6v2nwmzy4dozxcftobscktc3/bafkreibzpvwo4co4655ddm36d6hpdggwczhd4ylak33lax67wzu7uu6ffa",
-      "category": "인기",
-      "publishedAt": "2026-11-17T16:45:03.493Z",
-      "collectedAt": "2026-11-17T17:44:49.834Z",
-      "titleKo": "데이터 세트를 'AI 지원'으로 만드는 것에 대한 확실한 정의는 없지만 연구자가 데이터를 더 많이 만들기 위해 취할 수 있는 몇 가지 단계가 있습니다.",
-      "summaryKo": "쉽게 섭취할 수 있는",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3n2jiivhdqc2o.webp"
-    },
-    {
-      "id": "bsky-3n2jiekbkas2j",
-      "kind": "news",
-      "lang": "en",
-      "title": "“By adjusting an alloy’s chemical composition and atomic arrangement, we may be able to control where hydrogen prefers to reside, how…",
-      "summary": "strongly it is held, and how easily it moves.” chemsky…",
-      "link": "https://bsky.app/profile/cenmag.bsky.social/post/3n2jiekbkas2j",
-      "source": "Bluesky C&EN",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u4u4yeik2uube2g6ov7wr35p/bafkreietawnp62s3itzijsxefxivzddvwkni5gplhvsq3colwdob6yudiq",
-      "likes": "1",
-      "category": "인기",
-      "publishedAt": "2026-11-17T16:42:37.559Z",
-      "collectedAt": "2026-11-17T17:44:49.834Z",
-      "titleKo": "“합금의 화학적 조성과 원자 배열을 조정함으로써 우리는 수소가 어디에 머물기를 선호하는지, 어떻게…",
-      "summaryKo": "강하게 붙잡혀 있고, 얼마나 쉽게 움직이는지.” 켐스키…",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3n2jiekbkas2j.webp"
     }
   ]
 }

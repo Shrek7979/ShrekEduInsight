@@ -1,6 +1,60 @@
 {
-  "updatedAt": "2026-11-23T23:08:39.049Z",
+  "updatedAt": "2026-11-23T23:11:54.217Z",
   "items": [
+    {
+      "id": "bsky-3n2gvxwtawc25",
+      "kind": "video",
+      "lang": "en",
+      "title": "Bringing particle detectors into the classroom 📚 The TIMEPIX@school programme will introduce thousands of students to modern physics by…",
+      "summary": "allowing them to see particles in action, through…",
+      "link": "https://bsky.app/profile/cern.bsky.social/post/3n2gvxwtawc25",
+      "source": "Bluesky CERN",
+      "image": "https://video.bsky.app/watch/did%3Aplc%3A2vrfekwr4jo7zufnlt7qlrqq/bafkreigrm2wou6rbw2zs6moanyqhm5g4oe3kohrhj2abcn3gsgpv5disea/thumbnail.jpg",
+      "likes": "43",
+      "category": "인기",
+      "publishedAt": "2026-11-16T16:08:07.685Z",
+      "collectedAt": "2026-11-23T23:11:54.217Z",
+      "titleKo": "교실에 입자 탐지기 도입 📚 TIMEPIX@school 프로그램은 수천 명의 학생들에게 다음과 같은 방법으로 현대 물리학을 소개합니다.",
+      "summaryKo": "다음을 통해 입자가 작동하는 모습을 볼 수 있습니다",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3n2gvxwtawc25.jpg"
+    },
+    {
+      "id": "59a5142de881",
+      "kind": "news",
+      "lang": "en",
+      "title": "What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing.",
+      "summary": "An era-defining galaxy survey has released its final…",
+      "detail": "An era-defining galaxy survey has released its final results. They don’t quite fit the leading theory of cosmology.",
+      "link": "https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116/",
+      "source": "Quanta Magazine",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/DES-cr.CTIO-NOIRLab-NSF-AURA-T.-Matsopoulos-Default.webp",
+      "category": "해외",
+      "publishedAt": "2026-11-16T15:15:33.000Z",
+      "collectedAt": "2026-11-23T23:11:54.217Z",
+      "titleKo": "코스모스를 구성하는 것은 무엇입니까? 20년간의 조사 결과 뭔가 빠졌음을 암시합니다.",
+      "summaryKo": "시대를 정의하는 은하 조사가 최종 결과를 발표했습니다",
+      "translator": "google",
+      "detailKo": "시대를 정의하는 은하 조사가 최종 결과를 발표했습니다. 그것들은 우주론의 주요 이론에 전혀 들어맞지 않습니다.",
+      "thumb": "/thumbs/59a5142de881.jpg"
+    },
+    {
+      "id": "8901e8eef425",
+      "kind": "video",
+      "lang": "ko",
+      "title": "광자를 반으로 자르자 믿을 수 없는 일이 일어났다",
+      "summary": "",
+      "detail": "",
+      "link": "https://www.youtube.com/shorts/gj6JvCyfxLI",
+      "source": "지식보관소",
+      "image": "https://i4.ytimg.com/vi/gj6JvCyfxLI/hqdefault.jpg",
+      "views": 287397,
+      "category": "인기",
+      "publishedAt": "2026-10-31T11:41:49.000Z",
+      "collectedAt": "2026-11-23T23:11:54.217Z",
+      "summaryKo": "",
+      "thumb": "/thumbs/8901e8eef425.jpg"
+    },
     {
       "id": "bsky-3n2yzks56pp2c",
       "kind": "news",
@@ -68,7 +122,7 @@
       "publishedAt": "2026-11-23T15:28:52.071Z",
       "collectedAt": "2026-11-23T23:08:39.049Z",
       "titleKo": "유전정보는 견고하지만 물리적 구조는 민감합니다.",
-      "summaryKo": "수천 개의 세포를 복구하는 천연 도구입니다..",
+      "summaryKo": "수천 개의 세포를 복구하는 천연 도구입니다.",
       "translator": "google",
       "thumb": "/thumbs/bsky-3n2yh26xgim2i.webp"
     },
@@ -528,7 +582,7 @@
       "category": "양자·첨단",
       "publishedAt": "2026-11-21T19:54:00.000Z",
       "collectedAt": "2026-11-22T13:10:20.334Z",
-      "thumb": "/thumbs/7a14f92a2b7f.png"
+      "thumb": "/thumbs/7a14f92a2b7f.jpg"
     },
     {
       "id": "b31adbec3d58",
@@ -2360,7 +2414,7 @@
       "category": "연구",
       "publishedAt": "2026-11-17T08:59:00.000Z",
       "collectedAt": "2026-11-17T17:44:49.830Z",
-      "thumb": "/thumbs/8da296de4495.jpg"
+      "thumb": "/thumbs/8da296de4495.png"
     },
     {
       "id": "ea16e9a52d2b",
@@ -2433,53 +2487,6 @@
       "publishedAt": "2026-11-17T02:12:00.000Z",
       "collectedAt": "2026-11-17T17:44:49.830Z",
       "thumb": "/thumbs/d96ab7cf4999.png"
-    },
-    {
-      "id": "87cd11c18c57",
-      "kind": "news",
-      "lang": "ko",
-      "title": "우주의 보이지 않는 비밀 '암흑물질'…천문연, 28일 특별강연",
-      "summary": "한국천문연구원은 오는 28일 대전 본원에서 암흑물질을 주제로 한 대중강연 프로그램 '과학도시 대전과…",
-      "detail": "한국천문연구원은 오는 28일 대전 본원에서 암흑물질을 주제로 한 대중강연 프로그램 '과학도시 대전과 함께하는 KASI 스페이스 아카데미(Moon to Mars)'를 개최한다고 17일 밝혔다. 이번 행사는 우주의 주요 구성 요소지만 아직 정체가…",
-      "link": "https://www.etnews.com/20261117000102",
-      "source": "전자신문",
-      "category": "우주·천문",
-      "publishedAt": "2026-11-17T02:04:00.000Z",
-      "collectedAt": "2026-11-17T17:44:49.830Z",
-      "thumb": "/thumbs/87cd11c18c57.png"
-    },
-    {
-      "id": "7a187b82984c",
-      "kind": "news",
-      "lang": "ko",
-      "title": "신성대, 대한물리의학회 학술대회서 최우수상 등 5개 상 수상",
-      "summary": "재학생 3학년 연구팀, 재가 재활서비스 효과 분석으로 최우수 한용구·이지연 교수 지도 학생들 학술상…",
-      "detail": "재학생 3학년 연구팀, 재가 재활서비스 효과 분석으로 최우수 한용구·이지연 교수 지도 학생들 학술상 4개 추가 수상 충남 당진 신성대학교 물리치료학과 학생들이 대한물리의학회 추계학술대회에서 최우수상과 학술상 등 모두 5개 상을 수상하며 연구 성과를…",
-      "link": "https://www.news1.kr/local/daejeon-chungnam/6356302",
-      "source": "뉴스1",
-      "image": "http://www.bing.com/th?id=ONUT.NuvGoiLGO0MnLD4_bfUhhg&pid=News",
-      "category": "대회·행사",
-      "publishedAt": "2026-11-17T01:44:00.000Z",
-      "collectedAt": "2026-11-17T17:44:49.830Z",
-      "thumb": "/thumbs/7a187b82984c.jpg"
-    },
-    {
-      "id": "0bcdb702123f",
-      "kind": "news",
-      "lang": "en",
-      "title": "A material just one atom thick reveals a strange quantum secret",
-      "summary": "Researchers at the University of Osaka have discovered…",
-      "detail": "Researchers at the University of Osaka have discovered a remarkable quantum state forming at the boundary between a one-atom-thick material…",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261115085554.htm",
-      "source": "ScienceDaily",
-      "category": "해외",
-      "publishedAt": "2026-11-17T01:25:39.000Z",
-      "collectedAt": "2026-11-17T17:44:49.830Z",
-      "titleKo": "원자 1개 두께의 물질이 밝혀낸 이상한 양자 비밀",
-      "summaryKo": "오사카대학교 연구진이 발견한 사실은 다음과 같습니다",
-      "translator": "google",
-      "detailKo": "오사카 대학의 연구원들은 원자 1개 두께의 물질 사이의 경계에서 형성되는 놀라운 양자 상태를 발견했습니다.",
-      "thumb": "/thumbs/0bcdb702123f.webp"
     }
   ]
 }

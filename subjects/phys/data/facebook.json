@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-11-23T11:12:59.623Z",
+  "updatedAt": "2026-11-23T23:14:34.213Z",
   "items": [
+    {
+      "id": "fb-4dad94099df0",
+      "kind": "news",
+      "lang": "en",
+      "title": "Congress has until Dec.",
+      "summary": "11 to fund most federal agencies, and research grants…",
+      "link": "https://www.facebook.com/apsphysics/posts/pfbid027wSXWLjabXJc6SS17Dc4zmjWHwdcqXQ5pp9cNP7MGT8MEGenMa5UhTgzExX3ei7cl",
+      "source": "Facebook American Physical Society",
+      "category": "인기",
+      "publishedAt": "2026-11-23T21:14:13.417Z",
+      "thumb": "/social/fb/fb-4dad94099df0.jpg",
+      "refs": [],
+      "collectedAt": "2026-11-23T23:14:34.213Z",
+      "titleKo": "의회는 12월까지",
+      "summaryKo": "11 대부분의 연방 기관 및 연구 보조금에 자금을 지원합니다…",
+      "translator": "google"
+    },
     {
       "id": "fb-3c153d1c8d1e",
       "kind": "news",
