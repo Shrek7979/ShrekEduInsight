@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-22T01:14:25.575Z",
+  "updatedAt": "2026-11-23T02:05:40.818Z",
   "items": [
     {
-      "id": "fb-24e5066ea0e9",
+      "id": "fb-9a8d4a6f2172",
       "kind": "news",
       "lang": "en",
       "title": "Think you know the ACS National Awards?",
       "summary": "Put your knowledge to the test with a quick quiz…",
-      "link": "https://www.facebook.com/AmericanChemicalSociety/posts/pfbid02A3eQZRN5vSYApGqx52E3z7kFNt15d44UqZ477wEWj3DgbeKRENH7XUewqCZqxPxBl",
+      "link": "https://www.facebook.com/AmericanChemicalSociety/posts/pfbid06W1DeFjj5KvQoxn6LGskhHE4x88E5SP7sEZHtbppobDGkY3wipVmF4BBJ4yXY8Lql",
       "source": "Facebook American Chemical Society",
       "category": "인기",
-      "publishedAt": "2026-11-21T01:13:40.132Z",
-      "thumb": "/social/fb/fb-24e5066ea0e9.jpg",
+      "publishedAt": "2026-11-21T02:04:54.476Z",
+      "thumb": "/social/fb/fb-9a8d4a6f2172.jpg",
       "refs": [],
-      "collectedAt": "2026-11-22T01:14:25.575Z",
+      "collectedAt": "2026-11-23T02:05:40.818Z",
       "titleKo": "ACS National Awards를 아시나요?",
       "summaryKo": "간단한 퀴즈를 통해 여러분의 지식을 시험해보세요…",
       "translator": "google"
@@ -138,18 +138,18 @@
       "translator": "google"
     },
     {
-      "id": "fb-d0519b790099",
+      "id": "fb-a7b9714b46ee",
       "kind": "news",
       "lang": "en",
       "title": "What makes your phone screen touch sensitive, and what materials make it possible to create foldable displays?",
       "summary": "",
-      "link": "https://www.facebook.com/compoundchem/posts/pfbid0rfXXtbQW9RcZFtgbxMJE8ZnWBjLjDo4AMTAQdMFhd4T8d3SxagMzV6YDTF8VoUdMl",
+      "link": "https://www.facebook.com/compoundchem/posts/pfbid02vWyF5GLKziYoJsaNcpwFABtZz5jw8pBKJ6AyBefmkUs8g5XgBqscQA2Ro24efz2ol",
       "source": "Facebook Compound Interest",
       "category": "인기",
       "publishedAt": "2026-11-04T12:00:00.000Z",
-      "thumb": "/social/fb/fb-d0519b790099.jpg",
+      "thumb": "/social/fb/fb-a7b9714b46ee.jpg",
       "refs": [],
-      "collectedAt": "2026-11-22T01:14:25.575Z",
+      "collectedAt": "2026-11-23T02:05:40.818Z",
       "titleKo": "휴대폰 화면이 터치에 민감한 이유는 무엇이며 폴더블 디스플레이를 만들 수 있는 재료는 무엇입니까?",
       "summaryKo": "",
       "translator": "google"
@@ -202,23 +202,6 @@
       "refs": [],
       "collectedAt": "2026-10-29T11:52:13.135Z",
       "titleKo": "으스스한 계절이고 그건 호박 조각을 의미해",
-      "summaryKo": "",
-      "translator": "google"
-    },
-    {
-      "id": "fb-167a25269607",
-      "kind": "video",
-      "lang": "en",
-      "title": "Let's celebrate!",
-      "summary": "",
-      "link": "https://www.facebook.com/reel/2539005029929366/",
-      "source": "Facebook American Chemical Society",
-      "category": "인기",
-      "publishedAt": "2026-10-23T16:36:17.219Z",
-      "thumb": "/social/fb/fb-167a25269607.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-23T22:37:00.165Z",
-      "titleKo": "축하하자!",
       "summaryKo": "",
       "translator": "google"
     }

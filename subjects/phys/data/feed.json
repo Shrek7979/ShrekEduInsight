@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-11-23T02:00:19.593Z",
+  "updatedAt": "2026-11-23T02:02:24.378Z",
   "items": [
+    {
+      "id": "e6dabf4d7d61",
+      "kind": "news",
+      "lang": "ko",
+      "title": "경기미래과학교육원, 초중생100명에 'AI·로봇 도전과제'",
+      "summary": "박종대 기자 = 경기도교육청미래과학교육원은 학생들의 논리적 문제해결력과 창의융합 역량을 키우기 위해…",
+      "detail": "박종대 기자 = 경기도교육청미래과학교육원은 학생들의 논리적 문제해결력과 창의융합 역량을 키우기 위해 초·중학생 100명을 대상으로 '인공지능(AI)·로봇 도전과제'를 운영했다고 22일 밝혔다.교육원은 전날 초등학교 4~6학년 60명과 중학교…",
+      "link": "https://www.newsis.com/view/NISX20261122_0003878090",
+      "source": "뉴시스",
+      "image": "http://www.bing.com/th?id=ONUT.vGQK0QMA-mbe7BAUSO95Hg&pid=News",
+      "category": "교육",
+      "publishedAt": "2026-11-22T04:47:00.000Z",
+      "collectedAt": "2026-11-23T02:02:24.378Z",
+      "thumb": "/thumbs/e6dabf4d7d61.jpg"
+    },
+    {
+      "id": "8fe5f1eb1b15",
+      "kind": "video",
+      "lang": "en",
+      "title": "This Material Sorts Itself",
+      "summary": "",
+      "detail": "",
+      "link": "https://www.youtube.com/watch?v=Z-2pTzSZtLU",
+      "source": "Steve Mould",
+      "image": "https://i3.ytimg.com/vi/Z-2pTzSZtLU/hqdefault.jpg",
+      "views": 1708138,
+      "category": "인기",
+      "publishedAt": "2026-10-31T12:50:48.000Z",
+      "collectedAt": "2026-11-23T02:02:24.378Z",
+      "titleKo": "이 자료는 자체적으로 정렬됩니다.",
+      "summaryKo": "",
+      "translator": "google",
+      "thumb": "/thumbs/8fe5f1eb1b15.jpg"
+    },
     {
       "id": "bsky-3n2wk76n4am2k",
       "kind": "news",
@@ -101,7 +135,7 @@
       "category": "양자·첨단",
       "publishedAt": "2026-11-21T19:54:00.000Z",
       "collectedAt": "2026-11-22T13:10:20.334Z",
-      "thumb": "/thumbs/7a14f92a2b7f.png"
+      "thumb": "/thumbs/7a14f92a2b7f.jpg"
     },
     {
       "id": "b31adbec3d58",
@@ -1933,7 +1967,7 @@
       "category": "연구",
       "publishedAt": "2026-11-17T08:59:00.000Z",
       "collectedAt": "2026-11-17T17:44:49.830Z",
-      "thumb": "/thumbs/8da296de4495.jpg"
+      "thumb": "/thumbs/8da296de4495.png"
     },
     {
       "id": "ea16e9a52d2b",
@@ -2464,43 +2498,6 @@
       "translator": "google",
       "detailKo": "엔지니어링 드라이브 및 소산을 기반으로 한 자율 양자 오류 수정 프로토콜은 보존 논리의 일관성 시간을 연장합니다.",
       "thumb": "/thumbs/68be5f33f3de.png"
-    },
-    {
-      "id": "73fcde99983a",
-      "kind": "video",
-      "lang": "ko",
-      "title": "스타십! 드디어 캐치에 성공하다! 🚀 | 15차 시험발사 귀환비행 하이라이트",
-      "summary": "",
-      "detail": "",
-      "link": "https://www.youtube.com/watch?v=ZAPduG-OZbo",
-      "source": "안될과학",
-      "image": "https://i3.ytimg.com/vi/ZAPduG-OZbo/hqdefault.jpg",
-      "views": 232699,
-      "category": "인기",
-      "publishedAt": "2026-11-14T23:35:56.000Z",
-      "collectedAt": "2026-11-17T00:22:28.263Z",
-      "summaryKo": "",
-      "thumb": "/thumbs/73fcde99983a.jpg"
-    },
-    {
-      "id": "36beb4c26ba7",
-      "kind": "video",
-      "lang": "en",
-      "title": "Why do deserts get cold at night?",
-      "summary": "The desert ground is blistering hot in the day but just…",
-      "detail": "The desert ground is blistering hot in the day but just a few hours after nightfall, it's freezing.",
-      "link": "https://www.youtube.com/shorts/rL0qEmTRI-I",
-      "source": "Veritasium",
-      "image": "https://i3.ytimg.com/vi/rL0qEmTRI-I/hqdefault.jpg",
-      "views": 1972970,
-      "category": "인기",
-      "publishedAt": "2026-11-06T14:00:17.000Z",
-      "collectedAt": "2026-11-17T00:22:28.263Z",
-      "titleKo": "사막은 왜 밤에 추워지는 걸까요?",
-      "summaryKo": "사막지대는 낮에는 덥지만…",
-      "translator": "google",
-      "detailKo": "사막 땅은 낮에는 덥지만 해가 진 지 몇 시간만 지나도 얼어붙습니다.",
-      "thumb": "/thumbs/36beb4c26ba7.jpg"
     }
   ]
 }
