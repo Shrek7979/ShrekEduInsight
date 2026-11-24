@@ -1,6 +1,54 @@
 {
-  "updatedAt": "2026-11-24T11:13:12.880Z",
+  "updatedAt": "2026-11-24T11:15:48.201Z",
   "items": [
+    {
+      "id": "c10e9fe259f9",
+      "kind": "news",
+      "lang": "ko",
+      "title": "경기미래과학교육원 'AI 시대 학교와 교사' 좌담회",
+      "summary": "박종대 기자 = 경기도교육청미래과학교육원이 12월 초까지 2차례에 걸쳐 인공지능 기술 확산 속에서…",
+      "detail": "박종대 기자 = 경기도교육청미래과학교육원이 12월 초까지 2차례에 걸쳐 인공지능 기술 확산 속에서 학교 교육의 변화와 공교육의 역할을 모색하기 위해 '2026 경기 인공지능 교육 좌담회'를 연다고 23일 밝혔다.박형빈 서울교대 교수는 이날…",
+      "link": "https://www.newsis.com/view/NISX20261123_0003879842",
+      "source": "뉴시스",
+      "image": "http://www.bing.com/th?id=ONUT.PbsjNpAlDScrlvFzj6EMAA&pid=News",
+      "category": "교육",
+      "publishedAt": "2026-11-23T09:16:00.000Z",
+      "collectedAt": "2026-11-24T11:15:48.201Z",
+      "thumb": "/thumbs/c10e9fe259f9.jpg"
+    },
+    {
+      "id": "1c38ae784ddb",
+      "kind": "news",
+      "lang": "ko",
+      "title": "첫눈이 내리는 소설, 숲속 다람쥐는 어디로 사라졌을까?",
+      "summary": "안녕하세요!",
+      "detail": "안녕하세요! 국립생태원의 척척박사, 펭이예요 자연의 리듬을 따라 절기와 함께 생태 이야기를 전해드리는 〈책으로 보는 생태〉 시간입니다! 11월의 끝자락, 화려했던 단풍이 지고 차가운 바람이 불어오면서 겨울이 가까워졌음을 느끼게 돼요. 이렇게 계절이…",
+      "link": "https://blog.naver.com/nie_korea/224480461525?fromRss=true&trackingCode=rss",
+      "source": "네이버 블로그 국립생태원",
+      "category": "인기",
+      "publishedAt": "2026-11-19T01:30:00.000Z",
+      "collectedAt": "2026-11-24T11:15:48.201Z",
+      "thumb": "/thumbs/1c38ae784ddb.png"
+    },
+    {
+      "id": "72fb511f2f2d",
+      "kind": "video",
+      "lang": "en",
+      "title": "Zoologist Reacts to TERRIBLE (and Terribly Viral) Animal Videos",
+      "summary": "",
+      "detail": "",
+      "link": "https://www.youtube.com/watch?v=pA5tqT0FhD0",
+      "source": "Clint's Reptiles",
+      "image": "https://i1.ytimg.com/vi/pA5tqT0FhD0/hqdefault.jpg",
+      "views": 1154519,
+      "category": "인기",
+      "publishedAt": "2026-11-14T13:00:28.000Z",
+      "collectedAt": "2026-11-24T11:15:48.201Z",
+      "titleKo": "동물학자는 끔찍한(그리고 끔찍한 바이러스성) 동물 비디오에 반응합니다",
+      "summaryKo": "",
+      "translator": "google",
+      "thumb": "/thumbs/72fb511f2f2d.jpg"
+    },
     {
       "id": "bsky-3n32btim2f522",
       "kind": "news",
@@ -393,7 +441,7 @@
       "summaryKo": "자연 기자 James Dinneen이 첫 번째에 대해 반성합니다…",
       "translator": "google",
       "detailKo": "네이처(Nature) 기자 제임스 디닌(James Dinneen)은 2009년 이후 처음으로 무산된 국제 기후 정상회담에 대해 반성합니다.",
-      "thumb": "/thumbs/d893b5d9924c.jpg"
+      "thumb": "/thumbs/d893b5d9924c.png"
     },
     {
       "id": "4a44bd0fa350",
@@ -1419,7 +1467,7 @@
       "summaryKo": "전립선에서 기억과 관련된 단백질 발견…",
       "translator": "google",
       "detailKo": "전립선암 세포에서 기억과 연결된 단백질을 찾은 후 Sebnem Ece Eksi는 종양의 신경 섬유 지도를 작성하기를 희망합니다.",
-      "thumb": "/thumbs/515f1719878e.jpg"
+      "thumb": "/thumbs/515f1719878e.webp"
     },
     {
       "id": "60ff44cd6498",
@@ -1438,7 +1486,7 @@
       "summaryKo": "생태학자 제니퍼 그렌츠(Jennifer Grenz)는 원주민 구술을 활용합니다…",
       "translator": "google",
       "detailKo": "생태학자인 제니퍼 그렌츠(Jennifer Grenz)는 원주민 구전 역사와 생태 기록을 활용하여 산불 후 풍경이 어떻게 회복되는지 알아봅니다.",
-      "thumb": "/thumbs/60ff44cd6498.jpg"
+      "thumb": "/thumbs/60ff44cd6498.webp"
     },
     {
       "id": "b5183277beac",
@@ -1664,7 +1712,7 @@
       "summaryKo": "조사를 통해 잠재적으로 널리 퍼진 문제가 밝혀졌습니다",
       "translator": "google",
       "detailKo": "조사를 통해 잠재적으로 광범위한 문제가 밝혀지고 철회 및 수정이 필요합니다.",
-      "thumb": "/thumbs/cbc27453f080.jpg"
+      "thumb": "/thumbs/cbc27453f080.png"
     },
     {
       "id": "c5531e26829c",
@@ -2356,53 +2404,6 @@
       "publishedAt": "2026-11-19T15:48:27.000Z",
       "collectedAt": "2026-11-20T01:08:42.990Z",
       "thumb": "/thumbs/5fd29c3e6e1e.jpg"
-    },
-    {
-      "id": "88427ee98075",
-      "kind": "news",
-      "lang": "ko",
-      "title": "연부조직육종 악성화 유발하는 유전자 변이 규명…새 표적치료 가능성",
-      "summary": "치료가 어려운 연부조직육종에서 암세포의 공격성을 높이는 유전자 이상이 확인되면서 새로운 표적항암제…",
-      "detail": "치료가 어려운 연부조직육종에서 암세포의 공격성을 높이는 유전자 이상이 확인되면서 새로운 표적항암제 개발 가능성이 제시됐다.미국 텍사스대학교 MD앤더슨암센터 연구팀은 연부조직육종에서 자주 변이가 발생하는 ATRX 유전자의 기능이 소실되면 종양이 더욱…",
-      "link": "https://www.msn.com/ko-kr/news/other/%EC%97%B0%EB%B6%80%EC%A1%B0%EC%A7%81%EC%9C%A1%EC%A2%85-%EC%95%85%EC%84%B1%ED%99%94-%EC%9C%A0%EB%B0%9C%ED%95%98%EB%8A%94-%EC%9C%A0%EC%A0%84%EC%9E%90-%EB%B3%80%EC%9D%B4-%EA%B7%9C%EB%AA%85-%EC%83%88-%ED%91%9C%EC%A0%81%EC%B9%98%EB%A3%8C-%EA%B0%80%EB%8A%A5%EC%84%B1/ar-AA2hOJ3d",
-      "source": "메디컬투데이",
-      "image": "http://www.bing.com/th?id=ONUT.n6ptG_WnfMbm6VFV7_WoNA&pid=News",
-      "category": "의학·바이오",
-      "publishedAt": "2026-11-19T15:45:54.000Z",
-      "collectedAt": "2026-11-20T01:08:42.990Z",
-      "thumb": "/thumbs/88427ee98075.jpg"
-    },
-    {
-      "id": "e01e63be8105",
-      "kind": "news",
-      "lang": "ko",
-      "title": "美 FDA, 백신·유전자치료제 시판 후 안전성 심의기구 신설",
-      "summary": "미국 식품의약국(FDA)이 백신과 유전자치료제 등 생물학적제제의 시판 후 안전성을 전담하는 새로운…",
-      "detail": "미국 식품의약국(FDA)이 백신과 유전자치료제 등 생물학적제제의 시판 후 안전성을 전담하는 새로운 내부 심의기구를 설립했다.19일(현지시간) 로이터통신에 따르면 FDA는 생물학적제제평가연구센터(CBER) 산하에 'CBER 안전성위원회(CBER…",
-      "link": "https://www.msn.com/ko-kr/health/%EC%A7%88%EB%B3%91-%EB%B0%8F-%EC%83%81%ED%83%9C/%E7%BE%8E-fda-%EB%B0%B1%EC%8B%A0-%EC%9C%A0%EC%A0%84%EC%9E%90%EC%B9%98%EB%A3%8C%EC%A0%9C-%EC%8B%9C%ED%8C%90-%ED%9B%84-%EC%95%88%EC%A0%84%EC%84%B1-%EC%8B%AC%EC%9D%98%EA%B8%B0%EA%B5%AC-%EC%8B%A0%EC%84%A4/ar-AA2hOolE",
-      "source": "알파경제",
-      "image": "http://www.bing.com/th?id=ONUT.s_c5ni3LDY5C2j4Rm8w5WA&pid=News",
-      "category": "의학·바이오",
-      "publishedAt": "2026-11-19T15:15:52.000Z",
-      "collectedAt": "2026-11-20T01:08:42.990Z",
-      "thumb": "/thumbs/e01e63be8105.jpg"
-    },
-    {
-      "id": "bsky-3n2odtks3ig2u",
-      "kind": "news",
-      "lang": "en",
-      "title": "📅 Coming up this Monday, 23 November, 5pm GMT.",
-      "summary": "Hear from the eLife Early-Career Advisory Group and…",
-      "link": "https://bsky.app/profile/elife.bsky.social/post/3n2odtks3ig2u",
-      "source": "Bluesky eLife",
-      "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:4irghgzlsjk6ugrekoqyl7km/bafkreidz46clbu7rtgfrx7qumqwrj3x4yuqgl35sqij6r6qikrwxi3yze4",
-      "category": "인기",
-      "publishedAt": "2026-11-19T15:04:51.390Z",
-      "collectedAt": "2026-11-20T01:08:42.990Z",
-      "titleKo": "📅 11월 23일 월요일 오후 5시(GMT)에 공개됩니다.",
-      "summaryKo": "eLife 조기 경력 자문 그룹의 의견을 들어보세요…",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3n2odtks3ig2u.webp"
     }
   ]
 }
