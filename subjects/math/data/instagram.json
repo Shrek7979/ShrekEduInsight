@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T23:00:13.657Z",
+  "updatedAt": "2026-11-24T11:02:20.092Z",
   "items": [
     {
       "id": "ig-De67cbqsTlu",
@@ -62,7 +62,7 @@
       "source": "Instagram @quantamag",
       "category": "문제·증명",
       "publishedAt": "2026-11-19T15:00:00.000Z",
-      "likes": "2,653",
+      "likes": "2,674",
       "thumb": "/social/ig/Df-fiuRFiUl.jpg",
       "collectedAt": "2026-11-21T01:00:05.641Z",
       "titleKo": "11월 20일 금요일 오전, 인공지능 회사 Anthropic의 수학자 Levent Alpöge는 다음과 같은 글을 올렸습니다.",
@@ -130,7 +130,7 @@
       "source": "Instagram @mathvisualproofs",
       "category": "문제·증명",
       "publishedAt": "2026-11-17T15:00:00.000Z",
-      "likes": "418",
+      "likes": "419",
       "thumb": "/social/ig/Df4smX0uErJ.jpg",
       "collectedAt": "2026-11-19T12:00:34.280Z",
       "titleKo": "마츠야마의 역설에 나오는 무한 초콜릿 이 짧은 글에서는 정사각형을 반복적으로 여러 개로 분해할 수 있는 분해 오류를 보여줍니다.",
@@ -445,6 +445,22 @@
       "translator": "google"
     },
     {
+      "id": "ig-DgHSW1wF-Yv",
+      "kind": "news",
+      "lang": "en",
+      "title": "Isaac Asimov on the joy of discovery",
+      "summary": "",
+      "link": "https://www.instagram.com/fermatslibrary/p/DgHSW1wF-Yv/",
+      "source": "Instagram @fermatslibrary",
+      "category": "인기",
+      "publishedAt": "2026-11-22T15:00:00.000Z",
+      "likes": "277",
+      "thumb": "/social/ig/DgHSW1wF-Yv.jpg",
+      "titleKo": "아이작 아시모프가 말하는 발견의 기쁨",
+      "summaryKo": "",
+      "translator": "google"
+    },
+    {
       "id": "ig-DgC-KjejcMp",
       "kind": "video",
       "lang": "en",
@@ -520,26 +536,10 @@
       "source": "Instagram @fermatslibrary",
       "category": "인기",
       "publishedAt": "2026-11-18T15:00:00.000Z",
-      "likes": "223",
+      "likes": "226",
       "thumb": "/social/ig/Df8bQZ6F1f0.jpg",
       "titleKo": "달 착륙 이후, 프린스턴 물리학 교수인 제라드 오닐(Gerard O'Neill)은 학부생들에게 질문을 했습니다: 어떻게 식민지를 건설할 수 있습니까?",
       "summaryKo": "우주에서?",
-      "translator": "google"
-    },
-    {
-      "id": "ig-Df45kOoEQFf",
-      "kind": "video",
-      "lang": "en",
-      "title": "Visual proof: add up the odd numbers starting from 1 and you always land on a perfect square.",
-      "summary": "Each new odd number is exactly the L-shaped border that…",
-      "link": "https://www.instagram.com/fermatslibrary/reel/Df45kOoEQFf/",
-      "source": "Instagram @fermatslibrary",
-      "category": "문제·증명",
-      "publishedAt": "2026-11-17T15:00:00.000Z",
-      "likes": "149",
-      "thumb": "/social/ig/Df45kOoEQFf.jpg",
-      "titleKo": "시각적 증거: 1부터 시작하는 홀수를 더하면 항상 완벽한 정사각형이 됩니다.",
-      "summaryKo": "각각의 새로운 홀수는 정확히 L자 모양의 테두리입니다.",
       "translator": "google"
     },
     {
@@ -584,7 +584,7 @@
       "source": "Instagram @mathvisualproofs",
       "category": "문제·증명",
       "publishedAt": "2026-11-17T15:00:00.000Z",
-      "likes": "418",
+      "likes": "419",
       "thumb": "/social/ig/Df4smX0uErJ.jpg",
       "collectedAt": "2026-11-19T12:00:34.280Z",
       "titleKo": "마츠야마의 역설에 나오는 무한 초콜릿 이 짧은 글에서는 정사각형을 반복적으로 여러 개로 분해할 수 있는 분해 오류를 보여줍니다.",
@@ -997,7 +997,7 @@
       "source": "Instagram @quantamag",
       "category": "문제·증명",
       "publishedAt": "2026-11-19T15:00:00.000Z",
-      "likes": "2,653",
+      "likes": "2,674",
       "thumb": "/social/ig/Df-fiuRFiUl.jpg",
       "collectedAt": "2026-11-21T01:00:05.641Z",
       "titleKo": "11월 20일 금요일 오전, 인공지능 회사 Anthropic의 수학자 Levent Alpöge는 다음과 같은 글을 올렸습니다.",
