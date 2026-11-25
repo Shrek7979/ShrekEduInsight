@@ -1,6 +1,53 @@
 {
-  "updatedAt": "2026-11-25T12:09:04.676Z",
+  "updatedAt": "2026-11-25T12:14:01.993Z",
   "items": [
+    {
+      "id": "1ad7569208c6",
+      "kind": "video",
+      "lang": "ko",
+      "title": "스포츠카 디자인의 일반 승용차는 왜 안 만들까?",
+      "summary": "",
+      "detail": "",
+      "link": "https://www.youtube.com/watch?v=QVV3KupUU98",
+      "source": "사물궁이 잡학지식",
+      "image": "https://i2.ytimg.com/vi/QVV3KupUU98/hqdefault.jpg",
+      "views": 389091,
+      "category": "인기",
+      "publishedAt": "2026-11-13T09:30:20.000Z",
+      "collectedAt": "2026-11-25T12:14:01.993Z",
+      "summaryKo": "",
+      "thumb": "/thumbs/1ad7569208c6.jpg"
+    },
+    {
+      "id": "10674bbb14b4",
+      "kind": "video",
+      "lang": "ko",
+      "title": "생닭을 왜 물에 씻으면 안 될까?",
+      "summary": "스푸트니크로부터 원고를 제공 받아 제작된 영상입니다",
+      "link": "https://www.youtube.com/shorts/Iaj8L3uaeMQ",
+      "source": "사물궁이 잡학지식",
+      "image": "https://i2.ytimg.com/vi/Iaj8L3uaeMQ/hqdefault.jpg",
+      "views": 448816,
+      "category": "인기",
+      "publishedAt": "2026-11-10T09:06:01.000Z",
+      "collectedAt": "2026-11-25T12:14:01.993Z",
+      "thumb": "/thumbs/10674bbb14b4.jpg"
+    },
+    {
+      "id": "57a2ef7158bb",
+      "kind": "video",
+      "lang": "ko",
+      "title": "한 통을 삼켜도 죽지 않는 수면제가 미국에서만 안팔린 이유",
+      "summary": "#shorts #탈리도마이드 #프랜시스켈시 #FDA #임상시험",
+      "link": "https://www.youtube.com/shorts/gVMxpV6oKyw",
+      "source": "이과형",
+      "image": "https://i4.ytimg.com/vi/gVMxpV6oKyw/hqdefault.jpg",
+      "views": 361368,
+      "category": "인기",
+      "publishedAt": "2026-10-30T23:14:49.000Z",
+      "collectedAt": "2026-11-25T12:14:01.993Z",
+      "thumb": "/thumbs/57a2ef7158bb.jpg"
+    },
     {
       "id": "026d695ff16e",
       "kind": "news",
@@ -1480,7 +1527,7 @@
       "category": "양자·첨단",
       "publishedAt": "2026-11-21T19:54:00.000Z",
       "collectedAt": "2026-11-22T13:10:20.334Z",
-      "thumb": "/thumbs/7a14f92a2b7f.png"
+      "thumb": "/thumbs/7a14f92a2b7f.jpg"
     },
     {
       "id": "b31adbec3d58",
@@ -2440,53 +2487,6 @@
       "publishedAt": "2026-11-19T11:33:10.000Z",
       "collectedAt": "2026-11-19T12:16:16.910Z",
       "thumb": "/thumbs/6cb19da7db25.jpg"
-    },
-    {
-      "id": "41483e0d5f83",
-      "kind": "news",
-      "lang": "en",
-      "title": "Low-cost glass scintillator shows promise for multimodal radiation detection",
-      "summary": "A novel cerium-doped gadolinium-rich glass scintillator…",
-      "detail": "A novel cerium-doped gadolinium-rich glass scintillator can detect X-rays, gamma rays, neutrons and high-energy particles The post Low-cost…",
-      "link": "https://physicsworld.com/a/low-cost-glass-scintillator-shows-promise-for-multimodal-radiation-detection/",
-      "source": "Physics World",
-      "category": "해외",
-      "publishedAt": "2026-11-19T09:30:03.000Z",
-      "collectedAt": "2026-11-19T12:16:16.910Z",
-      "titleKo": "저가형 유리 섬광체는 다중 모드 방사선 검출에 대한 가능성을 보여줍니다.",
-      "summaryKo": "새로운 세륨이 첨가된 가돌리늄이 풍부한 유리 섬광체…",
-      "translator": "google",
-      "detailKo": "새로운 세륨이 첨가된 가돌리늄이 풍부한 유리 섬광체는 X선, 감마선, 중성자 및 고에너지 입자를 감지할 수 있습니다. 포스트 저비용…",
-      "thumb": "/thumbs/41483e0d5f83.jpg"
-    },
-    {
-      "id": "04f788dbd470",
-      "kind": "news",
-      "lang": "ko",
-      "title": "달 착륙부터 우주망원경까지…AI·슈퍼컴퓨터로 우주탐사 준비",
-      "summary": "달 착륙선이 내뿜는 배기가스가 달 표면에 어떤 영향을 미치는지, 우주망원경이 관측할 은하의 모습은…",
-      "detail": "달 착륙선이 내뿜는 배기가스가 달 표면에 어떤 영향을 미치는지, 우주망원경이 관측할 은하의 모습은 어떨지 컴퓨터 시뮬레이션으로 미리 예측하는 연구가 주목받고 있다. 인공지능 (AI)과 슈퍼컴퓨터를 활용해 우주탐사 임무의 위험을 줄이고 관측 효율을…",
-      "link": "https://www.asiae.co.kr/article/2026111912015841273",
-      "source": "아시아경제",
-      "image": "http://www.bing.com/th?id=ONUT.dNpxxOmjAVd5hyFpM12Z9Q&pid=News",
-      "category": "우주·천문",
-      "publishedAt": "2026-11-19T04:01:00.000Z",
-      "collectedAt": "2026-11-19T12:16:16.910Z",
-      "thumb": "/thumbs/04f788dbd470.jpg"
-    },
-    {
-      "id": "55d9d74e9afb",
-      "kind": "news",
-      "lang": "ko",
-      "title": "우주청, 천체물리 수치모형의 AI 활용 위한 워크숍 개최",
-      "summary": "우주항공청이 19일 대전 서구 KT 인재개발원에서 '천체물리 수치모형·인공지능(AI) 활용 방안…",
-      "detail": "우주항공청이 19일 대전 서구 KT 인재개발원에서 '천체물리 수치모형·인공지능(AI) 활용 방안 모색을 위한 워크숍'을 개최했다. 대학과 연구기관 연구자 등 50여명이 천체물리·우주 분야 수치모형 연구 현황과 AI의 융합 가능성을 살펴보고, 이를…",
-      "link": "https://www.etnews.com/20261119000161",
-      "source": "전자신문",
-      "category": "우주·천문",
-      "publishedAt": "2026-11-19T04:00:00.000Z",
-      "collectedAt": "2026-11-19T12:16:16.910Z",
-      "thumb": "/thumbs/55d9d74e9afb.png"
     }
   ]
 }

@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-11-25T00:18:57.386Z",
+  "updatedAt": "2026-11-25T12:18:23.394Z",
   "items": [
+    {
+      "id": "fb-7f8c7b72dfa6",
+      "kind": "news",
+      "lang": "en",
+      "title": "Forget the traditional career ladder.",
+      "summary": "Could you build a “unicorn career” instead?",
+      "link": "https://www.facebook.com/physicsworld/posts/pfbid0LzADJKULP3cHmuJV135McvdP8aTu2fZ8H85SMUocyYEwJWVfFEpDQyJQjScU4wybl",
+      "source": "Facebook Physics World",
+      "category": "인기",
+      "publishedAt": "2026-11-25T12:01:50.970Z",
+      "thumb": "/social/fb/fb-7f8c7b72dfa6.jpg",
+      "refs": [],
+      "collectedAt": "2026-11-25T12:18:23.394Z",
+      "titleKo": "전통적인 경력 사다리를 잊어 버리십시오.",
+      "summaryKo": "대신에 \"유니콘 경력\"을 쌓을 수 있나요?",
+      "translator": "google"
+    },
+    {
+      "id": "fb-302881a5e0eb",
+      "kind": "video",
+      "lang": "en",
+      "title": "Autumn at CERN",
+      "summary": "",
+      "link": "https://www.facebook.com/reel/1650106703266274/",
+      "source": "Facebook CERN",
+      "category": "인기",
+      "publishedAt": "2026-11-25T09:18:13.529Z",
+      "thumb": "/social/fb/fb-302881a5e0eb.jpg",
+      "refs": [],
+      "collectedAt": "2026-11-25T12:18:23.394Z",
+      "titleKo": "CERN의 가을",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-fb12efde0a89",
       "kind": "news",
