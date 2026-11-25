@@ -1,6 +1,54 @@
 {
-  "updatedAt": "2026-11-25T00:09:36.735Z",
+  "updatedAt": "2026-11-25T00:12:47.424Z",
   "items": [
+    {
+      "id": "b187dd7c2892",
+      "kind": "news",
+      "lang": "ko",
+      "title": "[사이테크+] \"빅뱅 6억3천만년 후 우주에 태양 수억배 블랙홀\"…성장 비밀은",
+      "summary": "\"빅뱅 6억3천만년 후 우주에 태양 수억배 블랙홀\"…성장 비밀은 국제연구팀 \"가장 먼 퀘이사…",
+      "detail": "\"빅뱅 6억3천만년 후 우주에 태양 수억배 블랙홀\"…성장 비밀은 국제연구팀 \"가장 먼 퀘이사 포착…현재 이론 한계의 12~44% 속도로 물질 흡수\" (서울=연합뉴스) 이주영 기자 = 빅뱅(Big Bang) 이후 6억3천만 년밖에 지나지 않은 초기…",
+      "link": "https://www.fnnews.com/news/202611250001109488",
+      "source": "파이낸셜뉴스",
+      "image": "http://www.bing.com/th?id=ONUT.tM8sn4cC0ERLRCqqBhlkuA&pid=News",
+      "category": "우주·천문",
+      "publishedAt": "2026-11-24T15:59:00.000Z",
+      "collectedAt": "2026-11-25T00:12:47.424Z",
+      "thumb": "/thumbs/b187dd7c2892.jpg"
+    },
+    {
+      "id": "1bb1451c58cd",
+      "kind": "news",
+      "lang": "ko",
+      "title": "딥마인드, 제미나이 에이전트로 양자 회로 비용 11.8배 절감",
+      "summary": "구글 딥마인드가 제미나이 4 에이전트 팀으로 알려진 양자 알고리즘을 개선해 연산 비용을 최대 수백…",
+      "detail": "구글 딥마인드가 제미나이 4 에이전트 팀으로 알려진 양자 알고리즘을 개선해 연산 비용을 최대 수백 배 줄인 연구를 현지 시각 11월 23일 공개했다. 구글 퀀텀 AI와 공동 연구이며, 논문 저자로 세르게이 시로보코프, 벤 야더버그, 라이언 배부시…",
+      "link": "https://aimatters.co.kr/news-report/62219/",
+      "source": "AI Matters",
+      "image": "http://www.bing.com/th?id=ONUT.26LYtuPlyg41JTSZpGEcBg&pid=News",
+      "category": "양자·첨단",
+      "publishedAt": "2026-11-24T15:59:00.000Z",
+      "collectedAt": "2026-11-25T00:12:47.424Z",
+      "thumb": "/thumbs/1bb1451c58cd.jpg"
+    },
+    {
+      "id": "bsky-3n2l6oi22ds2k",
+      "kind": "news",
+      "lang": "en",
+      "title": "Happy LGBTQ+ in STEM Day 🌈 On This Day we reflect on all the ways we can make our community a better and a more inclusive place for…",
+      "summary": "everyone",
+      "link": "https://bsky.app/profile/cern.bsky.social/post/3n2l6oi22ds2k",
+      "source": "Bluesky CERN",
+      "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2vrfekwr4jo7zufnlt7qlrqq/bafkreicw4sggnbehnwhc33zodx5nshiifrbvkv5x6enwra2kqmnsln62ty",
+      "likes": "96",
+      "category": "인기",
+      "publishedAt": "2026-11-18T08:54:32.819Z",
+      "collectedAt": "2026-11-25T00:12:47.424Z",
+      "titleKo": "STEM Day에 즐거운 LGBTQ+를 보내세요 🌈 이날 우리는 우리 커뮤니티를 더 나은 곳으로 만들고 모두를 위한 더 포용적인 장소로 만들 수 있는 모든 방법에 대해 성찰합니다.",
+      "summaryKo": "모든 사람",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3n2l6oi22ds2k.webp"
+    },
     {
       "id": "bsky-3n33j4ohcnz25",
       "kind": "news",
@@ -249,7 +297,7 @@
       "kind": "video",
       "lang": "en",
       "title": "Why doesn't your heart get tired like other muscles do?",
-      "summary": "The secret to why your heart never gets tired.",
+      "summary": "The secret to why your heart never gets tired",
       "link": "https://www.youtube.com/shorts/Kap7mRzr13w",
       "source": "Veritasium",
       "image": "https://i4.ytimg.com/vi/Kap7mRzr13w/hqdefault.jpg",
@@ -258,7 +306,7 @@
       "publishedAt": "2026-10-27T14:00:11.000Z",
       "collectedAt": "2026-11-25T00:09:36.735Z",
       "titleKo": "왜 다른 근육처럼 심장이 피곤해지지 않습니까?",
-      "summaryKo": "마음이 지치지 않는 비결.",
+      "summaryKo": "마음이 지치지 않는 비결",
       "translator": "google",
       "thumb": "/thumbs/8ff015d197c3.jpg"
     },
@@ -1116,7 +1164,7 @@
       "category": "양자·첨단",
       "publishedAt": "2026-11-21T19:54:00.000Z",
       "collectedAt": "2026-11-22T13:10:20.334Z",
-      "thumb": "/thumbs/7a14f92a2b7f.png"
+      "thumb": "/thumbs/7a14f92a2b7f.jpg"
     },
     {
       "id": "b31adbec3d58",
@@ -2424,60 +2472,6 @@
       "summaryKo": "당시 대부분의 수학자들은 그의 생각이 다음과 같다고 생각했습니다",
       "translator": "google",
       "thumb": "/thumbs/bsky-3n2m2wdoicx2b.webp"
-    },
-    {
-      "id": "3b22854cf940",
-      "kind": "news",
-      "lang": "en",
-      "title": "What can old encyclopedias tell us about the development of scientific ideas?",
-      "summary": "Robert P Crease shows off his encyclopedic knowledge of…",
-      "detail": "Robert P Crease shows off his encyclopedic knowledge of atoms The post What can old encyclopedias tell us about the development of…",
-      "link": "https://physicsworld.com/a/what-can-old-encyclopedias-tell-us-about-the-development-of-scientific-ideas/",
-      "source": "Physics World",
-      "category": "해외",
-      "publishedAt": "2026-11-18T14:20:54.000Z",
-      "collectedAt": "2026-11-18T23:09:57.124Z",
-      "titleKo": "오래된 백과사전은 과학적 아이디어의 발전에 관해 우리에게 무엇을 말해 줄 수 있습니까?",
-      "summaryKo": "Robert P Crease는 다음과 같은 백과사전적 지식을 선보입니다",
-      "translator": "google",
-      "detailKo": "로버트 P 크리즈(Robert P Crease)는 원자에 대한 백과사전적 지식을 자랑합니다. 포스트 오래된 백과사전은 원자의 발달에 관해 우리에게 무엇을 말해 줄 수 있습니까?",
-      "thumb": "/thumbs/3b22854cf940.jpg"
-    },
-    {
-      "id": "d112ded2fa10",
-      "kind": "news",
-      "lang": "en",
-      "title": "Patient-specific 3D range modulator enables rapid, motion-robust carbon-ion therapy",
-      "summary": "Replacing energy switching with passive beam shaping…",
-      "detail": "Replacing energy switching with passive beam shaping could pave the way for FLASH-compatible carbon-ion treatments The post…",
-      "link": "https://physicsworld.com/a/patient-specific-3d-range-modulator-enables-rapid-motion-robust-carbon-ion-therapy/",
-      "source": "Physics World",
-      "category": "해외",
-      "publishedAt": "2026-11-18T12:00:45.000Z",
-      "collectedAt": "2026-11-18T23:09:57.124Z",
-      "titleKo": "환자별 3D 범위 변조기로 빠르고 움직임이 견고한 탄소 이온 치료가 가능합니다.",
-      "summaryKo": "에너지 스위칭을 패시브 빔 성형으로 대체…",
-      "translator": "google",
-      "detailKo": "에너지 전환을 수동 빔 형성으로 대체하면 FLASH 호환 탄소 이온 처리의 길을 열 수 있습니다.",
-      "thumb": "/thumbs/d112ded2fa10.jpg"
-    },
-    {
-      "id": "bsky-3n2lj2cj7wu2f",
-      "kind": "news",
-      "lang": "en",
-      "title": "Voyager 1 is now one light-day from Earth, a mile marker reached by no other human-made object.",
-      "summary": "A signal traveling at the speed of light takes 24 hours…",
-      "link": "https://bsky.app/profile/apsphysics.aps.org/post/3n2lj2cj7wu2f",
-      "source": "Bluesky APS Physics",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:heemoqq7cssrx5ixyxwd52y6/bafkreigrmfhl6i2xujtcmideua5lmunpiys552crbxyp4ww76kaedxeff4",
-      "likes": "3",
-      "category": "인기",
-      "publishedAt": "2026-11-18T12:00:07.084Z",
-      "collectedAt": "2026-11-18T23:09:57.124Z",
-      "titleKo": "보이저 1호는 이제 지구에서 1 광일 거리에 있으며, 인간이 만든 다른 어떤 물체도 도달할 수 없는 거리에 있습니다.",
-      "summaryKo": "빛의 속도로 신호가 전달되는 데는 24시간이 걸립니다",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3n2lj2cj7wu2f.webp"
     }
   ]
 }

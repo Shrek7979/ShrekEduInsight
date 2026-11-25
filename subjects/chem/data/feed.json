@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-11-25T00:09:36.737Z",
+  "updatedAt": "2026-11-25T00:12:47.415Z",
   "items": [
+    {
+      "id": "9e3746023099",
+      "kind": "news",
+      "lang": "ko",
+      "title": "AI로 화장품 피부 안전성 예측한다… 화학연-한국콜마 공동연구 추진",
+      "summary": "KRICT 뉴스 AI로 화장품 피부 안전성 예측한다… 화학연-한국콜마 공동연구 추진 - 화학연,…",
+      "detail": "KRICT 뉴스 AI로 화장품 피부 안전성 예측한다… 화학연-한국콜마 공동연구 추진 - 화학연, 한국콜마와 11월 17일 AI 기반 피부영향 예측기술 공동개발 업무협약 체결 - 피부 과민성·피부 흡수율 맞춤형 예측모델 개발… 화장품 연구개발 단계부터…",
+      "link": "https://blog.naver.com/krictblog/224490017106?fromRss=true&trackingCode=rss",
+      "source": "네이버 블로그 한국화학연구원",
+      "category": "인기",
+      "publishedAt": "2026-11-24T06:23:43.000Z",
+      "collectedAt": "2026-11-25T00:12:47.415Z",
+      "thumb": "/thumbs/9e3746023099.png"
+    },
+    {
+      "id": "8fdf86623948",
+      "kind": "news",
+      "lang": "en",
+      "title": "Scientists create a remarkable new rechargeable battery using vitamin B12",
+      "summary": "Scientists have found a surprising new use for vitamin…",
+      "detail": "Scientists have found a surprising new use for vitamin B12, developing a rechargeable battery that uses the essential nutrient to help…",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261117033909.htm",
+      "source": "ScienceDaily",
+      "category": "해외",
+      "publishedAt": "2026-11-18T12:26:20.000Z",
+      "collectedAt": "2026-11-25T00:12:47.415Z",
+      "titleKo": "과학자들이 비타민 B12를 사용하여 놀라운 새 충전식 배터리를 만들었습니다.",
+      "summaryKo": "과학자들은 비타민의 놀라운 새로운 용도를 발견했습니다…",
+      "translator": "google",
+      "detailKo": "과학자들은 비타민 B12의 놀라운 새로운 용도를 발견하여 필수 영양소를 사용하는 충전식 배터리를 개발했습니다.",
+      "thumb": "/thumbs/8fdf86623948.webp"
+    },
     {
       "id": "bsky-3n33lxnmhtc27",
       "kind": "news",
@@ -1541,7 +1573,7 @@
       "summaryKo": "생분해성 나노입자는 리그닌과 스테아린산을 결합한…",
       "translator": "google",
       "detailKo": "생분해성 나노입자는 리그닌과 스테아르산을 결합하여 소수성 마감 처리를 합니다.",
-      "thumb": "/thumbs/8b75b178f7c6.webp"
+      "thumb": "/thumbs/8b75b178f7c6.jpg"
     },
     {
       "id": "bsky-3n2quagcukp2y",
@@ -2355,7 +2387,7 @@
       "category": "입시",
       "publishedAt": "2026-11-18T16:01:00.000Z",
       "collectedAt": "2026-11-19T00:52:22.924Z",
-      "thumb": "/thumbs/86c407f8f149.jpg"
+      "thumb": "/thumbs/86c407f8f149.png"
     },
     {
       "id": "432bed2ef75b",
@@ -2481,42 +2513,6 @@
       "translator": "google",
       "detailKo": "회사는 자금을 사용하여 플랫폼을 개발하고 분자를 임상 테스트로 옮길 것입니다.",
       "thumb": "/thumbs/fa96eb3f6083.webp"
-    },
-    {
-      "id": "11787908e504",
-      "kind": "news",
-      "lang": "en",
-      "title": "Sila’s $1 billion deal signals momentum for silicon anodes",
-      "summary": "Despite slowing growth for electric cars, silicon anode…",
-      "detail": "Despite slowing growth for electric cars, silicon anode materials are finding a niche",
-      "link": "https://cen.acs.org/energy/energy-storage/sila-nanotechnologies-panasonic-energy-silicon-anode-battery/104/web/2026/11?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
-      "source": "C&EN",
-      "category": "해외",
-      "publishedAt": "2026-11-18T19:05:18.000Z",
-      "collectedAt": "2026-11-18T23:09:57.135Z",
-      "titleKo": "Sila의 10억 달러 거래는 실리콘 양극에 대한 모멘텀 신호",
-      "summaryKo": "전기차 성장 둔화에도 실리콘 양극재…",
-      "translator": "google",
-      "detailKo": "전기차 성장 둔화에도 불구하고 실리콘 양극재는 틈새 시장을 찾고 있다",
-      "thumb": "/thumbs/11787908e504.webp"
-    },
-    {
-      "id": "211be91a30d7",
-      "kind": "news",
-      "lang": "en",
-      "title": "Betting on nanomaterials to cool AI chips",
-      "summary": "Start-ups say their novel heat-conducting materials…",
-      "detail": "Start-ups say their novel heat-conducting materials could slash energy use of next-generation data centers",
-      "link": "https://cen.acs.org/materials/nanomaterials/nanomaterials-ai-chip-cooling-data-centers-novolinc-carbice/104/web/2026/11?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
-      "source": "C&EN",
-      "category": "해외",
-      "publishedAt": "2026-11-18T18:39:42.000Z",
-      "collectedAt": "2026-11-18T23:09:57.135Z",
-      "titleKo": "AI 칩 냉각을 위해 나노재료에 베팅",
-      "summaryKo": "스타트업들이 말하는 새로운 열전도 소재…",
-      "translator": "google",
-      "detailKo": "스타트업들은 자사의 새로운 열 전도성 소재가 차세대 데이터 센터의 에너지 사용을 줄일 수 있다고 말합니다.",
-      "thumb": "/thumbs/211be91a30d7.webp"
     }
   ]
 }

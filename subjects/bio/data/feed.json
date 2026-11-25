@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-11-25T00:09:36.734Z",
+  "updatedAt": "2026-11-25T00:12:47.418Z",
   "items": [
+    {
+      "id": "bsky-3n2oajj4bhs2x",
+      "kind": "news",
+      "lang": "en",
+      "title": "“Nothing is written in stone, and even my own discoveries will eventually be challenged; that’s exactly how science should work.” – quote…",
+      "summary": "from our latest interview with @sgribaldo.bsky.social",
+      "link": "https://bsky.app/profile/currentbiology.bsky.social/post/3n2oajj4bhs2x",
+      "source": "Bluesky Current Biology",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iwhwhmcrfrlmpme5ybe6tdoh/bafkreibkpuvjqdzt6lkkr3bpd6qo4ie7mzlzjtpo5uzsfsxa7jcxn2woua",
+      "likes": "51",
+      "category": "인기",
+      "publishedAt": "2026-11-19T14:05:32.867Z",
+      "collectedAt": "2026-11-25T00:12:47.418Z",
+      "titleKo": "\"아무것도 돌에 새겨져 있지 않으며 심지어 나 자신의 발견도 결국 도전을 받게 될 것입니다. 이것이 바로 과학이 작동하는 방식입니다.\" - 인용하다…",
+      "summaryKo": "@sgribaldo.bsky.social과의 최신 인터뷰에서",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3n2oajj4bhs2x.png"
+    },
+    {
+      "id": "39990a0c5c66",
+      "kind": "news",
+      "lang": "ko",
+      "title": "2026년 국립생물자원관 SNS 만족도 조사 이벤트(~ 11/29)",
+      "summary": "안녕하세요, 국립생물자원관입니다",
+      "detail": "안녕하세요, 국립생물자원관입니다. 국립생물자원관은 공식 SNS 채널을 통해 기관의 다양한 소식과 생물다양성 정보를 전하고 있습니다. 앞으로 더욱 유익하고 흥미로운 콘텐츠로 여러분과 소통하기 위해 '국립생물자원관 SNS 채널 만족도 조사'를…",
+      "link": "https://blog.naver.com/nibr_bio/224479379662?fromRss=true&trackingCode=rss",
+      "source": "네이버 블로그 국립생물자원관",
+      "category": "인기",
+      "publishedAt": "2026-11-16T08:35:30.000Z",
+      "collectedAt": "2026-11-25T00:12:47.418Z",
+      "thumb": "/thumbs/39990a0c5c66.png"
+    },
+    {
+      "id": "feead91072e8",
+      "kind": "video",
+      "lang": "en",
+      "title": "How Does Ketamine Work?",
+      "summary": "Ketamine is often used in medicine as one of medicine's…",
+      "detail": "Ketamine is often used in medicine as one of medicine's safest painkillers, but without safeguards, it can be very dangerous. So, what…",
+      "link": "https://www.youtube.com/shorts/KBfIo9sZbC4",
+      "source": "Kurzgesagt",
+      "image": "https://i4.ytimg.com/vi/KBfIo9sZbC4/hqdefault.jpg",
+      "views": 1007289,
+      "category": "인기",
+      "publishedAt": "2026-10-29T15:30:29.000Z",
+      "collectedAt": "2026-11-25T00:12:47.418Z",
+      "titleKo": "케타민은 어떻게 작동합니까?",
+      "summaryKo": "케타민은 의학에서 종종 의학의 하나로 사용됩니다…",
+      "translator": "google",
+      "detailKo": "케타민은 의료계에서 가장 안전한 진통제 중 하나로 흔히 사용되지만, 안전 장치가 없으면 매우 위험할 수 있습니다. 그래서, 뭐…",
+      "thumb": "/thumbs/feead91072e8.jpg"
+    },
     {
       "id": "7c51c4a7f20f",
       "kind": "news",
@@ -121,7 +173,7 @@
       "category": "생태·환경",
       "publishedAt": "2026-11-24T16:01:00.000Z",
       "collectedAt": "2026-11-25T00:09:36.734Z",
-      "thumb": "/thumbs/32bb67d891b4.jpg"
+      "thumb": null
     },
     {
       "id": "9f9311df482f",
@@ -347,7 +399,7 @@
       "summaryKo": "대규모 사후 연구를 통해 후생적 변화가 확인되었습니다…",
       "translator": "google",
       "detailKo": "대규모 사후 연구에서 외상후 스트레스 장애와 관련된 뇌의 후생적 변화가 확인되었습니다.",
-      "thumb": "/thumbs/4a2d7f4f20a6.jpg"
+      "thumb": "/thumbs/4a2d7f4f20a6.png"
     },
     {
       "id": "b1a0ac8302b3",
@@ -365,7 +417,7 @@
       "summaryKo": "Anthropic과 OpenAI의 언어 모델은 다음을 설계할 수 있습니다",
       "translator": "google",
       "detailKo": "Anthropic 및 OpenAI의 언어 모델은 단백질을 설계하고 그 서열과 구조를 예측할 수 있습니다. 이전에는 이러한 기능만 볼 수 있었습니다.",
-      "thumb": "/thumbs/b1a0ac8302b3.jpg"
+      "thumb": "/thumbs/b1a0ac8302b3.png"
     },
     {
       "id": "759d73cc2a4e",
@@ -826,7 +878,7 @@
       "summaryKo": "자연 기자 James Dinneen이 첫 번째에 대해 반성합니다…",
       "translator": "google",
       "detailKo": "네이처(Nature) 기자 제임스 디닌(James Dinneen)은 2009년 이후 처음으로 무산된 국제 기후 정상회담에 대해 반성합니다.",
-      "thumb": "/thumbs/d893b5d9924c.jpg"
+      "thumb": "/thumbs/d893b5d9924c.png"
     },
     {
       "id": "4a44bd0fa350",
@@ -1852,7 +1904,7 @@
       "summaryKo": "전립선에서 기억과 관련된 단백질 발견…",
       "translator": "google",
       "detailKo": "전립선암 세포에서 기억과 연결된 단백질을 찾은 후 Sebnem Ece Eksi는 종양의 신경 섬유 지도를 작성하기를 희망합니다.",
-      "thumb": "/thumbs/515f1719878e.jpg"
+      "thumb": "/thumbs/515f1719878e.webp"
     },
     {
       "id": "60ff44cd6498",
@@ -1871,7 +1923,7 @@
       "summaryKo": "생태학자 제니퍼 그렌츠(Jennifer Grenz)는 원주민 구술을 활용합니다…",
       "translator": "google",
       "detailKo": "생태학자인 제니퍼 그렌츠(Jennifer Grenz)는 원주민 구전 역사와 생태 기록을 활용하여 산불 후 풍경이 어떻게 회복되는지 알아봅니다.",
-      "thumb": "/thumbs/60ff44cd6498.jpg"
+      "thumb": "/thumbs/60ff44cd6498.webp"
     },
     {
       "id": "b5183277beac",
@@ -2097,7 +2149,7 @@
       "summaryKo": "조사를 통해 잠재적으로 널리 퍼진 문제가 밝혀졌습니다",
       "translator": "google",
       "detailKo": "조사를 통해 잠재적으로 광범위한 문제가 밝혀지고 철회 및 수정이 필요합니다.",
-      "thumb": "/thumbs/cbc27453f080.jpg"
+      "thumb": "/thumbs/cbc27453f080.png"
     },
     {
       "id": "c5531e26829c",
@@ -2367,51 +2419,6 @@
       "publishedAt": "2026-11-19T23:10:55.000Z",
       "collectedAt": "2026-11-20T13:08:50.226Z",
       "thumb": "/thumbs/01f2435a740d.jpg"
-    },
-    {
-      "id": "83cd6a9e3c89",
-      "kind": "news",
-      "lang": "ko",
-      "title": "영덕교육지원청, 중학생 해양 생물 보호 교육…국립해양생물자원관 연구원 강연",
-      "summary": "경북 영덕군 병곡면 영리에는 국립해양생물자원관 해양생물종 복원센터가 건립되고 있다.복원센터는…",
-      "detail": "경북 영덕군 병곡면 영리에는 국립해양생물자원관 해양생물종 복원센터가 건립되고 있다.복원센터는 2028년 완공될 예정이며, 영덕 지역에서 멸종위기 해양 생물의 연구와 증식, 복원이 이뤄질 것으로 기대된다.이러한 해양생물 보호와 복원에 대한 관심을…",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3758762",
-      "source": "국제뉴스",
-      "image": "http://www.bing.com/th?id=ONUT.8pQrI2kCePJ9y0YMi8e5Qg&pid=News",
-      "category": "연구",
-      "publishedAt": "2026-11-19T22:51:00.000Z",
-      "collectedAt": "2026-11-20T13:08:50.226Z",
-      "thumb": "/thumbs/83cd6a9e3c89.jpg"
-    },
-    {
-      "id": "b487316303c8",
-      "kind": "news",
-      "lang": "ko",
-      "title": "[2027수능] ‘최상위까지 번진 역대급 사탐런’ 탐구 지형 대지진.. 사탐 '1등급컷 상승' 과탐 '대혈투'",
-      "summary": "개편 직전 마지막 해, 사탐런이 상위권까지 걷잡을 수 없이 번지면서 탐구 지형이 송두리째 흔들리는…",
-      "detail": "개편 직전 마지막 해, 사탐런이 상위권까지 걷잡을 수 없이 번지면서 탐구 지형이 송두리째 흔들리는 모양새다. 과탐을 끝까지 지킨 최상위권, 과탐에서 사탐으로 전환한 상위권, 전략적으로 사탐을 택한 중위권까지 사탐런의 갈래 자체가 분화됐다. 그간…",
-      "link": "https://www.veritas-a.com/news/articleView.html?idxno=638398",
-      "source": "베리타스알파",
-      "image": "http://www.bing.com/th?id=ONUT.j0uT6NgjKNKYdW5i8G-lVg&pid=News",
-      "category": "입시",
-      "publishedAt": "2026-11-19T18:45:00.000Z",
-      "collectedAt": "2026-11-20T13:08:50.226Z",
-      "thumb": "/thumbs/b487316303c8.jpg"
-    },
-    {
-      "id": "f2b91378b8e8",
-      "kind": "news",
-      "lang": "ko",
-      "title": "정주연 생명연 센터장, OECD 바이오나노작업반 부의장 선출",
-      "summary": "한국생명공학연구원은 지난 19∼20일 프랑스 파리에서 열린 ‘경제협력개발기구(OECD)…",
-      "detail": "한국생명공학연구원은 지난 19∼20일 프랑스 파리에서 열린 ‘경제협력개발기구(OECD) 바이오나노융합기술작업반(BNCT) 제24차 총회‘에서 정주연(사진) 바이오나노연구센터장이 부의장으로 선출됐다고 밝혔다. BNCT는 OECD…",
-      "link": "https://www.dt.co.kr/article/12096343",
-      "source": "디지털타임스",
-      "image": "http://www.bing.com/th?id=ONUT._qisUSw9_ybsaQEpgbuHgw&pid=News",
-      "category": "의학·바이오",
-      "publishedAt": "2026-11-19T18:27:00.000Z",
-      "collectedAt": "2026-11-20T13:08:50.226Z",
-      "thumb": "/thumbs/f2b91378b8e8.jpg"
     }
   ]
 }
