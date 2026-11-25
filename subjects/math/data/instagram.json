@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T00:00:18.100Z",
+  "updatedAt": "2026-11-25T12:00:23.759Z",
   "items": [
     {
       "id": "ig-De67cbqsTlu",
@@ -62,11 +62,28 @@
       "source": "Instagram @quantamag",
       "category": "문제·증명",
       "publishedAt": "2026-11-19T15:00:00.000Z",
-      "likes": "2,694",
+      "likes": "2,708",
       "thumb": "/social/ig/Df-fiuRFiUl.jpg",
       "collectedAt": "2026-11-21T01:00:05.641Z",
       "titleKo": "11월 20일 금요일 오전, 인공지능 회사 Anthropic의 수학자 Levent Alpöge는 다음과 같은 글을 올렸습니다.",
       "summaryKo": "자신의 개인 웹사이트에 애처로운 4페이지 분량의 논문을 올렸습니다.",
+      "translator": "google"
+    },
+    {
+      "id": "ig-DgJVG-4KhEO",
+      "kind": "video",
+      "lang": "en",
+      "title": "The Riemann hypothesis was an open problem for more than 160 years.",
+      "summary": "With its resolution, mathematicians have gained deeper…",
+      "link": "https://www.instagram.com/quantamag/reel/DgJVG-4KhEO/",
+      "source": "Instagram @quantamag",
+      "category": "인기",
+      "publishedAt": "2026-11-23T15:00:00.000Z",
+      "likes": "1,915",
+      "thumb": "/social/ig/DgJVG-4KhEO.jpg",
+      "collectedAt": "2026-11-25T12:00:23.759Z",
+      "titleKo": "리만 가설은 160년 넘게 공개된 문제였습니다.",
+      "summaryKo": "그 결의안으로 수학자들은 더 깊은 지식을 얻었습니다…",
       "translator": "google"
     },
     {
@@ -104,23 +121,6 @@
       "translator": "google"
     },
     {
-      "id": "ig-Df433G5Fn23",
-      "kind": "news",
-      "lang": "en",
-      "title": "Maurits Cornelis Escher didn’t plan on becoming the darling of mathematicians.",
-      "summary": "Born in 1898 in the Netherlands, Escher struggled with…",
-      "link": "https://www.instagram.com/quantamag/p/Df433G5Fn23/",
-      "source": "Instagram @quantamag",
-      "category": "인기",
-      "publishedAt": "2026-11-17T15:00:00.000Z",
-      "likes": "450",
-      "thumb": "/social/ig/Df433G5Fn23.jpg",
-      "collectedAt": "2026-11-19T00:00:15.315Z",
-      "titleKo": "Maurits Cornelis Escher는 수학자들이 사랑하는 사람이 될 계획이 없었습니다.",
-      "summaryKo": "1898년 네덜란드에서 태어난 에셔는…",
-      "translator": "google"
-    },
-    {
       "id": "ig-Df4smX0uErJ",
       "kind": "video",
       "lang": "en",
@@ -133,7 +133,7 @@
       "likes": "423",
       "thumb": "/social/ig/Df4smX0uErJ.jpg",
       "collectedAt": "2026-11-19T12:00:34.280Z",
-      "titleKo": "마츠야마의 역설에 나오는 무한 초콜릿 이 짧은 글에서는 정사각형을 반복적으로 여러 개로 분해할 수 있는 분해 오류를 보여줍니다.",
+      "titleKo": "마츠야마의 역설에 나오는 무한 초콜릿 이 짧은 글에서는 정사각형을 반복적으로 분해할 수 있는 분해 오류를 보여줍니다.",
       "summaryKo": "5개 중 하나를 저장하고 나머지 4개를 사용하여…",
       "translator": "google"
     },
@@ -198,7 +198,7 @@
       "source": "Instagram @wolframresearch",
       "category": "인기",
       "publishedAt": "2026-11-11T15:00:00.000Z",
-      "likes": "122",
+      "likes": "123",
       "thumb": "/social/ig/DfprWa8mYxQ.jpg",
       "collectedAt": "2026-11-19T00:00:15.315Z",
       "titleKo": "이번주 특집 고등학생 프로젝트 🌟 이론적 최소 개수로 2큐비트 상태를 준비할 수 있다면 어떨까요?",
@@ -445,6 +445,22 @@
       "translator": "google"
     },
     {
+      "id": "ig-DgJ_Rr-F5Ae",
+      "kind": "news",
+      "lang": "en",
+      "title": "Take 12157692622039623539, raise each digit to its position (1¹, 2², 1³, 5⁴, …, 9²⁰), and add it all up.",
+      "summary": "You get 12157692622039623539 back",
+      "link": "https://www.instagram.com/fermatslibrary/p/DgJ_Rr-F5Ae/",
+      "source": "Instagram @fermatslibrary",
+      "category": "인기",
+      "publishedAt": "2026-11-23T15:00:00.000Z",
+      "likes": "281",
+      "thumb": "/social/ig/DgJ_Rr-F5Ae.jpg",
+      "titleKo": "12157692622039623539를 가져와 각 자릿수를 해당 위치(11, 2², 13, 5⁴, …, 9²⁰)로 올리고 모두 더합니다.",
+      "summaryKo": "12157692622039623539를 돌려받습니다.",
+      "translator": "google"
+    },
+    {
       "id": "ig-DgHSW1wF-Yv",
       "kind": "news",
       "lang": "en",
@@ -527,22 +543,6 @@
       "translator": "google"
     },
     {
-      "id": "ig-Df8bQZ6F1f0",
-      "kind": "news",
-      "lang": "en",
-      "title": "In the wake of the Moon landings, Princeton physics professor Gerard O’Neill asked his undergrads a question: how could we build colonies…",
-      "summary": "in space?",
-      "link": "https://www.instagram.com/fermatslibrary/p/Df8bQZ6F1f0/",
-      "source": "Instagram @fermatslibrary",
-      "category": "인기",
-      "publishedAt": "2026-11-18T15:00:00.000Z",
-      "likes": "229",
-      "thumb": "/social/ig/Df8bQZ6F1f0.jpg",
-      "titleKo": "달 착륙 이후, 프린스턴 물리학 교수인 제라드 오닐(Gerard O'Neill)은 학부생들에게 질문을 했습니다: 어떻게 식민지를 건설할 수 있습니까?",
-      "summaryKo": "우주에서?",
-      "translator": "google"
-    },
-    {
       "id": "ig-DgFgrRvvGk_",
       "kind": "video",
       "lang": "en",
@@ -587,7 +587,7 @@
       "likes": "423",
       "thumb": "/social/ig/Df4smX0uErJ.jpg",
       "collectedAt": "2026-11-19T12:00:34.280Z",
-      "titleKo": "마츠야마의 역설에 나오는 무한 초콜릿 이 짧은 글에서는 정사각형을 반복적으로 여러 개로 분해할 수 있는 분해 오류를 보여줍니다.",
+      "titleKo": "마츠야마의 역설에 나오는 무한 초콜릿 이 짧은 글에서는 정사각형을 반복적으로 분해할 수 있는 분해 오류를 보여줍니다.",
       "summaryKo": "5개 중 하나를 저장하고 나머지 4개를 사용하여…",
       "translator": "google"
     },
@@ -931,7 +931,7 @@
       "source": "Instagram @wolframresearch",
       "category": "인기",
       "publishedAt": "2026-11-11T15:00:00.000Z",
-      "likes": "122",
+      "likes": "123",
       "thumb": "/social/ig/DfprWa8mYxQ.jpg",
       "collectedAt": "2026-11-19T00:00:15.315Z",
       "titleKo": "이번주 특집 고등학생 프로젝트 🌟 이론적 최소 개수로 2큐비트 상태를 준비할 수 있다면 어떨까요?",
@@ -988,6 +988,23 @@
       "translator": "google"
     },
     {
+      "id": "ig-DgJVG-4KhEO",
+      "kind": "video",
+      "lang": "en",
+      "title": "The Riemann hypothesis was an open problem for more than 160 years.",
+      "summary": "With its resolution, mathematicians have gained deeper…",
+      "link": "https://www.instagram.com/quantamag/reel/DgJVG-4KhEO/",
+      "source": "Instagram @quantamag",
+      "category": "인기",
+      "publishedAt": "2026-11-23T15:00:00.000Z",
+      "likes": "1,915",
+      "thumb": "/social/ig/DgJVG-4KhEO.jpg",
+      "collectedAt": "2026-11-25T12:00:23.759Z",
+      "titleKo": "리만 가설은 160년 넘게 공개된 문제였습니다.",
+      "summaryKo": "그 결의안으로 수학자들은 더 깊은 지식을 얻었습니다…",
+      "translator": "google"
+    },
+    {
       "id": "ig-Df-fiuRFiUl",
       "kind": "news",
       "lang": "en",
@@ -997,7 +1014,7 @@
       "source": "Instagram @quantamag",
       "category": "문제·증명",
       "publishedAt": "2026-11-19T15:00:00.000Z",
-      "likes": "2,694",
+      "likes": "2,708",
       "thumb": "/social/ig/Df-fiuRFiUl.jpg",
       "collectedAt": "2026-11-21T01:00:05.641Z",
       "titleKo": "11월 20일 금요일 오전, 인공지능 회사 Anthropic의 수학자 Levent Alpöge는 다음과 같은 글을 올렸습니다.",
