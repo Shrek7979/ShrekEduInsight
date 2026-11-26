@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-11-25T12:18:23.394Z",
+  "updatedAt": "2026-11-26T00:14:32.356Z",
   "items": [
+    {
+      "id": "fb-f6c59c64c4ce",
+      "kind": "news",
+      "lang": "en",
+      "title": "How AI-powered solutions could make research infrastructures more sustainable",
+      "summary": "",
+      "link": "https://www.facebook.com/cern/posts/pfbid033Cn4b7bXqMCqjfiQxfYvgMjZbAnybanXBHHvFphJDgi6P8dmqjyNJGKjP66CAaDVl",
+      "source": "Facebook CERN",
+      "category": "인기",
+      "publishedAt": "2026-11-25T14:14:22.245Z",
+      "thumb": "/social/fb/fb-f6c59c64c4ce.jpg",
+      "refs": [],
+      "collectedAt": "2026-11-26T00:14:32.356Z",
+      "titleKo": "AI 기반 솔루션으로 연구 인프라를 더욱 지속 가능하게 만드는 방법",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-7f8c7b72dfa6",
       "kind": "news",
@@ -36,18 +53,18 @@
       "translator": "google"
     },
     {
-      "id": "fb-fb12efde0a89",
+      "id": "fb-c8cade02f46b",
       "kind": "news",
       "lang": "en",
       "title": "Congress has until Dec.",
       "summary": "11 to fund most federal agencies, and research grants…",
-      "link": "https://www.facebook.com/apsphysics/posts/pfbid03uqp2XY1vXWK7gXcuzSRf2uUey9ZUfMDcDtcGNYC4ednWY2DkUVwZS5u3uqkoGScl",
+      "link": "https://www.facebook.com/apsphysics/posts/pfbid027mHXDCTqn5rTEY6z6GLoqVnhKJBsD4DjVbpME24hFKMVb4c2dPsqNTEj8BFiZRZ4l",
       "source": "Facebook American Physical Society",
       "category": "인기",
-      "publishedAt": "2026-11-24T00:18:35.642Z",
-      "thumb": "/social/fb/fb-fb12efde0a89.jpg",
+      "publishedAt": "2026-11-24T00:14:11.964Z",
+      "thumb": "/social/fb/fb-c8cade02f46b.jpg",
       "refs": [],
-      "collectedAt": "2026-11-25T00:18:57.386Z",
+      "collectedAt": "2026-11-26T00:14:32.356Z",
       "titleKo": "의회는 12월까지",
       "summaryKo": "11 대부분의 연방 기관 및 연구 보조금에 자금을 지원합니다…",
       "translator": "google"
@@ -678,23 +695,6 @@
       "refs": [],
       "collectedAt": "2026-10-28T01:51:45.962Z",
       "titleKo": "벨기에 C에서 CERN의 첫 번째 혁신 허브 파일럿 개시",
-      "summaryKo": "",
-      "translator": "google"
-    },
-    {
-      "id": "fb-0e5f45d57eac",
-      "kind": "news",
-      "lang": "en",
-      "title": "A new study in Physical Review Letters measures the push from a single gas molecule.",
-      "summary": "",
-      "link": "https://www.facebook.com/apsphysics/posts/pfbid0NtZ5uV4hB9ogju5UxGxjEMs9DcQJv2p1jH3jfG3htnyhAdzdwpKGPoxqSxtBvBgUl",
-      "source": "Facebook American Physical Society",
-      "category": "인기",
-      "publishedAt": "2026-10-26T17:39:31.661Z",
-      "thumb": "/social/fb/fb-0e5f45d57eac.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-26T17:46:02.682Z",
-      "titleKo": "Physical Review Letters의 새로운 연구는 단일 가스 분자의 추진력을 측정합니다.",
       "summaryKo": "",
       "translator": "google"
     }

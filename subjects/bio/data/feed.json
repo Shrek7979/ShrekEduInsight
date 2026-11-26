@@ -1,6 +1,68 @@
 {
-  "updatedAt": "2026-11-26T00:08:57.452Z",
+  "updatedAt": "2026-11-26T00:12:10.172Z",
   "items": [
+    {
+      "id": "22d0739aeaaf",
+      "kind": "news",
+      "lang": "ko",
+      "title": "AI로 장내 미생물 골라 노화 억제 치료제 만든다",
+      "summary": "충북테크노파크 입주기업 비티시너지가 고려대의료원 등 국내외 연구진과 함께 인공지능으로 장내 미생물을…",
+      "detail": "충북테크노파크 입주기업 비티시너지가 고려대의료원 등 국내외 연구진과 함께 인공지능으로 장내 미생물을 선별해 노화 억제 치료제를 개발하는 국책과제에 착수했다. 배양이 까다로운 극혐기성 미생물 35종을 활용해 300리터급 대량생산 체계를 구축하고,…",
+      "link": "https://news.jkn.co.kr/post/1121439",
+      "source": "재경일보",
+      "image": "http://www.bing.com/th?id=ONUT.J5dIemfEfkHHadRB5g4glQ&pid=News",
+      "category": "의학·바이오",
+      "publishedAt": "2026-11-25T06:31:00.000Z",
+      "collectedAt": "2026-11-26T00:12:10.172Z",
+      "thumb": "/thumbs/22d0739aeaaf.jpg"
+    },
+    {
+      "id": "17a34673621e",
+      "kind": "news",
+      "lang": "ko",
+      "title": "경기도의회 심상록 의원, 사라진 미래형 과학교육 예산…경기교육의 균형 잃어선 안돼!",
+      "summary": "경기도의회 교육행정위원회 심상록 의원(더불어민주당, 광명1)은 20일과 23일, 양일에 걸쳐 진행한…",
+      "detail": "경기도의회 교육행정위원회 심상록 의원(더불어민주당, 광명1)은 20일과 23일, 양일에 걸쳐 진행한 2027년도 예산안 심사에서 학교 교육환경개선 및 과학교육 예산의 대폭 감액을 지적하며 교육 현장의 수요와 정책 간 균형을 고려한 예산 편성을…",
+      "link": "https://www.vision21.kr/news/article.html?no=644352",
+      "source": "비전21뉴스",
+      "image": "http://www.bing.com/th?id=ONUT.-hKoVIEPHPDHj8u3Ueaogg&pid=News",
+      "category": "교육",
+      "publishedAt": "2026-11-24T07:11:00.000Z",
+      "collectedAt": "2026-11-26T00:12:10.172Z",
+      "thumb": "/thumbs/17a34673621e.jpg"
+    },
+    {
+      "id": "9350907eeabc",
+      "kind": "video",
+      "lang": "ko",
+      "title": "(실제상황) 개미의 사회성을 없애버리면 어떻게 될까?",
+      "summary": "개미는 어떻게 복잡한 사회를 이루며 살아갈까요?",
+      "link": "https://www.youtube.com/watch?v=OBykZuL5VDQ",
+      "source": "수상한생선 Life Science",
+      "image": "https://i4.ytimg.com/vi/OBykZuL5VDQ/hqdefault.jpg",
+      "views": 615683,
+      "category": "인기",
+      "publishedAt": "2026-11-12T08:44:55.000Z",
+      "collectedAt": "2026-11-26T00:12:10.172Z",
+      "thumb": "/thumbs/9350907eeabc.jpg"
+    },
+    {
+      "id": "a6b394294ac8",
+      "kind": "video",
+      "lang": "ko",
+      "title": "등딱지를 버린 장수거북은 어떻게 극한의 파충류가 됐을까?",
+      "summary": "",
+      "detail": "",
+      "link": "https://www.youtube.com/watch?v=4PlRY-DUGZg",
+      "source": "과학드림",
+      "image": "https://i1.ytimg.com/vi/4PlRY-DUGZg/hqdefault.jpg",
+      "views": 501460,
+      "category": "인기",
+      "publishedAt": "2026-11-06T09:00:22.000Z",
+      "collectedAt": "2026-11-26T00:12:10.172Z",
+      "summaryKo": "",
+      "thumb": "/thumbs/a6b394294ac8.jpg"
+    },
     {
       "id": "bsky-3n36cuqmod22w",
       "kind": "news",
@@ -248,7 +310,7 @@
       "summaryKo": "전 세계의 염색체 규모 게놈 서열…",
       "translator": "google",
       "detailKo": "보리 속 Hordeum 전체의 염색체 규모 게놈 서열은 큰 구조적 변이, 고대 유전적 증거의 증거를 나타냅니다.",
-      "thumb": "/thumbs/f109361aa38e.jpg"
+      "thumb": "/thumbs/f109361aa38e.png"
     },
     {
       "id": "af1c3976707f",
@@ -687,7 +749,7 @@
       "summaryKo": "다양한 HIV 변종에 대한 강력한 면역 반응…",
       "translator": "google",
       "detailKo": "다양한 HIV 변종에 대한 강력한 면역 반응이 이 분야에 불을 붙였지만 여전히 큰 장애물이 남아 있습니다.",
-      "thumb": "/thumbs/587f8b987bfb.jpg"
+      "thumb": "/thumbs/587f8b987bfb.png"
     },
     {
       "id": "470274b787a3",
@@ -1190,7 +1252,7 @@
       "summaryKo": "대규모 사후 연구를 통해 후생적 변화가 확인되었습니다…",
       "translator": "google",
       "detailKo": "대규모 사후 연구에서 외상후 스트레스 장애와 관련된 뇌의 후생적 변화가 확인되었습니다.",
-      "thumb": "/thumbs/4a2d7f4f20a6.jpg"
+      "thumb": "/thumbs/4a2d7f4f20a6.png"
     },
     {
       "id": "b1a0ac8302b3",
@@ -1208,7 +1270,7 @@
       "summaryKo": "Anthropic과 OpenAI의 언어 모델은 다음을 설계할 수 있습니다",
       "translator": "google",
       "detailKo": "Anthropic 및 OpenAI의 언어 모델은 단백질을 설계하고 그 서열과 구조를 예측할 수 있습니다. 이전에는 이러한 기능만 볼 수 있었습니다.",
-      "thumb": "/thumbs/b1a0ac8302b3.jpg"
+      "thumb": "/thumbs/b1a0ac8302b3.png"
     },
     {
       "id": "759d73cc2a4e",
@@ -1669,7 +1731,7 @@
       "summaryKo": "자연 기자 James Dinneen이 첫 번째에 대해 반성합니다…",
       "translator": "google",
       "detailKo": "네이처(Nature) 기자 제임스 디닌(James Dinneen)은 2009년 이후 처음으로 무산된 국제 기후 정상회담에 대해 반성합니다.",
-      "thumb": "/thumbs/d893b5d9924c.jpg"
+      "thumb": "/thumbs/d893b5d9924c.png"
     },
     {
       "id": "4a44bd0fa350",
@@ -2344,72 +2406,6 @@
       "publishedAt": "2026-11-21T15:59:00.000Z",
       "collectedAt": "2026-11-23T02:00:19.593Z",
       "thumb": "/thumbs/154783ea4828.png"
-    },
-    {
-      "id": "1161fc406255",
-      "kind": "news",
-      "lang": "ko",
-      "title": "미생물 섬유로 사막 모래의 수분 보유력 높였다",
-      "summary": "물을 뿌려도 빠르게 말라버리는 사막의 모래를 미생물의 도움으로 물을 더 오래 유지하는 재료로 바꾸는…",
-      "detail": "물을 뿌려도 빠르게 말라버리는 사막의 모래를 미생물의 도움으로 물을 더 오래 유지하는 재료로 바꾸는 기술이 개발됐다. 박테리아가 생산하는 초미세 셀룰로오스 섬유를 모래 입자 사이에 형성하면 물이 빠져나가는 속도를 크게 낮추고 모래의 결합력도 높일 수…",
-      "link": "https://www.efn.co.kr/news/articleView.html?idxno=3298",
-      "source": "efn",
-      "image": "http://www.bing.com/th?id=ONUT.lC1WSDGsjW5j53_rf46nAA&pid=News",
-      "category": "교육",
-      "publishedAt": "2026-11-21T08:58:00.000Z",
-      "collectedAt": "2026-11-23T02:00:19.593Z",
-      "thumb": "/thumbs/1161fc406255.jpg"
-    },
-    {
-      "id": "2a27d11fad5a",
-      "kind": "video",
-      "lang": "ko",
-      "title": "간이수영장에 물을 넣고 방치한지 어느덧 6개월! 들어가서 뜰채질을 해봤는데...",
-      "summary": "",
-      "detail": "",
-      "link": "https://www.youtube.com/watch?v=G_1Q9EC4gzs",
-      "source": "TV생물도감",
-      "image": "https://i4.ytimg.com/vi/G_1Q9EC4gzs/hqdefault.jpg",
-      "views": 404996,
-      "category": "인기",
-      "publishedAt": "2026-11-21T02:00:19.000Z",
-      "collectedAt": "2026-11-23T02:00:19.593Z",
-      "summaryKo": "",
-      "thumb": "/thumbs/2a27d11fad5a.jpg"
-    },
-    {
-      "id": "5a22169007e9",
-      "kind": "news",
-      "lang": "en",
-      "title": "Can Network Science Transform Health and Nutrition?",
-      "summary": "Albert-László Barabási explains how the same organizing…",
-      "detail": "Albert-László Barabási explains how the same organizing principles shape everything from the internet to the cell, and how mapping the…",
-      "link": "https://www.quantamagazine.org/can-network-science-transform-health-and-nutrition-20261112/",
-      "source": "Quanta Magazine",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/JOW-S5-E12-cr.Chanelle-Nibbelink-Default-NO-LOGO.webp",
-      "category": "해외",
-      "publishedAt": "2026-11-12T19:40:54.000Z",
-      "collectedAt": "2026-11-22T13:10:20.335Z",
-      "titleKo": "네트워크 과학이 건강과 영양을 변화시킬 수 있습니까?",
-      "summaryKo": "Albert-László Barabási는 동일한 구성 방법을 설명합니다…",
-      "translator": "google",
-      "detailKo": "Albert-László Barabási는 동일한 구성 원칙이 어떻게 인터넷에서 셀에 이르기까지 모든 것을 형성하는지, 그리고…",
-      "thumb": "/thumbs/5a22169007e9.jpg"
-    },
-    {
-      "id": "5e2eb9288103",
-      "kind": "news",
-      "lang": "ko",
-      "title": "멸종위기 한라산 구상나무, 쇠퇴 원인 및 복원 해법 찾는다",
-      "summary": "기후 온난화로 인해 한라산 해발 1400m 이상 고산지대에 자생하는 구상나무들이 급격히 말라…",
-      "detail": "기후 온난화로 인해 한라산 해발 1400m 이상 고산지대에 자생하는 구상나무들이 급격히 말라 죽어가고 있다. 2012년 세계자연보전연맹(IUCN)은 한라산 구상나무가 기후 변화에 따른 분포면적이 급속히 감소하고 있다며 ‘멸종위기종’으로…",
-      "link": "https://www.newsjeju.net/news/articleView.html?idxno=428777",
-      "source": "뉴스제주",
-      "image": "http://www.bing.com/th?id=ONUT.XUiWGar-GoF_gtVlbvZPAA&pid=News",
-      "category": "생태·환경",
-      "publishedAt": "2026-11-22T04:28:00.000Z",
-      "collectedAt": "2026-11-22T13:07:40.857Z",
-      "thumb": "/thumbs/5e2eb9288103.jpg"
     }
   ]
 }

@@ -1,6 +1,54 @@
 {
-  "updatedAt": "2026-11-26T00:08:57.452Z",
+  "updatedAt": "2026-11-26T00:12:10.129Z",
   "items": [
+    {
+      "id": "460f09f70c26",
+      "kind": "news",
+      "lang": "ko",
+      "title": "경기도 양자산업에 올해 30억 원…도민 무료 실습, 기업엔 공공 장비 지원",
+      "summary": "경기도가 올해 양자산업 관련 기업 지원과 인재 양성에 30억 원을 투입한다",
+      "detail": "경기도가 올해 양자산업 관련 기업 지원과 인재 양성에 30억 원을 투입한다. 도내 중소·중견기업과 대학 연구자는 공공 연구시설의 장비 이용료를 지원받을 수 있다. 기초 프로그래밍 역량을 갖춘 도민과 도내 기업 재직자에게는 양자컴퓨팅과 양자통신을…",
+      "link": "https://localsegye.co.kr/news/view/1065609529291358",
+      "source": "로컬(LOCAL)세계",
+      "image": "http://www.bing.com/th?id=ONUT.gpqGXTZmxCYlBj-q5vSIDw&pid=News",
+      "category": "양자·첨단",
+      "publishedAt": "2026-11-25T11:45:00.000Z",
+      "collectedAt": "2026-11-26T00:12:10.129Z",
+      "thumb": "/thumbs/460f09f70c26.jpg"
+    },
+    {
+      "id": "f25e430e7c93",
+      "kind": "news",
+      "lang": "ko",
+      "title": "경기도, 양자·반도체 융합산업 육성 본격화...기술개발·투자·인재양성 연계",
+      "summary": "경기도(지사 추미애)가 국내외 양자기술 관련 기업과 대학, 연구기관 등 산업계 관계자들과 양자산업의…",
+      "detail": "경기도(지사 추미애)가 국내외 양자기술 관련 기업과 대학, 연구기관 등 산업계 관계자들과 양자산업의 미래 발전 전략을 논의하고, 지역의 반도체·첨단산업 기반을 활용한 기술개발과 사업화 지원, 산업 실무형 인재 양성 및 글로벌 협력체계 구축에 나섰다.…",
+      "link": "https://www.ajunews.com/view/20261125173431253",
+      "source": "아주경제",
+      "image": "http://www.bing.com/th?id=ONUT.Zu9_X6-l6c-LhihcbvJtLg&pid=News",
+      "category": "양자·첨단",
+      "publishedAt": "2026-11-25T09:37:00.000Z",
+      "collectedAt": "2026-11-26T00:12:10.129Z",
+      "thumb": "/thumbs/f25e430e7c93.jpg"
+    },
+    {
+      "id": "bsky-3n2ozbblefz2y",
+      "kind": "news",
+      "lang": "en",
+      "title": "Physics has no borders.",
+      "summary": "🌍 Connect with a global community of physicists…",
+      "link": "https://bsky.app/profile/apsphysics.aps.org/post/3n2ozbblefz2y",
+      "source": "Bluesky APS Physics",
+      "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:heemoqq7cssrx5ixyxwd52y6/bafkreifpym5ewqx26nhera4ehux52nh33odzxpzpiqrsnqw3dgpyzmpudy",
+      "likes": "1",
+      "category": "인기",
+      "publishedAt": "2026-11-19T21:28:20.068Z",
+      "collectedAt": "2026-11-26T00:12:10.129Z",
+      "titleKo": "물리학에는 국경이 없습니다.",
+      "summaryKo": "🌍 전 세계 물리학자 커뮤니티와 연결…",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3n2ozbblefz2y.webp"
+    },
     {
       "id": "bsky-3n35xbl5sby2i",
       "kind": "news",
@@ -1805,7 +1853,7 @@
       "category": "양자·첨단",
       "publishedAt": "2026-11-21T19:54:00.000Z",
       "collectedAt": "2026-11-22T13:10:20.334Z",
-      "thumb": "/thumbs/7a14f92a2b7f.png"
+      "thumb": "/thumbs/7a14f92a2b7f.jpg"
     },
     {
       "id": "b31adbec3d58",
@@ -2446,57 +2494,6 @@
       "summaryKo": "Physical Review Letters 연구에 따르면 그들은 떠날 것입니다…",
       "translator": "google",
       "thumb": "/thumbs/bsky-3n26xbgmwgk2y.png"
-    },
-    {
-      "id": "3d89aae54e53",
-      "kind": "video",
-      "lang": "en",
-      "title": "Why you can't trust a test that's 99% accurate",
-      "summary": "What does it mean to get a positive result on a medical…",
-      "link": "https://www.youtube.com/shorts/2QSkkhbl3v4",
-      "source": "Veritasium",
-      "image": "https://i3.ytimg.com/vi/2QSkkhbl3v4/hqdefault.jpg",
-      "views": 1710522,
-      "category": "인기",
-      "publishedAt": "2026-11-11T14:00:12.000Z",
-      "collectedAt": "2026-11-20T01:16:32.031Z",
-      "titleKo": "99% 정확한 테스트를 신뢰할 수 없는 이유",
-      "summaryKo": "의료에서 긍정적인 결과를 얻는다는 것은 무엇을 의미합니까?",
-      "translator": "google",
-      "thumb": "/thumbs/3d89aae54e53.jpg"
-    },
-    {
-      "id": "0b81876bbc2e",
-      "kind": "video",
-      "lang": "en",
-      "title": "I finally saw quantum physics with my own eyes... (It's spookier than I expected)",
-      "summary": "",
-      "detail": "",
-      "link": "https://www.youtube.com/watch?v=KfODG5REyss",
-      "source": "Veritasium",
-      "image": "https://i4.ytimg.com/vi/KfODG5REyss/hqdefault.jpg",
-      "views": 20777840,
-      "category": "인기",
-      "publishedAt": "2026-11-04T15:52:59.000Z",
-      "collectedAt": "2026-11-20T01:16:32.031Z",
-      "titleKo": "드디어 양자물리학을 내 눈으로 봤다... (생각보다 으스스하다)",
-      "summaryKo": "",
-      "translator": "google",
-      "thumb": "/thumbs/0b81876bbc2e.jpg"
-    },
-    {
-      "id": "64ad5403f7c5",
-      "kind": "news",
-      "lang": "ko",
-      "title": "[2027수능] 전자기기 부정행위 98명 적발.. 스마트안경, 문제지 촬영까지",
-      "summary": "2027수능에서 전자기기 관련 부정행위자가 98명 적발됐다",
-      "detail": "2027수능에서 전자기기 관련 부정행위자가 98명 적발됐다. 교육부가 19일 오후4시37분 4교시 종료 기준으로 집계한 수치다. 위급재난문자로 적발한 인원이 49명, 전자기기를 소지한 인원이 44명이다. 시험 도중 실제로 사용한 사실이 확인된 것은…",
-      "link": "https://www.veritas-a.com/news/articleView.html?idxno=638241",
-      "source": "베리타스알파",
-      "category": "입시",
-      "publishedAt": "2026-11-20T00:13:00.000Z",
-      "collectedAt": "2026-11-20T01:08:42.990Z",
-      "thumb": "/thumbs/64ad5403f7c5.jpg"
     }
   ]
 }

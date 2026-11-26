@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-11-25T12:18:31.540Z",
+  "updatedAt": "2026-11-26T00:14:49.582Z",
   "items": [
+    {
+      "id": "fb-f4bdfc728160",
+      "kind": "news",
+      "lang": "en",
+      "title": "We're coming to New Orleans!",
+      "summary": "Experience groundbreaking science alongside the food,…",
+      "link": "https://www.facebook.com/AmericanChemicalSociety/posts/pfbid0vcDU6PfBBvVcnGD1nhPFEsExXs8MWbHtxk2nXUPKprRYac83WzCkJC9UbyVnRtjul",
+      "source": "Facebook American Chemical Society",
+      "category": "인기",
+      "publishedAt": "2026-11-25T00:14:09.185Z",
+      "thumb": "/social/fb/fb-f4bdfc728160.jpg",
+      "refs": [],
+      "collectedAt": "2026-11-26T00:14:49.582Z",
+      "titleKo": "우리는 뉴올리언스에 오고 있어요!",
+      "summaryKo": "음식과 함께 획기적인 과학을 경험해보세요.",
+      "translator": "google"
+    },
     {
       "id": "fb-9a8d4a6f2172",
       "kind": "news",

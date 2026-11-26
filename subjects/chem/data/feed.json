@@ -1,6 +1,53 @@
 {
-  "updatedAt": "2026-11-26T00:08:57.452Z",
+  "updatedAt": "2026-11-26T00:12:10.125Z",
   "items": [
+    {
+      "id": "93f5015251a0",
+      "kind": "news",
+      "lang": "ko",
+      "title": "호기심이 실험이 되는 공간, 과학탐구관이 새롭게 문을 엽니다!",
+      "summary": "- 11월 24일 개관… 직접 실험하며 배우는 7개 주제, 전시물 79점 -- 한국전력과 협력해…",
+      "detail": "- 11월 24일 개관… 직접 실험하며 배우는 7개 주제, 전시물 79점 -- 한국전력과 협력해 전자파 등 생활 속 과학과 사회적 현안을 탐구하는 공간 조성 -국립과천과학관(관장 이충원)은 관람객이 직접 실험하며 일상 속 과학 원리를 발견할 수…",
+      "link": "https://www.ksw-news.com/news/articleView.html?idxno=3066941",
+      "source": "한국사회복지저널",
+      "category": "교육",
+      "publishedAt": "2026-11-25T11:30:00.000Z",
+      "collectedAt": "2026-11-26T00:12:10.125Z",
+      "thumb": "/thumbs/93f5015251a0.png"
+    },
+    {
+      "id": "17a34673621e",
+      "kind": "news",
+      "lang": "ko",
+      "title": "경기도의회 심상록 의원, 사라진 미래형 과학교육 예산…경기교육의 균형 잃어선 안돼!",
+      "summary": "경기도의회 교육행정위원회 심상록 의원(더불어민주당, 광명1)은 20일과 23일, 양일에 걸쳐 진행한…",
+      "detail": "경기도의회 교육행정위원회 심상록 의원(더불어민주당, 광명1)은 20일과 23일, 양일에 걸쳐 진행한 2027년도 예산안 심사에서 학교 교육환경개선 및 과학교육 예산의 대폭 감액을 지적하며 교육 현장의 수요와 정책 간 균형을 고려한 예산 편성을…",
+      "link": "https://www.vision21.kr/news/article.html?no=644352",
+      "source": "비전21뉴스",
+      "image": "http://www.bing.com/th?id=ONUT.-hKoVIEPHPDHj8u3Ueaogg&pid=News",
+      "category": "교육",
+      "publishedAt": "2026-11-24T07:11:00.000Z",
+      "collectedAt": "2026-11-26T00:12:10.125Z",
+      "thumb": "/thumbs/17a34673621e.jpg"
+    },
+    {
+      "id": "b58499e40c51",
+      "kind": "news",
+      "lang": "en",
+      "title": "Why hydrogen flames can glow orange, then turn nearly invisible",
+      "summary": "Hydrogen flames can shift from bright orange to nearly…",
+      "detail": "Hydrogen flames can shift from bright orange to nearly invisible depending on something unexpected: tiny amounts of sodium floating in the…",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261118065509.htm",
+      "source": "ScienceDaily",
+      "category": "해외",
+      "publishedAt": "2026-11-19T10:10:24.000Z",
+      "collectedAt": "2026-11-26T00:12:10.125Z",
+      "titleKo": "수소 불꽃이 주황색으로 빛나다가 거의 보이지 않게 변하는 이유",
+      "summaryKo": "수소 불꽃은 밝은 주황색에서 거의…",
+      "translator": "google",
+      "detailKo": "수소 화염은 예상치 못한 상황에 따라 밝은 주황색에서 거의 보이지 않는 상태로 바뀔 수 있습니다. 즉, 물 속에 떠다니는 소량의 나트륨…",
+      "thumb": "/thumbs/b58499e40c51.webp"
+    },
     {
       "id": "31b52af96eef",
       "kind": "news",
@@ -2009,7 +2056,7 @@
       "summaryKo": "생분해성 나노입자는 리그닌과 스테아린산을 결합한…",
       "translator": "google",
       "detailKo": "생분해성 나노입자는 리그닌과 스테아르산을 결합하여 소수성 마감 처리를 합니다.",
-      "thumb": "/thumbs/8b75b178f7c6.webp"
+      "thumb": "/thumbs/8b75b178f7c6.jpg"
     },
     {
       "id": "bsky-3n2quagcukp2y",
@@ -2473,51 +2520,6 @@
       "translator": "google",
       "detail": "",
       "thumb": "/thumbs/bsky-3n2o7exd3622z.jpg"
-    },
-    {
-      "id": "36143df26dfc",
-      "kind": "news",
-      "lang": "ko",
-      "title": "도이초, 미래형 과학실 구축으로 디지털과 융합한 과학교육 환경 개선",
-      "summary": "이번 미래형 과학실 구축은 변화하는 교육 환경에 발맞춰 학생 중심의 탐구·실험 활동을 활성화하고,…",
-      "detail": "이번 미래형 과학실 구축은 변화하는 교육 환경에 발맞춰 학생 중심의 탐구·실험 활동을 활성화하고, 디지털 기술을 활용한 미래형 과학교육 환경을 조성하기 위해 추진했다. 특히 노후화된 과학실 환경을 개선하고 교육 기자재를 새롭게 교체하여 학생들이 보다…",
-      "link": "https://www.hsj.co.kr/news/articleView.html?idxno=57421",
-      "source": "화성저널",
-      "image": "http://www.bing.com/th?id=ONUT.h4x_Vc7bbpiTWcy1FPrB3g&pid=News",
-      "category": "교육",
-      "publishedAt": "2026-11-19T10:38:00.000Z",
-      "collectedAt": "2026-11-20T01:08:42.990Z",
-      "thumb": "/thumbs/36143df26dfc.jpg"
-    },
-    {
-      "id": "4095e3791ac3",
-      "kind": "news",
-      "lang": "ko",
-      "title": "[2027수능] 4교시 과탐 영역 어떻게 출제됐을까",
-      "summary": "2027수능(2026년 수능) 과학탐구 영역은 어떻게 출제됐을까",
-      "detail": "2027수능(2026년 수능) 과학탐구 영역은 어떻게 출제됐을까. 출제본부는 과학계 학문적 동향을 반영해 다양한 학문적 소재를 활용함과 동시에 실생활과 관련된 내용과 실험 상황 등을 활용했다고 발표했다. 출제범위는 선택과목인 ‘물리학Ⅰ’,…",
-      "link": "https://www.veritas-a.com/news/articleView.html?idxno=638223",
-      "source": "베리타스알파",
-      "image": "http://www.bing.com/th?id=ONUT.ku9J3fM8ugaQPUcTy8sbyA&pid=News",
-      "category": "입시",
-      "publishedAt": "2026-11-19T10:31:00.000Z",
-      "collectedAt": "2026-11-20T01:08:42.990Z",
-      "thumb": "/thumbs/4095e3791ac3.jpg"
-    },
-    {
-      "id": "9a3fe9cbc7e4",
-      "kind": "news",
-      "lang": "ko",
-      "title": "박인 “양산과학고 설립, 실행계획 마련해야”",
-      "summary": "경남과학고의 영재학교 전환이 추진되는 가운데, 동부경남 학생들의 진학 기회를 넓히기 위해 양산과학고…",
-      "detail": "경남과학고의 영재학교 전환이 추진되는 가운데, 동부경남 학생들의 진학 기회를 넓히기 위해 양산과학고 설립 계획을 구체화해야 한다는 목소리가 경남도의회에서 다시 나왔다.박인 경남도의원(국힘, 서창·소주)은 18일 제438회 정례회 제2차 본회의 5분…",
-      "link": "https://www.yangsanilbo.com/news/articleView.html?idxno=128878",
-      "source": "양산신문",
-      "image": "http://www.bing.com/th?id=ONUT.e8-Jwcy_vMC4BfzNBmQi9Q&pid=News",
-      "category": "교육",
-      "publishedAt": "2026-11-19T09:51:00.000Z",
-      "collectedAt": "2026-11-20T01:08:42.990Z",
-      "thumb": "/thumbs/9a3fe9cbc7e4.jpg"
     }
   ]
 }
