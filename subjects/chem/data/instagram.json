@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T00:05:34.030Z",
+  "updatedAt": "2026-11-26T00:05:27.896Z",
   "items": [
     {
       "id": "ig-Dej6hPNCF3V",
@@ -16,23 +16,6 @@
       "collectedAt": "2026-11-19T00:05:02.328Z",
       "titleKo": "정부가 나에게 무엇을 보냈나요?",
       "summaryKo": "",
-      "translator": "google"
-    },
-    {
-      "id": "ig-DfqCBGjAcTd",
-      "kind": "video",
-      "lang": "en",
-      "title": "Every experiment starts with a new pair of gloves and ends with them in the trash.",
-      "summary": "Gloves keep up safe, but they add up fast",
-      "link": "https://www.instagram.com/neuro_melody/reel/DfqCBGjAcTd/",
-      "source": "Instagram @amerchemsociety",
-      "category": "인기",
-      "publishedAt": "2026-11-11T15:00:00.000Z",
-      "likes": "12K",
-      "thumb": "/social/ig/DfqCBGjAcTd.jpg",
-      "collectedAt": "2026-11-19T00:05:02.328Z",
-      "titleKo": "모든 실험은 새 장갑으로 시작하여 쓰레기통에 버리는 것으로 끝납니다.",
-      "summaryKo": "장갑은 안전하게 유지되지만 빨리 쌓입니다.",
       "translator": "google"
     },
     {
@@ -65,7 +48,7 @@
       "likes": "11K",
       "thumb": "/social/ig/Dej8ZW7JR5S.jpg",
       "collectedAt": "2026-11-19T01:00:20.492Z",
-      "titleKo": "이것은 일반적으로 향신료 판매점에서 찾을 수 있는 호로파 씨앗입니다. 하지만 이번 영상에서는 호로파 씨앗을 사용하여 물을 만들 수 있다는 것을 보여 드리겠습니다.",
+      "titleKo": "이것은 일반적으로 향신료 코너에서 찾을 수 있는 호로파 씨앗입니다. 하지만 이번 영상에서는 호로파 씨앗을 사용하여 물을 만들 수 있다는 것을 보여 드리겠습니다…",
       "summaryKo": "응집제 청소!",
       "translator": "google"
     },
@@ -195,15 +178,32 @@
       "title": "I’m not convinced anyone really knows the answer here.",
       "summary": "All the existing explanations make sense,…",
       "link": "https://www.instagram.com/acsreactions/reel/DgIQ1zFxWJN/",
-      "source": "Instagram @amerchemsociety",
+      "source": "Instagram @acsreactions",
       "category": "인기",
       "publishedAt": "2026-11-23T15:00:00.000Z",
       "likes": "355",
       "thumb": "/social/ig/DgIQ1zFxWJN.jpg",
-      "collectedAt": "2026-11-25T00:05:34.030Z",
       "titleKo": "나는 여기에 대한 답을 실제로 아는 사람이 있다고 확신하지 않습니다.",
       "summaryKo": "기존의 모든 설명이 의미가 있습니다.",
-      "translator": "google"
+      "translator": "google",
+      "collectedAt": "2026-11-25T00:05:34.030Z"
+    },
+    {
+      "id": "ig-Df7mGPXApRx",
+      "kind": "video",
+      "lang": "en",
+      "title": "Tiny, but mighty.",
+      "summary": "Tiny sea-spray droplets may be doing more than we…",
+      "link": "https://www.instagram.com/amerchemsociety/reel/Df7mGPXApRx/",
+      "source": "Instagram @amerchemsociety",
+      "category": "인기",
+      "publishedAt": "2026-11-18T15:00:00.000Z",
+      "likes": "79",
+      "thumb": "/social/ig/Df7mGPXApRx.jpg",
+      "titleKo": "작지만 강력합니다.",
+      "summaryKo": "작은 바다 물보라 방울이 우리보다 더 많은 일을 하고 있을지도 모릅니다…",
+      "translator": "google",
+      "collectedAt": "2026-11-26T00:05:27.896Z"
     },
     {
       "id": "ig-Df6l1Sel3NJ",
@@ -276,6 +276,21 @@
       "collectedAt": "2026-11-19T00:05:02.328Z"
     },
     {
+      "id": "ig-DgKeJ6chR7f",
+      "kind": "video",
+      "lang": "en",
+      "title": "🌋 Could a “pile of dirt” at Pompeii hold the secret to the durability of Roman concrete?!",
+      "summary": "Safe to say, this is now our Roman Empire",
+      "link": "https://www.instagram.com/acspodcasts/reel/DgKeJ6chR7f/",
+      "source": "Instagram @amerchemsociety",
+      "category": "인기",
+      "publishedAt": "2026-11-24T15:00:00.000Z",
+      "thumb": "/social/ig/DgKeJ6chR7f.jpg",
+      "titleKo": "🌋 폼페이의 '흙더미'가 로마 콘크리트의 내구성 비결을 담고 있을까요?!",
+      "summaryKo": "이제 이곳은 우리의 로마제국이라고 해도 과언이 아닙니다.",
+      "translator": "google"
+    },
+    {
       "id": "ig-DgIqSS0HTAg",
       "kind": "news",
       "lang": "en",
@@ -298,15 +313,15 @@
       "title": "I’m not convinced anyone really knows the answer here.",
       "summary": "All the existing explanations make sense,…",
       "link": "https://www.instagram.com/acsreactions/reel/DgIQ1zFxWJN/",
-      "source": "Instagram @amerchemsociety",
+      "source": "Instagram @acsreactions",
       "category": "인기",
       "publishedAt": "2026-11-23T15:00:00.000Z",
       "likes": "355",
       "thumb": "/social/ig/DgIQ1zFxWJN.jpg",
-      "collectedAt": "2026-11-25T00:05:34.030Z",
       "titleKo": "나는 여기에 대한 답을 실제로 아는 사람이 있다고 확신하지 않습니다.",
       "summaryKo": "기존의 모든 설명이 의미가 있습니다.",
-      "translator": "google"
+      "translator": "google",
+      "collectedAt": "2026-11-25T00:05:34.030Z"
     },
     {
       "id": "ig-Df9734CCrmv",
@@ -338,7 +353,8 @@
       "thumb": "/social/ig/Df7mGPXApRx.jpg",
       "titleKo": "작지만 강력합니다.",
       "summaryKo": "작은 바다 물보라 방울이 우리보다 더 많은 일을 하고 있을지도 모릅니다…",
-      "translator": "google"
+      "translator": "google",
+      "collectedAt": "2026-11-26T00:05:27.896Z"
     },
     {
       "id": "ig-Df4xwcADHw-",
@@ -387,23 +403,6 @@
       "thumb": "/social/ig/Dfz2oTEI01X.jpg",
       "titleKo": "스토리텔링.",
       "summaryKo": "청취",
-      "translator": "google"
-    },
-    {
-      "id": "ig-DfqCBGjAcTd",
-      "kind": "video",
-      "lang": "en",
-      "title": "Every experiment starts with a new pair of gloves and ends with them in the trash.",
-      "summary": "Gloves keep up safe, but they add up fast",
-      "link": "https://www.instagram.com/neuro_melody/reel/DfqCBGjAcTd/",
-      "source": "Instagram @amerchemsociety",
-      "category": "인기",
-      "publishedAt": "2026-11-11T15:00:00.000Z",
-      "likes": "12K",
-      "thumb": "/social/ig/DfqCBGjAcTd.jpg",
-      "collectedAt": "2026-11-19T00:05:02.328Z",
-      "titleKo": "모든 실험은 새 장갑으로 시작하여 쓰레기통에 버리는 것으로 끝납니다.",
-      "summaryKo": "장갑은 안전하게 유지되지만 빨리 쌓입니다.",
       "translator": "google"
     },
     {
@@ -553,7 +552,8 @@
       "thumb": "/social/ig/DgIQ1zFxWJN.jpg",
       "titleKo": "나는 여기에 대한 답을 실제로 아는 사람이 있다고 확신하지 않습니다.",
       "summaryKo": "기존의 모든 설명이 의미가 있습니다.",
-      "translator": "google"
+      "translator": "google",
+      "collectedAt": "2026-11-25T00:05:34.030Z"
     },
     {
       "id": "ig-DfSGCC4zE_g",
@@ -619,7 +619,7 @@
       "likes": "11K",
       "thumb": "/social/ig/Dej8ZW7JR5S.jpg",
       "collectedAt": "2026-11-19T01:00:20.492Z",
-      "titleKo": "이것은 일반적으로 향신료 판매점에서 찾을 수 있는 호로파 씨앗입니다. 하지만 이번 영상에서는 호로파 씨앗을 사용하여 물을 만들 수 있다는 것을 보여 드리겠습니다.",
+      "titleKo": "이것은 일반적으로 향신료 코너에서 찾을 수 있는 호로파 씨앗입니다. 하지만 이번 영상에서는 호로파 씨앗을 사용하여 물을 만들 수 있다는 것을 보여 드리겠습니다…",
       "summaryKo": "응집제 청소!",
       "translator": "google"
     }
