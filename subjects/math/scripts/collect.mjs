@@ -65,6 +65,17 @@ function categorize(item) {
   return hit ? hit[0] : '교육'
 }
 
+// 낱말로 자동 분류된 국내 기사인지 (출처에서 칩을 정해 준 '학회·기관' 등은 아님)
+const AUTO_CATEGORIES = new Set(['교육', ...KO_CATEGORIES.map(([name]) => name)])
+const isAutoKoNews = (item) => item.lang === 'ko' && item.kind === 'news' && AUTO_CATEGORIES.has(item.category)
+
+// 분류 기준이나 수학 기사 기준(sources.mjs)을 바꾸면 예전 카드에도 바로 반영
+function refreshKoNews(item) {
+  if (!isAutoKoNews(item)) return item
+  return { ...item, category: categorize({ ...item, category: undefined }) }
+}
+const isMathKoNews = (item) => !isAutoKoNews(item) || (KO_REQUIRE.test(item.title) && !KO_EXCLUDE.test(item.title))
+
 function parseEntry($, el, source) {
   const $el = $(el)
   const text = (selector) => clean($el.children(selector).first().text())
@@ -155,7 +166,7 @@ async function collectYoutubeTop(source, now) {
     }))
 }
 
-async function collectSource(source, now) {
+export async function collectSource(source, now) {
   if (source.type === 'youtube-top') return collectYoutubeTop(source, now)
   const res = await fetch(source.url, {
     headers: { 'User-Agent': UA },
@@ -236,6 +247,8 @@ export async function collect() {
     .filter((item) => now - new Date(item.collectedAt) <= KEEP_DAYS * DAY)
     .filter((item) => !/^Reddit/.test(item.source || '')) // 레딧은 더 이상 싣지 않음
     .filter((item) => !isUnwanted(item)) // 광고·홍보성 글과 개인 소식 (예전 카드도 함께 정리, src/lib/content-filter.mjs)
+    .filter(isMathKoNews) // 국내 기사는 지금의 수학 기사 기준에 맞는 것만 (수능만 있는 기사 등은 예전 카드도 정리)
+    .map(refreshKoNews) // 국내 기사의 칩(수업·입시·…)을 지금 기준으로 다시 매김
     .map(stripPromo) // 설명의 굿즈·멤버십·세일 같은 홍보 문구는 지움
     .filter((item) => !(item.kind === 'video' && !item.views)) // 영상은 조회수 상위로 뽑은 것만 싣기로 함
     .filter((item) => {

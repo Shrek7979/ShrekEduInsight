@@ -43,22 +43,41 @@ const bing = (q) =>
 const youtube = (channelId) =>
   `https://www.youtube.com/feeds/videos.xml?channel_id=${channelId}`
 
+// 수업 기사 검색에서 제목에 '수학'과 함께 이런 말이 있어야 통과 (수업 현장 이야기만 남기려고)
+const CLASS_WORDS = /수업|교실|교사|선생|교과서|교육과정|탐구|프로젝트|학습|체험|교구|수행평가|수학과|배움|활동|교수법/
+
 export const SOURCES = [
-  // 국내 뉴스 (빙 뉴스 검색: 기사 원문 링크 + 섬네일 제공. 구글 뉴스는 원문 링크를 숨겨 섬네일을 못 얻으므로 제외)
-  { type: 'bing', lang: 'ko', url: bing('수학'), limit: 8, maxAgeDays: 3 },
-  { type: 'bing', lang: 'ko', url: bing('수학 교육'), limit: 8, maxAgeDays: 3 },
-  { type: 'bing', lang: 'ko', url: bing('수학 교사'), limit: 6, maxAgeDays: 3 },
-  { type: 'bing', lang: 'ko', url: bing('수학 수업'), limit: 6, maxAgeDays: 3 },
-  { type: 'bing', lang: 'ko', url: bing('수능 수학'), limit: 6, maxAgeDays: 3 },
-  { type: 'bing', lang: 'ko', url: bing('수학자'), limit: 5, maxAgeDays: 3 },
-  { type: 'bing', lang: 'ko', url: bing('수학 올림피아드'), limit: 4, maxAgeDays: 3 },
-  { type: 'bing', lang: 'ko', url: bing('수학 AI'), limit: 5, maxAgeDays: 3 },
+  // 수업 현장 기사 (2026-11-26: 수업 이야기가 더 많이 나오도록 비중을 늘림)
+  // 수업 기사는 하루에 몇 건 안 나와서 일반 기사보다 기간(maxAgeDays)을 길게 잡음
+  { type: 'bing', lang: 'ko', url: bing('수학 수업'), limit: 8, maxAgeDays: 7 },
+  { type: 'bing', lang: 'ko', url: bing('수학 교사'), limit: 6, maxAgeDays: 7, requireTitle: CLASS_WORDS },
+  { type: 'bing', lang: 'ko', url: bing('수학 선생님'), limit: 4, maxAgeDays: 7, requireTitle: CLASS_WORDS },
+  { type: 'bing', lang: 'ko', url: bing('수학 수업 사례'), limit: 5, maxAgeDays: 7, requireTitle: CLASS_WORDS },
+  { type: 'bing', lang: 'ko', url: bing('수학 교실'), limit: 5, maxAgeDays: 7, requireTitle: CLASS_WORDS },
+  { type: 'bing', lang: 'ko', url: bing('수학 탐구 수업'), limit: 4, maxAgeDays: 7, requireTitle: CLASS_WORDS },
+  { type: 'bing', lang: 'ko', url: bing('수학 프로젝트 수업'), limit: 4, maxAgeDays: 7, requireTitle: CLASS_WORDS },
+  { type: 'bing', lang: 'ko', url: bing('수학 체험 수업'), limit: 4, maxAgeDays: 7, requireTitle: CLASS_WORDS },
+  { type: 'bing', lang: 'ko', url: bing('AI 수학 수업'), limit: 4, maxAgeDays: 7, requireTitle: CLASS_WORDS },
+  { type: 'bing', lang: 'ko', url: bing('수학 교과서'), limit: 3, maxAgeDays: 7, requireTitle: CLASS_WORDS },
+  { type: 'bing', lang: 'ko', url: bing('수학 교육과정'), limit: 3, maxAgeDays: 7, requireTitle: CLASS_WORDS },
+
+  // 국내 일반 뉴스 (빙 뉴스 검색: 기사 원문 링크 + 섬네일 제공. 구글 뉴스는 원문 링크를 숨겨 섬네일을 못 얻으므로 제외)
+  // 수업 기사 비중을 늘리면서 입시·일반 기사는 건수를 줄임
+  { type: 'bing', lang: 'ko', url: bing('수학 교육'), limit: 6, maxAgeDays: 3 },
+  { type: 'bing', lang: 'ko', url: bing('수학'), limit: 4, maxAgeDays: 3 },
+  { type: 'bing', lang: 'ko', url: bing('수능 수학'), limit: 3, maxAgeDays: 3 },
+  { type: 'bing', lang: 'ko', url: bing('수학자'), limit: 3, maxAgeDays: 3 },
+  { type: 'bing', lang: 'ko', url: bing('수학 올림피아드'), limit: 3, maxAgeDays: 3 },
+  { type: 'bing', lang: 'ko', url: bing('수학 AI'), limit: 3, maxAgeDays: 3 },
 
   // 교육 전문지 전체 기사 피드 (제목에 '수학' 등이 들어간 기사만 통과)
   { type: 'rss', lang: 'ko', name: '에듀프레스', url: 'https://www.edupress.kr/rss/allArticle.xml', limit: 4, maxAgeDays: 5 },
-  { type: 'rss', lang: 'ko', name: '베리타스알파', url: 'https://www.veritas-a.com/rss/allArticle.xml', limit: 3, maxAgeDays: 5 },
+  { type: 'rss', lang: 'ko', name: '한국교육신문', url: 'https://www.hangyo.com/data/rss/news.xml', limit: 3, maxAgeDays: 5 },
+  { type: 'rss', lang: 'ko', name: '교육플러스', url: 'https://www.edpl.co.kr/rss/allArticle.xml', limit: 3, maxAgeDays: 5 },
+  { type: 'rss', lang: 'ko', name: '에듀진', url: 'https://www.edujin.co.kr/rss/allArticle.xml', limit: 3, maxAgeDays: 5 },
+  { type: 'rss', lang: 'ko', name: '베리타스알파', url: 'https://www.veritas-a.com/rss/allArticle.xml', limit: 2, maxAgeDays: 5 },
   { type: 'rss', lang: 'ko', name: '에듀인뉴스', url: 'https://www.eduinnews.co.kr/rss/allArticle.xml', limit: 3, maxAgeDays: 5 },
-  { type: 'rss', lang: 'ko', name: '교수신문', url: 'https://www.kyosu.net/rss/allArticle.xml', limit: 3, maxAgeDays: 5 },
+  { type: 'rss', lang: 'ko', name: '교수신문', url: 'https://www.kyosu.net/rss/allArticle.xml', limit: 2, maxAgeDays: 5 },
 
   // 해외 수학 매체
   { type: 'rss', lang: 'en', name: 'Quanta Magazine', trusted: true, url: 'https://www.quantamagazine.org/mathematics/feed/', limit: 3, maxAgeDays: 14 },
@@ -188,8 +207,10 @@ export const FACEBOOK_PAGES = [
 ]
 
 // 국내 기사: 제목에 반드시 포함해야 할 것 / 걸러낼 것
-export const KO_REQUIRE = /수학|수능|필즈상|올림피아드|수리과학|고등과학원/
-export const KO_EXCLUDE = /수학여행|수학 여행|연예인|포토뉴스/
+// 다른 낱말 속의 '수학'은 뺌: 교수학습·필수학습(수학+습), 우수학교·특수학교·특수학급(우·특+수학)
+// '수능'만 있는 기사(수능 부정행위·영어 등)는 수학과 무관해 뺌
+export const KO_REQUIRE = /(?<![우특])수학(?!습)|필즈상|올림피아드|수리과학|고등과학원/
+export const KO_EXCLUDE = /수학여행|수학 여행|연예인|포토뉴스|드라마|배우|꽃미남|아이돌|예능|웹툰/
 
 // 해외 과학 매체는 수학과 무관한 기사가 섞여 있어 키워드로 한 번 더 거름
 export const EN_REQUIRE = /\bmath|geometr|algebra|\bproof|theorem|conjecture|\bprime|statistic|topolog|equation|polyhedr|puzzle/i
@@ -200,6 +221,8 @@ export const BLOCKED_SOURCES = ['IDNFinancials', 'Vietnam.vn', 'Histoire pour To
 // 위에서부터 먼저 맞는 카테고리로 분류, 아무것도 안 맞으면 '교육'
 export const KO_CATEGORIES = [
   ['입시', /수능|모의고사|모의평가|모평|입시|내신|대입|정시|수시|킬러/],
+  // 수업 현장 이야기 → '수업' 칩 (AI 를 활용한 수업도 여기로)
+  ['수업', /수업|교실|선생님|탐구|프로젝트|교구|수행평가|학습지|활동지|배움|교수법|체험학습/],
   ['AI·에듀테크', /AI|인공지능|에듀테크|디지털|챗GPT|코딩|로봇/i],
   ['대회·행사', /올림피아드|경시|대회|축제|체험전|페스티벌|캠프|박람회/],
   ['연구', /수학자|필즈상|증명|난제|연구|논문|학회|아벨상/],

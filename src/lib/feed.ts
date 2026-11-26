@@ -60,9 +60,10 @@ export const SUBJECTS: Subject[] = [
 ]
 export const SUBJECT = Object.fromEntries(SUBJECTS.map((s) => [s.key, s])) as Record<SubjectKey, Subject>
 
-// 네 과목에 공통으로 있는 분류만 칩으로 보여 줌 (과목 고유 분류는 과목 칩 안에서 봄)
+// 공통 분류만 칩으로 보여 줌 (과목 고유 분류는 과목 칩 안에서 봄). 피드에 그 분류 카드가 있을 때만 칩이 나옴
+// '수업'은 지금은 수학만 (subjects/math/scripts/sources.mjs 의 KO_CATEGORIES)
 export const TOPIC_CHIP = '주제 카드'
-export const CATEGORY_ORDER = ['교육', '입시', '연구', '대회·행사', '해외']
+export const CATEGORY_ORDER = ['수업', '교육', '입시', '연구', '대회·행사', '해외']
 
 const KST = 'Asia/Seoul'
 const dateFormat = new Intl.DateTimeFormat('ko-KR', { timeZone: KST, month: 'numeric', day: 'numeric', weekday: 'short' })
