@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-26T12:24:58.069Z",
+  "updatedAt": "2026-11-26T13:08:38.094Z",
   "items": [
+    {
+      "id": "83a928c55956",
+      "kind": "video",
+      "lang": "en",
+      "title": "This magnet machine is scary",
+      "summary": "This is one of the machines that I need to make…",
+      "detail": "This is one of the machines that I need to make neodymium magnets, and it's actually kind of scary.",
+      "link": "https://www.youtube.com/shorts/TVpMka43TFk",
+      "source": "NileRed",
+      "image": "https://i1.ytimg.com/vi/TVpMka43TFk/hqdefault.jpg",
+      "views": 2574565,
+      "category": "인기",
+      "publishedAt": "2026-10-16T22:02:57.000Z",
+      "collectedAt": "2026-11-26T13:08:38.094Z",
+      "titleKo": "이 자석 기계는 무섭습니다",
+      "summaryKo": "꼭 만들어 봐야 할 기계 중 하나인데..",
+      "translator": "google",
+      "detailKo": "이것은 네오디뮴 자석을 만드는 데 필요한 기계 중 하나인데 실제로는 좀 무섭습니다.",
+      "thumb": "/thumbs/83a928c55956.jpg"
+    },
     {
       "id": "bsky-3n37m2sojm22l",
       "kind": "news",
@@ -2481,24 +2501,6 @@
       "publishedAt": "2026-11-20T05:02:00.000Z",
       "collectedAt": "2026-11-20T13:08:50.199Z",
       "thumb": "/thumbs/c7f8d2a2e93c.png"
-    },
-    {
-      "id": "046e1853acd5",
-      "kind": "news",
-      "lang": "en",
-      "title": "Isolable crystalline oxoboranes",
-      "summary": "Oxoboranes, compounds featuring a central dicoordinate…",
-      "detail": "Oxoboranes, compounds featuring a central dicoordinate boron atom engaged in a B–O triple bond, have long been regarded as highly reactive…",
-      "link": "https://www.nature.com/articles/s41557-026-02310-7",
-      "source": "Nature Chemistry",
-      "category": "연구",
-      "publishedAt": "2026-11-20T00:00:00.000Z",
-      "collectedAt": "2026-11-20T13:08:50.199Z",
-      "titleKo": "분리 가능한 결정질 옥소보란",
-      "summaryKo": "옥소보란(Oxoborane)은 중심 쌍좌위 구조를 특징으로 하는 화합물입니다…",
-      "translator": "google",
-      "detailKo": "B-O 삼중 결합에 결합된 중심 이중배위 붕소 원자를 특징으로 하는 화합물인 옥소보란은 오랫동안 반응성이 높은 것으로 여겨져 왔습니다…",
-      "thumb": "/thumbs/046e1853acd5.png"
     }
   ]
 }

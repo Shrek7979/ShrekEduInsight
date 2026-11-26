@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-11-26T12:24:58.113Z",
+  "updatedAt": "2026-11-26T13:08:38.169Z",
   "items": [
+    {
+      "id": "1fe9fb9f2122",
+      "kind": "video",
+      "lang": "ko",
+      "title": "일론머스크가 테슬라 로드스터를 공개한 진짜 이유ㅣ범준에 물리다",
+      "summary": "",
+      "detail": "",
+      "link": "https://www.youtube.com/watch?v=lBI2TOxWws0",
+      "source": "범준에 물리다",
+      "image": "https://i1.ytimg.com/vi/lBI2TOxWws0/hqdefault.jpg",
+      "views": 888778,
+      "category": "인기",
+      "publishedAt": "2026-11-13T11:00:23.000Z",
+      "collectedAt": "2026-11-26T13:08:38.169Z",
+      "summaryKo": "",
+      "thumb": "/thumbs/1fe9fb9f2122.jpg"
+    },
     {
       "id": "bc065340038c",
       "kind": "news",
@@ -2462,24 +2479,6 @@
       "translator": "google",
       "detailKo": "보공나방은 매년 여름 약 1000km를 이동합니다. 지구 자기장을 나침반으로 사용하는 보공나방의 이동 포스팅이 처음 등장했습니다.",
       "thumb": "/thumbs/3b6740d38db2.jpg"
-    },
-    {
-      "id": "19d8ac7e4419",
-      "kind": "news",
-      "lang": "en",
-      "title": "CERN scientists finally find evidence of a particle decay so rare it took 40 years to…",
-      "summary": "Scientists at CERN have found the first evidence of an…",
-      "detail": "Scientists at CERN have found the first evidence of an incredibly rare particle decay after more than 40 years of searching, detecting a…",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261119194530.htm",
-      "source": "ScienceDaily",
-      "category": "해외",
-      "publishedAt": "2026-11-20T12:23:23.000Z",
-      "collectedAt": "2026-11-20T13:08:50.227Z",
-      "titleKo": "CERN 과학자들은 마침내 입자 붕괴의 증거를 발견했는데, 너무 드물어서 40년이 걸렸습니다…",
-      "summaryKo": "CERN의 과학자들은 다음과 같은 최초의 증거를 발견했습니다",
-      "translator": "google",
-      "detailKo": "CERN의 과학자들은 40년 이상의 검색 끝에 믿을 수 없을 정도로 희귀한 입자 붕괴의 첫 번째 증거를 발견했습니다.",
-      "thumb": "/thumbs/19d8ac7e4419.webp"
     }
   ]
 }

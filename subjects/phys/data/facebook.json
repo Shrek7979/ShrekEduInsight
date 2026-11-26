@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-11-26T00:14:32.356Z",
+  "updatedAt": "2026-11-26T13:11:02.195Z",
   "items": [
+    {
+      "id": "fb-f9214dad6947",
+      "kind": "news",
+      "lang": "en",
+      "title": "Teamwork, moving one tank at a time",
+      "summary": "",
+      "link": "https://www.facebook.com/cern/posts/pfbid02yG6GzjBTq6c8dFd6MmEc8UzbyEK4dxWEKYcfqCAq3DSq6EeMqv4RW7HDRTogKk7jl",
+      "source": "Facebook CERN",
+      "category": "인기",
+      "publishedAt": "2026-11-26T09:10:49.679Z",
+      "thumb": "/social/fb/fb-f9214dad6947.jpg",
+      "refs": [],
+      "collectedAt": "2026-11-26T13:11:02.195Z",
+      "titleKo": "팀워크, 한 번에 한 탱크씩 이동",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-f6c59c64c4ce",
       "kind": "news",
@@ -19,18 +36,18 @@
       "translator": "google"
     },
     {
-      "id": "fb-7f8c7b72dfa6",
+      "id": "fb-ab803c118648",
       "kind": "news",
       "lang": "en",
       "title": "Forget the traditional career ladder.",
       "summary": "Could you build a “unicorn career” instead?",
-      "link": "https://www.facebook.com/physicsworld/posts/pfbid0LzADJKULP3cHmuJV135McvdP8aTu2fZ8H85SMUocyYEwJWVfFEpDQyJQjScU4wybl",
+      "link": "https://www.facebook.com/physicsworld/posts/pfbid02QqbvUzQAEYEk8uKs6b5ceEvswV9mZeRKK668MtfrJe6YLA3GFA5CT7XU4X5EuHyzl",
       "source": "Facebook Physics World",
       "category": "인기",
-      "publishedAt": "2026-11-25T12:01:50.970Z",
-      "thumb": "/social/fb/fb-7f8c7b72dfa6.jpg",
+      "publishedAt": "2026-11-25T13:10:25.874Z",
+      "thumb": "/social/fb/fb-ab803c118648.jpg",
       "refs": [],
-      "collectedAt": "2026-11-25T12:18:23.394Z",
+      "collectedAt": "2026-11-26T13:11:02.195Z",
       "titleKo": "전통적인 경력 사다리를 잊어 버리십시오.",
       "summaryKo": "대신에 \"유니콘 경력\"을 쌓을 수 있나요?",
       "translator": "google"
@@ -291,18 +308,18 @@
       "translator": "google"
     },
     {
-      "id": "fb-9bf26bf02d9e",
+      "id": "fb-f6c1cfed8f99",
       "kind": "news",
       "lang": "en",
       "title": "We Used To Think Light Came From Our Eyes!?",
       "summary": "New Video!",
-      "link": "https://www.facebook.com/MinutePhysics/posts/pfbid0fDe7ZWvwwhNta3gxkmwDJcCZLCoc5pRFz1sbVB1YDx2AQjgtxCbPvpMU8M4eR1VZl",
+      "link": "https://www.facebook.com/MinutePhysics/posts/pfbid0fXSdq2EQwuwr7Ea8xFcLwuNdUUiFY1jseuA2q9LsMt9gzYASskzsJfDcvAwn7ndDl",
       "source": "Facebook minutephysics",
       "category": "인기",
       "publishedAt": "2026-11-12T12:00:00.000Z",
-      "thumb": "/social/fb/fb-9bf26bf02d9e.jpg",
+      "thumb": "/social/fb/fb-f6c1cfed8f99.jpg",
       "refs": [],
-      "collectedAt": "2026-11-25T00:18:57.386Z",
+      "collectedAt": "2026-11-26T13:11:02.195Z",
       "titleKo": "우리는 빛이 우리 눈에서 나온다고 생각했었습니다!?",
       "summaryKo": "새로운 비디오!",
       "translator": "google"
