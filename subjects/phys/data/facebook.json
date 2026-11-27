@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-11-27T01:14:14.014Z",
+  "updatedAt": "2026-11-27T13:11:55.668Z",
   "items": [
+    {
+      "id": "fb-5fa696255643",
+      "kind": "video",
+      "lang": "en",
+      "title": "Can you guess what they’re doing?",
+      "summary": "",
+      "link": "https://www.facebook.com/reel/2181711722430544/",
+      "source": "Facebook CERN",
+      "category": "인기",
+      "publishedAt": "2026-11-27T08:11:45.432Z",
+      "thumb": "/social/fb/fb-5fa696255643.jpg",
+      "refs": [],
+      "collectedAt": "2026-11-27T13:11:55.668Z",
+      "titleKo": "그들이 무엇을 하고 있는지 추측할 수 있나요?",
+      "summaryKo": "",
+      "translator": "google"
+    },
     {
       "id": "fb-726de4e25864",
       "kind": "news",
@@ -36,18 +53,18 @@
       "translator": "google"
     },
     {
-      "id": "fb-ab803c118648",
+      "id": "fb-67793f583145",
       "kind": "news",
       "lang": "en",
       "title": "Forget the traditional career ladder.",
       "summary": "Could you build a “unicorn career” instead?",
-      "link": "https://www.facebook.com/physicsworld/posts/pfbid02QqbvUzQAEYEk8uKs6b5ceEvswV9mZeRKK668MtfrJe6YLA3GFA5CT7XU4X5EuHyzl",
+      "link": "https://www.facebook.com/physicsworld/posts/pfbid0Lp1D1BCbZV71AMBsnYEyp6CZ5dDDFTKUMD8QZGxmixivRmBqxjamdevQzfMFeYrYl",
       "source": "Facebook Physics World",
       "category": "인기",
-      "publishedAt": "2026-11-25T13:10:25.874Z",
-      "thumb": "/social/fb/fb-ab803c118648.jpg",
+      "publishedAt": "2026-11-25T13:11:23.730Z",
+      "thumb": "/social/fb/fb-67793f583145.jpg",
       "refs": [],
-      "collectedAt": "2026-11-26T13:11:02.195Z",
+      "collectedAt": "2026-11-27T13:11:55.668Z",
       "titleKo": "전통적인 경력 사다리를 잊어 버리십시오.",
       "summaryKo": "대신에 \"유니콘 경력\"을 쌓을 수 있나요?",
       "translator": "google"
@@ -101,23 +118,6 @@
       "collectedAt": "2026-11-23T11:12:59.623Z",
       "titleKo": "물리학은 당신을 어디로 데려갈 수 있나요?",
       "summaryKo": "",
-      "translator": "google"
-    },
-    {
-      "id": "fb-4a0b2ca2f046",
-      "kind": "news",
-      "lang": "en",
-      "title": "Can you guess what they’re doing?",
-      "summary": "Hint: they’re making way for major upgrades",
-      "link": "https://www.facebook.com/cern/posts/pfbid0SfY3XrqJphiEQRYV94651SPX794uYHH7ivukbNm81VsS7ssGaTJ4oRVBjxfvGhibl",
-      "source": "Facebook CERN",
-      "category": "인기",
-      "publishedAt": "2026-11-21T02:05:19.616Z",
-      "thumb": "/social/fb/fb-4a0b2ca2f046.jpg",
-      "refs": [],
-      "collectedAt": "2026-11-23T02:05:31.868Z",
-      "titleKo": "그들이 무엇을 하고 있는지 추측할 수 있나요?",
-      "summaryKo": "힌트: 대규모 업그레이드가 진행 중입니다.",
       "translator": "google"
     },
     {
@@ -644,23 +644,6 @@
       "refs": [],
       "collectedAt": "2026-10-29T11:52:15.786Z",
       "titleKo": "파톤의 여파로",
-      "summaryKo": "",
-      "translator": "google"
-    },
-    {
-      "id": "fb-5d844b9868f9",
-      "kind": "news",
-      "lang": "en",
-      "title": "‘Tis the season of trick-or-treating… and",
-      "summary": "",
-      "link": "https://www.facebook.com/cern/posts/pfbid0PvWdNTLGNVbf6nwR1QgAcUCvaw4TiC35grWrtFFFjauojGhFsQVwtuHdbxkRsGsil",
-      "source": "Facebook CERN",
-      "category": "인기",
-      "publishedAt": "2026-10-28T12:31:35.605Z",
-      "thumb": "/social/fb/fb-5d844b9868f9.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-28T20:31:56.037Z",
-      "titleKo": "'Trick-or-Treating의 계절이 왔습니다…",
       "summaryKo": "",
       "translator": "google"
     }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T01:14:21.812Z",
+  "updatedAt": "2026-11-27T13:12:04.245Z",
   "items": [
     {
       "id": "fb-9c9057db750c",
@@ -19,18 +19,18 @@
       "translator": "google"
     },
     {
-      "id": "fb-f4bdfc728160",
+      "id": "fb-8701295cd18b",
       "kind": "news",
       "lang": "en",
       "title": "We're coming to New Orleans!",
       "summary": "Experience groundbreaking science alongside the food,…",
-      "link": "https://www.facebook.com/AmericanChemicalSociety/posts/pfbid0vcDU6PfBBvVcnGD1nhPFEsExXs8MWbHtxk2nXUPKprRYac83WzCkJC9UbyVnRtjul",
+      "link": "https://www.facebook.com/AmericanChemicalSociety/posts/pfbid02zTfBH4b13HDA5M6d98P3RoBqJGFj3Lm4ALRTwKP44F1cT7hZta3DZDTB3ET2Ff5Dl",
       "source": "Facebook American Chemical Society",
       "category": "인기",
-      "publishedAt": "2026-11-25T00:14:09.185Z",
-      "thumb": "/social/fb/fb-f4bdfc728160.jpg",
+      "publishedAt": "2026-11-25T13:11:22.377Z",
+      "thumb": "/social/fb/fb-8701295cd18b.jpg",
       "refs": [],
-      "collectedAt": "2026-11-26T00:14:49.582Z",
+      "collectedAt": "2026-11-27T13:12:04.245Z",
       "titleKo": "우리는 뉴올리언스에 오고 있어요!",
       "summaryKo": "음식과 함께 획기적인 과학을 경험해보세요.",
       "translator": "google"
@@ -172,18 +172,18 @@
       "translator": "google"
     },
     {
-      "id": "fb-98fbeaa70887",
+      "id": "fb-bbf448ffdbf4",
       "kind": "news",
       "lang": "en",
       "title": "What makes your phone screen touch sensitive, and what materials make it possible to create foldable displays?",
       "summary": "",
-      "link": "https://www.facebook.com/compoundchem/posts/pfbid02vecm3dN4BKkQLPwgooLhfBtjiYWYqxtHGTLNW9PMpXQGu9UsusmpbBTdo4GDhNt8l",
+      "link": "https://www.facebook.com/compoundchem/posts/pfbid0s6ya8TjhLD322UmUiXNbvftavp6BpBZ2nmMsjjG74zmWJW7X9usXjRQfi2uyEnjml",
       "source": "Facebook Compound Interest",
       "category": "인기",
       "publishedAt": "2026-11-04T12:00:00.000Z",
-      "thumb": "/social/fb/fb-98fbeaa70887.jpg",
+      "thumb": "/social/fb/fb-bbf448ffdbf4.jpg",
       "refs": [],
-      "collectedAt": "2026-11-26T13:11:33.647Z",
+      "collectedAt": "2026-11-27T13:12:04.245Z",
       "titleKo": "휴대폰 화면이 터치에 민감한 이유는 무엇이며 폴더블 디스플레이를 만들 수 있는 재료는 무엇입니까?",
       "summaryKo": "",
       "translator": "google"
@@ -220,23 +220,6 @@
       "collectedAt": "2026-11-04T09:59:49.274Z",
       "titleKo": "전국 고양이의 날입니다!",
       "summaryKo": "이 그래픽에는 고양이에 대해 알아야 할 모든 것이 포함되어 있습니다…",
-      "translator": "google"
-    },
-    {
-      "id": "fb-3b866db422a1",
-      "kind": "news",
-      "lang": "en",
-      "title": "It's spooky season and that means pumpkin carving",
-      "summary": "",
-      "link": "https://www.facebook.com/compoundchem/posts/pfbid0r5zAsm1oubSgBY1nbJ5cAaHcQE6HMtZWGKdh4N5VEtUs1tC7vQRCwDP2cPR7NyBKl",
-      "source": "Facebook Compound Interest",
-      "category": "인기",
-      "publishedAt": "2026-10-28T11:51:41.680Z",
-      "thumb": "/social/fb/fb-3b866db422a1.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-29T11:52:13.135Z",
-      "titleKo": "으스스한 계절이고 그건 호박 조각을 의미해",
-      "summaryKo": "",
       "translator": "google"
     }
   ]
