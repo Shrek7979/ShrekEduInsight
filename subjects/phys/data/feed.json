@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-11-27T01:11:23.218Z",
+  "updatedAt": "2026-11-27T02:44:08.237Z",
   "items": [
+    {
+      "id": "54bb88849074",
+      "kind": "news",
+      "lang": "ko",
+      "title": "LH, 공공임대주택 과학교육 확대…내년 500회 이상 운영",
+      "summary": "한국토지주택공사(LH)가 공공임대주택 입주민을 대상으로 인공지능(AI)과 디지털 기술 등을 체험할…",
+      "detail": "한국토지주택공사(LH)가 공공임대주택 입주민을 대상으로 인공지능(AI)과 디지털 기술 등을 체험할 수 있는 과학교육 프로그램을 확대한다.LH는 지난 26일 한국과학창의재단과 '우리동네 과학방' 사업을 위한 업무협약을 체결했다고 27일 밝혔다.우리동네…",
+      "link": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/lh-%EA%B3%B5%EA%B3%B5%EC%9E%84%EB%8C%80%EC%A3%BC%ED%83%9D-%EA%B3%BC%ED%95%99%EA%B5%90%EC%9C%A1-%ED%99%95%EB%8C%80-%EB%82%B4%EB%85%84-500%ED%9A%8C-%EC%9D%B4%EC%83%81-%EC%9A%B4%EC%98%81/ar-AA2ijFOk",
+      "source": "월요신문",
+      "image": "http://www.bing.com/th?id=ONUT.GgYhpc12IL7M1R_NHG8lqA&pid=News",
+      "category": "교육",
+      "publishedAt": "2026-11-26T17:27:15.000Z",
+      "collectedAt": "2026-11-27T02:44:08.237Z",
+      "thumb": "/thumbs/54bb88849074.jpg"
+    },
     {
       "id": "5d6e40722306",
       "kind": "news",
@@ -2448,25 +2463,6 @@
       "translator": "google",
       "detailKo": "저자: Sudipta Pattanayak, Alfredo Sciortino, Laurent Blanchoin, Manuel Théry 및 Jean-François Joanny2개의 비상호작용 구성요소…",
       "thumb": "/thumbs/59b4d22c9073.png"
-    },
-    {
-      "id": "beef237f3193",
-      "kind": "video",
-      "lang": "en",
-      "title": "This Is What You Should Actually Do In a Falling Elevator",
-      "summary": "",
-      "detail": "",
-      "link": "https://www.youtube.com/watch?v=Kik9uM6GdOM",
-      "source": "The Action Lab",
-      "image": "https://i4.ytimg.com/vi/Kik9uM6GdOM/hqdefault.jpg",
-      "views": 1671627,
-      "category": "인기",
-      "publishedAt": "2026-11-14T16:02:13.000Z",
-      "collectedAt": "2026-11-21T13:07:58.950Z",
-      "titleKo": "떨어지는 엘리베이터에서 실제로 해야 할 일",
-      "summaryKo": "",
-      "translator": "google",
-      "thumb": "/thumbs/beef237f3193.jpg"
     }
   ]
 }

@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-27T01:11:23.216Z",
+  "updatedAt": "2026-11-27T02:44:08.234Z",
   "items": [
+    {
+      "id": "54bb88849074",
+      "kind": "news",
+      "lang": "ko",
+      "title": "LH, 공공임대주택 과학교육 확대…내년 500회 이상 운영",
+      "summary": "한국토지주택공사(LH)가 공공임대주택 입주민을 대상으로 인공지능(AI)과 디지털 기술 등을 체험할…",
+      "detail": "한국토지주택공사(LH)가 공공임대주택 입주민을 대상으로 인공지능(AI)과 디지털 기술 등을 체험할 수 있는 과학교육 프로그램을 확대한다.LH는 지난 26일 한국과학창의재단과 '우리동네 과학방' 사업을 위한 업무협약을 체결했다고 27일 밝혔다.우리동네…",
+      "link": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/lh-%EA%B3%B5%EA%B3%B5%EC%9E%84%EB%8C%80%EC%A3%BC%ED%83%9D-%EA%B3%BC%ED%95%99%EA%B5%90%EC%9C%A1-%ED%99%95%EB%8C%80-%EB%82%B4%EB%85%84-500%ED%9A%8C-%EC%9D%B4%EC%83%81-%EC%9A%B4%EC%98%81/ar-AA2ijFOk",
+      "source": "월요신문",
+      "image": "http://www.bing.com/th?id=ONUT.GgYhpc12IL7M1R_NHG8lqA&pid=News",
+      "category": "교육",
+      "publishedAt": "2026-11-26T17:27:15.000Z",
+      "collectedAt": "2026-11-27T02:44:08.234Z",
+      "thumb": "/thumbs/54bb88849074.jpg"
+    },
+    {
+      "id": "2f28e9fe1a18",
+      "kind": "news",
+      "lang": "ko",
+      "title": "에너지연, 루테늄 손실 차단 촉매 개발",
+      "summary": "국내 연구진이 암모니아 합성 촉매 제조 중 귀금속 루테늄이 기체로 날아가 사라지는 손실 원인을 처음…",
+      "detail": "국내 연구진이 암모니아 합성 촉매 제조 중 귀금속 루테늄이 기체로 날아가 사라지는 손실 원인을 처음 밝히고 알루미늄을 첨가해 암모니아 생산량을 기존보다 약 1.6배로 높인 촉매를 개발했다.한국에너지기술연구원은 청정연료연구단 윤형철 박사 연구진이…",
+      "link": "https://www.ccnnews.co.kr/news/articleView.html?idxno=418445",
+      "source": "충청뉴스",
+      "image": "http://www.bing.com/th?id=ONUT.2FaIVBTwOzgligdPBPHy5Q&pid=News",
+      "category": "소재·에너지",
+      "publishedAt": "2026-11-26T05:15:00.000Z",
+      "collectedAt": "2026-11-27T02:44:08.234Z",
+      "thumb": "/thumbs/2f28e9fe1a18.jpg"
+    },
     {
       "id": "ca74490d7b9a",
       "kind": "news",
@@ -2465,42 +2495,6 @@
       "translator": "google",
       "detailKo": "불안정한 화학물질의 제안된 처리 방법은 의도하지 않은 폭발을 방지하지만 독성 먼지 기둥을 생성합니다.",
       "thumb": "/thumbs/45008f873e1f.webp"
-    },
-    {
-      "id": "bsky-3n2rezjizek25",
-      "kind": "news",
-      "lang": "en",
-      "title": "The White House on Nov.",
-      "summary": "17 withdrew its nomination of Heidi Overton to lead the…",
-      "link": "https://bsky.app/profile/cenmag.bsky.social/post/3n2rezjizek25",
-      "source": "Bluesky C&EN",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u4u4yeik2uube2g6ov7wr35p/bafkreic3qgz44a32ldxrlngeulwznuvy7gy55w676baq7y2yieslauskla",
-      "likes": "12",
-      "category": "인기",
-      "publishedAt": "2026-11-20T20:04:04.338Z",
-      "collectedAt": "2026-11-21T01:08:36.697Z",
-      "titleKo": "11월 1일 백악관",
-      "summaryKo": "17은 Heidi Overton의 지명을 철회했습니다",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3n2rezjizek25.webp"
-    },
-    {
-      "id": "bsky-3n2ranyiyac2c",
-      "kind": "news",
-      "lang": "en",
-      "title": "Test your knowledge of electronic hair, hydrogen, biotech start-ups, and more: chemsky 🧪",
-      "summary": "C&EN weekly chemistry news quiz, Nov",
-      "link": "https://bsky.app/profile/cenmag.bsky.social/post/3n2ranyiyac2c",
-      "source": "Bluesky C&EN",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u4u4yeik2uube2g6ov7wr35p/bafkreietgtcactthche2kj4aerccvdiddkna6oi247zqnnrdo2dbvymqei",
-      "likes": "4",
-      "category": "인기",
-      "publishedAt": "2026-11-20T18:46:02.445Z",
-      "collectedAt": "2026-11-21T01:08:36.697Z",
-      "titleKo": "전자 모발, 수소, 생명공학 스타트업 등에 대한 지식을 테스트해 보세요: chemsky 🧪",
-      "summaryKo": "C&EN 주간 화학 뉴스 퀴즈, 11월",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3n2ranyiyac2c.webp"
     }
   ]
 }
