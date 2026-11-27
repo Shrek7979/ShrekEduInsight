@@ -1,6 +1,41 @@
 {
-  "updatedAt": "2026-11-27T01:08:30.525Z",
+  "updatedAt": "2026-11-27T01:11:23.216Z",
   "items": [
+    {
+      "id": "ca74490d7b9a",
+      "kind": "news",
+      "lang": "en",
+      "title": "Chemistry in Pictures: Sorbonne Mineral Collection",
+      "summary": "",
+      "detail": "",
+      "link": "https://cen.acs.org/physical-chemistry/geochemistry/chemistry-pictures-sorbonne-mineral-collection/104/web/2026/11?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
+      "source": "C&EN",
+      "category": "해외",
+      "publishedAt": "2026-11-25T18:53:09.000Z",
+      "collectedAt": "2026-11-27T01:11:23.216Z",
+      "titleKo": "그림으로 보는 화학: 소르본 미네랄 컬렉션",
+      "summaryKo": "",
+      "translator": "google",
+      "thumb": "/thumbs/ca74490d7b9a.webp"
+    },
+    {
+      "id": "bsky-3n2quagcukp2y",
+      "kind": "news",
+      "lang": "en",
+      "title": "Oluwaseun Ajayi knows the value of people who champion our success.",
+      "summary": "At every career stage, meaningful connections can open…",
+      "link": "https://bsky.app/profile/acs.org/post/3n2quagcukp2y",
+      "source": "Bluesky American Chemical Society",
+      "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3etshrnlom5cvnvb7udqp3zo/bafkreifahs7yt4n23qxxaf6gsyd3fgy3edric4uyxaqffpn6izfvk3jl4e",
+      "likes": "5",
+      "category": "인기",
+      "publishedAt": "2026-11-20T15:03:42.224Z",
+      "collectedAt": "2026-11-27T01:11:23.216Z",
+      "titleKo": "Oluwaseun Ajayi는 우리의 성공을 옹호하는 사람들의 가치를 알고 있습니다.",
+      "summaryKo": "모든 경력 단계에서 의미 있는 연결이 열릴 수 있습니다…",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3n2quagcukp2y.webp"
+    },
     {
       "id": "bsky-3n3ami32by22k",
       "kind": "news",
@@ -156,7 +191,7 @@
       "publishedAt": "2026-10-16T22:02:57.000Z",
       "collectedAt": "2026-11-26T13:08:38.094Z",
       "titleKo": "이 자석 기계는 무섭습니다",
-      "summaryKo": "꼭 만들어 봐야 할 기계 중 하나인데.",
+      "summaryKo": "꼭 만들어 봐야 할 기계 중 하나인데",
       "translator": "google",
       "detailKo": "이것은 네오디뮴 자석을 만드는 데 필요한 기계 중 하나인데 실제로는 좀 무섭습니다.",
       "thumb": "/thumbs/83a928c55956.jpg"
@@ -2466,41 +2501,6 @@
       "summaryKo": "C&EN 주간 화학 뉴스 퀴즈, 11월",
       "translator": "google",
       "thumb": "/thumbs/bsky-3n2ranyiyac2c.webp"
-    },
-    {
-      "id": "bsky-3n2qy2a3gbk2r",
-      "kind": "news",
-      "lang": "en",
-      "title": "Written by a Berkeley chemist, Alexander Shulgin, it detailed his career exploring the chemistry and psychoactive effects of a broad class…",
-      "summary": "of organic compounds of which MDMA is the best known",
-      "link": "https://bsky.app/profile/chemistryworld.com/post/3n2qy2a3gbk2r",
-      "source": "Bluesky Chemistry World",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6v2nwmzy4dozxcftobscktc3/bafkreibvtytnjw2pzwfhr5nr6ldydjpgvuopiek5jl4byz6pm5iqmu5y6i",
-      "category": "인기",
-      "publishedAt": "2026-11-20T16:11:49.366Z",
-      "collectedAt": "2026-11-21T01:08:36.697Z",
-      "titleKo": "버클리의 화학자 알렉산더 슐긴(Alexander Shulgin)이 쓴 이 책은 광범위한 계층의 화학 및 정신 활성 효과를 탐구하는 그의 경력을 자세히 설명합니다.",
-      "summaryKo": "MDMA가 가장 잘 알려진 유기 화합물",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3n2qy2a3gbk2r.webp"
-    },
-    {
-      "id": "8b75b178f7c6",
-      "kind": "news",
-      "lang": "en",
-      "title": "Plant-inspired material could replace certain PFAS coatings",
-      "summary": "Biodegradable nanoparticles combine lignin and stearic…",
-      "detail": "Biodegradable nanoparticles combine lignin and stearic acid for a hydrophobic finish",
-      "link": "https://cen.acs.org/materials/biobased-materials/pfas-coatings-biodegradable-nanoparticles-lignin-stearic-acid/104/web/2026/11?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
-      "source": "C&EN",
-      "category": "해외",
-      "publishedAt": "2026-11-20T15:11:34.000Z",
-      "collectedAt": "2026-11-21T01:08:36.697Z",
-      "titleKo": "식물에서 영감을 얻은 소재가 특정 PFAS 코팅을 대체할 수 있음",
-      "summaryKo": "생분해성 나노입자는 리그닌과 스테아린산을 결합한…",
-      "translator": "google",
-      "detailKo": "생분해성 나노입자는 리그닌과 스테아르산을 결합하여 소수성 마감 처리를 합니다.",
-      "thumb": "/thumbs/8b75b178f7c6.webp"
     }
   ]
 }

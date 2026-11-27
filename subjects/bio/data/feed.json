@@ -1,6 +1,124 @@
 {
-  "updatedAt": "2026-11-27T01:08:30.523Z",
+  "updatedAt": "2026-11-27T01:11:23.263Z",
   "items": [
+    {
+      "id": "17c3fd4cf415",
+      "kind": "news",
+      "lang": "ko",
+      "title": "안랩, AI 프로그램 '올라마' 위장 신종 악성코드 발견…국내 백신 무력화 시도",
+      "summary": "정상적인 인공지능 (AI) 프로그램으로 위장해 이용자의 컴퓨터에 침투한 뒤 국내 백신 프로그램의…",
+      "detail": "정상적인 인공지능 (AI) 프로그램으로 위장해 이용자의 컴퓨터에 침투한 뒤 국내 백신 프로그램의 보안 기능을 무력화하려는 신종 악성코드가 발견됐다. 실제 AI 프로그램을 설치하면서 악성코드까지 실행하는 방식으로 감염 사실을 숨기고, 윈도 운영체제의…",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=566072",
+      "source": "joongangenews",
+      "image": "http://www.bing.com/th?id=ONUT.z3dhxex-o8KQHiTLWLgYzw&pid=News",
+      "category": "생태·환경",
+      "publishedAt": "2026-11-24T04:15:00.000Z",
+      "collectedAt": "2026-11-27T01:11:23.263Z",
+      "thumb": "/thumbs/17c3fd4cf415.png"
+    },
+    {
+      "id": "bsky-3n2ypiiji672g",
+      "kind": "news",
+      "lang": "en",
+      "title": "Cell Reports Medicine Editor-in-Chief Sara Hamilton shares her advice on peer review.",
+      "summary": "To learn more about what happens behind the scenes…",
+      "link": "https://bsky.app/profile/cellpress.bsky.social/post/3n2ypiiji672g",
+      "source": "Bluesky Cell Press",
+      "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dbehouwmds4bxla5z5glados/bafkreia7b5dikyofgzac2mdnrryta5t2jx7u5vmgiuc3ahbpybxjyssx5u",
+      "likes": "2",
+      "category": "인기",
+      "publishedAt": "2026-11-23T18:00:01.946Z",
+      "collectedAt": "2026-11-27T01:11:23.263Z",
+      "titleKo": "Cell Reports Medicine 편집장인 Sara Hamilton이 동료 검토에 대한 조언을 공유합니다.",
+      "summaryKo": "뒤에서 무슨 일이 일어나는지 자세히 알아보려면…",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3n2ypiiji672g.webp"
+    },
+    {
+      "id": "4a44bd0fa350",
+      "kind": "video",
+      "lang": "ko",
+      "title": "조현병은 왜 '귀신 들린 병'이 됐을까 | 정신과 의사가 말하는 의학의 역사",
+      "summary": "",
+      "detail": "",
+      "link": "https://www.youtube.com/watch?v=jWSFypZq2R8",
+      "source": "닥터프렌즈",
+      "image": "https://i3.ytimg.com/vi/jWSFypZq2R8/hqdefault.jpg",
+      "views": 708356,
+      "category": "인기",
+      "publishedAt": "2026-11-22T08:00:26.000Z",
+      "collectedAt": "2026-11-27T01:11:23.263Z",
+      "summaryKo": "",
+      "thumb": "/thumbs/4a44bd0fa350.jpg"
+    },
+    {
+      "id": "283a0b19ad89",
+      "kind": "video",
+      "lang": "ko",
+      "title": "마약 제조범들은 왜 냄새 때문에 잡힐까?",
+      "summary": "닥터프렌즈 영상 보시고 기분 좋은 하루 되세요 😁",
+      "link": "https://www.youtube.com/shorts/uPFWMmWGHXU",
+      "source": "닥터프렌즈",
+      "image": "https://i2.ytimg.com/vi/uPFWMmWGHXU/hqdefault.jpg",
+      "views": 918093,
+      "category": "인기",
+      "publishedAt": "2026-11-16T12:00:01.000Z",
+      "collectedAt": "2026-11-27T01:11:23.263Z",
+      "thumb": "/thumbs/283a0b19ad89.jpg"
+    },
+    {
+      "id": "8a57c4f43457",
+      "kind": "video",
+      "lang": "en",
+      "title": "Why Isn’t Heart Cancer a Thing?",
+      "summary": "",
+      "detail": "",
+      "link": "https://www.youtube.com/watch?v=uALjsKI-ceE",
+      "source": "SciShow",
+      "image": "https://i2.ytimg.com/vi/uALjsKI-ceE/hqdefault.jpg",
+      "views": 2960657,
+      "category": "인기",
+      "publishedAt": "2026-11-10T18:00:12.000Z",
+      "collectedAt": "2026-11-27T01:11:23.263Z",
+      "titleKo": "심장암은 왜 문제가 되지 않나요?",
+      "summaryKo": "",
+      "translator": "google",
+      "thumb": "/thumbs/8a57c4f43457.jpg"
+    },
+    {
+      "id": "a5ba9ebe33e4",
+      "kind": "video",
+      "lang": "en",
+      "title": "Dying Is Complicated",
+      "summary": "",
+      "detail": "",
+      "link": "https://www.youtube.com/watch?v=fEjvSbI_PT4",
+      "source": "Kurzgesagt",
+      "image": "https://i3.ytimg.com/vi/fEjvSbI_PT4/hqdefault.jpg",
+      "views": 6568846,
+      "category": "인기",
+      "publishedAt": "2026-11-10T15:00:01.000Z",
+      "collectedAt": "2026-11-27T01:11:23.263Z",
+      "titleKo": "죽는 것은 복잡하다",
+      "summaryKo": "",
+      "translator": "google",
+      "thumb": "/thumbs/a5ba9ebe33e4.jpg"
+    },
+    {
+      "id": "de5390e78516",
+      "kind": "video",
+      "lang": "ko",
+      "title": "의사도 깜짝 놀란 AI 시대, 꼭 알아야 할 의료 AI",
+      "summary": "헬프님들은 오늘 영상에서 어떤 부분이 가장 인상 깊으셨나요?",
+      "link": "https://www.youtube.com/watch?v=Uv-dsGjnvlI",
+      "source": "닥터프렌즈",
+      "image": "https://i2.ytimg.com/vi/Uv-dsGjnvlI/hqdefault.jpg",
+      "views": 1246239,
+      "category": "인기",
+      "publishedAt": "2026-11-08T08:00:27.000Z",
+      "collectedAt": "2026-11-27T01:11:23.263Z",
+      "thumb": "/thumbs/de5390e78516.jpg"
+    },
     {
       "id": "bsky-3n3awxuellm25",
       "kind": "news",
@@ -217,7 +335,7 @@
       "summaryKo": "쥐를 대상으로 테스트한 시스템은 단백질을 모방하여…",
       "translator": "google",
       "detailKo": "쥐를 대상으로 테스트한 시스템은 나이가 들수록 감소하는 단백질을 모방하여 향후 불임 치료를 개선하는 데 도움이 될 수 있습니다.",
-      "thumb": "/thumbs/3e70ca4b66e5.jpg"
+      "thumb": "/thumbs/3e70ca4b66e5.png"
     },
     {
       "id": "7aa80c15c423",
@@ -1103,7 +1221,7 @@
       "summaryKo": "전 세계의 염색체 규모 게놈 서열…",
       "translator": "google",
       "detailKo": "보리 속 Hordeum 전체의 염색체 규모 게놈 서열은 큰 구조적 변이, 고대 유전적 증거의 증거를 나타냅니다.",
-      "thumb": "/thumbs/f109361aa38e.jpg"
+      "thumb": "/thumbs/f109361aa38e.png"
     },
     {
       "id": "af1c3976707f",
@@ -1542,7 +1660,7 @@
       "summaryKo": "다양한 HIV 변종에 대한 강력한 면역 반응…",
       "translator": "google",
       "detailKo": "다양한 HIV 변종에 대한 강력한 면역 반응이 이 분야에 불을 붙였지만 여전히 큰 장애물이 남아 있습니다.",
-      "thumb": "/thumbs/587f8b987bfb.jpg"
+      "thumb": "/thumbs/587f8b987bfb.png"
     },
     {
       "id": "470274b787a3",
@@ -2045,7 +2163,7 @@
       "summaryKo": "대규모 사후 연구를 통해 후생적 변화가 확인되었습니다…",
       "translator": "google",
       "detailKo": "대규모 사후 연구에서 외상후 스트레스 장애와 관련된 뇌의 후생적 변화가 확인되었습니다.",
-      "thumb": "/thumbs/4a2d7f4f20a6.jpg"
+      "thumb": "/thumbs/4a2d7f4f20a6.png"
     },
     {
       "id": "b1a0ac8302b3",
@@ -2063,7 +2181,7 @@
       "summaryKo": "Anthropic과 OpenAI의 언어 모델은 다음을 설계할 수 있습니다",
       "translator": "google",
       "detailKo": "Anthropic 및 OpenAI의 언어 모델은 단백질을 설계하고 그 서열과 구조를 예측할 수 있습니다. 이전에는 이러한 기능만 볼 수 있었습니다.",
-      "thumb": "/thumbs/b1a0ac8302b3.jpg"
+      "thumb": "/thumbs/b1a0ac8302b3.png"
     },
     {
       "id": "759d73cc2a4e",
@@ -2279,115 +2397,6 @@
       "publishedAt": "2026-11-24T02:40:00.000Z",
       "collectedAt": "2026-11-24T11:13:12.880Z",
       "thumb": "/thumbs/012bb3f0708c.jpg"
-    },
-    {
-      "id": "92b15cf9b5b4",
-      "kind": "news",
-      "lang": "ko",
-      "title": "‘엄마 어릴수록 자손이 위험에 민감’…유전자 원리 규명",
-      "summary": "국내 연구진이 어린 어미에게서 태어난 자손일수록 위험 신호에 더 민감하게 반응하고 멀리 이동한다는…",
-      "detail": "국내 연구진이 어린 어미에게서 태어난 자손일수록 위험 신호에 더 민감하게 반응하고 멀리 이동한다는 생물학적 원리를 밝혀냈다. 부모의 생리적 상태가 다음 세대의 행동에 미치는 영향을 이해할 새로운 단서를 제시한 것이다.",
-      "link": "https://www.sedaily.com/article/20118102",
-      "source": "서울경제",
-      "image": "http://www.bing.com/th?id=ONUT.ldNf724ojY22pR7ktwmmKw&pid=News",
-      "category": "의학·바이오",
-      "publishedAt": "2026-11-24T02:05:00.000Z",
-      "collectedAt": "2026-11-24T11:13:12.880Z",
-      "thumb": "/thumbs/92b15cf9b5b4.png"
-    },
-    {
-      "id": "3283537eb783",
-      "kind": "news",
-      "lang": "ko",
-      "title": "국립생태원 블로그 이웃추가 EVENT 결과 발표",
-      "summary": "안녕하세요, 국립생태원입니다!",
-      "detail": "안녕하세요, 국립생태원입니다! 국립생태원과 함께하는 생태로운 이야기! <국립생태원 블로그 이웃추가 EVENT> 결과를 발표합니다! 11월, 국립생태원 블로그에 새로운 이웃분들이 늘어났습니다! 이벤트에 함께해 주신 여러분께 진심으로 감사드립니다.…",
-      "link": "https://blog.naver.com/nie_korea/224489647319?fromRss=true&trackingCode=rss",
-      "source": "네이버 블로그 국립생태원",
-      "category": "인기",
-      "publishedAt": "2026-11-24T02:01:56.000Z",
-      "collectedAt": "2026-11-24T11:13:12.880Z",
-      "thumb": "/thumbs/3283537eb783.png"
-    },
-    {
-      "id": "ab2c67016148",
-      "kind": "news",
-      "lang": "ko",
-      "title": "\"AI 프로그램 깔았다간 백신 마비\"…韓 노린 신종 해킹 기승",
-      "summary": "박은비 기자 = 인공지능(AI) 프로그램 설치 파일에 악성코드를 숨겨 국내 백신 프로그램을…",
-      "detail": "박은비 기자 = 인공지능(AI) 프로그램 설치 파일에 악성코드를 숨겨 국내 백신 프로그램을 무력화하려는 해킹 시도가 포착됐다. AI 열풍을 악용해 한국 사용자를 정조준한 공격이어서 각별한 주의가 필요하다.24일 안랩 시큐리티 인텔리전스…",
-      "link": "https://www.newsis.com/view/NISX20261124_0003880292",
-      "source": "뉴시스",
-      "image": "http://www.bing.com/th?id=ONUT.7jki9V6UKWv3q-idg2fg9w&pid=News",
-      "category": "생태·환경",
-      "publishedAt": "2026-11-24T00:56:00.000Z",
-      "collectedAt": "2026-11-24T11:13:12.880Z",
-      "thumb": "/thumbs/ab2c67016148.jpg"
-    },
-    {
-      "id": "ef2b5d282f50",
-      "kind": "news",
-      "lang": "ko",
-      "title": "제주대 앵커 디지털육종트랙, 도내 고교생 대상 생명공학 육종교실 운영…전문 실험·실습 기회 제공",
-      "summary": "제주대학교가 제주 지역 고등학생들에게 첨단 생명공학 분야의 연구 경험을 제공하며 미래 바이오 인재…",
-      "detail": "제주대학교가 제주 지역 고등학생들에게 첨단 생명공학 분야의 연구 경험을 제공하며 미래 바이오 인재 양성에 나섰다.제주대학교는 도내 고등학생을 대상으로 운영한 ‘2026 생명공학육종교실’ 기초과정을 성공적으로 마무리했다고 밝혔다.이번 교육은 대학이…",
-      "link": "https://www.newsnjeju.com/news/articleView.html?idxno=305404",
-      "source": "뉴스N제주",
-      "image": "http://www.bing.com/th?id=ONUT.CDU_N9rVDz5k6E6fgMLNuw&pid=News",
-      "category": "의학·바이오",
-      "publishedAt": "2026-11-24T00:31:00.000Z",
-      "collectedAt": "2026-11-24T11:13:12.880Z",
-      "thumb": "/thumbs/ef2b5d282f50.jpg"
-    },
-    {
-      "id": "a05d0546c798",
-      "kind": "news",
-      "lang": "ko",
-      "title": "단국대 스프레이 한 번으로 면직물 세균 부착 막는다",
-      "summary": "오준균 교수팀, 초발수 코팅 기술 개발…대장균 부착 99.9% 줄여50회 세탁 뒤에도 초발수 성능…",
-      "detail": "오준균 교수팀, 초발수 코팅 기술 개발…대장균 부착 99.9% 줄여50회 세탁 뒤에도 초발수 성능 유지…위생 작업복 활용 기대 (용인=뉴스1) 김평석 기자 = 단국대학교는 오준균 교수(고분자시스템공학부) 연구팀이 스프레이를 한 번 뿌리는 것만으로…",
-      "link": "https://www.msn.com/ko-kr/%EA%B3%BC%ED%95%99/%EC%9D%BC%EB%B0%98/%EB%8B%A8%EA%B5%AD%EB%8C%80-%EC%8A%A4%ED%94%84%EB%A0%88%EC%9D%B4-%ED%95%9C-%EB%B2%88%EC%9C%BC%EB%A1%9C-%EB%A9%B4%EC%A7%81%EB%AC%BC-%EC%84%B8%EA%B7%A0-%EB%B6%80%EC%B0%A9-%EB%A7%89%EB%8A%94%EB%8B%A4/ar-AA2i6uhh",
-      "source": "뉴스1",
-      "image": "http://www.bing.com/th?id=ONUT.F5Rp3v8ONC5ycTz2l2uPvA&pid=News",
-      "category": "연구",
-      "publishedAt": "2026-11-24T00:21:29.000Z",
-      "collectedAt": "2026-11-24T11:13:12.880Z",
-      "thumb": "/thumbs/a05d0546c798.jpg"
-    },
-    {
-      "id": "a972710613a5",
-      "kind": "news",
-      "lang": "en",
-      "title": "Himalayan disasters demand biodiversity conservation across borders",
-      "summary": "",
-      "detail": "",
-      "link": "https://www.nature.com/articles/d41586-026-03825-2",
-      "source": "Nature",
-      "category": "해외",
-      "publishedAt": "2026-11-24T00:00:00.000Z",
-      "collectedAt": "2026-11-24T11:13:12.880Z",
-      "titleKo": "히말라야 재해로 인해 국경을 초월한 생물 다양성 보전이 필요합니다",
-      "summaryKo": "",
-      "translator": "google",
-      "thumb": "/thumbs/a972710613a5.png"
-    },
-    {
-      "id": "bsky-3n2zbexyrqf2z",
-      "kind": "news",
-      "lang": "en",
-      "title": "A long-sought pinnacle of mathematics has apparently been reached.",
-      "summary": "In a feat that will go down in mathematics history, a…",
-      "link": "https://bsky.app/profile/sciencenews.bsky.social/post/3n2zbexyrqf2z",
-      "source": "Bluesky Science News",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mhjqpvjvyzpj4pso7ux2tekh/bafkreihhlck5r2dqbfdwnocelm27xemaemodwo4ctzao7qi7ayxglmv4e4",
-      "likes": "2",
-      "category": "인기",
-      "publishedAt": "2026-11-23T23:20:10.951Z",
-      "collectedAt": "2026-11-24T11:13:12.880Z",
-      "titleKo": "오랫동안 추구해왔던 수학의 정점에 도달한 것 같습니다.",
-      "summaryKo": "수학 역사에 길이 남을 위업으로…",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3n2zbexyrqf2z.webp"
     }
   ]
 }
