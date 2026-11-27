@@ -6,10 +6,13 @@ import Link from 'next/link'
 import { useRouter } from 'next/router'
 import SiteMeta from '@/components/SiteMeta'
 import Briefing from '@/components/feed/Briefing'
-import { EndCard, NewsCard, TopicCard } from '@/components/feed/ReelCard'
+import { EndCard, InquiryCard, NewsCard, TopicCard, inquiryText } from '@/components/feed/ReelCard'
+import { ScheduleButton } from '@/components/feed/Schedule'
 import {
   CATEGORY_ORDER,
   FeedItem,
+  INQUIRY_CHIP,
+  Inquiry,
   LEVELS,
   SITE_NAME,
   SUBJECT,
@@ -27,8 +30,8 @@ import {
 import { Combined, SubjectData, combine, fetchAll } from '@/lib/sources'
 import { ArrowIcon, MenuIcon, PauseIcon, PlayIcon, SearchIcon } from '@/components/icons'
 
-type Props = { initial: Combined; dayIndex: number }
-type Card = { key: string; item?: FeedItem; topic?: Topic }
+type Props = { initial: Combined; inquiries: Inquiry[]; dayIndex: number }
+type Card = { key: string; item?: FeedItem; topic?: Topic; inquiry?: Inquiry }
 
 const ALL = '전체'
 const POPULAR = '인기'
@@ -37,6 +40,8 @@ const SAVED = '★ 저장'
 const STORY = '__story__'
 const STORY_HOURS = 24
 const TOPIC_EVERY = 5
+// 전체·과목 보기에서 오늘의 탐구 주제 카드를 넣을 자리 (앞에서 몇 번째 카드 뒤)
+const INQUIRY_AT = 3
 const AUTO_SECONDS = 8
 // 페이지를 연 뒤에도 이 간격으로 과목 사이트의 새 데이터를 확인
 const CHECK_MINUTES = 10
@@ -63,7 +68,15 @@ export const getStaticProps: GetStaticProps<Props> = async () => {
       lessons: (await read<{ lessons: SubjectData['lessons'] }>(key, 'lessons.json', { lessons: {} })).lessons,
     }))
   )
-  return { props: { initial: combine(data), dayIndex: Math.floor(Date.now() / (24 * 60 * 60 * 1000)) } }
+  // 탐구 주제는 사이트가 직접 관리하는 고정 자료라 빌드 때만 읽음 (지금은 수학만)
+  const inquiries: Inquiry[] = (
+    await Promise.all(
+      SUBJECTS.map(async ({ key }) =>
+        (await read<Omit<Inquiry, 'subject'>[]>(key, 'inquiry.json', [])).map((inquiry) => ({ ...inquiry, subject: key }))
+      )
+    )
+  ).flat()
+  return { props: { initial: combine(data), inquiries, dayIndex: Math.floor(Date.now() / (24 * 60 * 60 * 1000)) } }
 }
 
 const signature = (data: Combined) => `${data.updatedAt}|${data.items.map((item) => item.id).join(',')}`
@@ -79,7 +92,7 @@ function withTopics(cards: Card[], topics: Topic[]) {
   return mixed
 }
 
-export default function ReelsPage({ initial, dayIndex }: Props) {
+export default function ReelsPage({ initial, inquiries, dayIndex }: Props) {
   const router = useRouter()
   const scrollerRef = useRef<HTMLDivElement>(null)
   const [feed, setFeed] = useState(initial)
@@ -148,6 +161,24 @@ export default function ReelsPage({ initial, dayIndex }: Props) {
     return Array.from({ length: longest }, (_, i) => lists.map((list) => list[i]).filter(Boolean)).flat()
   }, [topicsBySubject, dayIndex])
 
+  // 탐구 주제: 날마다 다른 것부터. 학교급을 고르면 그 학교급 주제만
+  const inquiryList = useMemo(() => {
+    const rotated = inquiries.map((_, i) => inquiries[(i + dayIndex) % inquiries.length])
+    return level ? rotated.filter((inquiry) => inquiry.level === level) : rotated
+  }, [inquiries, dayIndex, level])
+  // 탐구 주제마다 제목에 낱말이 들어간 최근 소식 2개 (원문 링크로 함께 읽기)
+  const relatedNews = useCallback(
+    (inquiry: Inquiry) =>
+      feed.items
+        .filter((item) => !item.evergreen && item.kind === 'news')
+        .filter((item) => {
+          const title = `${item.title} ${item.titleKo || ''}`
+          return inquiry.keywords.some((word) => title.includes(word))
+        })
+        .slice(0, 2),
+    [feed.items]
+  )
+
   // NEW 표시: 과목마다 가장 최근 수집분
   const latestBatch = useMemo(() => {
     const latest: Partial<Record<SubjectKey, string>> = {}
@@ -173,7 +204,7 @@ export default function ReelsPage({ initial, dayIndex }: Props) {
     }
     if (category === STORY) return inLevel.filter((item) => storyIds.has(item.id))
     if (category === ALL) return inLevel
-    if (category === TOPIC_CHIP) return []
+    if (category === TOPIC_CHIP || category === INQUIRY_CHIP) return []
     if (category === SAVED) return inLevel.filter((item) => saved.ids.has(item.id))
     if (subjectFilter) return inLevel.filter((item) => item.subject === subjectFilter)
     // 인기: 조회수·좋아요가 있는 카드 전부를 많은 순으로
@@ -191,26 +222,45 @@ export default function ReelsPage({ initial, dayIndex }: Props) {
       const found = mixedTopics.filter((topic) =>
         `${topic.title} ${topic.tag} ${topic.slides.map((s) => `${s.heading} ${s.body}`).join(' ')}`.toLowerCase().includes(keyword)
       )
-      return [...found.map((topic) => ({ key: topic.id, topic })), ...newsCards]
+      const foundInquiries = inquiryList.filter((inquiry) =>
+        `${inquiry.title} ${inquiry.unit} ${inquiry.why} ${inquiry.steps.join(' ')}`.toLowerCase().includes(keyword)
+      )
+      return [
+        ...foundInquiries.map((inquiry) => ({ key: inquiry.id, inquiry })),
+        ...found.map((topic) => ({ key: topic.id, topic })),
+        ...newsCards,
+      ]
     }
     if (category === TOPIC_CHIP) return mixedTopics.map((topic) => ({ key: topic.id, topic }))
+    if (category === INQUIRY_CHIP) return inquiryList.map((inquiry) => ({ key: inquiry.id, inquiry }))
     if (category === STORY) return newsCards
     if (category === SAVED) {
       const savedTopics = mixedTopics.filter((topic) => saved.ids.has(topic.id))
-      return [...newsCards, ...savedTopics.map((topic) => ({ key: topic.id, topic }))]
+      const savedInquiries = inquiryList.filter((inquiry) => saved.ids.has(inquiry.id))
+      return [
+        ...newsCards,
+        ...savedTopics.map((topic) => ({ key: topic.id, topic })),
+        ...savedInquiries.map((inquiry) => ({ key: inquiry.id, inquiry })),
+      ]
     }
-    if (subjectFilter) return withTopics(newsCards, topicsBySubject[subjectFilter])
-    if (category === ALL) return withTopics(newsCards, mixedTopics)
+    // 오늘의 탐구 주제 한 장을 앞쪽에 끼움 (그 과목에 탐구 주제가 있을 때)
+    const withInquiry = (list: Card[], subject?: SubjectKey) => {
+      const today = inquiryList.find((inquiry) => !subject || inquiry.subject === subject)
+      if (!today || list.length < INQUIRY_AT) return list
+      return [...list.slice(0, INQUIRY_AT), { key: today.id, inquiry: today }, ...list.slice(INQUIRY_AT)]
+    }
+    if (subjectFilter) return withInquiry(withTopics(newsCards, topicsBySubject[subjectFilter]), subjectFilter)
+    if (category === ALL) return withInquiry(withTopics(newsCards, mixedTopics))
     return newsCards
     // 저장 목록은 탭을 바꿀 때만 다시 계산해, 저장 해제 시 카드가 바로 사라지지 않게 함
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [visibleItems, mixedTopics, topicsBySubject, category, subjectFilter, keyword])
+  }, [visibleItems, mixedTopics, topicsBySubject, inquiryList, category, subjectFilter, keyword])
 
   // 전체 · 인기 · 수학 · 물리 · 화학 · 생명과학 · 주제 카드 · 교육 · 입시 · … · 저장
   const categories = useMemo(() => {
     const present = CATEGORY_ORDER.filter((c) => feed.items.some((item) => item.category === c))
-    return [ALL, POPULAR, ...SUBJECTS.map((s) => s.name), TOPIC_CHIP, ...present, SAVED]
-  }, [feed.items])
+    return [ALL, POPULAR, ...SUBJECTS.map((s) => s.name), TOPIC_CHIP, ...(inquiries.length ? [INQUIRY_CHIP] : []), ...present, SAVED]
+  }, [feed.items, inquiries.length])
 
   // 부드러운 스크롤이 끝나기 전에 키를 연달아 눌러도 밀리지 않도록 목표 위치를 따로 기억
   const target = useRef(0)
@@ -421,7 +471,7 @@ export default function ReelsPage({ initial, dayIndex }: Props) {
     if (nav && chip) nav.scrollTo({ left: chip.offsetLeft - nav.clientWidth / 2 + chip.clientWidth / 2 })
   }, [category])
   const activeCard = cards[active]
-  const glowSubject = view === 'reels' ? activeCard?.item?.subject ?? activeCard?.topic?.subject : subjectFilter
+  const glowSubject = view === 'reels' ? activeCard?.item?.subject ?? activeCard?.topic?.subject ?? activeCard?.inquiry?.subject : subjectFilter
   const recentCounts = useMemo(() => {
     const counts = { math: 0, phys: 0, chem: 0, bio: 0 } as Record<SubjectKey, number>
     if (!now) return counts
@@ -491,6 +541,7 @@ export default function ReelsPage({ initial, dayIndex }: Props) {
             <button onClick={goHome} className="min-w-0 flex-1 truncate text-left text-[14px] font-bold tracking-[-0.01em] text-white/80">
               {TAGLINE}
             </button>
+            <ScheduleButton now={now} />
             <Link href="/about/" className="shrink-0 text-[12px] font-semibold text-white/45 underline-offset-4 hover:text-white hover:underline">
               소개
             </Link>
@@ -644,6 +695,11 @@ export default function ReelsPage({ initial, dayIndex }: Props) {
             <Briefing
               items={visibleItems}
               topic={subjectFilter ? topicsBySubject[subjectFilter][0] : mixedTopics[0]}
+              inquiry={inquiryList.find((inquiry) => !subjectFilter || inquiry.subject === subjectFilter)}
+              onOpenInquiry={() => {
+                setCategory(INQUIRY_CHIP)
+                switchView('reels')
+              }}
               isNew={isNew}
               edition={feed.updatedAt ? `${edition} · 안 읽음 ${unreadCount}` : edition}
               now={now}
@@ -729,6 +785,34 @@ export default function ReelsPage({ initial, dayIndex }: Props) {
                           item.link
                         )
                         if (message) showToast(message)
+                      }}
+                    />
+                  ) : card.inquiry ? (
+                    <InquiryCard
+                      key={card.key}
+                      inquiry={card.inquiry}
+                      related={relatedNews(card.inquiry)}
+                      saved={saved.ids.has(card.key)}
+                      onSave={() => saved.toggle(card.key)}
+                      onCopy={async () => {
+                        const text = inquiryText(card.inquiry!)
+                        let copied = false
+                        try {
+                          await navigator.clipboard.writeText(text)
+                          copied = true
+                        } catch {
+                          // 클립보드 권한이 막힌 브라우저(앱 안 브라우저 등): 숨긴 글상자로 복사
+                          const box = document.createElement('textarea')
+                          box.value = text
+                          box.setAttribute('readonly', '')
+                          box.style.position = 'fixed'
+                          box.style.opacity = '0'
+                          document.body.appendChild(box)
+                          box.select()
+                          copied = document.execCommand('copy')
+                          box.remove()
+                        }
+                        showToast(copied ? '탐구 주제를 복사했어요. 활동지에 붙여 넣으세요' : '복사하지 못했어요')
                       }}
                     />
                   ) : (

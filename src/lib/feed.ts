@@ -30,6 +30,18 @@ export type FeedItem = {
   lesson?: string
 }
 
+// 세특·수행평가용 탐구 주제 (subjects/<과목>/data/inquiry.json). keywords 로 관련 소식을 찾아 붙임
+export type Inquiry = {
+  id: string
+  subject: SubjectKey
+  unit: string
+  level: '중등' | '고등'
+  title: string
+  why: string
+  steps: string[]
+  keywords: string[]
+}
+
 export type Feed = { updatedAt: string | null; items: FeedItem[] }
 
 export type Topic = {
@@ -63,6 +75,7 @@ export const SUBJECT = Object.fromEntries(SUBJECTS.map((s) => [s.key, s])) as Re
 // 공통 분류만 칩으로 보여 줌 (과목 고유 분류는 과목 칩 안에서 봄). 피드에 그 분류 카드가 있을 때만 칩이 나옴
 // '수업'은 지금은 수학만 (subjects/math/scripts/sources.mjs 의 KO_CATEGORIES)
 export const TOPIC_CHIP = '주제 카드'
+export const INQUIRY_CHIP = '탐구 주제'
 export const CATEGORY_ORDER = ['수업', '교육', '입시', '연구', '대회·행사', '해외']
 
 const KST = 'Asia/Seoul'

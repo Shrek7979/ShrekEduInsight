@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from 'react'
 import Link from 'next/link'
-import { FeedItem, SUBJECT, SubjectKey, Topic, formatDate, formatViews } from '@/lib/feed'
+import { FeedItem, Inquiry, SUBJECT, SubjectKey, Topic, formatDate, formatViews } from '@/lib/feed'
 import { saveTopicImage } from '@/lib/topicImage'
 import { ArrowIcon, DownloadIcon, ExternalIcon, PauseIcon, PlayIcon, ShareIcon, StarIcon } from '@/components/icons'
 import TopicVisual, { hasTopicVisual } from './TopicVisual'
@@ -360,4 +360,89 @@ export function EndCard({ onRestart, empty }: { onRestart: () => void; empty: bo
       </div>
     </section>
   )
+}
+
+// 세특·수행평가 탐구 주제 카드: 질문 · 배경 · 탐구 단계 3개 · 관련 소식
+export function InquiryCard({
+  inquiry,
+  related,
+  saved,
+  onSave,
+  onCopy,
+}: {
+  inquiry: Inquiry
+  related: FeedItem[]
+  saved: boolean
+  onSave: () => void
+  onCopy: () => void
+}) {
+  const color = SUBJECT[inquiry.subject].color
+  return (
+    <CardShell>
+      <div
+        className="relative shrink-0 px-5 pb-4 pt-14"
+        style={{ background: `radial-gradient(90% 140% at 0% 0%, ${color}33, transparent 65%), rgba(255,255,255,0.02)` }}
+      >
+        <SubjectBadge subject={inquiry.subject} extra="탐구 주제" />
+        <MetaLine subject={inquiry.subject} details={[inquiry.unit, inquiry.level]} />
+        <h2 className="mt-1.5 break-keep text-[1.25rem] font-bold leading-[1.35] tracking-[-0.02em] [text-wrap:balance]">{inquiry.title}</h2>
+      </div>
+      <div className="no-scrollbar min-h-0 flex-1 overflow-y-auto px-5 pb-2">
+        <p className="break-keep text-[14px] leading-[1.65] text-white/70">{inquiry.why}</p>
+        <ol className="mt-4 space-y-2.5">
+          {inquiry.steps.map((step, i) => (
+            <li key={i} className="flex gap-3 rounded-2xl border border-white/[0.07] bg-white/[0.04] p-3">
+              <span
+                className="flex h-6 w-6 shrink-0 items-center justify-center rounded-full text-[12px] font-extrabold text-neutral-900"
+                style={{ background: color }}
+              >
+                {i + 1}
+              </span>
+              <span className="break-keep text-[14px] leading-[1.6] text-white/85">{step}</span>
+            </li>
+          ))}
+        </ol>
+        {related.length > 0 && (
+          <div className="mt-4">
+            <p className="text-[12px] font-bold text-white/45">함께 읽을 소식</p>
+            <ul className="mt-1.5 space-y-1.5">
+              {related.map((item) => (
+                <li key={item.id}>
+                  <a
+                    href={item.link}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="flex items-start gap-2 text-[13.5px] font-semibold leading-snug text-white/80 hover:text-white"
+                  >
+                    <ExternalIcon className="mt-0.5 h-3.5 w-3.5 shrink-0 text-white/40" />
+                    <span className="line-clamp-2 break-keep">{item.lang === 'en' && item.titleKo ? item.titleKo : item.title}</span>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
+      </div>
+      <div className="flex shrink-0 items-center gap-2 px-5 pb-4 pt-2">
+        <button onClick={onCopy} className={primaryClass}>
+          활동지용으로 복사
+        </button>
+        <IconButton onClick={onSave} active={saved} label={saved ? '저장 취소' : '저장'}>
+          <StarIcon filled={saved} />
+        </IconButton>
+      </div>
+    </CardShell>
+  )
+}
+
+// 탐구 주제를 활동지·세특 메모에 붙여 넣기 좋은 글로
+export function inquiryText(inquiry: Inquiry) {
+  return [
+    `[탐구 주제] ${inquiry.title}`,
+    `관련 단원: ${inquiry.unit} (${inquiry.level})`,
+    '',
+    inquiry.why,
+    '',
+    ...inquiry.steps.map((step, i) => `${i + 1}. ${step}`),
+  ].join('\n')
 }

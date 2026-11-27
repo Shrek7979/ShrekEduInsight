@@ -1,11 +1,14 @@
 import React from 'react'
 import Link from 'next/link'
 import { PlayIcon, StarIcon } from '@/components/icons'
-import { FeedItem, SUBJECT, Topic, formatViews, timeAgo } from '@/lib/feed'
+import { FeedItem, Inquiry, SUBJECT, Topic, formatViews, timeAgo } from '@/lib/feed'
+import { ScheduleList } from './Schedule'
 
 type BriefingProps = {
   items: FeedItem[]
   topic?: Topic
+  inquiry?: Inquiry
+  onOpenInquiry: () => void
   isNew: (item: FeedItem) => boolean
   edition: string
   now: number | null
@@ -18,7 +21,7 @@ type BriefingProps = {
 
 // 한눈에 보기: 최신 순으로 제목만 빠르게 훑는 목록
 export default function Briefing(props: BriefingProps) {
-  const { items, topic, isNew, edition, now, savedIds, readIds, onSave, onRead, onOpenTopic } = props
+  const { items, topic, inquiry, onOpenInquiry, isNew, edition, now, savedIds, readIds, onSave, onRead, onOpenTopic } = props
   // 릴스와 같은 순서(새로 들어온 카드가 맨 위). 날짜가 없는 바로가기 카드(인스타·페이스북)는 맨 아래
   const sorted = [...items].sort((a, b) => Number(a.evergreen || false) - Number(b.evergreen || false))
 
@@ -38,6 +41,22 @@ export default function Briefing(props: BriefingProps) {
             <p className="mt-1 break-keep text-[18px] font-bold leading-snug tracking-[-0.02em]">{topic.title}</p>
           </button>
         )}
+
+        {inquiry && (
+          <button
+            onClick={onOpenInquiry}
+            className="mb-5 w-full rounded-3xl border border-white/[0.08] bg-white/[0.03] p-5 text-left transition hover:border-white/15"
+          >
+            <p className="text-[11px] font-bold uppercase tracking-[0.18em] text-white/40">Inquiry of the day · 탐구 주제</p>
+            <p className={`mt-2 text-[12.5px] font-bold ${SUBJECT[inquiry.subject].accent}`}>
+              {inquiry.unit} · {inquiry.level}
+            </p>
+            <p className="mt-1 break-keep text-[17px] font-bold leading-snug tracking-[-0.02em]">{inquiry.title}</p>
+            <p className="mt-2 text-[12.5px] font-semibold text-white/45">탐구 단계 보기 · 다른 주제 넘겨 보기 →</p>
+          </button>
+        )}
+
+        <ScheduleList now={now} />
 
         <p className="mb-1 px-1 text-[12px] font-semibold text-white/40">{edition}</p>
 
