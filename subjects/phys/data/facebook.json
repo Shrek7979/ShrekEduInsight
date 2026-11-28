@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-11-28T01:13:30.298Z",
+  "updatedAt": "2026-11-28T13:11:35.528Z",
   "items": [
+    {
+      "id": "fb-7adaa8c35987",
+      "kind": "news",
+      "lang": "en",
+      "title": "Einstein was a keen violinist, but what impact did his passion for music have on his science?",
+      "summary": "Find out from particle physicist Brian Foster, author…",
+      "link": "https://www.facebook.com/physicsworld/posts/pfbid0wmVQCwVeajDX4EMgT4vGkBwmNByB2TLZP5TdziTrE3KqUhwZ2VpNnfK8oJ2djA57l",
+      "source": "Facebook Physics World",
+      "category": "인기",
+      "publishedAt": "2026-11-27T17:11:01.929Z",
+      "thumb": "/social/fb/fb-7adaa8c35987.jpg",
+      "refs": [],
+      "collectedAt": "2026-11-28T13:11:35.528Z",
+      "titleKo": "아인슈타인은 열정적인 바이올리니스트였지만, 음악에 대한 그의 열정이 그의 과학에 어떤 영향을 미쳤습니까?",
+      "summaryKo": "저자인 입자 물리학자 브라이언 포스터(Brian Foster)에게서 알아보세요…",
+      "translator": "google"
+    },
     {
       "id": "fb-5fa696255643",
       "kind": "video",
@@ -628,23 +645,6 @@
       "collectedAt": "2026-10-30T21:12:30.019Z",
       "titleKo": "실험을 짐작할 수 있나요?",
       "summaryKo": "힌트: 이 실험은 지하 56미터에 위치합니다.",
-      "translator": "google"
-    },
-    {
-      "id": "fb-e85b0f7960b0",
-      "kind": "news",
-      "lang": "en",
-      "title": "In the wake of partons",
-      "summary": "",
-      "link": "https://www.facebook.com/cern/posts/pfbid02qo6vcxeBdvsFkvhGTR4xSpZCcFajDz1HTAAfr9Eo7fyHeyK8ihrnc9FdPP2mLytl",
-      "source": "Facebook CERN",
-      "category": "인기",
-      "publishedAt": "2026-10-29T10:51:55.950Z",
-      "thumb": "/social/fb/fb-e85b0f7960b0.jpg",
-      "refs": [],
-      "collectedAt": "2026-10-29T11:52:15.786Z",
-      "titleKo": "파톤의 여파로",
-      "summaryKo": "",
       "translator": "google"
     }
   ]

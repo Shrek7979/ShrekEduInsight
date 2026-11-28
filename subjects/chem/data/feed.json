@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-11-28T13:08:18.545Z",
+  "updatedAt": "2026-11-28T13:09:24.350Z",
   "items": [
+    {
+      "id": "035d92afd4ba",
+      "kind": "news",
+      "lang": "ko",
+      "title": "수원정보과학고, AI융합전자과 산학일체형 도제학교 취업박람회 '잡마켓' 성료…학생 꿈과 기업 미래를 잇는 맞춤형 취업 연계의 장",
+      "summary": "수원정보과학고등학교(교장 라경호)는 24일 AI융합전자과 산학일체형 도제학교 취업박람회(잡마켓)'을…",
+      "detail": "수원정보과학고등학교(교장 라경호)는 24일 AI융합전자과 산학일체형 도제학교 취업박람회(잡마켓)'을 성황리에 개최했다. 행사는 도제교육 참여를 희망하는 예비 도제학생들과 우수 중소·중견기업을 직접 연결하는 맞춤형 취업 연계 프로그램으로 학생들의 진로…",
+      "link": "https://www.etnews.com/20261127000303",
+      "source": "전자신문",
+      "image": "http://www.bing.com/th?id=ONUT.qKzZjDTfKAV722Y_O3Wkrw&pid=News",
+      "category": "대회·행사",
+      "publishedAt": "2026-11-27T07:52:00.000Z",
+      "collectedAt": "2026-11-28T13:09:24.350Z",
+      "thumb": "/thumbs/035d92afd4ba.jpg"
+    },
+    {
+      "id": "bdf1ec666614",
+      "kind": "news",
+      "lang": "en",
+      "title": "Einstein’s relativity just upended a fundamental rule of chemistry",
+      "summary": "A surprising discovery at Brown University is…",
+      "detail": "A surprising discovery at Brown University is challenging one of chemistry's most fundamental textbook explanations. Researchers found…",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261120075602.htm",
+      "source": "ScienceDaily",
+      "category": "해외",
+      "publishedAt": "2026-11-20T12:56:02.000Z",
+      "collectedAt": "2026-11-28T13:09:24.350Z",
+      "titleKo": "아인슈타인의 상대성 이론은 화학의 기본 법칙을 뒤집었습니다.",
+      "summaryKo": "브라운 대학교에서 놀라운 발견은…",
+      "translator": "google",
+      "detailKo": "브라운 대학의 놀라운 발견은 화학의 가장 근본적인 교과서 설명 중 하나에 도전하고 있습니다. 연구진이 발견한…",
+      "thumb": "/thumbs/bdf1ec666614.webp"
+    },
     {
       "id": "bsky-3n3eqdj4fok2q",
       "kind": "news",
@@ -2469,39 +2502,6 @@
       "summaryKo": "점점 더 상상하고, 디자인하고,…",
       "translator": "google",
       "thumb": "/thumbs/bsky-3n2wnon4qy22p.webp"
-    },
-    {
-      "id": "bsky-3n2wfdjrgqk2p",
-      "kind": "news",
-      "lang": "en",
-      "title": "On the afternoon of Nov.",
-      "summary": "20, a federal judge issued an order to temporarily…",
-      "link": "https://bsky.app/profile/cenmag.bsky.social/post/3n2wfdjrgqk2p",
-      "source": "Bluesky C&EN",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u4u4yeik2uube2g6ov7wr35p/bafkreiec6snb3au4fvk2n5sbnheycdannfxedbewkbmdzzuy4skvwxzkai",
-      "likes": "21",
-      "category": "인기",
-      "publishedAt": "2026-11-22T19:52:58.850Z",
-      "collectedAt": "2026-11-23T02:00:19.593Z",
-      "titleKo": "11월 오후.",
-      "summaryKo": "20일 연방판사가 임시 명령을 내렸다",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3n2wfdjrgqk2p.webp"
-    },
-    {
-      "id": "95798ecfe34c",
-      "kind": "news",
-      "lang": "ko",
-      "title": "양자컴퓨팅, 신약 개발보다 에너지 산업서 먼저 상용화되나…전력망 최적화·신소재 개발 주목",
-      "summary": "양자컴퓨팅 기술의 초기 상용화 가능성이 신약 개발보다 에너지 산업에서 먼저 나타날 수 있다는 전망이…",
-      "detail": "양자컴퓨팅 기술의 초기 상용화 가능성이 신약 개발보다 에너지 산업에서 먼저 나타날 수 있다는 전망이 나온다. 전력망 운영 최적화부터 태양전지 소재 개발, 수소 생산용 촉매 연구까지 양자컴퓨팅의 활용 범위가 확대되면서 에너지 전환 과정에서 발생하는…",
-      "link": "https://www.hellot.net/mobile/article.html?no=116493",
-      "source": "헬로티",
-      "image": "http://www.bing.com/th?id=ONUT.1sBe-5rHKUS30lv51uNp8w&pid=News",
-      "category": "소재·에너지",
-      "publishedAt": "2026-11-22T12:01:00.000Z",
-      "collectedAt": "2026-11-23T02:00:19.593Z",
-      "thumb": "/thumbs/95798ecfe34c.jpg"
     }
   ]
 }

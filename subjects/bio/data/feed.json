@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-11-28T13:08:18.545Z",
+  "updatedAt": "2026-11-28T13:09:24.356Z",
   "items": [
+    {
+      "id": "e40bd65e5b42",
+      "kind": "news",
+      "lang": "ko",
+      "title": "국립낙동강생물자원관, 지역 학교 연계 실무교육 확대…학생 147명 참여",
+      "summary": "기후에너지환경부 산하 국립낙동강생물자원관은 올해 지역 학교 3곳과 연계한 실무형 교육 프로그램을…",
+      "detail": "기후에너지환경부 산하 국립낙동강생물자원관은 올해 지역 학교 3곳과 연계한 실무형 교육 프로그램을 운영해 학생 147명이 참여했다고 밝혔다. 이번 교육은 학생들이 대학과 학교에서 배운 내용을 현장 프로젝트에 활용하며 실무 경험을 쌓을 수 있도록…",
+      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5088721",
+      "source": "신아일보",
+      "image": "http://www.bing.com/th?id=ONUT.Qdtee66kNMmuZGjajDIseA&pid=News",
+      "category": "생태·환경",
+      "publishedAt": "2026-11-27T08:47:00.000Z",
+      "collectedAt": "2026-11-28T13:09:24.356Z",
+      "thumb": "/thumbs/e40bd65e5b42.png"
+    },
     {
       "id": "005153c57a20",
       "kind": "news",
@@ -314,7 +329,7 @@
       "summaryKo": "살아있는 인간에게서 채취한 희귀 뉴런이 도움이 되고 있습니다…",
       "translator": "google",
       "detailKo": "살아있는 인간에게서 채취한 희귀 뉴런은 연구자들이 뇌 세포가 자연 환경에서 어떻게 행동하는지 테스트하는 데 도움을 줍니다.",
-      "thumb": "/thumbs/125a8388c465.jpg"
+      "thumb": "/thumbs/125a8388c465.png"
     },
     {
       "id": "bsky-3n3adgfgykh22",
@@ -506,7 +521,7 @@
       "summaryKo": "베르니케 영역은 말을 처리하는 것으로 알려져 있습니다",
       "translator": "google",
       "detailKo": "베르니케의 영역은 말을 처리하는 것으로 알려져 있지만, 뇌 기록에 따르면 이 영역은 관련...",
-      "thumb": "/thumbs/7df86c812435.jpg"
+      "thumb": "/thumbs/7df86c812435.png"
     },
     {
       "id": "74f2770fd892",
@@ -524,7 +539,7 @@
       "summaryKo": "개념 증명 연구에서 과학자들은…",
       "translator": "google",
       "detailKo": "개념 증명 연구에서 과학자들은 화학요법 약물인 파클리탁셀을 합성하기 위해 담배 관련 식물을 유도했습니다.",
-      "thumb": "/thumbs/74f2770fd892.jpg"
+      "thumb": "/thumbs/74f2770fd892.png"
     },
     {
       "id": "9b0b10fc9a63",
@@ -1115,7 +1130,7 @@
       "summaryKo": "쥐를 대상으로 테스트한 시스템은 단백질을 모방하여…",
       "translator": "google",
       "detailKo": "쥐를 대상으로 테스트한 시스템은 나이가 들수록 감소하는 단백질을 모방하여 향후 불임 치료를 개선하는 데 도움이 될 수 있습니다.",
-      "thumb": "/thumbs/3e70ca4b66e5.jpg"
+      "thumb": "/thumbs/3e70ca4b66e5.png"
     },
     {
       "id": "7aa80c15c423",
@@ -2001,7 +2016,7 @@
       "summaryKo": "전 세계의 염색체 규모 게놈 서열…",
       "translator": "google",
       "detailKo": "보리 속 Hordeum 전체의 염색체 규모 게놈 서열은 큰 구조적 변이, 고대 유전적 증거의 증거를 나타냅니다.",
-      "thumb": "/thumbs/f109361aa38e.jpg"
+      "thumb": "/thumbs/f109361aa38e.png"
     },
     {
       "id": "af1c3976707f",
@@ -2379,21 +2394,6 @@
       "publishedAt": "2026-11-25T01:22:46.000Z",
       "collectedAt": "2026-11-25T12:09:04.680Z",
       "thumb": "/thumbs/fd9882c84faf.png"
-    },
-    {
-      "id": "c637b4c32960",
-      "kind": "news",
-      "lang": "ko",
-      "title": "붉은 물길에서 멸종위기종 헤엄치는 청정 하천으로…정선 지장천, 폐광 수질정화 후 생태계 복원",
-      "summary": "과거 폐광에서 흘러나온 갱내수로 인해 하천 바닥과 바위가 온통 붉게 물들었던 강원 정선군 지장천이…",
-      "detail": "과거 폐광에서 흘러나온 갱내수로 인해 하천 바닥과 바위가 온통 붉게 물들었던 강원 정선군 지장천이 대규모 수질정화시설 가동 이후 본래의 맑은 물길을 되찾으며 멸종위기 야생생물과 한국 고유어종이 살아 숨 쉬는 건강한 생태 하천으로…",
-      "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261125010009645",
-      "source": "아시아투데이",
-      "image": "http://www.bing.com/th?id=ONUT.0cxFdu5qcEnm3cYm1fSVkA&pid=News",
-      "category": "생태·환경",
-      "publishedAt": "2026-11-25T01:15:00.000Z",
-      "collectedAt": "2026-11-25T12:09:04.680Z",
-      "thumb": "/thumbs/c637b4c32960.jpg"
     }
   ]
 }
