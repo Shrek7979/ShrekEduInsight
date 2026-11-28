@@ -1,6 +1,111 @@
 {
-  "updatedAt": "2026-11-28T01:08:17.932Z",
+  "updatedAt": "2026-11-28T01:10:56.433Z",
   "items": [
+    {
+      "id": "fc541b776510",
+      "kind": "news",
+      "lang": "ko",
+      "title": "항생제 피해 잠든 세균 잡는다…난치성 감염치료 새전략",
+      "summary": "김양수 기자 = 국내연구진이 항생제 공격을 피해 몸속에서 잠든 채 살아남아 감염을 재발시키는 세균을…",
+      "detail": "김양수 기자 = 국내연구진이 항생제 공격을 피해 몸속에서 잠든 채 살아남아 감염을 재발시키는 세균을 선택적으로 깨워 기존 항생제가 다시 작용토록 하는 물질을 개발해 패혈증·폐렴 등 난치성 감염 치료에 새로운 가능성을 열었다.",
+      "link": "https://www.fnnews.com/news/202611271414578926",
+      "source": "파이낸셜뉴스",
+      "image": "http://www.bing.com/th?id=ONUT._eynDbmNfVD0s9TZZujePw&pid=News",
+      "category": "의학·바이오",
+      "publishedAt": "2026-11-27T06:14:00.000Z",
+      "collectedAt": "2026-11-28T01:10:56.433Z",
+      "thumb": "/thumbs/fc541b776510.jpg"
+    },
+    {
+      "id": "5ba86ebd8258",
+      "kind": "news",
+      "lang": "ko",
+      "title": "금정산 국립공원서 멸종위기종·산지습지 추가 발견",
+      "summary": "올해 국립공원으로 지정된 부산 금정산에서 하늘다람쥐 등 멸종위기 야생생물 6종과 산지습지 11곳이…",
+      "detail": "올해 국립공원으로 지정된 부산 금정산에서 하늘다람쥐 등 멸종위기 야생생물 6종과 산지습지 11곳이 추가로 확인됐습니다. 국립공원공단 금정산국립공원사무소가 지난 3월부터 이달까지 벌인 공원자원조사 결과 확인된 멸종위기 야생동물은 하늘다람쥐, 참매,…",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8721998",
+      "source": "KBS 뉴스",
+      "category": "생태·환경",
+      "publishedAt": "2026-11-25T02:49:00.000Z",
+      "collectedAt": "2026-11-28T01:10:56.433Z",
+      "thumb": "/thumbs/5ba86ebd8258.png"
+    },
+    {
+      "id": "7c51c4a7f20f",
+      "kind": "news",
+      "lang": "en",
+      "title": "Extinct, long-legged grasshoppers walked on water alongside dinosaurs",
+      "summary": "Clues in 99-million-year-old amber show why scientists…",
+      "detail": "Clues in 99-million-year-old amber show why scientists think these insects could sit atop water and paddle across it.",
+      "link": "https://www.sciencenews.org/article/extinct-grasshoppers-walked-on-water",
+      "source": "Science News",
+      "image": "https://media.sciencenews.org/wp-content/uploads/sites/2/2026/11/112426_JB_grasshoppers_main.jpg?w=800",
+      "category": "해외",
+      "publishedAt": "2026-11-25T00:01:00.000Z",
+      "collectedAt": "2026-11-28T01:10:56.433Z",
+      "titleKo": "멸종된 긴 다리 메뚜기가 공룡과 함께 물 위를 걸었습니다.",
+      "summaryKo": "9900만년 된 호박의 단서는 과학자들이 왜…",
+      "translator": "google",
+      "detailKo": "9900만 년 된 호박의 단서는 과학자들이 이 곤충이 물 위에 앉아 물 위를 노를 저어 다닐 수 있다고 생각하는 이유를 보여줍니다.",
+      "thumb": "/thumbs/7c51c4a7f20f.jpg"
+    },
+    {
+      "id": "bsky-3n337xgb6no2b",
+      "kind": "news",
+      "lang": "en",
+      "title": "In The News: How may cancer-killing immune cells play a role in keeping supercentenarians (those older than 100 yrs old) healthy?",
+      "summary": "Read our story to learn more:…",
+      "link": "https://bsky.app/profile/cellpress.bsky.social/post/3n337xgb6no2b",
+      "source": "Bluesky Cell Press",
+      "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dbehouwmds4bxla5z5glados/bafkreidtzr5hx6ec6hew3dqsqfq75gdejbzs5scfiiozdpdk6nppxaeqqu",
+      "likes": "4",
+      "category": "인기",
+      "publishedAt": "2026-11-24T18:00:02.235Z",
+      "collectedAt": "2026-11-28T01:10:56.433Z",
+      "titleKo": "뉴스에서: 암을 죽이는 면역 세포는 초백세 노인(100세 이상)의 건강을 유지하는 데 어떤 역할을 할 수 있습니까?",
+      "summaryKo": "자세한 내용은 우리의 이야기를 읽어보십시오:…",
+      "translator": "google",
+      "thumb": "/thumbs/bsky-3n337xgb6no2b.webp"
+    },
+    {
+      "id": "9f9311df482f",
+      "kind": "news",
+      "lang": "en",
+      "title": "This man sometimes sees his cat’s eyes on people’s faces",
+      "summary": "After brain surgery, he began seeing eyes he’d recently…",
+      "detail": "After brain surgery, he began seeing eyes he’d recently seen on other’s faces. The rare condition is providing insight into how brains…",
+      "link": "https://www.sciencenews.org/article/man-cats-eyes-faces-brain",
+      "source": "Science News",
+      "image": "https://media.sciencenews.org/wp-content/uploads/sites/2/2026/11/112026_LS_catfaces_main.jpg?w=800",
+      "category": "해외",
+      "publishedAt": "2026-11-24T16:00:00.000Z",
+      "collectedAt": "2026-11-28T01:10:56.433Z",
+      "titleKo": "이 남자는 가끔 사람들의 얼굴에서 고양이 눈을 본다",
+      "summaryKo": "뇌 수술 후, 최근 눈이 보이기 시작했는데…",
+      "translator": "google",
+      "detailKo": "뇌 수술 후, 그는 최근에 다른 사람의 얼굴에서 보았던 눈을 보기 시작했습니다. 드문 상태는 뇌가 어떻게…",
+      "thumb": "/thumbs/9f9311df482f.jpg"
+    },
+    {
+      "id": "feead91072e8",
+      "kind": "video",
+      "lang": "en",
+      "title": "How Does Ketamine Work?",
+      "summary": "Ketamine is often used in medicine as one of medicine's…",
+      "detail": "Ketamine is often used in medicine as one of medicine's safest painkillers, but without safeguards, it can be very dangerous. So, what…",
+      "link": "https://www.youtube.com/shorts/KBfIo9sZbC4",
+      "source": "Kurzgesagt",
+      "image": "https://i4.ytimg.com/vi/KBfIo9sZbC4/hqdefault.jpg",
+      "views": 1022035,
+      "category": "인기",
+      "publishedAt": "2026-10-29T15:30:29.000Z",
+      "collectedAt": "2026-11-28T01:10:56.433Z",
+      "titleKo": "케타민은 어떻게 작동합니까?",
+      "summaryKo": "케타민은 의학에서 종종 의학의 하나로 사용됩니다…",
+      "translator": "google",
+      "detailKo": "케타민은 의료계에서 가장 안전한 진통제 중 하나로 흔히 사용되지만, 안전 장치가 없으면 매우 위험할 수 있습니다. 그래서, 뭐…",
+      "thumb": "/thumbs/feead91072e8.jpg"
+    },
     {
       "id": "bsky-3n3dg26e6z62m",
       "kind": "news",
@@ -116,7 +221,7 @@
       "summaryKo": "살아있는 인간에게서 채취한 희귀 뉴런이 도움이 되고 있습니다…",
       "translator": "google",
       "detailKo": "살아있는 인간에게서 채취한 희귀 뉴런은 연구자들이 뇌 세포가 자연 환경에서 어떻게 행동하는지 테스트하는 데 도움을 줍니다.",
-      "thumb": "/thumbs/125a8388c465.jpg"
+      "thumb": "/thumbs/125a8388c465.png"
     },
     {
       "id": "bsky-3n3adgfgykh22",
@@ -308,7 +413,7 @@
       "summaryKo": "베르니케 영역은 말을 처리하는 것으로 알려져 있습니다",
       "translator": "google",
       "detailKo": "베르니케의 영역은 말을 처리하는 것으로 알려져 있지만, 뇌 기록에 따르면 이 영역은 관련...",
-      "thumb": "/thumbs/7df86c812435.jpg"
+      "thumb": "/thumbs/7df86c812435.png"
     },
     {
       "id": "74f2770fd892",
@@ -326,7 +431,7 @@
       "summaryKo": "개념 증명 연구에서 과학자들은…",
       "translator": "google",
       "detailKo": "개념 증명 연구에서 과학자들은 화학요법 약물인 파클리탁셀을 합성하기 위해 담배 관련 식물을 유도했습니다.",
-      "thumb": "/thumbs/74f2770fd892.jpg"
+      "thumb": "/thumbs/74f2770fd892.png"
     },
     {
       "id": "9b0b10fc9a63",
@@ -917,7 +1022,7 @@
       "summaryKo": "쥐를 대상으로 테스트한 시스템은 단백질을 모방하여…",
       "translator": "google",
       "detailKo": "쥐를 대상으로 테스트한 시스템은 나이가 들수록 감소하는 단백질을 모방하여 향후 불임 치료를 개선하는 데 도움이 될 수 있습니다.",
-      "thumb": "/thumbs/3e70ca4b66e5.jpg"
+      "thumb": "/thumbs/3e70ca4b66e5.png"
     },
     {
       "id": "7aa80c15c423",
@@ -1803,7 +1908,7 @@
       "summaryKo": "전 세계의 염색체 규모 게놈 서열…",
       "translator": "google",
       "detailKo": "보리 속 Hordeum 전체의 염색체 규모 게놈 서열은 큰 구조적 변이, 고대 유전적 증거의 증거를 나타냅니다.",
-      "thumb": "/thumbs/f109361aa38e.jpg"
+      "thumb": "/thumbs/f109361aa38e.png"
     },
     {
       "id": "af1c3976707f",
@@ -2242,7 +2347,7 @@
       "summaryKo": "다양한 HIV 변종에 대한 강력한 면역 반응…",
       "translator": "google",
       "detailKo": "다양한 HIV 변종에 대한 강력한 면역 반응이 이 분야에 불을 붙였지만 여전히 큰 장애물이 남아 있습니다.",
-      "thumb": "/thumbs/587f8b987bfb.jpg"
+      "thumb": "/thumbs/587f8b987bfb.png"
     },
     {
       "id": "470274b787a3",
@@ -2287,97 +2392,6 @@
       "publishedAt": "2026-11-24T21:33:20.000Z",
       "collectedAt": "2026-11-25T12:09:04.680Z",
       "thumb": "/thumbs/8981ba113d74.png"
-    },
-    {
-      "id": "0221e6df80a3",
-      "kind": "news",
-      "lang": "ko",
-      "title": "전남생명과학고, 호박의 변신…전국 학생4-H 경진대회 은상",
-      "summary": "전남생명과학고등학교(교장 김일식)가 ‘제20회 전국 학생4-H 과제경진대회’ 즐거운 농업생활…",
-      "detail": "전남생명과학고등학교(교장 김일식)가 ‘제20회 전국 학생4-H 과제경진대회’ 즐거운 농업생활 분야에서 은상을 수상하며 2년 연속 전국대회 입상에 성공했다.이번 대회는 전국 시·도를 대표하는 청소년 4-H 회원들이 농업·생태 분야의 과제 활동 성과를…",
-      "link": "https://www.ihopenews.com/news/articleView.html?idxno=258055",
-      "source": "호남교육신문",
-      "image": "http://www.bing.com/th?id=ONUT.PYmBNdAMNzqaxSvaFhOZ_w&pid=News",
-      "category": "대회·행사",
-      "publishedAt": "2026-11-24T18:53:00.000Z",
-      "collectedAt": "2026-11-25T12:09:04.680Z",
-      "thumb": "/thumbs/0221e6df80a3.png"
-    },
-    {
-      "id": "d1449109e74f",
-      "kind": "news",
-      "lang": "ko",
-      "title": "[속보]‘리트 만점자’ 생명과학 과외선생 “죽음이 범죄 도주처 되면 안돼···그래서 경찰 출석”",
-      "summary": "법학적성시험 만점자인 고 이진우씨에게 지난해 대학수학능력시험 직전 과외 수업을 했다고 주장한 A씨가…",
-      "detail": "법학적성시험 만점자인 고 이진우씨에게 지난해 대학수학능력시험 직전 과외 수업을 했다고 주장한 A씨가 25일 경찰에 참고인으로 출석했다. 경찰은 위계에 의한 공무집행방해, 업무방해, 사기 등 혐의로 고발된 이씨 관련 부정행위 의혹을 수사 중이다.…",
-      "link": "https://www.khan.co.kr/article/202611251415001",
-      "source": "경향신문",
-      "category": "교육",
-      "publishedAt": "2026-11-24T16:39:00.000Z",
-      "collectedAt": "2026-11-25T12:09:04.680Z",
-      "thumb": "/thumbs/d1449109e74f.png"
-    },
-    {
-      "id": "18ebc682961a",
-      "kind": "news",
-      "lang": "ko",
-      "title": "장내 미생물 정밀 분석으로 다발성경화증 관련 바이오마커 규명",
-      "summary": "장내 미생물의 구성 비율뿐만 아니라 실제 세균의 수를 정량적으로 분석하는 방법을 통해 다발성경화증의…",
-      "detail": "장내 미생물의 구성 비율뿐만 아니라 실제 세균의 수를 정량적으로 분석하는 방법을 통해 다발성경화증의 발병 및 중증도와 관련된 새로운 바이오마커가 확인됐다.24일(현지시간) 의학 전문매체 메디컬엑스프레스(Medical Xpress)는 벨기에…",
-      "link": "https://www.msn.com/ko-kr/news/other/%EC%9E%A5%EB%82%B4-%EB%AF%B8%EC%83%9D%EB%AC%BC-%EC%A0%95%EB%B0%80-%EB%B6%84%EC%84%9D%EC%9C%BC%EB%A1%9C-%EB%8B%A4%EB%B0%9C%EC%84%B1%EA%B2%BD%ED%99%94%EC%A6%9D-%EA%B4%80%EB%A0%A8-%EB%B0%94%EC%9D%B4%EC%98%A4%EB%A7%88%EC%BB%A4-%EA%B7%9C%EB%AA%85/ar-AA2i9V1v",
-      "source": "알파경제",
-      "image": "http://www.bing.com/th?id=ONUT.xbC0ioZev2bNZvFB_8mkjQ&pid=News",
-      "category": "의학·바이오",
-      "publishedAt": "2026-11-24T15:49:44.000Z",
-      "collectedAt": "2026-11-25T12:09:04.680Z",
-      "thumb": "/thumbs/18ebc682961a.jpg"
-    },
-    {
-      "id": "f870aa5f6010",
-      "kind": "news",
-      "lang": "ko",
-      "title": "암 전이 여부 판별하는 새로운 유전체 분석 지표 개발…맞춤형 치료 정확도 향상 기대",
-      "summary": "동일한 환자에게 발생한 여러 종양이 기존 암의 전이에 따른 것인지 독립적으로 발생한 새로운 원발성…",
-      "detail": "동일한 환자에게 발생한 여러 종양이 기존 암의 전이에 따른 것인지 독립적으로 발생한 새로운 원발성 암인지를 구분할 수 있는 새로운 유전체 분석 지표가 개발됐다.24일(현지시간) 의학 전문매체 메디컬엑스프레스(Medical Xpress)는 미국…",
-      "link": "https://www.msn.com/ko-kr/news/other/%EC%95%94-%EC%A0%84%EC%9D%B4-%EC%97%AC%EB%B6%80-%ED%8C%90%EB%B3%84%ED%95%98%EB%8A%94-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%9C%A0%EC%A0%84%EC%B2%B4-%EB%B6%84%EC%84%9D-%EC%A7%80%ED%91%9C-%EA%B0%9C%EB%B0%9C-%EB%A7%9E%EC%B6%A4%ED%98%95-%EC%B9%98%EB%A3%8C-%EC%A0%95%ED%99%95%EB%8F%84-%ED%96%A5%EC%83%81-%EA%B8%B0%EB%8C%80/ar-AA2i9V37",
-      "source": "메디컬투데이",
-      "image": "http://www.bing.com/th?id=ONUT.dm1jBC0Uvv2uOrKv269ICA&pid=News",
-      "category": "의학·바이오",
-      "publishedAt": "2026-11-24T15:46:22.000Z",
-      "collectedAt": "2026-11-25T12:09:04.680Z",
-      "thumb": "/thumbs/f870aa5f6010.jpg"
-    },
-    {
-      "id": "bsky-3n2oajj4bhs2x",
-      "kind": "news",
-      "lang": "en",
-      "title": "“Nothing is written in stone, and even my own discoveries will eventually be challenged; that’s exactly how science should work.” – quote…",
-      "summary": "from our latest interview with @sgribaldo.bsky.social",
-      "link": "https://bsky.app/profile/currentbiology.bsky.social/post/3n2oajj4bhs2x",
-      "source": "Bluesky Current Biology",
-      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iwhwhmcrfrlmpme5ybe6tdoh/bafkreibkpuvjqdzt6lkkr3bpd6qo4ie7mzlzjtpo5uzsfsxa7jcxn2woua",
-      "likes": "51",
-      "category": "인기",
-      "publishedAt": "2026-11-19T14:05:32.867Z",
-      "collectedAt": "2026-11-25T00:12:47.418Z",
-      "titleKo": "\"아무것도 돌에 새겨져 있지 않으며 심지어 나 자신의 발견도 결국 도전을 받게 될 것입니다. 이것이 바로 과학이 작동하는 방식입니다.\" - 인용하다…",
-      "summaryKo": "@sgribaldo.bsky.social과의 최신 인터뷰에서",
-      "translator": "google",
-      "thumb": "/thumbs/bsky-3n2oajj4bhs2x.png"
-    },
-    {
-      "id": "39990a0c5c66",
-      "kind": "news",
-      "lang": "ko",
-      "title": "2026년 국립생물자원관 SNS 만족도 조사 이벤트(~ 11/29)",
-      "summary": "안녕하세요, 국립생물자원관입니다",
-      "detail": "안녕하세요, 국립생물자원관입니다. 국립생물자원관은 공식 SNS 채널을 통해 기관의 다양한 소식과 생물다양성 정보를 전하고 있습니다. 앞으로 더욱 유익하고 흥미로운 콘텐츠로 여러분과 소통하기 위해 '국립생물자원관 SNS 채널 만족도 조사'를…",
-      "link": "https://blog.naver.com/nibr_bio/224479379662?fromRss=true&trackingCode=rss",
-      "source": "네이버 블로그 국립생물자원관",
-      "category": "인기",
-      "publishedAt": "2026-11-16T08:35:30.000Z",
-      "collectedAt": "2026-11-25T00:12:47.418Z",
-      "thumb": "/thumbs/39990a0c5c66.png"
     }
   ]
 }

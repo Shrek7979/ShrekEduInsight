@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-11-27T13:12:04.245Z",
+  "updatedAt": "2026-11-28T01:13:41.149Z",
   "items": [
+    {
+      "id": "fb-a67843bec38b",
+      "kind": "news",
+      "lang": "en",
+      "title": "Clint Allen Reyes sees science as a way to make a difference.",
+      "summary": "From guiding students to tackling complex challenges,…",
+      "link": "https://www.facebook.com/AmericanChemicalSociety/posts/pfbid0KFU9DvtL6zeh5C6WJBYGaPQebKJ3NVGLTVtjSyWmeRL6qA8gDWwkvSf8UvgE78qWl",
+      "source": "Facebook American Chemical Society",
+      "category": "인기",
+      "publishedAt": "2026-11-27T15:12:59.196Z",
+      "thumb": "/social/fb/fb-a67843bec38b.jpg",
+      "refs": [],
+      "collectedAt": "2026-11-28T01:13:41.149Z",
+      "titleKo": "Clint Allen Reyes는 과학을 변화를 만드는 방법으로 봅니다.",
+      "summaryKo": "학생들을 지도하는 것부터 복잡한 문제를 해결하는 것까지…",
+      "translator": "google"
+    },
     {
       "id": "fb-9c9057db750c",
       "kind": "video",
