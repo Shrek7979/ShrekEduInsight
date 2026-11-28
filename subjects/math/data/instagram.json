@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T01:00:29.986Z",
+  "updatedAt": "2026-11-28T13:00:19.501Z",
   "items": [
     {
       "id": "ig-De67cbqsTlu",
@@ -62,7 +62,7 @@
       "source": "Instagram @quantamag",
       "category": "문제·증명",
       "publishedAt": "2026-11-19T15:00:00.000Z",
-      "likes": "2,733",
+      "likes": "2,737",
       "thumb": "/social/ig/Df-fiuRFiUl.jpg",
       "collectedAt": "2026-11-21T01:00:05.641Z",
       "titleKo": "11월 20일 금요일 오전, 인공지능 회사 Anthropic의 수학자 Levent Alpöge는 다음과 같은 글을 올렸습니다.",
@@ -692,6 +692,22 @@
       "translator": "google"
     },
     {
+      "id": "ig-DgRFKvPKdow",
+      "kind": "news",
+      "lang": "en",
+      "title": "Two friends are wandering New York City, each letting a coin flip decide where to go next.",
+      "summary": "What are the chances their paths will cross?",
+      "link": "https://www.instagram.com/momath1/p/DgRFKvPKdow/",
+      "source": "Instagram @momath1",
+      "category": "인기",
+      "publishedAt": "2026-11-26T15:00:00.000Z",
+      "likes": "2",
+      "thumb": "/social/ig/DgRFKvPKdow.jpg",
+      "titleKo": "두 친구가 뉴욕 시를 떠돌며 각자 동전 던지기로 다음에 어디로 갈지 결정하게 됩니다.",
+      "summaryKo": "그들의 길이 교차할 가능성은 얼마나 됩니까?",
+      "translator": "google"
+    },
+    {
       "id": "ig-DgLsDZ5Kljj",
       "kind": "news",
       "lang": "en",
@@ -742,19 +758,19 @@
       "translator": "google"
     },
     {
-      "id": "ig-Df8sTunq71s",
-      "kind": "video",
+      "id": "ig-DgSNH6iFGHn",
+      "kind": "news",
       "lang": "en",
-      "title": "How does M.C. Escher make an impossible world look so convincing?",
-      "summary": "This Thanksgiving weekend, join MoMath fan favorite…",
-      "link": "https://www.instagram.com/momath1/reel/Df8sTunq71s/",
-      "source": "Instagram @momath1",
+      "title": "We are just 48 hours away from AMS Day!",
+      "summary": "Celebrate what brings us together: a love of…",
+      "link": "https://www.instagram.com/amermathsoc/p/DgSNH6iFGHn/",
+      "source": "Instagram @amermathsoc",
       "category": "인기",
-      "publishedAt": "2026-11-18T15:00:00.000Z",
-      "likes": "11",
-      "thumb": "/social/ig/Df8sTunq71s.jpg",
-      "titleKo": "M.C.는 어떻게 되나요? Escher가 불가능한 세상을 그렇게 설득력 있게 보이도록 만들었나요?",
-      "summaryKo": "이번 추수감사절 주말에 팬이 가장 좋아하는 MoMath에 참여하세요…",
+      "publishedAt": "2026-11-27T15:00:00.000Z",
+      "likes": "5",
+      "thumb": "/social/ig/DgSNH6iFGHn.jpg",
+      "titleKo": "AMS Day가 48시간 앞으로 다가왔습니다!",
+      "summaryKo": "우리를 하나로 묶는 것을 축하하십시오: 사랑…",
       "translator": "google"
     },
     {
@@ -837,22 +853,6 @@
       "collectedAt": "2026-11-26T00:00:21.949Z",
       "titleKo": "수학 커뮤니티를 하나로 모으는 것만큼 좋은 것은 없습니다!",
       "summaryKo": "💙 의미 있는 대화와 새로운 인연부터…",
-      "translator": "google"
-    },
-    {
-      "id": "ig-DgASdiMFxyf",
-      "kind": "news",
-      "lang": "en",
-      "title": "What is a Foliation?",
-      "summary": "A foliation is a way of cutting a smooth geometric…",
-      "link": "https://www.instagram.com/amermathsoc/p/DgASdiMFxyf/",
-      "source": "Instagram @amermathsoc",
-      "category": "인기",
-      "publishedAt": "2026-11-20T15:00:00.000Z",
-      "likes": "0",
-      "thumb": "/social/ig/DgASdiMFxyf.jpg",
-      "titleKo": "단풍이란 무엇입니까?",
-      "summaryKo": "폴리에이션(foliation)은 매끄러운 기하학적 형태를 자르는 방법입니다…",
       "translator": "google"
     },
     {
@@ -998,7 +998,7 @@
       "source": "Instagram @quantamag",
       "category": "문제·증명",
       "publishedAt": "2026-11-19T15:00:00.000Z",
-      "likes": "2,733",
+      "likes": "2,737",
       "thumb": "/social/ig/Df-fiuRFiUl.jpg",
       "collectedAt": "2026-11-21T01:00:05.641Z",
       "titleKo": "11월 20일 금요일 오전, 인공지능 회사 Anthropic의 수학자 Levent Alpöge는 다음과 같은 글을 올렸습니다.",

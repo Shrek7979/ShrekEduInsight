@@ -1,6 +1,43 @@
 {
-  "updatedAt": "2026-11-28T01:10:56.493Z",
+  "updatedAt": "2026-11-28T13:08:18.545Z",
   "items": [
+    {
+      "id": "be6c4dd7152a",
+      "kind": "video",
+      "lang": "ko",
+      "title": "물질 간 상호작용 규칙은 리만 제타함수로 코딩되어 있는 것처럼 보인다",
+      "summary": "",
+      "detail": "",
+      "link": "https://www.youtube.com/shorts/Fv_mGVsqzCk",
+      "source": "지식보관소",
+      "image": "https://i3.ytimg.com/vi/Fv_mGVsqzCk/hqdefault.jpg",
+      "views": 359300,
+      "category": "인기",
+      "publishedAt": "2026-11-08T11:54:42.000Z",
+      "collectedAt": "2026-11-28T13:08:18.545Z",
+      "summaryKo": "",
+      "thumb": "/thumbs/be6c4dd7152a.jpg"
+    },
+    {
+      "id": "36beb4c26ba7",
+      "kind": "video",
+      "lang": "en",
+      "title": "Why do deserts get cold at night?",
+      "summary": "The desert ground is blistering hot in the day but just…",
+      "detail": "The desert ground is blistering hot in the day but just a few hours after nightfall, it's freezing.",
+      "link": "https://www.youtube.com/shorts/rL0qEmTRI-I",
+      "source": "Veritasium",
+      "image": "https://i3.ytimg.com/vi/rL0qEmTRI-I/hqdefault.jpg",
+      "views": 2052509,
+      "category": "인기",
+      "publishedAt": "2026-11-06T14:00:17.000Z",
+      "collectedAt": "2026-11-28T13:08:18.545Z",
+      "titleKo": "사막은 왜 밤에 추워지는 걸까요?",
+      "summaryKo": "사막지대는 낮에는 덥지만…",
+      "translator": "google",
+      "detailKo": "사막 땅은 낮에는 덥지만 해가 진 지 몇 시간만 지나도 얼어붙습니다.",
+      "thumb": "/thumbs/36beb4c26ba7.jpg"
+    },
     {
       "id": "9fe029ece5c1",
       "kind": "news",
@@ -2437,36 +2474,6 @@
       "publishedAt": "2026-11-22T19:10:00.000Z",
       "collectedAt": "2026-11-23T11:09:11.936Z",
       "thumb": "/thumbs/d94f8afd0843.jpg"
-    },
-    {
-      "id": "f0da7cfd7858",
-      "kind": "news",
-      "lang": "ko",
-      "title": "\"AI가 양자SW 설계\"…앤트로픽, SW 최적화로 효율 12배 '쑥'",
-      "summary": "양자컴퓨터 시장이 빅테크의 새로운 격전지로 떠오르고 있다",
-      "detail": "양자컴퓨터 시장이 빅테크의 새로운 격전지로 떠오르고 있다. 핵심 전장은 양자 소프트웨어. 양자컴퓨터가 상용화된 후에는 양자와 인공지능(AI)을 결합하는 등 양자 소프트웨어에서 AI 경쟁력이 판가름 날 것이라고 보기 때문이다. 양자 소프트웨어는…",
-      "link": "https://www.mk.co.kr/news/it/12216269",
-      "source": "매일경제",
-      "image": "http://www.bing.com/th?id=ONUT.Qmfonz6-jSTUXIIQ5HQpXg&pid=News",
-      "category": "양자·첨단",
-      "publishedAt": "2026-11-22T18:39:00.000Z",
-      "collectedAt": "2026-11-23T11:09:11.936Z",
-      "thumb": "/thumbs/f0da7cfd7858.jpg"
-    },
-    {
-      "id": "a70bd5c6a605",
-      "kind": "news",
-      "lang": "ko",
-      "title": "‘물리학자가 생각하는 AI 교육’ 특강 개최",
-      "summary": "대전 동구가 25일 오후 2시 구청 12층 대강당에서 김상욱 경희대학교 교수를 초청해 ‘물리학자가…",
-      "detail": "대전 동구가 25일 오후 2시 구청 12층 대강당에서 김상욱 경희대학교 교수를 초청해 ‘물리학자가 생각하는 AI 교육’을 주제로 명사 특강을 개최한다. 강연은 ‘2026 동구 평생학숲 명사 특강’의 일환으로 인공지능(AI) 기술의 발전에 따른…",
-      "link": "https://www.ggilbo.com/news/articleView.html?idxno=1194958",
-      "source": "금강일보",
-      "image": "http://www.bing.com/th?id=ONUT.rCs8af49UfCrB5ecDR49xA&pid=News",
-      "category": "교육",
-      "publishedAt": "2026-11-22T18:20:00.000Z",
-      "collectedAt": "2026-11-23T11:09:11.936Z",
-      "thumb": "/thumbs/a70bd5c6a605.jpg"
     }
   ]
 }
