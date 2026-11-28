@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T00:05:27.896Z",
+  "updatedAt": "2026-11-28T01:05:00.968Z",
   "items": [
     {
       "id": "ig-Dej6hPNCF3V",
@@ -276,6 +276,22 @@
       "collectedAt": "2026-11-19T00:05:02.328Z"
     },
     {
+      "id": "ig-DgP9TXjHa6K",
+      "kind": "news",
+      "lang": "en",
+      "title": "Clint Allen Reyes sees science as a way to make a difference.",
+      "summary": "From guiding students to tackling complex challenges,…",
+      "link": "https://www.instagram.com/amerchemsociety/p/DgP9TXjHa6K/",
+      "source": "Instagram @amerchemsociety",
+      "category": "인기",
+      "publishedAt": "2026-11-26T15:00:00.000Z",
+      "likes": "32",
+      "thumb": "/social/ig/DgP9TXjHa6K.jpg",
+      "titleKo": "Clint Allen Reyes는 과학을 변화를 만드는 방법으로 봅니다.",
+      "summaryKo": "학생들을 지도하는 것부터 복잡한 문제를 해결하는 것까지…",
+      "translator": "google"
+    },
+    {
       "id": "ig-DgKeJ6chR7f",
       "kind": "video",
       "lang": "en",
@@ -390,19 +406,19 @@
       "translator": "google"
     },
     {
-      "id": "ig-Dfz2oTEI01X",
+      "id": "ig-DgQKr4pFAoB",
       "kind": "video",
       "lang": "en",
-      "title": "Storytelling.",
-      "summary": "Listening",
-      "link": "https://www.instagram.com/amerchemsociety/reel/Dfz2oTEI01X/",
-      "source": "Instagram @amerchemsociety",
+      "title": "I am tired of paying for bouncy balls.",
+      "summary": "",
+      "link": "https://www.instagram.com/nile.red/reel/DgQKr4pFAoB/",
+      "source": "Instagram @nile.red",
       "category": "인기",
-      "publishedAt": "2026-11-15T15:00:00.000Z",
-      "likes": "32",
-      "thumb": "/social/ig/Dfz2oTEI01X.jpg",
-      "titleKo": "스토리텔링.",
-      "summaryKo": "청취",
+      "publishedAt": "2026-11-26T15:00:00.000Z",
+      "likes": "3,850",
+      "thumb": "/social/ig/DgQKr4pFAoB.jpg",
+      "titleKo": "나는 탄력있는 공에 돈을 지불하는 데 지쳤습니다.",
+      "summaryKo": "",
       "translator": "google"
     },
     {
